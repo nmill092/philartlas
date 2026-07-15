@@ -1,4 +1,29 @@
-import type { Head, Link } from "./art";
+// these types describe the responses from /art.json and /art/:id.json 
+
+export interface Link {
+  rel: 'self' | 'parent',
+  href: string; 
+}
+
+export interface Head {
+  title: string, 
+  type: 'art' | 'listnav'
+}
+
+export interface TopLevelArtEntry {
+  name: string, 
+  links: Link[]
+}
+
+export interface TopLevelBody {
+  list: TopLevelArtEntry[] 
+}
+
+export interface TopLevelArtResponse {
+  links: Link[],
+  head: Head, 
+  body: TopLevelBody
+}
 
 export interface ExternalLink {
   url: string,
@@ -132,23 +157,4 @@ export interface ArtIdResponse {
   links: Link[], 
   head: Head, 
   body: ArtBody
-}
-
-export interface FinalArtBody {
-  id: string, 
-  title: ArtBody['title'];
-  artists?: Omit<Artist, 'links'>[];
-  years?: Omit<Year, 'links'>[];
-  yearmodifier?: string;
-  location: Location;
-  comments?: string;
-  inscription?: string;
-  architecture?: Omit<Architecture, 'links'>;
-  content: Omit<Content, 'links'>[];
-  landmark?: Omit<Landmark, 'links'>;
-  peopleprefix?: string;
-  people?: Omit<Person, 'links'>[];
-  externallinks?: ExternalLink[];
-  pictures: Picture[];
-  tours?: Omit<Tour, 'links'>[];
 }

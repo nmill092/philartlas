@@ -15,6 +15,7 @@
     "astro": "^7.0.9"
   },
   "devDependencies": {
+    "@types/geojson": "^7946.0.16",
     "@types/node": "^26.1.1"
   }
 }
