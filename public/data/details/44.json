@@ -1,0 +1,79 @@
+{
+  "id": "44",
+  "title": {
+    "display": "Bishop Matthew Simpson",
+    "list": "Bishop Matthew Simpson"
+  },
+  "artists": [
+    {
+      "name": "Clark Mills",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Clark_Mills_(sculptor)",
+          "label": "wikipedia.org's Clark Mills page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1896"
+    }
+  ],
+  "yearmodifier": "posthumously cast, installed 1902, designed 1882 or earlier",
+  "location": {
+    "latitude": "39.994750",
+    "longitude": "-75.217825",
+    "description": "Belmont and Edgely"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Matthew Simpson",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Matthew_Simpson",
+          "label": "wikipedia.org's Matthew Simpson page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.simpsonsenior.org/simpson-house-is-rich-in-history/",
+      "label": "simpsonsenior.org's history page with a paragraph about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/simpson.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/simpson.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/simpson2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/simpson2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

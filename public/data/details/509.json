@@ -1,0 +1,159 @@
+{
+  "id": "509",
+  "title": {
+    "display": "Art, Science, Industry, Commerce, Agriculture, Mining, and Columbia",
+    "list": "Art, Science, Industry, Commerce, Agriculture, Mining, and Columbia"
+  },
+  "artists": [
+    {
+      "name": "Augustus Max Johannes Mueller"
+    }
+  ],
+  "years": [
+    {
+      "year": "1876"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.979500",
+    "longitude": "-75.209000",
+    "description": "Avenue of the Republc between 41st and Belmont"
+  },
+  "architecture": {
+    "description": "On the roof"
+  },
+  "content": [
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "sitting people",
+      "separator": ","
+    },
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "anchor",
+      "separator": ","
+    },
+    {
+      "description": "column",
+      "separator": ","
+    },
+    {
+      "description": "globe",
+      "separator": ","
+    },
+    {
+      "description": "books and tablet",
+      "separator": ","
+    },
+    {
+      "description": "tools and machine parts",
+      "separator": ","
+    },
+    {
+      "description": "symbols of peace and victory"
+    }
+  ],
+  "landmark": {
+    "name": "Please Touch Museum (Memorial Hall)",
+    "externallinks": [
+      {
+        "url": "https://www.pleasetouchmuseum.org/",
+        "label": "pleasetouchmuseum.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/20390",
+      "label": "philadelphiabuildings.org's entry for the building"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/42867817",
+      "label": "Max Buten's picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/memhallroof1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/memhallroof1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/memhallroof2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/memhallroof2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/memhallroof3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/memhallroof3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/memhallroof4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/memhallroof4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/memhallroof5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/memhallroof5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/memhallroof6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/memhallroof6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/memhallroof7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/memhallroof7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

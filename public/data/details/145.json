@@ -1,0 +1,105 @@
+{
+  "id": "145",
+  "title": {
+    "display": "Fountain of the Sea Horses",
+    "list": "Fountain of the Sea Horses"
+  },
+  "artists": [
+    {
+      "name": "Vincenzo Pacetti",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vincenzo_Pacetti",
+          "label": "wikipedia.org's Vincenzo Pacetti page"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Unterberger",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Christopher_Unterberger",
+          "label": "wikipedia.orgs Christopher Unterberger page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1791"
+    }
+  ],
+  "yearmodifier": "original, 1926 replica",
+  "location": {
+    "latitude": "39.967555",
+    "longitude": "-75.183650",
+    "description": "River side of Kelly Drive, at the bottom of the ramp at the back of the museum"
+  },
+  "comments": "I am using the date from the Italian tourism page as it is more precise and consistent with the dates of the artists.",
+  "content": [
+    {
+      "description": "fountain",
+      "separator": ","
+    },
+    {
+      "description": "horses"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/fountain-of-the-sea-horses/",
+      "label": "associationforpublicart.org's page for this piece"
+    },
+    {
+      "url": "https://www.turismoroma.it/en/places/fontana-dei-cavalli-marini-villa-borghese-fountain-sea-horses",
+      "label": "turismoroma.it's page for the original"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/seahors.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/seahors.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/seahors2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/seahors2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/seahors3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/seahors3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/seahors4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/seahors4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

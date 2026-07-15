@@ -1,0 +1,88 @@
+{
+  "id": "594",
+  "title": {
+    "display": "Horse Team and Pumper Making A Run",
+    "list": "Horse Team and Pumper Making A Run"
+  },
+  "artists": [
+    {
+      "name": "Harold Kimmelman",
+      "externallinks": [
+        {
+          "url": "http://www.hksculpt.com/",
+          "label": "hksculpt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1978"
+    }
+  ],
+  "location": {
+    "latitude": "39.987575",
+    "longitude": "-75.135825",
+    "description": "West side of 2nd, North of York"
+  },
+  "architecture": {
+    "description": "Front wall"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "partial person",
+      "separator": ","
+    },
+    {
+      "description": "hat and helmet",
+      "separator": ","
+    },
+    {
+      "description": "fire-fighting equipment",
+      "separator": ","
+    },
+    {
+      "description": "horses"
+    }
+  ],
+  "landmark": {
+    "name": "Engine Company 2",
+    "externallinks": [
+      {
+        "url": "https://www.firemanshallmuseum.org/engine-2/",
+        "label": "firemanshallmuseum.org's Engine 2 page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/firehorseteam.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/firehorseteam.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/firehorseteam2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/firehorseteam2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

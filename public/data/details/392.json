@@ -1,0 +1,115 @@
+{
+  "id": "392",
+  "title": {
+    "display": "Tomb of the Unknown Soldier",
+    "list": "Tomb of the Unknown Soldier"
+  },
+  "artists": [
+    {
+      "name": "George Edwin Brumbaugh (Architect)",
+      "externallinks": [
+        {
+          "url": "  https://www.findagrave.com/memorial/173772967/george-edwin-brumbaugh",
+          "label": "findagrave.com's George Edwin Brumbaugh page"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Antoine Houdon",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean-Antoine_Houdon",
+          "label": "wikipedia.org's Jean-Antoine Houdon page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1957"
+    }
+  ],
+  "yearmodifier": "original marble statue 1792",
+  "location": {
+    "latitude": "39.947100",
+    "longitude": "-75.152750",
+    "description": "South of 7th and Walnut"
+  },
+  "comments": "The statue of Washington is copied from the original marble by Houdon in the state capitol at Richmond by special permission of the General Assembly of Virginia. An eternal flame in front of the tomb, and the flags of the 13 original colonies fly along the walk leading up to it. ",
+  "inscription": "<br />wall:<br />  Freedom is a light for which many men have died in darkness.  <br />  In unmarked graves within this square lie thousands of unknown  soldiers of Washington's army who died of wounds and sickness during  the revolutionary war.<br />  <i>The independence and liberty you possess are the work of joint  councils and joint efforts of common dangers, sufferings, and  success.</i><br />- Washington's farewell address, Sept. 17, 1796.  <br />  statue:<br />  In memory of John Mclheiny  <br />  tomb:<br />  Under this stone rests a soldier of Washington's Army who died to give you liberty  <br />  plaque:<br />  The eternal flame dedicated in 1976 by Continental Bank in memory of those who fought and gave their lives that we might celebrate our 200th anniversary as a free people.",
+  "architecture": {
+    "description": "Tomb"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "cane"
+    }
+  ],
+  "landmark": {
+    "name": "Washington Square",
+    "prefix": "West side of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Washington_Square_(Philadelphia)",
+        "label": "wikipedia.org's Washington Square page"
+      },
+      {
+        "url": "https://www.nps.gov/parkhistory/online_books/inde/washington_square_clr.pdf",
+        "label": "nps.gov's Cultural Landscape Report for Washington Square (449 page pdf)"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "George Washington",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Washington",
+          "label": "wikipedia.org's George Washington page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Revolutionary_War_Soldier",
+      "label": "wikipedia.org's page for this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/george-washington/",
+      "label": "associationforpublicart.org's page for the statue"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tomb.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tomb.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tomb2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tomb2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

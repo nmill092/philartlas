@@ -1,0 +1,121 @@
+{
+  "id": "516",
+  "title": {
+    "display": "Cresheim Valley Pergola",
+    "list": "Cresheim Valley Pergola"
+  },
+  "years": [
+    {
+      "year": "1909"
+    }
+  ],
+  "yearmodifier": "restored 2005",
+  "location": {
+    "latitude": "40.066450",
+    "longitude": "-75.196500",
+    "description": "Southwest corner Germantown and Cresheim Valley"
+  },
+  "comments": "The reliefs pictured here can be seen on the floor of the pergola in the first picture in front of the benches",
+  "inscription": "<br />marble plaque (badly faded):  <br />This valley was named Krisheim  by the Germans of the Rhine  who bought the land from William Penn in 1687 and called it after their native village  <br />Germantown Road follows the old Indian trail  <br />The battle of Germantown   began a little South of this green  October 4, 1777  <br />metal plaque:  <br />February 23, 2005  <br />This pergola and water trough have been refurbished by  <br />The Chestnut Hill Rotary Club  to honor 100 years of service by Rotary Clubs  <br />in this country and in the world.  <br />This renewed monument marks  an entrance to Fairmount Park  as it did when it was  originally dedicated in 1909.  <br />This pergola, the bridge and the Cresheim Trail  serve as a symbol of the partnership  between the communites of Chestnut Hill and Mount Airy",
+  "architecture": {
+    "description": "Pergola"
+  },
+  "content": [
+    {
+      "description": "turtle",
+      "separator": ","
+    },
+    {
+      "description": "fish",
+      "separator": ","
+    },
+    {
+      "description": "two coats of arms",
+      "separator": ","
+    },
+    {
+      "description": "mill with waterwheel",
+      "separator": ","
+    },
+    {
+      "description": "water",
+      "separator": ","
+    },
+    {
+      "description": "trees"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://fow.org/virtual-valley/trails-to-the-past/cresheim-pergola/",
+      "label": "fow.org article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cresheim1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cresheim1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cresheim2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cresheim2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cresheim3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cresheim3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cresheim4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cresheim4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cresheim5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cresheim5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cresheim6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cresheim6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

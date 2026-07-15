@@ -1,0 +1,76 @@
+{
+  "id": "599",
+  "title": {
+    "display": "McVeigh Children's Relief",
+    "list": "McVeigh Children's Relief"
+  },
+  "artists": [
+    {
+      "name": "Anthony Visco",
+      "externallinks": [
+        {
+          "url": "https://woodmereartmuseum.org/explore-online/collection/artist/visco-anthony",
+          "label": "woodmereartmuseum.org's Anthony Visco page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1981"
+    }
+  ],
+  "location": {
+    "latitude": "40.000610",
+    "longitude": "-75.121435",
+    "description": "South side of Ontario West of D"
+  },
+  "comments": "Access is through the gate on D.  The picture of the West side of the piece   (the side with the swings, which is in much worse physical condition than the East side)  has been heavily retouched to remove scribbled names.",
+  "content": [
+    {
+      "description": "groups of children"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "sticks, balls, and swings"
+    }
+  ],
+  "landmark": {
+    "name": "McVeigh Recreation Center",
+    "prefix": "On the grounds of the"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mcveigh1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mcveigh1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mcveigh2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mcveigh2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

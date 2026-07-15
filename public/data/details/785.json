@@ -1,0 +1,104 @@
+{
+  "id": "785",
+  "title": {
+    "display": "Finding Home",
+    "list": "Finding Home"
+  },
+  "artists": [
+    {
+      "name": "Kathryn Pannepacker",
+      "externallinks": [
+        {
+          "url": "https://publicartarchive.org/artist/Kathryn%20Pannepacker",
+          "label": "publicartarchive.org's Kathryn Pannepacker page"
+        }
+      ]
+    },
+    {
+      "name": "Josh Sarantitis",
+      "externallinks": [
+        {
+          "url": "https://www.joshsarantitis.com/",
+          "label": "joshsarantitis.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2011"
+    }
+  ],
+  "location": {
+    "latitude": "39.951450",
+    "longitude": "-75.161275",
+    "description": "East side of 13th between Chestnut and Market"
+  },
+  "inscription": "in visible dignity",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "idea",
+      "separator": ","
+    },
+    {
+      "description": "hands and partial"
+    },
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "loom",
+      "separator": ","
+    },
+    {
+      "description": "headgear"
+    }
+  ],
+  "landmark": {
+    "name": "St. John the Evangelist Catholic Church",
+    "prefix": "North side of Ludlow across from",
+    "externallinks": [
+      {
+        "url": "https://stjohnsphilly.org/",
+        "label": "stjohnsphilly.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://publicartarchive.org/art/Finding-Home/01b08cfd",
+      "label": "publicartarchive.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/findinghome1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/findinghome1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/findinghome2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/findinghome2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "1238",
+  "title": {
+    "display": "Chestnut Street Bus Shelter Panel (12th)",
+    "list": "Chestnut Street Bus Shelter Panel (12th)"
+  },
+  "artists": [
+    {
+      "name": "Pablo Tauler",
+      "externallinks": [
+        {
+          "url": "https://pablotaulerpublicartwork.blogspot.com//",
+          "label": "pablotaulerpublicartwork.blogspot.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2019"
+    }
+  ],
+  "yearmodifier": "announced",
+  "location": {
+    "latitude": "39.950385",
+    "longitude": "-75.160430",
+    "description": "Southwest corner, 12th and Chestnut"
+  },
+  "comments": "moved from the East side of the shelter to the South side.  The second picture is from the original configuration.",
+  "architecture": {
+    "description": "Bus shelter"
+  },
+  "content": [
+    {
+      "description": "abstract design"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chtransb12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chtransb12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chtrans12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chtrans12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

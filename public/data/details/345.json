@@ -1,0 +1,69 @@
+{
+  "id": "345",
+  "title": {
+    "display": "Shongun XXII",
+    "list": "Shongun XXII"
+  },
+  "artists": [
+    {
+      "name": "Ernest Shaw",
+      "externallinks": [
+        {
+          "url": "https://www.groundsforsculpture.org/Artist/Ernest-Shaw",
+          "label": "groundsforsculpture.org's Ernest Shaw page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/Ernest%20Shaw",
+          "label": "publicartarchive.org's Ernest Shaw page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1978"
+    }
+  ],
+  "location": {
+    "latitude": "39.952175",
+    "longitude": "-75.203150",
+    "description": "West side of 40th, North of Spruce"
+  },
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Dental School",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/University_of_Pennsylvania_School_of_Dental_Medicine",
+        "label": "wikipedia.org's University of Pennsylvania School of Dental Medicine page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/shongun-xxii",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/shongun.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/shongun.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "University City South Medical Complex"
+    }
+  ]
+}

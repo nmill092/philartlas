@@ -1,0 +1,66 @@
+{
+  "id": "1130",
+  "title": {
+    "display": "Koi",
+    "list": "Koi"
+  },
+  "artists": [
+    {
+      "name": "Juliet Whelan",
+      "externallinks": [
+        {
+          "url": "https://www.jibedesign.net/",
+          "label": "jibedesign.net"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "location": {
+    "latitude": "39.953815",
+    "longitude": "-75.174220",
+    "description": "South side of Market between 20th and 21st"
+  },
+  "architecture": {
+    "description": "Bike rack"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "fish"
+    }
+  ],
+  "landmark": {
+    "name": "Commerce Square",
+    "prefix": "In front of"
+  },
+  "externallinks": [
+    {
+      "url": "https://www.jibedesign.net/work#/installations/",
+      "label": "artist's installation page, which starts with this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/koi.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/koi.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "16",
+  "title": {
+    "display": "Batter",
+    "list": "Batter"
+  },
+  "artists": [
+    {
+      "name": "Joe Brown",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Brown_%28sculptor%29",
+          "label": "wikipedia.org Joe Brown page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.907350",
+    "longitude": "-75.169800",
+    "description": "North side of the parking lot North of Pattison and East of Broad"
+  },
+  "comments": "Originally on the walkway around Veterans Stadium until it was torn down in 2004. The last picture is from the original location.  The inscription on the attached plaque is related to the history of the original location and not to the subject of the sculpture.",
+  "inscription": "Veterans Stadium hosted many concerts including Bruce Springsteen, Genesis, Madonna, David Bowie, Pink Floyd, The Who, Rolling Stones, Paul McCartney, U-2, Billy Joel, Elton John, Dave Matthews and N'Sync. Other events included religious conventions, pro wrestling, Hero Scholarship Thrill Show, truck/tractor pull and closed circuit championship boxing.",
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "wearing a helmet",
+      "separator": ","
+    },
+    {
+      "description": "baseball bat"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swing2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swing2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swing3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swing3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swing4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swing4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swing.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swing.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

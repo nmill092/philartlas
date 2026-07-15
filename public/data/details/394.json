@@ -1,0 +1,160 @@
+{
+  "id": "394",
+  "title": {
+    "display": "United States Custom House",
+    "list": "United States Custom House"
+  },
+  "artists": [
+    {
+      "name": "Ritter and Shay (Architects)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/26271",
+          "label": "philadelphiabuildings.org's Ritter and Shay page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1932"
+    }
+  ],
+  "location": {
+    "latitude": "39.948300",
+    "longitude": "-75.144185",
+    "description": "South side of Chestnut, West of 2nd"
+  },
+  "architecture": {
+    "description": "Whole building"
+  },
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "sitting and kneeling",
+      "separator": ","
+    },
+    {
+      "description": "face",
+      "separator": ","
+    },
+    {
+      "description": "farming, navigation, and artist tools",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "rope",
+      "separator": ","
+    },
+    {
+      "description": "ox and bison",
+      "separator": ","
+    },
+    {
+      "description": "staff",
+      "separator": ","
+    },
+    {
+      "description": "food",
+      "separator": ","
+    },
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "globe",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "dolphin border"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=567AD052-D9A8-4088-AC16B7DF21E34B5F",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2chest.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2chest.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2chest2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2chest2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2chest3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2chest3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2chest4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2chest4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2chest5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2chest5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2chest6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2chest6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

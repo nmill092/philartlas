@@ -1,0 +1,73 @@
+{
+  "id": "518",
+  "title": {
+    "display": "Mt. Airy Learning Tree Mosaic",
+    "list": "Mt. Airy Learning Tree Mosaic"
+  },
+  "artists": [
+    {
+      "name": "Jessica Gorlin-Liddell",
+      "externallinks": [
+        {
+          "url": "https://www.bellamosaic.com/",
+          "label": "bellamosaic.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "location": {
+    "latitude": "40.056950",
+    "longitude": "-75.187850",
+    "description": "Southeast corner, Germantown and Sedgwick"
+  },
+  "inscription": "Everything you need to know you can learn under this tree",
+  "architecture": {
+    "description": "North wall"
+  },
+  "content": [
+    {
+      "description": "tree",
+      "separator": ","
+    },
+    {
+      "description": "names and words"
+    }
+  ],
+  "landmark": {
+    "name": "Lovett Memorial Library",
+    "externallinks": [
+      {
+        "url": "https://libwww.freelibrary.org/locations/lovett-memorial-library",
+        "label": "freelibrary.org's Lovett Memorial Library page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.bellamosaic.com/commissions?lightbox=dataItem-l4beaik11",
+      "label": "artist's picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/maltmosaic.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/maltmosaic.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

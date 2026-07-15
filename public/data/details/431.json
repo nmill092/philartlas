@@ -1,0 +1,79 @@
+{
+  "id": "431",
+  "title": {
+    "display": "White Water",
+    "list": "White Water"
+  },
+  "artists": [
+    {
+      "name": "Robinson Fredenthal",
+      "externallinks": [
+        {
+          "url": "http://www.robinfredenthal.com",
+          "label": "robinfredenthal.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1978"
+    }
+  ],
+  "location": {
+    "latitude": "40.082400",
+    "longitude": "-75.219950",
+    "description": "Corner of Germantown Avenue and Bells Mill Road"
+  },
+  "comments": "Was on the East Side of 5th Street, North of Market, along the walkway between 4th and 5th.  Moved March, 2019.  The picture is from the original location.",
+  "content": [
+    {
+      "description": "geometric forms"
+    }
+  ],
+  "landmark": {
+    "name": "Woodmere Art Museum",
+    "prefix": "Grounds of",
+    "externallinks": [
+      {
+        "url": "https://woodmereartmuseum.org/",
+        "label": "woodmereartmuseum.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/99812716",
+      "label": "Max Buten's first picture of this piece"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/99921581",
+      "label": "Max Buten's second picture of this piece"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/100010937",
+      "label": "Max Buten's third picture of this piece"
+    },
+    {
+      "url": "https://woodmereartmuseum.org/explore-online/collection/white-water",
+      "label": "Woodmere's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/whitewa.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/whitewa.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

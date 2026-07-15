@@ -1,0 +1,89 @@
+{
+  "id": "230",
+  "title": {
+    "display": "Lion Crushing a Serpent",
+    "list": "Lion Crushing a Serpent"
+  },
+  "artists": [
+    {
+      "name": "Antione Louis Barye",
+      "externallinks": [
+        {
+          "url": "https://www.bronze-gallery.com/sculptors/artist.cfm?sculptorID=4",
+          "label": "bronze-gallery.com's Antione Louis Barye page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1832"
+    }
+  ],
+  "yearmodifier": "cast 1891",
+  "location": {
+    "latitude": "39.949650",
+    "longitude": "-75.172050",
+    "description": "Southeast of 19th and Walnut"
+  },
+  "content": [
+    {
+      "description": "lion",
+      "separator": ","
+    },
+    {
+      "description": "serpent"
+    }
+  ],
+  "landmark": {
+    "name": "Rittenhouse Square",
+    "prefix": "Center of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rittenhouse_Square",
+        "label": "wikipedia.org's Rittenhouse Square page"
+      },
+      {
+        "url": "https://www.friendsofrittenhouse.org/",
+        "label": "friendsofrittenhouse.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=6856",
+      "label": "phillyhistory.org 1913 picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/lion-crushing-a-serpent/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lioncr2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lioncr2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lioncr1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lioncr1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

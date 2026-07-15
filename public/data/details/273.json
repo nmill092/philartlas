@@ -1,0 +1,151 @@
+{
+  "id": "273",
+  "title": {
+    "display": "Pastorius Monument",
+    "list": "Pastorius Monument"
+  },
+  "artists": [
+    {
+      "name": "Albert Jaegers",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Albert_Jaegers",
+          "label": "wikipedia.org's Albert Jaegers page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1917"
+    }
+  ],
+  "location": {
+    "latitude": "40.036900",
+    "longitude": "-75.176150",
+    "description": "Germantown above Chelten"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "chair",
+      "separator": ","
+    },
+    {
+      "description": "hint of a boat",
+      "separator": ","
+    },
+    {
+      "description": "groups of people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "lamp"
+    }
+  ],
+  "landmark": {
+    "name": "Vernon Park",
+    "prefix": "Northeast corner",
+    "externallinks": [
+      {
+        "url": "https://www.tclf.org/landscapes/vernon-park",
+        "label": "tclf.org's Vernon Park page"
+      }
+    ]
+  },
+  "peopleprefix": "Monument to",
+  "people": [
+    {
+      "name": "Franz Daniel Pastorius",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_Daniel_Pastorius",
+          "label": "wikipedia.org's Franz (Francis) Daniel Pastorius page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=8811",
+      "label": "phillyhistory.org 1921 picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pastori1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pastori1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pastori2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pastori2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pastori3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pastori3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pastori4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pastori4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pastori5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pastori5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pastori6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pastori6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

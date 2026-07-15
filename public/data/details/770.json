@@ -1,0 +1,56 @@
+{
+  "id": "770",
+  "title": {
+    "display": "Drexel Clock",
+    "list": "Drexel Clock"
+  },
+  "location": {
+    "latitude": "39.954700",
+    "longitude": "-75.186100",
+    "description": "South side of Market between 31st and 32nd"
+  },
+  "architecture": {
+    "description": "Courtyard"
+  },
+  "content": [
+    {
+      "description": "clock"
+    }
+  ],
+  "landmark": {
+    "name": "Drexel University",
+    "externallinks": [
+      {
+        "url": "https://drexel.edu/",
+        "label": "drexel.edu"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexclock.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexclock.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexclock2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexclock2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

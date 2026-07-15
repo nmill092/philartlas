@@ -76,7 +76,9 @@ const runPool = (entries: Array<MetaEntry>) => {
       try {
         const res = await fetch(entry.url, { signal: controller.signal });
         if (res.ok) {
-          const data = await res.json() as ArtIdResponse;
+         const resText = await res.text();
+          const sanitized = resText.replace(/[\u0000-\u001F]/g, ' ');
+          const data = JSON.parse(sanitized) as ArtIdResponse;
           const bodyCleaned = cleanArtResponseBody(entry.id, data.body);
           await writeFile(`${DETAILS_PATH}/${entry.id}.json`, JSON.stringify(bodyCleaned, null, 2));
           successfulWrites++;
@@ -98,6 +100,19 @@ const runPool = (entries: Array<MetaEntry>) => {
   }))
 }
 
+const printSummary = (successfulWrites: number, failures: Array<{id: string, error: unknown}>) => {
+  console.log(`
+    Run completed. \n 
+    Successfully processed and wrote ${successfulWrites} files to disk. \n 
+  `); 
+
+  if (failures.length) {
+    console.log(`Failed to process ${failures.length} items:`); 
+    failures.forEach(failure => {
+      console.log(`id: ${failure.id}; error: ${failure.error instanceof Error ? failure.error.message : String(failure.error)}`)
+    })
+  }
+};
 
 async function main() {
   await mkdir(DETAILS_PATH, { recursive: true });
@@ -111,7 +126,8 @@ async function main() {
   const newEntries = getNewEntries(entries, existingSet);
   console.log(`${newEntries.length} new entries will be fetched.`)
 
-  await runPool(newEntries.slice(0, 10));
+  const { failures, successfulWrites } = await runPool(newEntries);
+  printSummary(successfulWrites, failures); 
 }
 
 main().catch((err) => {

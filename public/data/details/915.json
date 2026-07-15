@@ -1,0 +1,80 @@
+{
+  "id": "915",
+  "title": {
+    "display": "Spring Garden Farmers Market Sign",
+    "list": "Spring Garden Farmers Market Sign"
+  },
+  "artists": [
+    {
+      "name": "Frank Rushmore Watson (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/117215",
+          "label": "philadelphiabuildings.org Frank Rushmore Watson page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1889"
+    }
+  ],
+  "location": {
+    "latitude": "39.961520",
+    "longitude": "-75.155360",
+    "description": "South side of Spring Garden between 10th and 11th"
+  },
+  "architecture": {
+    "description": "Pediment"
+  },
+  "content": [
+    {
+      "description": "sign",
+      "separator": ","
+    },
+    {
+      "description": "cattle head",
+      "separator": ","
+    },
+    {
+      "description": "cornucopia",
+      "separator": ","
+    },
+    {
+      "description": "food"
+    }
+  ],
+  "landmark": {
+    "name": "Union Transfer",
+    "externallinks": [
+      {
+        "url": "https://www.utphilly.com/",
+        "label": "utphilly.com"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/100503227",
+      "label": "Max Buten's picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sgfm.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sgfm.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1094",
+  "title": {
+    "display": "Bellevue Lions",
+    "list": "Bellevue Lions"
+  },
+  "years": [
+    {
+      "year": "1989"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.948750",
+    "longitude": "-75.164605",
+    "description": "West side of Broad between Walnut and Locust"
+  },
+  "architecture": {
+    "description": "Gateposts"
+  },
+  "content": [
+    {
+      "description": "lions"
+    },
+    {
+      "description": "holding shields"
+    }
+  ],
+  "landmark": {
+    "name": "Bellevue",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Bellevue-Stratford_Hotel",
+        "label": "wikipedia.org's Bellevue-Stratford Hotel page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/belions1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/belions1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/belions2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/belions2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/belions3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/belions3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

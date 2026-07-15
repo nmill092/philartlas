@@ -1,0 +1,68 @@
+{
+  "id": "771",
+  "title": {
+    "display": "JFK Boulevard Bridge Sidewalk",
+    "list": "JFK Boulevard Bridge Sidewalk"
+  },
+  "artists": [
+    {
+      "name": "JMT (Johnson, Mirmiran and Thompson)",
+      "externallinks": [
+        {
+          "url": "https://jmt.com/",
+          "label": "jmt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2009"
+    }
+  ],
+  "location": {
+    "latitude": "39.955450",
+    "longitude": "-75.180700",
+    "description": "JFK Boulevard, East of 29th"
+  },
+  "architecture": {
+    "description": "Sidewalk"
+  },
+  "content": [
+    {
+      "description": "abstract sidewalk design"
+    }
+  ],
+  "landmark": {
+    "name": "JFK Boulevard Bridge",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_F._Kennedy_Boulevard_Bridge",
+        "label": "wikipedia.org's John F. Kennedy Boulevard Bridge page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://jmt.com/projects/jfk-boulevard-sr-3037-bridge-over-schuylkill-river/",
+      "label": "jmt.com page for this project"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jfksidewalk.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jfksidewalk.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

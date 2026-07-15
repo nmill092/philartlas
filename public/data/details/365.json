@@ -1,0 +1,38 @@
+{
+  "id": "365",
+  "title": {
+    "display": "Stele of S'akya-muni",
+    "list": "Stele of S'akya-muni"
+  },
+  "location": {
+    "latitude": "",
+    "longitude": ""
+  },
+  "comments": "Concrete reproduction. Formerly in the East courtyard of the Penn Museum.  Moved to the inner courtyard where it is visible from inside, but not outside, the museum.",
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Museum",
+    "externallinks": [
+      {
+        "url": "https://www.penn.museum/",
+        "label": "penn.museum"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umtfig.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umtfig.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

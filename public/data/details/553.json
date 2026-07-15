@@ -1,0 +1,81 @@
+{
+  "id": "553",
+  "title": {
+    "display": "Lenni Lenape",
+    "list": "Lenni Lenape"
+  },
+  "artists": [
+    {
+      "name": "Joe Mooney",
+      "externallinks": [
+        {
+          "url": "https://www.joemooneysculpture.com/",
+          "label": "joemooneysculpture.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1988"
+    }
+  ],
+  "location": {
+    "latitude": "39.898425",
+    "longitude": "-75.233325",
+    "description": "78th Northwest of Holstein"
+  },
+  "comments": "Rust discoloration on the upper clouds when visited in April, 2013.   The last picture is contributed by and Copyright Joe Mooney ",
+  "content": [
+    {
+      "description": "clouds",
+      "separator": ","
+    },
+    {
+      "description": "mountains"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/artfan70/25267744493",
+      "label": "ArtFan70's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lenni.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lenni.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lenni2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lenni2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lennijm.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lennijm.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

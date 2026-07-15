@@ -1,0 +1,92 @@
+{
+  "id": "724",
+  "title": {
+    "display": "Addams Family Silhouette",
+    "list": "Addams Family Silhouette"
+  },
+  "artists": [
+    {
+      "name": "Lindsay Falck",
+      "externallinks": [
+        {
+          "url": "https://www.design.upenn.edu/news/lindsay-falck-tribute",
+          "label": "a tribute to Lindsay Falck at design.upenn.edu"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2001"
+    }
+  ],
+  "location": {
+    "latitude": "39.953000",
+    "longitude": "-75.194950",
+    "description": "West side of 36th between Walnut and Locust Walk"
+  },
+  "comments": "Originally installed in  the courtyard behind the gates.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sign"
+    }
+  ],
+  "landmark": {
+    "name": "Charles Addams Fine Arts Hall",
+    "externallinks": [
+      {
+        "url": "https://almanac.upenn.edu/archive/v47/n28/AddamsHall.html",
+        "label": "upenn.edu Almanac article about the Charles Addams Fine Arts Hall"
+      }
+    ]
+  },
+  "peopleprefix": "Reference to the work of",
+  "people": [
+    {
+      "name": "Charles Addams",
+      "externallinks": [
+        {
+          "url": "http://www.westfieldnj.com/addams/",
+          "label": "Charles Addams bio from westfieldnj.com"
+        },
+        {
+          "url": "https://www.toonopedia.com/addams.htm",
+          "label": "Charles Addams bio from toonpedia.com"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://penntoday.upenn.edu/node/151654",
+      "label": "a page about this piece at penntoday.upenn.edu"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/addamsfamily.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/addamsfamily.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

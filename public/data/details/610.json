@@ -1,0 +1,85 @@
+{
+  "id": "610",
+  "title": {
+    "display": "Market Street Bridge Carvings",
+    "list": "Market Street Bridge Carvings"
+  },
+  "artists": [
+    {
+      "name": "Charles H. Stevens (Design Engineer)"
+    }
+  ],
+  "years": [
+    {
+      "year": "1932"
+    }
+  ],
+  "location": {
+    "latitude": "39.954625",
+    "longitude": "-75.180350",
+    "description": "Market Street, East of 29th to West of 24th"
+  },
+  "comments": "The lion heads are on the corners of the bridge. The faces are best observed from South and North of the bridge on Schuylkill Avenue/29th or from Schuylkill Banks below the bridge.",
+  "architecture": {
+    "description": "Bridge columns and arches"
+  },
+  "content": [
+    {
+      "description": "lion heads",
+      "separator": ","
+    },
+    {
+      "description": "human heads",
+      "separator": ","
+    },
+    {
+      "description": "stylized bridges"
+    }
+  ],
+  "landmark": {
+    "name": "Market Street Bridge",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Market_Street_Bridge_(Philadelphia)",
+        "label": "wikipedia.org's Market Street Bridge page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marketbr2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marketbr2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marketbr3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marketbr3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marketbr4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marketbr4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

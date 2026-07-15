@@ -1,0 +1,68 @@
+{
+  "id": "887",
+  "title": {
+    "display": "City Hall Plaque",
+    "list": "City Hall Plaque"
+  },
+  "artists": [
+    {
+      "name": "American Society of Civil Engineers",
+      "externallinks": [
+        {
+          "url": "https://www.asce.org/",
+          "label": "asce.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "location": {
+    "latitude": "39.952335",
+    "longitude": "-75.163170",
+    "description": "Market at Juniper"
+  },
+  "inscription": "<br />National Historical Civil Engineering Landmark  <br />Started 1871  <br />Completed 1901  <br />Since its completion 30 years   after construction begain in 1871,   City Hall has dominated the Center  City Philadelphia skyline.  At Penn   Square,the building is still the   world's tallest masonry load bearing   structure, made of 88 million bricks   and thousands of tons of stone. City   Hall is the nation's most elaborate   seat of municipal government.  It is   the finest example of the French Second   Empire style, widely used in Late 19th   Century public buildings.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "City Hall Tower"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "North side of the East pavilion near the courtyard",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/asce1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/asce1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

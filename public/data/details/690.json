@@ -1,0 +1,63 @@
+{
+  "id": "690",
+  "title": {
+    "display": "Ritz Carlton Residence Fountain",
+    "list": "Ritz Carlton Residence Fountain"
+  },
+  "artists": [
+    {
+      "name": "Handel Architects",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Handel_Architects",
+          "label": "wikipedia.org's Handel Architects page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2009"
+    }
+  ],
+  "location": {
+    "latitude": "39.951325",
+    "longitude": "-75.164650",
+    "description": "South side of S. Penn Square, West of Broad"
+  },
+  "comments": "visible through the fence",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Residences_at_The_Ritz-Carlton_(Philadelphia)",
+      "label": "wikipedia.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ritzcarft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ritzcarft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

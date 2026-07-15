@@ -1,0 +1,97 @@
+{
+  "id": "303",
+  "title": {
+    "display": "Puma",
+    "list": "Puma (Zorach)"
+  },
+  "artists": [
+    {
+      "name": "William Zorach",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Zorach",
+          "label": "wikipedia.org William Zorach page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1954"
+    }
+  ],
+  "yearmodifier": "installed 1962",
+  "location": {
+    "latitude": "39.967750",
+    "longitude": "-75.182950",
+    "description": "26th and Kelly Drive"
+  },
+  "content": [
+    {
+      "description": "puma"
+    }
+  ],
+  "landmark": {
+    "name": "Azalea Garden",
+    "prefix": "South end of the",
+    "externallinks": [
+      {
+        "url": "https://tclf.org/landscapes/azalea-garden",
+        "label": "tclf.org's Azalea Garden page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/puma/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/azacat.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/azacat.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/azacat2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/azacat2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/azacat3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/azacat3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/azacat4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/azacat4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

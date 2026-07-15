@@ -1,0 +1,78 @@
+{
+  "id": "980",
+  "title": {
+    "display": "The Presbyterian Ministers Fund for Life Insurance",
+    "list": "Presbyterian Ministers Fund for Life Insurance, The"
+  },
+  "years": [
+    {
+      "year": "1951"
+    }
+  ],
+  "yearmodifier": "possible date of building extension",
+  "location": {
+    "latitude": "39.950310",
+    "longitude": "-75.171110",
+    "description": "North side of Walnut, West of 18th"
+  },
+  "inscription": "He that soweth bountifully shall reap bountifully",
+  "architecture": {
+    "description": "Above the entrance"
+  },
+  "content": [
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "baskets"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/75568",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pmfli.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pmfli.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pmfli2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pmfli2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pmfli3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pmfli3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

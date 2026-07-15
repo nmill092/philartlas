@@ -1,0 +1,163 @@
+{
+  "id": "84",
+  "title": {
+    "display": "Connections",
+    "list": "Connections"
+  },
+  "artists": [
+    {
+      "name": "Athena Tacha",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Athena_Tacha",
+          "label": "wikipedia.org's Athena Tacha page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/Athena%20Tacha",
+          "label": "publicartarchive.org's Athena Tacha page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "location": {
+    "latitude": "39.961600",
+    "longitude": "-75.168900",
+    "description": "Between 18th and 19th, South of Spring Garden"
+  },
+  "comments": "The sign on this piece when it was originally installed said \"Franklin Town Park Connections\". ",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "rocks"
+    }
+  ],
+  "landmark": {
+    "name": "Matthias Baldwin Park",
+    "externallinks": [
+      {
+        "url": "https://www.baldwinparkphilly.org/",
+        "label": "baldwinparkphilly.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/connections/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtpark.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtpark.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtpark2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtpark2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtpark3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtpark3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtpark4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtpark4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtpark5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtpark5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtpark6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtpark6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtpark7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtpark7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtpark8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtpark8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtpark9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtpark9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frtparka.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frtparka.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Franklin Town"
+    }
+  ]
+}

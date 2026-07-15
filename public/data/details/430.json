@@ -1,0 +1,147 @@
+{
+  "id": "430",
+  "title": {
+    "display": "The Whispering Bells of Freedom",
+    "list": "Whispering Bells of Freedom, The"
+  },
+  "artists": [
+    {
+      "name": "Reginald Beauchamp",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Reginald_E._Beauchamp",
+          "label": "wikipedia.org's Reginald Beauchamp page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.953125",
+    "longitude": "-75.151650",
+    "description": "Northwest corner, 7th and Arch"
+  },
+  "comments": "Listed with multiple similar titles. This one was taken from the beginning of the inscription.",
+  "inscription": "<br />The whispering bells of freedom in honor of Crispus Attucks<br />Who on March 5, 1770 was killed by British troops in Boston while protesting conditions under the crown.<br />These whispers of freedom grew into the crescendo of the Declaration of Independence and the first ringing of the Liberty Bell in Independence Hall.  ",
+  "content": [
+    {
+      "description": "bells",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "prone",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "dog"
+    }
+  ],
+  "landmark": {
+    "name": "African American Museum",
+    "prefix": "Outside the",
+    "externallinks": [
+      {
+        "url": "https://www.aampmuseum.org/",
+        "label": "aampmuseum.org"
+      }
+    ]
+  },
+  "peopleprefix": "In honor of",
+  "people": [
+    {
+      "name": "Crispus Attucks",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crispus_Attucks",
+          "label": "wikipedia.org's Crispus Attucks page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/whispering-bells-a-tribute-to-crispus-attucks/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/whisper2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/whisper2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/whisper4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/whisper4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/whisper3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/whisper3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/whisper5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/whisper5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/whisper.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/whisper.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

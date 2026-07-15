@@ -1,0 +1,44 @@
+{
+  "id": "281",
+  "title": {
+    "display": "Pefelice",
+    "list": "Pefelice"
+  },
+  "artists": [
+    {
+      "name": "William E. Lowenberg"
+    }
+  ],
+  "years": [
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "40.026050",
+    "longitude": "-75.225425",
+    "description": "South side of Main between Gay and Conarroe"
+  },
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mainst.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mainst.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Manayunk"
+    }
+  ]
+}

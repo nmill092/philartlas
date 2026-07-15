@@ -1,0 +1,115 @@
+{
+  "id": "909",
+  "title": {
+    "display": "Frank Furness Gate",
+    "list": "Frank Furness Gate"
+  },
+  "artists": [
+    {
+      "name": "Frank Furness (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Furness",
+          "label": "wikipedia.org's Frank Furness page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1876"
+    }
+  ],
+  "yearmodifier": "relocated 1886",
+  "location": {
+    "latitude": "39.995500",
+    "longitude": "-75.191600",
+    "description": "Other side of Kelly Drive, North of Reservoir Drive"
+  },
+  "comments": "This piece is in very bad condition.  The artist is listed elsewhere as an attribution.  Reservoir Drive is labeled Strawberry Mansion Drive on Google.",
+  "architecture": {
+    "description": "Gateway"
+  },
+  "content": [
+    {
+      "description": "arch",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://hiddencityphila.org/2012/10/forgotten-furness-arch-uncovered-restoration-process-begins/",
+      "label": "hiddencityphila.org article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/furgate1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/furgate1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/furgate2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/furgate2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/furgate3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/furgate3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/furgate4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/furgate4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/furgate5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/furgate5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/furgate6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/furgate6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

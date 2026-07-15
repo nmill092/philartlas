@@ -1,0 +1,79 @@
+{
+  "id": "886",
+  "title": {
+    "display": "Budd BB1 Pioneer Aircraft",
+    "list": "Budd BB1 Pioneer Aircraft"
+  },
+  "artists": [
+    {
+      "name": "Budd Company",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Budd_Company",
+          "label": "wikipedia.org's Budd Company page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1931"
+    }
+  ],
+  "yearmodifier": "installed 1935",
+  "location": {
+    "latitude": "39.958490",
+    "longitude": "-75.172440",
+    "description": "Southwest corner, 20th and Winter and the Parkway"
+  },
+  "comments": "Originally labeled as \"The Pioneer\".  The sign was changed to the current title some time between 2017 and 2021.  Changed here 7/4/2022.  ",
+  "inscription": "(from the old sign)  <br />First stainless steel airplane built in 1931  by the Edward G. Budd Manufacturing Company of Phila.  to demonstrate the practicality of its \"shotweld\" process  of fabricating stainless steel subsequently employed by  the Budd Co. in building heavyweight railroad trains.  The Pioneer was flown approximately 1,000 hours   in the United Staes and Europe.",
+  "content": [
+    {
+      "description": "actual airplane"
+    }
+  ],
+  "landmark": {
+    "name": "Franklin Institute",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://fi.edu/en",
+        "label": "fi.edu"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://fi.edu/en/budd-bb1-pioneer-aircraft",
+      "label": "fi.edu article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pioneer1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pioneer1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pioneer2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pioneer2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

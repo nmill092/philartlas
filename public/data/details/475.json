@@ -1,0 +1,64 @@
+{
+  "id": "475",
+  "title": {
+    "display": "Blessed John Neumann C. SS. R.",
+    "list": "Blessed John Neumann C. SS. R."
+  },
+  "location": {
+    "latitude": "39.97000",
+    "longitude": "-75.144700",
+    "description": "South side of Girard, East of 5th"
+  },
+  "inscription": "<br />Front of the statue:  <br />Blessed John Neumann C. SS. R.  <br />Fourth Bishop of Philadephia  <br />Side of the statue:  <br />In memory of Joanne Swiggard [or Swiccard]  <br />Plaque on the base:  <br />\"Give Me Holiness\"  <br />John N. Neumann  <br />Born March 28, 1811  <br />Ordained Priest June 25, 1836  <br />Became a Redemptorist January 16, 1842  <br />Consecrated Bishop, March 25, 1852  <br />Died January 5, 1860  <br />Declared Heroic in Virtue December 11, 1921  <br />Declared Blessed October 13, 1963  <br />Canonized June 19, 1977",
+  "content": [
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "symbols"
+    }
+  ],
+  "landmark": {
+    "name": "National Shrine of Saint John Neumann",
+    "prefix": "Outside the",
+    "externallinks": [
+      {
+        "url": "https://www.stjohnneumann.org/",
+        "label": "stjohnneumann.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "John Nepomucene Neumann",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Neumann",
+          "label": "wikipedia.org's John Nepomucene Neumann page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stjnshrine.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stjnshrine.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

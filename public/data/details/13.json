@@ -1,0 +1,83 @@
+{
+  "id": "13",
+  "title": {
+    "display": "Barton and Beury Hall Walls",
+    "list": "Barton and Beury Hall Walls"
+  },
+  "artists": [
+    {
+      "name": "John Botkin"
+    },
+    {
+      "name": "David Porter",
+      "externallinks": [
+        {
+          "url": "https://www.porterarchitects.com/",
+          "label": "porterarchitects.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1984"
+    }
+  ],
+  "location": {
+    "latitude": "39.981925",
+    "longitude": "-75.154875",
+    "description": "East side of 13th, North of Polett Walk"
+  },
+  "comments": "Barton Hall, which was on the West side of 13th, was replaced by the Charles Library in 2019, so half of this piece is missing.  The third picture is of the Beury half, taken from outside the library in 2021. The artist is listed elsewhere as \"John Borkin\"",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract forms"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.porterarchitects.com/portfolio/art-in-public-places/",
+      "label": "porterarchitects.com article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beury.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beury.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beury2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beury2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beury3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beury3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Campus"
+    }
+  ]
+}

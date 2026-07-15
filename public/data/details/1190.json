@@ -1,0 +1,113 @@
+{
+  "id": "1190",
+  "title": {
+    "display": "The Tuskegee Airmen: They Met the Challenge",
+    "list": "Tuskegee Airmen: They Met the Challenge, The"
+  },
+  "artists": [
+    {
+      "name": "Marcus Akinlana",
+      "externallinks": [
+        {
+          "url": "https://www.akinlana.com/",
+          "label": "akinlana.com"
+        },
+        {
+          "url": "https://www.facebook.com/profile.php?id=100057721657182",
+          "label": "Marcus Akinlana's facebook.com page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2009"
+    }
+  ],
+  "location": {
+    "latitude": "39.955950",
+    "longitude": "-75.200025",
+    "description": "West side of 39th, North of Chestnut"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "goggles",
+      "separator": ","
+    },
+    {
+      "description": "parts of people",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "tools",
+      "separator": ","
+    },
+    {
+      "description": "2D (painted) airplanes"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.akinlana.com/the-tuskegee-airmen",
+      "label": "artist's page for this piece"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/tribute-tuskegee",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tuskegee1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tuskegee1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tuskegee2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tuskegee2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tuskegee3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tuskegee3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tuskegee4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tuskegee4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

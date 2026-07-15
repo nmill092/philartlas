@@ -1,0 +1,114 @@
+{
+  "id": "1162",
+  "title": {
+    "display": "Nexus",
+    "list": "Nexus"
+  },
+  "artists": [
+    {
+      "name": "Scott Eunson",
+      "externallinks": [
+        {
+          "url": "https://www.scotteunson.ca/",
+          "label": "scotteunson.ca"
+        }
+      ]
+    },
+    {
+      "name": "Marianne Lovink",
+      "externallinks": [
+        {
+          "url": "https://www.mariannelovink.com/",
+          "label": "mariannelovink.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2016"
+    }
+  ],
+  "location": {
+    "latitude": "39.957060",
+    "longitude": "-75.201725",
+    "description": "All four corners, 40th and Market"
+  },
+  "architecture": {
+    "description": "Entrances"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "maps"
+    }
+  ],
+  "landmark": {
+    "name": "40th Street L Station",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/40th_Street_station_(Market%E2%80%93Frankford_Line)",
+        "label": "wikipedia.org's 40th Street Station page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://whyy.org/articles/art-commission-approves-40th-st-station-entrance-design/",
+      "label": "whyy.org article about this piece"
+    },
+    {
+      "url": "https://www.scotteunson.ca/work/septa-subway",
+      "label": "scotteunson.ca's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/40thel1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/40thel1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/40thel2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/40thel2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/40thel3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/40thel3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/40thel4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/40thel4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

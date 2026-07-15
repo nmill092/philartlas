@@ -1,0 +1,76 @@
+{
+  "id": "1206",
+  "title": {
+    "display": "Hip Hop Cafe",
+    "list": "Hip Hop Cafe"
+  },
+  "artists": [
+    {
+      "name": "Isaiah Zagar",
+      "externallinks": [
+        {
+          "url": "https://www.phillymagicgardens.org/",
+          "label": "phillymagicgardens.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2002"
+    }
+  ],
+  "location": {
+    "latitude": "39.940515",
+    "longitude": "-75.150915",
+    "description": "East side of 5th and Passyunk South of Bainbridge"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract forms possibly suggesting"
+    },
+    {
+      "description": "parts of people"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://imgur.com/g23sP1w",
+      "label": "first official picture of this piece at imgur.com"
+    },
+    {
+      "url": "https://imgur.com/UvNwhk9",
+      "label": "second official picture of this piece at imgur.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hiphopcafe1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hiphopcafe1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hiphopcafe2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hiphopcafe2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

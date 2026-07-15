@@ -1,0 +1,98 @@
+{
+  "id": "1183",
+  "title": {
+    "display": "Bronze Hats",
+    "list": "Bronze Hats"
+  },
+  "years": [
+    {
+      "year": "2019"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.953075",
+    "longitude": "-75.161550",
+    "description": "West of the Southwest corner, 13th and Filbert"
+  },
+  "comments": "visible through the window",
+  "architecture": {
+    "description": "Interior"
+  },
+  "content": [
+    {
+      "description": "hats"
+    }
+  ],
+  "landmark": {
+    "name": "Notary Hotel",
+    "prefix": "North side of the"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hats1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hats1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hats2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hats2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hats3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hats3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hats4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hats4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hats5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hats5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hats6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hats6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

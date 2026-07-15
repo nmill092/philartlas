@@ -1,0 +1,183 @@
+{
+  "id": "687",
+  "title": {
+    "display": "Warwick Hotel",
+    "list": "Warwick Hotel"
+  },
+  "artists": [
+    {
+      "name": "Samuel Brian Baylinson (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22259",
+          "label": "philadelphiabuildings.org's Samuel Brian Baylinson page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1928"
+    }
+  ],
+  "location": {
+    "latitude": "39.948940",
+    "longitude": "-75.169800",
+    "description": "West side of 17th, North of Locust and North side of Locust, West of 17th"
+  },
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "crest",
+      "separator": ","
+    },
+    {
+      "description": "helmet",
+      "separator": ","
+    },
+    {
+      "description": "urn"
+    },
+    {
+      "description": "with standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "goat heads",
+      "separator": ","
+    },
+    {
+      "description": "lion heads",
+      "separator": ","
+    },
+    {
+      "description": "human heads",
+      "separator": ","
+    },
+    {
+      "description": "winged people",
+      "separator": ","
+    },
+    {
+      "description": "birds"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/83272",
+      "label": "philadelphiabuildings.org's entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwick1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwick1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwick2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwick2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwick3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwick3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwick4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwick4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwick5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwick5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwick6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwick6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwick7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwick7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwick8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwick8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwick9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwick9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/warwicka.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/warwicka.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

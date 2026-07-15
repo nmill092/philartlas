@@ -1,0 +1,66 @@
+{
+  "id": "930",
+  "title": {
+    "display": "I-95 Sound Barrier Reliefs",
+    "list": "I-95 Sound Barrier Reliefs"
+  },
+  "location": {
+    "latitude": "39.926400",
+    "longitude": "-75.147200",
+    "description": "East side of Front at Morris"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "water",
+      "separator": ","
+    },
+    {
+      "description": "standing mummer",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "buildings"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/i95wall1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/i95wall1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/i95wall2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/i95wall2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

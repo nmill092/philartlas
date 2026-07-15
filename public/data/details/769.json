@@ -1,0 +1,97 @@
+{
+  "id": "769",
+  "title": {
+    "display": "Penn Athletic Club",
+    "list": "Penn Athletic Club"
+  },
+  "artists": [
+    {
+      "name": "Milton Bennett Medary (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Milton_Bennett_Medary",
+          "label": "wikipedia.org's Milton Bennett Medary page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1925"
+    }
+  ],
+  "location": {
+    "latitude": "39.949300",
+    "longitude": "-75.170750",
+    "description": "Northeast corner, 18th and Locust"
+  },
+  "architecture": {
+    "description": "West Wall"
+  },
+  "content": [
+    {
+      "description": "lion heads",
+      "separator": ","
+    },
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "athletic equipment"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/45452",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pac1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pac1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pac2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pac2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pac3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pac3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pac4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pac4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

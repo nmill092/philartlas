@@ -1,0 +1,124 @@
+{
+  "id": "953",
+  "title": {
+    "display": "Church Stop Reflection",
+    "list": "Church Stop Reflection"
+  },
+  "artists": [
+    {
+      "name": "Joe Brenman",
+      "externallinks": [
+        {
+          "url": "https://www.inliquid.org/artist/brenman-joe",
+          "label": "inliquid.org's Joe Brenman page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2007"
+    }
+  ],
+  "location": {
+    "latitude": "40.010480",
+    "longitude": "-75.089000",
+    "description": "Frankford between Church and Ruan"
+  },
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "symbols",
+      "separator": ","
+    },
+    {
+      "description": "abstract images"
+    }
+  ],
+  "landmark": {
+    "name": "Church L Station",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Church_station_(Philadelphia)",
+        "label": "wikipedia.org's Church Station page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/churchst2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/churchst2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/churchst3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/churchst3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/churchst4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/churchst4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/churchst5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/churchst5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/churchst6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/churchst6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/churchst1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/churchst1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

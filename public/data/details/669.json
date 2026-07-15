@@ -1,0 +1,73 @@
+{
+  "id": "669",
+  "title": {
+    "display": "John J. Carlin Tablet",
+    "list": "John J. Carlin Tablet"
+  },
+  "years": [
+    {
+      "year": "1968"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.985900",
+    "longitude": "-75.201985",
+    "description": "River side of Kelly Drive"
+  },
+  "inscription": "<br />This tablet was erected by  <br />oarsmen of the rowing world  <br />in honor of  <br />John J. Carlin  <br />1896 - 1968  <br />Circa 1914-1968  <br />He was a man dedicated to the amateur sport of rowing and devoted 54 years to  its development and leadership encompassing  <br />All phases:- schoolboy, club, college, national, international, and olympic.  <br />Treasurer - Schoolboy R.A. of A.  <br />President - Fairmount R.A.  <br />Coach - University of Pennsylvania  <br />Commodore - Schuylkill Navy  <br />Chairman - Gold Cup Committee  <br />President - N.A.A.O.  <br />Chairman - U.S. Olympic and Pan-Am Rowing Committee  <br />Continental Representative of F.I.S.A.  <br />Oarsmen of the past, present, and future have and will benefit from his vigor and zeal. ",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "eyeglasses"
+    }
+  ],
+  "landmark": {
+    "name": "Schuylkill Grandstand"
+  },
+  "peopleprefix": "Relief bust of",
+  "people": [
+    {
+      "name": "John J. Carlin"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:John_J._Carlin_plaque,_Schuylkill_River_Grandstand.jpg",
+      "label": "picture of this piece at commons.wikimedia.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/carlin.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/carlin.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/carlin2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/carlin2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

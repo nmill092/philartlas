@@ -1,0 +1,124 @@
+{
+  "id": "405",
+  "title": {
+    "display": "University Museum Entrance",
+    "list": "University Museum Entrance"
+  },
+  "artists": [
+    {
+      "name": "Alexander Stirling Calder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexander_Stirling_Calder",
+          "label": "wikipedia.org's Alexander Stirling Calder page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/Alexander%20Stirling%20Calder",
+          "label": "publicartarchive.org's Alexander Stirling Calder page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1899"
+    }
+  ],
+  "yearmodifier": "also listed as c. 1920 and 1931",
+  "location": {
+    "latitude": "39.949160",
+    "longitude": "-75.191140",
+    "description": "South side of South Street, East of 33rd"
+  },
+  "architecture": {
+    "description": "Over the door"
+  },
+  "content": [
+    {
+      "description": "insignia",
+      "separator": ","
+    },
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "horizontal and seated people"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Museum",
+    "prefix": "Through the lower (East) courtyard of the",
+    "externallinks": [
+      {
+        "url": "https://www.penn.museum/",
+        "label": "penn.museum"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/doorway-lintel-left",
+      "label": "upenn.edu's page for the left lintel"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/doorway-lintel-center",
+      "label": "upenn.edu's page for the center lintel"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/doorway-lintel-right",
+      "label": "upenn.edu's page for the right lintel"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/university-museum-arms-insignia",
+      "label": "upenn.edu's page for the insignia"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umdoor1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umdoor1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umdoor2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umdoor2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umdoor3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umdoor3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umdoor4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umdoor4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

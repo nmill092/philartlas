@@ -1,0 +1,80 @@
+{
+  "id": "1079",
+  "title": {
+    "display": "Twilight Tales",
+    "list": "Twilight Tales"
+  },
+  "artists": [
+    {
+      "name": "Delia King",
+      "externallinks": [
+        {
+          "url": "https://publicartarchive.org/artist/Delia%20King",
+          "label": "publicartarchive.org's Delia King page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "location": {
+    "latitude": "39.942915",
+    "longitude": "-75.152400",
+    "description": "Southwest corner, 6th and Lombard"
+  },
+  "architecture": {
+    "description": "North wall"
+  },
+  "content": [
+    {
+      "description": "circles",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "landmark": {
+    "name": "Starr Garden"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/twilight1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/twilight1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/twilight2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/twilight2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/twilight3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/twilight3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

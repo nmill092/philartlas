@@ -1,0 +1,142 @@
+{
+  "id": "741",
+  "title": {
+    "display": "Beneficial Savings Fund Society Building",
+    "list": "Beneficial Savings Fund Society Building"
+  },
+  "artists": [
+    {
+      "name": "Horace Trumbauer (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21596",
+          "label": "philadelphiabuildings.org's Horace Trumbauer page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1916"
+    }
+  ],
+  "location": {
+    "latitude": "39.950350",
+    "longitude": "-75.160250",
+    "description": "Southwest corner, 12th and Chestnut"
+  },
+  "architecture": {
+    "description": "East wall and North entrance"
+  },
+  "content": [
+    {
+      "description": "kneeling people",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "mirror",
+      "separator": ","
+    },
+    {
+      "description": "flaming"
+    },
+    {
+      "description": "torch",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "birds"
+    }
+  ],
+  "landmark": {
+    "name": "Thomas R. Kline Institute for Trial Advocacy",
+    "externallinks": [
+      {
+        "url": "https://drexel.edu/law/academics/kline-difference/advocacy/kline-institute-trial-advocacy/",
+        "label": "drexel.edu's Kline Institute page"
+      }
+    ]
+  },
+  "peopleprefix": "reliefs of",
+  "people": [
+    {
+      "name": "Mercury",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mercury_(mythology)",
+          "label": "wikipedia.org's Mercury page"
+        }
+      ]
+    },
+    {
+      "name": "Venus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Venus_(mythology)",
+          "label": "wikipedia.org's Venus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/9001",
+      "label": "philadelphiabuildings.org page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beneficial1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beneficial1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beneficial2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beneficial2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beneficial3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beneficial3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beneficial4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beneficial4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

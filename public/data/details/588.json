@@ -1,0 +1,78 @@
+{
+  "id": "588",
+  "title": {
+    "display": "Hose Team In Action",
+    "list": "Hose Team In Action"
+  },
+  "artists": [
+    {
+      "name": "Harold Kimmelman",
+      "externallinks": [
+        {
+          "url": "http://www.hksculpt.com/",
+          "label": "hksculpt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1971"
+    }
+  ],
+  "location": {
+    "latitude": "39.988900",
+    "longitude": "-75.099975",
+    "description": "Southwest side of Ontario between Belgrade and Miller"
+  },
+  "architecture": {
+    "description": "On the wall"
+  },
+  "content": [
+    {
+      "description": "two people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "one kneeling",
+      "separator": ","
+    },
+    {
+      "description": "helmets",
+      "separator": ","
+    },
+    {
+      "description": "firehose"
+    }
+  ],
+  "landmark": {
+    "name": "Engine Company 28",
+    "externallinks": [
+      {
+        "url": "https://www.firemanshallmuseum.org/engine-28/",
+        "label": "firemanshallmuseum.org's Engine 28 page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/portrichfire2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/portrichfire2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

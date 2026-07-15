@@ -1,0 +1,140 @@
+{
+  "id": "590",
+  "title": {
+    "display": "Zoo Menagerie",
+    "list": "Zoo Menagerie"
+  },
+  "artists": [
+    {
+      "name": "Geronimo Company"
+    },
+    {
+      "name": "Paul Santoleri",
+      "externallinks": [
+        {
+          "url": "http://www.paulsantoleri.com/",
+          "label": "paulsantoleri.com"
+        }
+      ]
+    },
+    {
+      "name": "Steve Stormer",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/115640146/steven-michael-stormer",
+          "label": "findagrave.com's Steven Michael Stormer page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2002"
+    }
+  ],
+  "location": {
+    "latitude": "39.975150",
+    "longitude": "-75.195550",
+    "description": "Both sides of Girard, from 34th West"
+  },
+  "comments": "Focusing on the sculptural and mosaic elements.",
+  "architecture": {
+    "description": "Railroad bridge"
+  },
+  "content": [
+    {
+      "description": "abstract",
+      "separator": ","
+    },
+    {
+      "description": "giraffe",
+      "separator": ","
+    },
+    {
+      "description": "hippo"
+    }
+  ],
+  "landmark": {
+    "name": "Zoo",
+    "prefix": "Outside the",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiazoo.org/",
+        "label": "philadelphiazoo.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://publicartarchive.org/art/Zoo-Menagerie/445f04de",
+      "label": "publicartarchive.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zoomural1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zoomural1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zoomural2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zoomural2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zoomural3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zoomural3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zoomural4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zoomural4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zoomural5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zoomural5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zoomural6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zoomural6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

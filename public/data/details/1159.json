@@ -1,0 +1,75 @@
+{
+  "id": "1159",
+  "title": {
+    "display": "Haas Biergarten Rabbits",
+    "list": "Haas Biergarten Rabbits"
+  },
+  "artists": [
+    {
+      "name": "Groundswell Design Group",
+      "externallinks": [
+        {
+          "url": "https://www.groundswelldesigngroup.com/",
+          "label": "groundswelldesigngroup.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "yearmodifier": "probable",
+  "location": {
+    "latitude": "39.953510",
+    "longitude": "-75.140400",
+    "description": "South side of Race, West of Columbus Blvd."
+  },
+  "comments": "Groundswell Design is listed as the designer of the restaurant and presumably the beer garden, so they are credited here with the rabbits.",
+  "architecture": {
+    "description": "Shack roof"
+  },
+  "content": [
+    {
+      "description": "rabbits"
+    }
+  ],
+  "landmark": {
+    "name": "Fringe Arts",
+    "prefix": "North side of",
+    "externallinks": [
+      {
+        "url": "https://fringearts.com/",
+        "label": "fringearts.com"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hbrabbits1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hbrabbits1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hbrabbits2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hbrabbits2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

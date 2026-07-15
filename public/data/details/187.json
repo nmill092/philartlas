@@ -1,0 +1,74 @@
+{
+  "id": "187",
+  "title": {
+    "display": "How to Retain Site Memory While Developing the Landscape",
+    "list": "How to Retain Site Memory While Developing the Landscape"
+  },
+  "artists": [
+    {
+      "name": "Winifred Lutz",
+      "externallinks": [
+        {
+          "url": "http://www.winifredlutz.com/",
+          "label": "winifredlutz.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "39.962800",
+    "longitude": "-75.171900",
+    "description": "West side of 20th between Hamilton and Spring Garden"
+  },
+  "inscription": "The Preston Retreat was here once but now it is a circle for arrivals and departures.",
+  "architecture": {
+    "description": "Courtyard Traffic Circle"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "idea",
+      "separator": ","
+    },
+    {
+      "description": "column from the Preston Retreat"
+    }
+  ],
+  "landmark": {
+    "name": "CityView Condominiums"
+  },
+  "externallinks": [
+    {
+      "url": "https://libwww.freelibrary.org/digital/item/44312",
+      "label": "freelibrary.org's Preston Retreat page"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/how-to-retain-site-memory-while-developing-the-landscape/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/memory.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/memory.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Franklin Town"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "266",
+  "title": {
+    "display": "Odyssey",
+    "list": "Odyssey"
+  },
+  "artists": [
+    {
+      "name": "Tony Rosenthal",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Rosenthal",
+          "label": "wikipedia.org's Tony Rosenthal page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "location": {
+    "latitude": "39.955225",
+    "longitude": "-75.152375",
+    "description": "Northeast corner, 8th and Race"
+  },
+  "content": [
+    {
+      "description": "disks"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fshosp.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fshosp.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fshosp2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fshosp2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

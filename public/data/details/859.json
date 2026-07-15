@@ -1,0 +1,108 @@
+{
+  "id": "859",
+  "title": {
+    "display": "Philadelphia Municipal Water System Plaque",
+    "list": "Philadelphia Municipal Water System Plaque"
+  },
+  "artists": [
+    {
+      "name": "American Society of Civil Engineers",
+      "externallinks": [
+        {
+          "url": "https://www.asce.org/",
+          "label": "asce.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "location": {
+    "latitude": "39.952550",
+    "longitude": "-75.163600",
+    "description": "South side of JFK at Broad"
+  },
+  "inscription": "<br />National Historic Civil Engineering Landmark  <br />1801-1815  <br />Philadelphia Municipal Water System  <br />Here at Centre Square stood  <br />Philadelphia's First Water Works  <br />The first public water system in America  <br />to use steam for large scale pumping  <br />American Society of Civil Engineers, 1975",
+  "architecture": {
+    "description": "West side, tower South entrance"
+  },
+  "content": [
+    {
+      "description": "building and fence",
+      "separator": ","
+    },
+    {
+      "description": "depiction of a fountain",
+      "separator": ","
+    },
+    {
+      "description": "trees",
+      "separator": ","
+    },
+    {
+      "description": "person standing",
+      "separator": ","
+    },
+    {
+      "description": "people"
+    },
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "cart"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/watersystem.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/watersystem.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/watersystem2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/watersystem2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

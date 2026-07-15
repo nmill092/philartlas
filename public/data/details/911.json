@@ -1,0 +1,97 @@
+{
+  "id": "911",
+  "title": {
+    "display": "Eagle",
+    "list": "Eagle (Gate, First Bank of the US) "
+  },
+  "artists": [
+    {
+      "name": "James Kiryakakis",
+      "externallinks": [
+        {
+          "url": "https://www.denverpost.com/obituaries/james-g-kiryakakis-fond-du-lac-co/",
+          "label": "denverpost.com obituary for James Kiryadakis"
+        }
+      ]
+    },
+    {
+      "name": "Harvey Yellin",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/165126922/harvey-z_-yellin",
+          "label": "findagrave.com's Harvey Z. Yellin page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.947900",
+    "longitude": "-75.146350",
+    "description": "West side of 3rd between Chestnut and Walnut"
+  },
+  "architecture": {
+    "description": "Gate"
+  },
+  "content": [
+    {
+      "description": "eagle",
+      "separator": ","
+    },
+    {
+      "description": "arrows",
+      "separator": ","
+    },
+    {
+      "description": "olive branch"
+    }
+  ],
+  "landmark": {
+    "name": "First Bank of the United States",
+    "prefix": "South side of the",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=9594EFE4-5A4C-4CC7-8C73312E9A1B06FB",
+        "label": "philadelphiabuildings.org's First Bank of the United States page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.nps.gov/subjects/ncptt/creating-independence-national-historical-park.htm",
+      "label": "nps.gov page with a picture and brief paragraph about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fbusgate1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fbusgate1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fbusgate2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fbusgate2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Old City"
+    }
+  ]
+}

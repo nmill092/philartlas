@@ -1,0 +1,92 @@
+{
+  "id": "89",
+  "title": {
+    "display": "Cowboy",
+    "list": "Cowboy"
+  },
+  "artists": [
+    {
+      "name": "Frederic Remington",
+      "externallinks": [
+        {
+          "url": "https://www.fredericremington.org/",
+          "label": "fredericremington.org/"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1908"
+    }
+  ],
+  "location": {
+    "latitude": "39.977740",
+    "longitude": "-75.193860",
+    "description": "Other side of Kelly Drive past the Girard Avenue Bridge"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "horse"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": " https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=6327",
+      "label": "phillyhistory.org 1910 picture of this piece"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/42866721",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/cowboy/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cowboy.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cowboy.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cowboy2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cowboy2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cowboy3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cowboy3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

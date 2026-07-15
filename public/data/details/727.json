@@ -1,0 +1,49 @@
+{
+  "id": "727",
+  "title": {
+    "display": "Memorial Gate",
+    "list": "Memorial Gate"
+  },
+  "years": [
+    {
+      "year": "1902"
+    }
+  ],
+  "location": {
+    "latitude": "39.950800",
+    "longitude": "-75.194475",
+    "description": "Admissions Walk. North side of Spruce between 34th and 36th"
+  },
+  "inscription": "Inveniemus viam aut faciemus",
+  "architecture": {
+    "description": "Gate"
+  },
+  "content": [
+    {
+      "description": "idea"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/memorial-gates",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/admissionswg.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/admissionswg.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "843",
+  "title": {
+    "display": "Papyrus ",
+    "list": "Papyrus "
+  },
+  "artists": [
+    {
+      "name": "Greg Leavitt",
+      "externallinks": [
+        {
+          "url": "https://www.gregleavitt.com/",
+          "label": "gregleavitt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1985"
+    }
+  ],
+  "location": {
+    "latitude": "39.897150",
+    "longitude": "-75.233700",
+    "description": "West side of Holstein, North of Bartram "
+  },
+  "content": [
+    {
+      "description": "plant forms"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/papyrus1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/papyrus1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/papyrus2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/papyrus2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

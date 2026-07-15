@@ -1,0 +1,63 @@
+{
+  "id": "1070",
+  "title": {
+    "display": "Lace Fence",
+    "list": "Lace Fence"
+  },
+  "artists": [
+    {
+      "name": "Demakersvan",
+      "externallinks": [
+        {
+          "url": "https://www.demakersvan.com/",
+          "label": "demakersvan.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2009"
+    }
+  ],
+  "location": {
+    "latitude": "40.022400",
+    "longitude": "-75.194700",
+    "description": "West side of Henry, North of School House Lane"
+  },
+  "architecture": {
+    "description": "Fence"
+  },
+  "content": [
+    {
+      "description": "flowers"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flowerfence1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flowerfence1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flowerfence2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flowerfence2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson East Falls Campus"
+    }
+  ]
+}

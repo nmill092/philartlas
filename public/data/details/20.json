@@ -1,0 +1,128 @@
+{
+  "id": "20",
+  "title": {
+    "display": "Benjamin Franklin",
+    "list": "Benjamin Franklin (Boyle)"
+  },
+  "artists": [
+    {
+      "name": "John J. Boyle",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_J._Boyle_(sculptor)",
+          "label": "wikipedia.org's John J. Boyle page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1899"
+    }
+  ],
+  "location": {
+    "latitude": "39.951950",
+    "longitude": "-75.193700",
+    "description": "Woodland Walk West of 34th Street"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "chair",
+      "separator": ","
+    },
+    {
+      "description": "papers"
+    }
+  ],
+  "landmark": {
+    "name": "College Hall",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/College_Hall_(University_of_Pennsylvania)",
+        "label": "wikipedia.org's College Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42869832",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=6863",
+      "label": "phillyhistory.org 1913 picture of this piece at 9th and Chestnut"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/benjamin-franklin",
+      "label": "upenn.edu's page for this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/benjamin-franklin/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfsit.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfsit.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfsit2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfsit2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfsit3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfsit3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfsit4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfsit4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "179",
+  "title": {
+    "display": "Giuseppe Verdi",
+    "list": "Giuseppe Verdi"
+  },
+  "artists": [
+    {
+      "name": "Ettore Ferrari",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ettore_Ferrari",
+          "label": "wikipedia.org's Ettore Ferrari page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1907"
+    }
+  ],
+  "location": {
+    "latitude": "39.983100",
+    "longitude": "-75.209500",
+    "description": "Horticulture Drive.  East of Belmont."
+  },
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "violin"
+    }
+  ],
+  "landmark": {
+    "name": "Horticulture Center",
+    "prefix": "At the intersection where Horticulture Drive splits near the Southeast corner of Horticulture Hall at the East end of the",
+    "externallinks": [
+      {
+        "url": "https://myphillypark.org/explore/parks/fairmount-park-horticulture-center/",
+        "label": "myphillypark.org's Horticulture Center page"
+      }
+    ]
+  },
+  "peopleprefix": "Bust of",
+  "people": [
+    {
+      "name": "Guiseppe Verdi",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
+          "label": "wikipedia.org's Giuseppe Verdi page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/46781453",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/giuseppe-verdi/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/verdi1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/verdi1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/verdi2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/verdi2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/verdi3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/verdi3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

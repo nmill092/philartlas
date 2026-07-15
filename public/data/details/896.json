@@ -1,0 +1,92 @@
+{
+  "id": "896",
+  "title": {
+    "display": "Marquee",
+    "list": "Marquee"
+  },
+  "artists": [
+    {
+      "name": "Aaron Igler",
+      "externallinks": [
+        {
+          "url": "https://www.greenhousemedia.com/",
+          "label": "greenhousemedia.com (Aaron Igler and Matthew Suib)"
+        }
+      ]
+    },
+    {
+      "name": "Matthew Suib",
+      "externallinks": [
+        {
+          "url": "https://publicartarchive.org/artist/Matt%20Suib",
+          "label": "publicartarchive.org's Matt Suib page"
+        }
+      ]
+    },
+    {
+      "name": "Richard Torchia",
+      "externallinks": [
+        {
+          "url": "https://www.wheatonarts.org/richard-torchia/",
+          "label": "wheatonarts.org's Richard Torchia page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2011"
+    }
+  ],
+  "location": {
+    "latitude": "39.953750",
+    "longitude": "-75.141600",
+    "description": "Race, East of 2nd"
+  },
+  "inscription": "Light Emitting diodes (LEDs) displaying live-feed video of the surface of  the Delaware River sourced from a camera pointed east.  Never the same twice, the real-time images of the Delaware River  streaming overhead shift constantly according to weather and lighting  conditions, as well as boating patterns and river wildlife. Drawing  attention toward the waterfront these images also encourage viewers  to reimagine the cascading noise of overpass traffic as the sound of  waves.  By reciprocating the gesture made by the Race Street Pier, an  urban park that brings the city to the river, Marquee brings the river to  the city.",
+  "architecture": {
+    "description": "West side of the I-95 overpass"
+  },
+  "content": [
+    {
+      "description": "LED representation of water"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marquee1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marquee1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marquee2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marquee2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marquee3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marquee3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

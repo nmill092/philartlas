@@ -1,0 +1,99 @@
+{
+  "id": "172",
+  "title": {
+    "display": "Graff Memorial",
+    "list": "Graff Memorial"
+  },
+  "artists": [
+    {
+      "name": "Hugh Cannon",
+      "externallinks": [
+        {
+          "url": "  https://www.pafa.org/museum/collection-artist/hugh-cannon",
+          "label": "pafa.org's Hugh Cannon page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1848"
+    }
+  ],
+  "yearmodifier": "restored 2006",
+  "location": {
+    "latitude": "39.965625",
+    "longitude": "-75.183250",
+    "description": "Along the Schuylkill Banks, near the Spring Garden Bridge"
+  },
+  "comments": "The bust in the second picture was added after the first picture was taken.",
+  "inscription": "To the memory of Frederick Graff, who designed and executed the Fairmount Water Works. Erected by the City Councils of Philadelphia, June 1, 1848",
+  "content": [
+    {
+      "description": "gazebo",
+      "separator": ","
+    },
+    {
+      "description": "bust"
+    }
+  ],
+  "landmark": {
+    "name": "Water Works",
+    "prefix": "In the garden of the",
+    "externallinks": [
+      {
+        "url": "https://fairmountwaterworks.org/",
+        "label": "fairmountwaterworks.org"
+      }
+    ]
+  },
+  "peopleprefix": "In memory of",
+  "people": [
+    {
+      "name": "Frederick Graff",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frederick_Graff",
+          "label": "wikipedia.org's Frederick Graff page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=14795",
+      "label": "phillyhistory.org 1933 picture of this piece"
+    },
+    {
+      "url": "https://digital.librarycompany.org/islandora/object/digitool%3A100095",
+      "label": "librarycompany.org picture of this piece with artist information"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/graff.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/graff.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/graff2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/graff2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

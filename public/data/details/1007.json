@@ -1,0 +1,96 @@
+{
+  "id": "1007",
+  "title": {
+    "display": "City Root",
+    "list": "City Root"
+  },
+  "artists": [
+    {
+      "name": "Keiko Miyamori",
+      "externallinks": [
+        {
+          "url": "https://www.keikomiyamori.com/",
+          "label": "keikomiyamori.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2004"
+    }
+  ],
+  "location": {
+    "latitude": "39.959195",
+    "longitude": "-75.158170",
+    "description": "Northeast corner, 12th and Calowhill"
+  },
+  "comments": "visible through the fence",
+  "inscription": "<br />2004 1st Prize, Sculpture Competition  <br />Frederik Meijer Gardens and Sculpture Park  <br />Grand Rapids, MI",
+  "content": [
+    {
+      "description": "cube"
+    },
+    {
+      "description": "containing oak roots"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://floggingbabel.blogspot.com/2009/04/city-root-rootless.html",
+      "label": "Michael Swanwick's blogspot.com post about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityroot1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityroot1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityroot2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityroot2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityroot3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityroot3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityroot4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityroot4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityroot5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityroot5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

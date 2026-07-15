@@ -1,0 +1,143 @@
+{
+  "id": "566",
+  "title": {
+    "display": "Humanity in Motion",
+    "list": "Humanity in Motion"
+  },
+  "artists": [
+    {
+      "name": "Jonathan Borofsky",
+      "externallinks": [
+        {
+          "url": "https://www.borofsky.com/",
+          "label": "borofsky.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2007"
+    }
+  ],
+  "location": {
+    "latitude": "39.954550",
+    "longitude": "-75.168550",
+    "description": "Northwest corner, 17th and JFK"
+  },
+  "comments": "The pictures were taken from outside the building",
+  "architecture": {
+    "description": "Interior"
+  },
+  "content": [
+    {
+      "description": "standing people"
+    }
+  ],
+  "landmark": {
+    "name": "Comcast Center",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Comcast_Center",
+        "label": "wikipedia.org's Comcast Center page"
+      },
+      {
+        "url": "https://www.theolinstudio.com/comcast-center-plaza",
+        "label": "theolinstudio.com's page for the plaza, including the fountain and trellis"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/98517380",
+      "label": "Max Buten's picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/humanity1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/humanity1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/humanity2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/humanity2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/humanity3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/humanity3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/humanity7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/humanity7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/humanity4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/humanity4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/humanity8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/humanity8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/humanity5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/humanity5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/humanity6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/humanity6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

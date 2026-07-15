@@ -1,0 +1,119 @@
+{
+  "id": "341",
+  "title": {
+    "display": "Score!",
+    "list": "Score!"
+  },
+  "artists": [
+    {
+      "name": "Gil Whitman",
+      "externallinks": [
+        {
+          "url": "https://lcnme.com/obituaries/gilman-bertrand-whitman/",
+          "label": "lcme.com's Gil Whitman obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.903800",
+    "longitude": "-75.169900",
+    "description": "Southwest of the Southwest corner of 11th and Pattison"
+  },
+  "comments": "Was behind the Spectrum at Broad and Pattision.  The Spectrum was demolished early 2011. Reinstalled 2012 in the current location.  The last picture is from the original location",
+  "content": [
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "one kneeling",
+      "separator": ","
+    },
+    {
+      "description": "hockey equipment"
+    }
+  ],
+  "landmark": {
+    "name": "Xfinity Live",
+    "prefix": "On the path from the parking lot behind",
+    "externallinks": [
+      {
+        "url": "https://www.xfinitylive.com/",
+        "label": "xfinitylive.com"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/wallyg/2544094113",
+      "label": "Wally Gobetz's picture of this piece at the original location on flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/score2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/score2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/score3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/score3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/score4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/score4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/score5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/score5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/score.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/score.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "378",
+  "title": {
+    "display": "Tabernacle United Church Signs",
+    "list": "Tabernacle United Church Signs"
+  },
+  "artists": [
+    {
+      "name": "Lynn Denton",
+      "externallinks": [
+        {
+          "url": "https://www.lynnbdenton.com/",
+          "label": "lynnbdenton.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1999"
+    }
+  ],
+  "location": {
+    "latitude": "39.954800",
+    "longitude": "-75.196650",
+    "description": "Southwest corner, 37th and Chestnut"
+  },
+  "comments": "tiles painted by the congregation",
+  "content": [
+    {
+      "description": "signs",
+      "separator": ","
+    },
+    {
+      "description": "religious symbols and imagery",
+      "separator": ","
+    },
+    {
+      "description": "boat",
+      "separator": ","
+    },
+    {
+      "description": "Earth",
+      "separator": ","
+    },
+    {
+      "description": "food",
+      "separator": ","
+    },
+    {
+      "description": "sitting"
+    },
+    {
+      "description": "and standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "sheep",
+      "separator": ","
+    },
+    {
+      "description": "hands",
+      "separator": ","
+    },
+    {
+      "description": "water"
+    }
+  ],
+  "landmark": {
+    "name": "Tabernacle United Church",
+    "externallinks": [
+      {
+        "url": "https://tabunited.org/",
+        "label": "tabunited.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabsign1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabsign1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabsign2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabsign2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabsign3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabsign3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabsign4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabsign4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

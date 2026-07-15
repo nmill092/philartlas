@@ -1,0 +1,219 @@
+{
+  "id": "549",
+  "title": {
+    "display": "The Tuttleman Center",
+    "list": "Tuttleman Center, The"
+  },
+  "years": [
+    {
+      "year": "2001"
+    }
+  ],
+  "location": {
+    "latitude": "40.019400",
+    "longitude": "-75.192375",
+    "description": "Southwest from School House Lane and Henry Ave."
+  },
+  "comments": "This is only a representative sampling of the art.",
+  "architecture": {
+    "description": "North wall"
+  },
+  "content": [
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "seated people",
+      "separator": ","
+    },
+    {
+      "description": "ball of yarn",
+      "separator": ","
+    },
+    {
+      "description": "cat",
+      "separator": ","
+    },
+    {
+      "description": "cell phone and calculator, cooking utensils, movie equipment",
+      "separator": ","
+    },
+    {
+      "description": "chinese characters",
+      "separator": ","
+    },
+    {
+      "description": "flower",
+      "separator": ","
+    },
+    {
+      "description": "food",
+      "separator": ","
+    },
+    {
+      "description": "masks",
+      "separator": ","
+    },
+    {
+      "description": "musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "pencil and paper",
+      "separator": ","
+    },
+    {
+      "description": "sand",
+      "separator": ","
+    },
+    {
+      "description": "shells",
+      "separator": ","
+    },
+    {
+      "description": "sports equipment",
+      "separator": ","
+    },
+    {
+      "description": "water"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/putut13.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/putut13.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson East Falls Campus"
+    }
+  ]
+}

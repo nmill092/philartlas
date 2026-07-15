@@ -1,0 +1,64 @@
+{
+  "id": "523",
+  "title": {
+    "display": "Untitled",
+    "list": "Untitled (Fahlen)"
+  },
+  "artists": [
+    {
+      "name": "Charles Fahlen",
+      "externallinks": [
+        {
+          "url": "https://charlesfahlen.com/",
+          "label": "charlesfahlen.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1977"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "40.042625",
+    "longitude": "-75.171300",
+    "description": "Northeast corner, Rittenhouse and Morton"
+  },
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "stacked squares"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fahlenrm1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fahlenrm1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fahlenrm2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fahlenrm2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

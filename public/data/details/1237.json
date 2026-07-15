@@ -1,0 +1,131 @@
+{
+  "id": "1237",
+  "title": {
+    "display": "Strawbridge and Clothier Building West Entrance",
+    "list": "Strawbridge and Clothier Building West Entrance"
+  },
+  "artists": [
+    {
+      "name": "Edward Paul  Simon (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21527",
+          "label": "philadelphiabuildings.org's Edward Paul Simon page"
+        }
+      ]
+    },
+    {
+      "name": "Grant Miles Simon (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21536",
+          "label": "philadelphiabuildings.org's Grant Miles Simon page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1931"
+    }
+  ],
+  "location": {
+    "latitude": "39.951400",
+    "longitude": "-75.154575",
+    "description": "North side of Market, East of 9th"
+  },
+  "comments": "the building has been divided up and used by many different businesses since the department store closed in 2006 ",
+  "inscription": "STRAWBRIDGE AND CLOTHIER SEAL OF CONFIDENCE",
+  "architecture": {
+    "description": "Above the entrance"
+  },
+  "content": [
+    {
+      "description": "logo",
+      "separator": ","
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "peace pipe",
+      "separator": ","
+    },
+    {
+      "description": "paper",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "winged cherubs",
+      "separator": ","
+    },
+    {
+      "description": "birds"
+    }
+  ],
+  "peopleprefix": "bas relief of",
+  "people": [
+    {
+      "name": "William Penn",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Penn",
+          "label": "wikipedia.org's William Penn page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/17251",
+      "label": "philadelphiabuildings.org's page for the building"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Strawbridge%27s",
+      "label": "wikipedia.org's Strawbridge's page"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/Detail.aspx?assetId=11358",
+      "label": "picture of the building still under construction in 1930 at phillyhistory.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/strawbwest1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/strawbwest1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/strawbwest2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/strawbwest2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

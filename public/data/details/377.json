@@ -1,0 +1,289 @@
+{
+  "id": "377",
+  "title": {
+    "display": "Tabernacle Presbyterian Church",
+    "list": "Tabernacle Presbyterian Church"
+  },
+  "artists": [
+    {
+      "name": "Theophilus Parsons Chandler Jr.  (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theophilus_P._Chandler_Jr.",
+          "label": "wikipedia.org's Theophilus P. Chandler Jr. page"
+        }
+      ]
+    },
+    {
+      "name": "Henry Christopher McCook",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Christopher_McCook",
+          "label": "wikipedia.org's Henry Christopher McCook page"
+        }
+      ]
+    },
+    {
+      "name": "Michael F. Scully",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22603",
+          "label": "philadelphiabuildings.org's Michael F. Scully page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1884"
+    },
+    {
+      "year": "1886"
+    }
+  ],
+  "location": {
+    "latitude": "39.954500",
+    "longitude": "-75.196800",
+    "description": "Southwest corner, 37th and Chestnut"
+  },
+  "comments": "Rev. McCook is reported to have chosen the inscriptions",
+  "inscription": "<br />North Entrance: I am the door.  <br />tower: My Goodness and My fortress. My High Tower and My Deliver.  He in whom I trust.  <br />East Entrance: We have seen his star in the East and are come to worship him.  <br />shields:   <br />He is risen.   <br />Lampades multae, una lux.  <br />Christus Exaltus Salvator.  <br />Lux lucet in tenebris  <br />Nec tamen consumebatur.",
+  "architecture": {
+    "description": "North and East sides"
+  },
+  "content": [
+    {
+      "description": "dragons",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "partial"
+    },
+    {
+      "description": "cherubs and angels",
+      "separator": ","
+    },
+    {
+      "description": "winged lion",
+      "separator": ","
+    },
+    {
+      "description": "winged ox",
+      "separator": ","
+    },
+    {
+      "description": "eagle",
+      "separator": ","
+    },
+    {
+      "description": "sun",
+      "separator": ","
+    },
+    {
+      "description": "candle",
+      "separator": ","
+    },
+    {
+      "description": "fire"
+    }
+  ],
+  "landmark": {
+    "name": "Tabernacle United Church",
+    "externallinks": [
+      {
+        "url": "https://tabunited.org/",
+        "label": "tabunited.org"
+      }
+    ]
+  },
+  "peopleprefix": "Symbols of and references to",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Saint John",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_the_Evangelist",
+          "label": "wikipedia.org's John the Evangelist page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Luke",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Luke_the_Evangelist",
+          "label": "wikipedia.org's Luke the Evangelist page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Mark",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_the_Evangelist",
+          "label": "wikipedia.org's Mark the Evangelist page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=03B8B5CC-D34E-4926-A3E66D8A15DFF3A8",
+      "label": "philadelphiabuildings.org's page for the building"
+    },
+    {
+      "url": "https://www.oocities.org/gargoyleppa/tabernacle.html",
+      "label": "Gargoyle Hunter's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tabout13.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tabout13.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "442",
+  "title": {
+    "display": "Wistar Institute Entrance",
+    "list": "Wistar Institute Entrance"
+  },
+  "artists": [
+    {
+      "name": "Conkling-Armstrong Terra Cotta Company",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/78609",
+          "label": "philadelphiabuildings.org's Conkling-Armstrong Terra Cotta Company page"
+        }
+      ]
+    },
+    {
+      "name": "G.W. and W.D. Hewitt (Architects)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/G._W._%26_W._D._Hewitt",
+          "label": "wikipedia.org's G.W. and W.D. Hewitt page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1894"
+    }
+  ],
+  "location": {
+    "latitude": "39.951200",
+    "longitude": "-75.195425",
+    "description": "West side of 36th between Spruce and Locust"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "reclining people",
+      "separator": ","
+    },
+    {
+      "description": "book and quill",
+      "separator": ","
+    },
+    {
+      "description": "owl",
+      "separator": ","
+    },
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "landmark": {
+    "name": "Wistar Institute",
+    "externallinks": [
+      {
+        "url": "https://wistar.org/",
+        "label": "wistar.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/82844",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wistar2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wistar2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wistar3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wistar3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wistar4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wistar4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "438",
+  "title": {
+    "display": "The Winged Ox, Symbol of St. Luke the Physician",
+    "list": "Winged Ox, Symbol of St. Luke the Physician, The"
+  },
+  "artists": [
+    {
+      "name": "Henry Mitchell",
+      "externallinks": [
+        {
+          "url": "https://www.cantonartcollection.com/artistbio.php?artist_id=476",
+          "label": "cantonartcollection.com's Henry Mitchell bio"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.948400",
+    "longitude": "-75.157850",
+    "description": "South side of Walnut just West of 10th"
+  },
+  "comments": "The pole is inscribed with the names of famous doctors, starting with Hippocrates at the bottom. ",
+  "content": [
+    {
+      "description": "winged ox",
+      "separator": ","
+    },
+    {
+      "description": "symbol"
+    }
+  ],
+  "peopleprefix": "Symbol of",
+  "people": [
+    {
+      "name": "Saint Luke",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Luke_the_Evangelist",
+          "label": "wikipedia.org's Luke the Evangelist page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/markluethi/5575189486",
+      "label": "Mark Luethi's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wingox.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wingox.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wingox2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wingox2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

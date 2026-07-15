@@ -1,0 +1,352 @@
+{
+  "id": "982",
+  "title": {
+    "display": "Innovation Plaza",
+    "list": "Innovation Plaza"
+  },
+  "artists": [
+    {
+      "name": "Exit Design",
+      "externallinks": [
+        {
+          "url": "https://exploreexit.com/",
+          "label": "exploreexit.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2015"
+    }
+  ],
+  "location": {
+    "latitude": "39.955645",
+    "longitude": "-75.196295",
+    "description": "37th from Market to Chestnut"
+  },
+  "inscription": "<br />\"The best way to predict the future is to invent it.\" - Alan Kay  <br />\"You must do the thing you think you cannot do.\" - Eleanor Roosevelt  <br />\"They always say time changes things, but you actually have to change them yourself.\" - Andy Warhol",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "abstract geometric forms",
+      "separator": ","
+    },
+    {
+      "description": "some internally lit"
+    }
+  ],
+  "peopleprefix": "References to",
+  "people": [
+    {
+      "name": "Kathleen McNulty Mauchly Antonelli",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kathleen_Antonelli",
+          "label": "wikipedia.org's Kathleen Antonelli page"
+        }
+      ]
+    },
+    {
+      "name": "John Backus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Backus",
+          "label": "wikipedia.org's John Backus page"
+        }
+      ]
+    },
+    {
+      "name": "Jean Jennings Bartik",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean_Bartik",
+          "label": "wikipedia.org's Jean Bartik page"
+        }
+      ]
+    },
+    {
+      "name": "Britton Chance",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Britton_Chance",
+          "label": "wikipedia.org's Britton Chance page"
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Cole",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Cole",
+          "label": "wikipedia.org's Rebecca Cole page"
+        }
+      ]
+    },
+    {
+      "name": "Eleuthere Irenee  du Pont",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%89leuth%C3%A8re_Ir%C3%A9n%C3%A9e_du_Pont",
+          "label": "wikipedia.org's Eleuthere Irenee du Pont page"
+        }
+      ]
+    },
+    {
+      "name": "J. Presper Eckert, Jr.",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/J._Presper_Eckert",
+          "label": "wikipedia.org's J. Presper Eckert page"
+        }
+      ]
+    },
+    {
+      "name": "R. Buckminster Fuller",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Buckminster_Fuller",
+          "label": "wikipedia.org's Buckminster Fuller page"
+        }
+      ]
+    },
+    {
+      "name": "Frances Snyder Holberton",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Betty_Holberton",
+          "label": "wikipedia.org's Betty Holberton page"
+        }
+      ]
+    },
+    {
+      "name": "Osagie Imasogie",
+      "externallinks": [
+        {
+          "url": "https://www.law.upenn.edu/faculty/oimasogi/  ",
+          "label": "law.penn.edu's Osagie Imasogie page"
+        }
+      ]
+    },
+    {
+      "name": "Alan Kay",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alan_Kay",
+          "label": "wikipedia.org's Alan Key page"
+        }
+      ]
+    },
+    {
+      "name": "Stephanie L. Kwolek",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephanie_Kwolek",
+          "label": "wikipedia.org's Stephanie Kwolek page"
+        }
+      ]
+    },
+    {
+      "name": "John W. Mauchly",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Mauchly",
+          "label": "wikipedia.org's John Mauchly page"
+        }
+      ]
+    },
+    {
+      "name": "Marlyn Wescoff Meltzer",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marlyn_Meltzer",
+          "label": "wikipedia.org's Marlyn Meltzer page"
+        }
+      ]
+    },
+    {
+      "name": "Frank Piasecki",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Piasecki",
+          "label": "wikipedia.org's Frank Piasecki page"
+        }
+      ]
+    },
+    {
+      "name": "Judith Rodin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Judith_Rodin",
+          "label": "wikipedia.org'a Judith Rodin page"
+        }
+      ]
+    },
+    {
+      "name": "Eleanor Roosevelt",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt",
+          "label": "wikipedia.org's Eleanor Roosevelt page"
+        }
+      ]
+    },
+    {
+      "name": "Hubert J. P. Schoemaker",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hubert_Schoemaker",
+          "label": "wikipedia.org's Hubert Schoemaker page"
+        }
+      ]
+    },
+    {
+      "name": "Krishna Singh",
+      "externallinks": [
+        {
+          "url": "https://holtecinternational.com/company/leadership/corporate-leadership/kris-singh/",
+          "label": "holtecinternational.com's Kris Singh page"
+        }
+      ]
+    },
+    {
+      "name": "Michael Solomonov",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Solomonov",
+          "label": "wikipedia.org's   Michael Solomonov page"
+        }
+      ]
+    },
+    {
+      "name": "Frances Bilas Spence",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frances_Spence",
+          "label": "wikipedia.org's Frances Spence page"
+        }
+      ]
+    },
+    {
+      "name": "Ruth Lichterman Teitelbaum",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ruth_Teitelbaum",
+          "label": "wikipedia.org's Ruth Teitelbaum page"
+        }
+      ]
+    },
+    {
+      "name": "Andy Warhol",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Andy_Warhol",
+          "label": "wikipedia.org's Andy Warhol page"
+        }
+      ]
+    },
+    {
+      "name": "Judy Wicks",
+      "externallinks": [
+        {
+          "url": "https://www.judywicks.com/",
+          "label": "judywicks.com"
+        }
+      ]
+    },
+    {
+      "name": "Blanka Zizka",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blanka_Zizka",
+          "label": "wikipedia.org's Blanka Zizka page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.exploreexit.com/work/University-City-Science-Center/",
+      "label": "exploreexit.com's entry for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/iplaza1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/iplaza1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/iplaza7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/iplaza7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/iplaza2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/iplaza2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/iplaza3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/iplaza3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/iplaza4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/iplaza4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/iplaza5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/iplaza5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/iplaza6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/iplaza6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

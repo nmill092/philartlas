@@ -1,0 +1,89 @@
+{
+  "id": "231",
+  "title": {
+    "display": "The Lion Fighter",
+    "list": "Lion Fighter, The"
+  },
+  "artists": [
+    {
+      "name": "Albert Wolff",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Albert_Wolff_(sculptor)",
+          "label": "wikipedia.org's Albert Wolff page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1858"
+    }
+  ],
+  "yearmodifier": "cast 1892, installed 1929",
+  "location": {
+    "latitude": "39.964575",
+    "longitude": "-75.180100",
+    "description": "25th and the Parkway"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "spear",
+      "separator": ","
+    },
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "lion"
+    }
+  ],
+  "landmark": {
+    "name": "Art Museum",
+    "prefix": "At the foot of the steps of the",
+    "externallinks": [
+      {
+        "url": "https://www.philamuseum.org/",
+        "label": "philamuseum.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/the-lion-fighter/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lionfi.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lionfi.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lionfi2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lionfi2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

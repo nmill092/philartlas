@@ -1,0 +1,101 @@
+{
+  "id": "596",
+  "title": {
+    "display": "Taller Puertorriqueno Community Garden",
+    "list": "Taller Puertorriqueno Community Garden"
+  },
+  "location": {
+    "latitude": "39.992660",
+    "longitude": "-75.140000",
+    "description": "East side of 5th, North of Lehigh"
+  },
+  "comments": "Inside the fence but clearly visible",
+  "content": [
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "food",
+      "separator": ","
+    },
+    {
+      "description": "dragon",
+      "separator": ","
+    },
+    {
+      "description": "guitar",
+      "separator": ","
+    },
+    {
+      "description": "hats"
+    }
+  ],
+  "landmark": {
+    "name": "Taller Puertorriqueno",
+    "prefix": "Next to the Administrative Building,",
+    "externallinks": [
+      {
+        "url": "https://tallerpr.org/",
+        "label": "tallerpr.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/taller1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/taller1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/taller2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/taller2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/taller3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/taller3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/taller4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/taller4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/taller5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/taller5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

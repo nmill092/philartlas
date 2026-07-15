@@ -1,0 +1,160 @@
+{
+  "id": "358",
+  "title": {
+    "display": "Spirit of Transportation",
+    "list": "Spirit of Transportation"
+  },
+  "artists": [
+    {
+      "name": "Karl Bitter",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Karl_Bitter",
+          "label": "wikipedia.org's Karl Bitter page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1895"
+    }
+  ],
+  "location": {
+    "latitude": "39.956140",
+    "longitude": "-75.182025",
+    "description": "Northeast corner, 30th and Market"
+  },
+  "inscription": "<br />This panel, the conception and work of Karl Bitter, sculptor, was executed in 1895 and placed in the waiting room of Broad Street Station Philadelphia from which place it was removed to this site in January, 1933. The spirit of transportation is represented in triumphant procession of progress led by a little child carrying a model of an airship, a prophetic vision of a mode of transportation to come.",
+  "architecture": {
+    "description": "North Waiting Room"
+  },
+  "content": [
+    {
+      "description": "group of people",
+      "separator": ","
+    },
+    {
+      "description": "mostly standing",
+      "separator": ","
+    },
+    {
+      "description": "some sitting",
+      "separator": ","
+    },
+    {
+      "description": "horses",
+      "separator": ","
+    },
+    {
+      "description": "sheep",
+      "separator": ","
+    },
+    {
+      "description": "oxen",
+      "separator": ","
+    },
+    {
+      "description": "wagon and carriage",
+      "separator": ","
+    },
+    {
+      "description": "basket"
+    },
+    {
+      "description": "of fruit",
+      "separator": ","
+    },
+    {
+      "description": "model train",
+      "separator": ","
+    },
+    {
+      "description": "model boat",
+      "separator": ","
+    },
+    {
+      "description": "model airship"
+    }
+  ],
+  "landmark": {
+    "name": "30th Street Station",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/30th_Street_Station",
+        "label": "wikipedia.org's 30th Street Station page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.phillyvoice.com/art-30th-street-station-transportation/",
+      "label": "phillyvoice.com article about this piece"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=brOBSVOEVpE",
+      "label": "Wanda Kaluza's video of this piece at youtube.com"
+    },
+    {
+      "url": "https://www.flickr.com/photos/flickr4jazz/5250264602",
+      "label": "Jazz Guy's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/trans1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/trans1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/trans2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/trans2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/trans3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/trans3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/trans4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/trans4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/trans5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/trans5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

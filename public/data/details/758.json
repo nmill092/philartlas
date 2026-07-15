@@ -1,0 +1,63 @@
+{
+  "id": "758",
+  "title": {
+    "display": "Philadelphia Dance",
+    "list": "Philadelphia Dance"
+  },
+  "artists": [
+    {
+      "name": "Isaiah Zagar",
+      "externallinks": [
+        {
+          "url": "https://www.phillymagicgardens.org/",
+          "label": "phillymagicgardens.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2004"
+    }
+  ],
+  "location": {
+    "latitude": "39.944150",
+    "longitude": "-75.160400",
+    "description": "Lombard and Jessup (North side of Lombard, West of 11th)"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract mural",
+      "separator": ","
+    },
+    {
+      "description": "partial people"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://imgur.com/2Jvb7xr",
+      "label": "official picture of this piece at imgur.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/philadance.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/philadance.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

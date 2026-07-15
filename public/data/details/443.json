@@ -1,0 +1,368 @@
+{
+  "id": "443",
+  "title": {
+    "display": "Witherspoon Building",
+    "list": "Witherspoon Building"
+  },
+  "artists": [
+    {
+      "name": "Conkling-Armstrong Terra Cotta Company",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/78609",
+          "label": "philadelphiabuildings.org's Conkling-Armstrong Terra Cotta Company page"
+        }
+      ]
+    },
+    {
+      "name": "Joseph M.  Huston (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/25237",
+          "label": "philadelphiabuildings.org's Joseph M. Huston page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1895"
+    },
+    {
+      "year": "1897"
+    }
+  ],
+  "location": {
+    "latitude": "39.949250",
+    "longitude": "-75.163200",
+    "description": "West side of Juniper between Sansom and Walnut, and along the North side of Walnut West of Juniper"
+  },
+  "architecture": {
+    "description": "Entire Building"
+  },
+  "content": [
+    {
+      "description": "lion",
+      "separator": ","
+    },
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "ox",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "books",
+      "separator": ","
+    },
+    {
+      "description": "winged person",
+      "separator": ","
+    },
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "reclining people",
+      "separator": ","
+    },
+    {
+      "description": "heads and eyes",
+      "separator": ","
+    },
+    {
+      "description": "fire",
+      "separator": ","
+    },
+    {
+      "description": "scales",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "anchor",
+      "separator": ","
+    },
+    {
+      "description": "cup",
+      "separator": ","
+    },
+    {
+      "description": "furniture",
+      "separator": ","
+    },
+    {
+      "description": "various religious symbols and the city seal"
+    }
+  ],
+  "peopleprefix": "people:",
+  "people": [
+    {
+      "name": "Albert Barnes",
+      "comment": "relief bust",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Albert_Barnes_(theologian)",
+          "label": "wikipedia.org Albert Barnes page"
+        }
+      ]
+    },
+    {
+      "name": "Charles Hodge",
+      "comment": "relief bust",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Hodge",
+          "label": "wikipedia.org Charles Hodge page"
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "comment": "symbols, infants, hospitatl logo",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Saint John",
+      "comment": "raven",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_the_Evangelist",
+          "label": "wikipedia.org's John the Evangelist page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Luke",
+      "comment": "winged ox",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Luke_the_Evangelist",
+          "label": "wikipedia.org's Luke the Evangelist page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Mark",
+      "comment": "winged lion",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_the_Evangelist",
+          "label": "wikipedia.org's Mark the Evangelist page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Matthew",
+      "comment": "winged human",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Matthew_the_Apostle",
+          "label": "wikipedia.org's Matthew the Apostle page"
+        }
+      ]
+    },
+    {
+      "name": "John Witherspoon",
+      "comment": "building name",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Witherspoon",
+          "label": "wikipedia.org's John Witherspoon page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=PHC-11518",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withsp1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withsp1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withsp2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withsp2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withsp3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withsp3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withsp4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withsp4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withsp5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withsp5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withsp6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withsp6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withsp7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withsp7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withsp8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withsp8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withsp9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withsp9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withspa.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withspa.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withspb.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withspb.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withspc.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withspc.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withspd.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withspd.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withspe.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withspe.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withspf.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withspf.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withspg.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withspg.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Gayborhood"
+    }
+  ]
+}

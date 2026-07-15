@@ -1,0 +1,82 @@
+{
+  "id": "582",
+  "title": {
+    "display": "Nuevo Fuego/New Fire",
+    "list": "Nuevo Fuego/New Fire"
+  },
+  "artists": [
+    {
+      "name": "Cesar Viveros",
+      "externallinks": [
+        {
+          "url": "https://www.muralarts.org/artist/cesar-viveros/",
+          "label": "muralarts.org's Cesar Viveros page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "location": {
+    "latitude": "39.969790",
+    "longitude": "-75.140360"
+  },
+  "comments": "Was on the North side of Girard at Germantown (West of 2nd). Replaced with new construction some time before 2022. The picture is of the sculptural elements.  There was a painted mural above them.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "sun"
+    },
+    {
+      "description": "face",
+      "separator": ","
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "hats"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nuevofuego1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nuevofuego1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nuevofuego2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nuevofuego2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nuevofuego3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nuevofuego3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

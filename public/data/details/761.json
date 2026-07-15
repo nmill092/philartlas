@@ -1,0 +1,72 @@
+{
+  "id": "761",
+  "title": {
+    "display": "Packard Building Gates",
+    "list": "Packard Building Gates"
+  },
+  "artists": [
+    {
+      "name": "Samuel Yellin",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/23067",
+          "label": "philadelphiabuildings.orgs's Samuel Yellin page"
+        },
+        {
+          "url": "http://www.samuelyellin.com/",
+          "label": "samuelyellin.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1923"
+    }
+  ],
+  "location": {
+    "latitude": "39.950950",
+    "longitude": "-75.165360",
+    "description": "Southeast corner, 15th and Chestnut"
+  },
+  "architecture": {
+    "description": "Gates"
+  },
+  "content": [
+    {
+      "description": "flowers"
+    }
+  ],
+  "landmark": {
+    "name": "Packard Building",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/15238",
+        "label": "philadelphiabuildings.org's Packard Building page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/packard-gates-and-lighting-fixtures/",
+      "label": "associationforpublicart.org's page this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/packardgate.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/packardgate.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

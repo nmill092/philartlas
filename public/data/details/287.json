@@ -1,0 +1,157 @@
+{
+  "id": "287",
+  "title": {
+    "display": "Philadelphia Korean War Memorial",
+    "list": "Philadelphia Korean War Memorial"
+  },
+  "artists": [
+    {
+      "name": "Jirair Youssefian"
+    }
+  ],
+  "years": [
+    {
+      "year": "2002"
+    }
+  ],
+  "location": {
+    "latitude": "39.944910",
+    "longitude": "-75.143450",
+    "description": "East side of 38th Parallel Place between Dock and Spruce"
+  },
+  "comments": "a row of ground-mounted plaques (in the last four pictures) has been added on the North side of the piece since the original installation",
+  "content": [
+    {
+      "description": "emblems and historical text",
+      "separator": ","
+    },
+    {
+      "description": "map",
+      "separator": ","
+    },
+    {
+      "description": "pictures of people",
+      "separator": ","
+    },
+    {
+      "description": "steles",
+      "separator": ","
+    },
+    {
+      "description": "relief busts",
+      "separator": ","
+    },
+    {
+      "description": "headgear"
+    }
+  ],
+  "landmark": {
+    "name": "Foglietta Plaza",
+    "prefix": "West end of"
+  },
+  "peopleprefix": "Letter from",
+  "people": [
+    {
+      "name": "Kim Dae-jung",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kim_Dae-jung",
+          "label": "wikipedia.org's Kim Dae-jung page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Philadelphia_Korean_War_Memorial",
+      "label": "wikipedia.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/korea1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/korea1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/korea2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/korea2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/korea3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/korea3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/korea5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/korea5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/korea6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/korea6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/korea7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/korea7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/korea8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/korea8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/korea9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/korea9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

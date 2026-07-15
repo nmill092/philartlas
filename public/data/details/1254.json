@@ -1,0 +1,99 @@
+{
+  "id": "1254",
+  "title": {
+    "display": "Cascode",
+    "list": "Cascode"
+  },
+  "artists": [
+    {
+      "name": "Eto Otitigbe",
+      "externallinks": [
+        {
+          "url": "https://www.instagram.com/etootitigbe/",
+          "label": "Eto Otitigbe's page at instagram.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2024"
+    }
+  ],
+  "location": {
+    "latitude": "39.954600",
+    "longitude": "-75.191600",
+    "description": "Just North of the Northeast corner, 34th and Chestnut"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "collection of linked abstract forms"
+    }
+  ],
+  "landmark": {
+    "name": "Amy Gutmann Hall",
+    "prefix": "West side of",
+    "externallinks": [
+      {
+        "url": "https://ai.seas.upenn.edu/amy-gutmann-hall/",
+        "label": "ai.seas.upenn.edu's Amy Gutmann Hall page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://almanac.upenn.edu/articles/cascode-art-installation-that-visualizes-data-commissioned-for-amy-gutmann-hall",
+      "label": "almanac.upenn.edu article about this piece before it was designed"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cascode1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cascode1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cascode2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cascode2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cascode3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cascode3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cascode4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cascode4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

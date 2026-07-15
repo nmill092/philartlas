@@ -1,0 +1,53 @@
+{
+  "id": "1177",
+  "title": {
+    "display": "Amtrak Logo",
+    "list": "Amtrak Logo"
+  },
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "location": {
+    "latitude": "39.955860",
+    "longitude": "-75.182950",
+    "description": "East side of 30th at JFK"
+  },
+  "inscription": "30th Street Station 1933",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "logo"
+    }
+  ],
+  "landmark": {
+    "name": "30th Street Station",
+    "prefix": "West side of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/30th_Street_Station",
+        "label": "wikipedia.org's 30th Street Station page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amtraklogo.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amtraklogo.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "754",
+  "title": {
+    "display": "Gates",
+    "list": "Gates (Cramer)"
+  },
+  "artists": [
+    {
+      "name": "Richard Cramer",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/obituaries/coronavirus-obituary-richard-cramer-tyler-school-of-art-professor-painting-20200417.html",
+          "label": "inquirer.com's Richard Cramer obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "location": {
+    "latitude": "39.943925",
+    "longitude": "-75.158950",
+    "description": "North side of Lombard just West of 10th"
+  },
+  "architecture": {
+    "description": "Gates"
+  },
+  "content": [
+    {
+      "description": "abstract lines"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/10lomgates.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/10lomgates.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

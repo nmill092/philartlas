@@ -1,0 +1,60 @@
+{
+  "id": "1270",
+  "title": {
+    "display": "Tons of Tiles",
+    "list": "Tons of Tiles"
+  },
+  "years": [
+    {
+      "year": "2003"
+    }
+  ],
+  "location": {
+    "latitude": "39.947945",
+    "longitude": "-75.222605",
+    "description": "Baltimore and Willows (South side of Baltimore, East of 50th)"
+  },
+  "comments": "The inscription tile gives has two titles \"Cedar Park\" by Karl Yoder and \"Tons of Tiles.\" There is a second credit tile inside the fence that says June, 200 and then a final digit I cannot read. The Mural Arts site implies the mural and tiles are all one piece, but has no date.  Yoder's web site does not mention the tiles at all, but does provide a date of 2003. I am listing this as \"Tons of Tiles\", 2003 and providing the Mural Arts link for \"Cedar Park\"",
+  "inscription": "Created by Delphi After School Art Museum Program students from Ludlow, Wagner, Turner, Drew, Sulzberger, and Lea schools.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "food"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://muralarts.org/artworks/cedar-park/",
+      "label": "muralarts.org's Cedar Park page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tonsoftiles1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tonsoftiles1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tonsoftiles2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tonsoftiles2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Cedar Park, Clark Park, Portal"
+    }
+  ]
+}

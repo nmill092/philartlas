@@ -1,0 +1,98 @@
+{
+  "id": "444",
+  "title": {
+    "display": "Woman Looking Through a Window",
+    "list": "Woman Looking Through a Window"
+  },
+  "artists": [
+    {
+      "name": "George Segal",
+      "externallinks": [
+        {
+          "url": "https://segalfoundation.org//",
+          "label": "segalfoundation.org"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Segal_(artist)",
+          "label": "wikipedia.org's George Segal page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1980"
+    }
+  ],
+  "yearmodifier": "installed 1981",
+  "location": {
+    "latitude": "39.949400",
+    "longitude": "-75.151575",
+    "description": "North side of Chestnut between 6th and 7th"
+  },
+  "architecture": {
+    "description": "Building entrance overhang"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "window"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/woman-looking-through-a-window/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/womwin.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/womwin.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/womwin2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/womwin2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/womwin3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/womwin3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/womwin4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/womwin4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

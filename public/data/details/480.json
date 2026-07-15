@@ -1,0 +1,64 @@
+{
+  "id": "480",
+  "title": {
+    "display": "Mother Bethel Plaque",
+    "list": "Mother Bethel Plaque"
+  },
+  "years": [
+    {
+      "year": "1901"
+    }
+  ],
+  "location": {
+    "latitude": "39.943375",
+    "longitude": "-75.151935",
+    "description": "East side of  6th, North of Lombard"
+  },
+  "inscription": "<br />African Methodist Episcopal Church  <br />Founded on this site 1787 by Richard Allen (a former slave)  <br />This ground purchased by Richard Allen for a church is the oldest  parcel of real estate owned continuously by negroes in the United  States. This congregation is the world's oldest African Methodist  Episcopal Church congreation.  The first church (1787) was an abandoned blacksmith shop, hauled  to this place by the teams of Richard Allen who was elected a Bishop  in 1810.  <br />  \"We all went out of the church (Old St. George's Methodist Church)  in a body\" and \"they were no more plagued with us in their church.\"  <br />-Richard Allen  <br />May our God continue to bless Mother Bethel and all her children  now scattered throughout the world bringing faith and hope to  millions of weary souls.  <br />  Ring the bells of freedom throughout the world  <br />  \"Rise, shine, give God the glory for the year of jubilee.\"  <br />October 1901 [could be 1961]  ",
+  "architecture": {
+    "description": "Near the entrance"
+  },
+  "content": [
+    {
+      "description": "head"
+    }
+  ],
+  "landmark": {
+    "name": "Mother Bethel African Methodist Episcopal Church",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mother_Bethel_A.M.E._Church",
+        "label": "wikipedia.org's Mother Bethel AME Church page"
+      }
+    ]
+  },
+  "peopleprefix": "Bas-relief bust of",
+  "people": [
+    {
+      "name": "Richard Allen",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Richard_Allen_%28bishop%29",
+          "label": "wikipedia.org's Richard Allen page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mbplaque.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mbplaque.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

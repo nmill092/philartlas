@@ -1,0 +1,96 @@
+{
+  "id": "33",
+  "title": {
+    "display": "Benjamin Franklin in 1723",
+    "list": "Benjamin Franklin in 1723"
+  },
+  "artists": [
+    {
+      "name": "R. Tait McKenzie",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/R._Tait_McKenzie",
+          "label": "wikipedia.org's R. Tait McKenzie page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1914"
+    }
+  ],
+  "location": {
+    "latitude": "39.950800",
+    "longitude": "-75.191000",
+    "description": "East side of 33rd Street, North of Spruce"
+  },
+  "comments": "Also listed as \"Youthful Franklin\" and \"The Young Franklin\". A small version of this piece is in the Children's Department of the main library at 20th and Race.",
+  "inscription": "<br /> front:  Benjamin Franklin in 1723 <br /> left: \"I have been the more particular in this description of my journey that you may compare such unlikely beginnings with the figure I have since made there.\"  -Franklin to his son. <br /> right:  This memorial dedicated to the Tenth Reunion of the Class of 1904 is a tribute to the inspiration and example of the founder of the University to many generations of the sons of Pennsylvania  ",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "walking stick",
+      "separator": ","
+    },
+    {
+      "description": "bag of belongings"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/benjamin-franklin-in-1723-or-the-young-franklin/",
+      "label": "associationforpublicart.org's page for this piece"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/youthful-franklin",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benf1723.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benf1723.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benf1723d.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benf1723d.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

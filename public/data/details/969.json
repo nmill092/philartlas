@@ -1,0 +1,68 @@
+{
+  "id": "969",
+  "title": {
+    "display": "Mary",
+    "list": "Mary (Kate's Place)"
+  },
+  "location": {
+    "latitude": "39.951380",
+    "longitude": "-75.173380",
+    "description": "North side of Sansom, East of 20th"
+  },
+  "comments": "visible from the sidewalk",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "head covered",
+      "separator": ","
+    },
+    {
+      "description": "Christian symbols",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "landmark": {
+    "name": "Kate's Place",
+    "externallinks": [
+      {
+        "url": "https://www.projecthome.org/kates-place",
+        "label": "projecthome.org's Kates Place page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marykatespl.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marykatespl.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

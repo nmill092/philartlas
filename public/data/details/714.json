@@ -1,0 +1,503 @@
+{
+  "id": "714",
+  "title": {
+    "display": "Hemicycle Decorative Plaque",
+    "list": "Hemicycle Decorative Plaque"
+  },
+  "artists": [
+    {
+      "name": "Alexander Kemp"
+    }
+  ],
+  "years": [
+    {
+      "year": "1877"
+    }
+  ],
+  "location": {
+    "latitude": "39.955150",
+    "longitude": "-75.163225",
+    "description": "West side of Broad, North of Arch"
+  },
+  "comments": "Attribution and list of portrayed people are based on the Smithsonian catalog with corrected spellings and attempted disambiguations where reasonably obvious.",
+  "architecture": {
+    "description": "Front wall"
+  },
+  "content": [
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "some standing",
+      "separator": ","
+    },
+    {
+      "description": "some sitting",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "dogs"
+    }
+  ],
+  "landmark": {
+    "name": "Pennsylvania Academy of the Fine Arts",
+    "externallinks": [
+      {
+        "url": "https://www.pafa.org/",
+        "label": "pafa.org"
+      }
+    ]
+  },
+  "peopleprefix": "Representations of",
+  "people": [
+    {
+      "name": "Fra Angelico",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fra_Angelico",
+          "label": "wikipedia.org's Fra Angelico page"
+        }
+      ]
+    },
+    {
+      "name": "Antonello da Messina",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Antonello_da_Messina",
+          "label": "wikipedia.org's Antonello da Messina page"
+        }
+      ]
+    },
+    {
+      "name": "Arnolfo di Cambio",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arnolfo_di_Cambio",
+          "label": "wikipedia.org's Arnolfo di Cambio page"
+        }
+      ]
+    },
+    {
+      "name": "Baccio Bandinelli",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Baccio_Bandinelli",
+          "label": "wikipedia.org's Baccio Bandinelli page"
+        }
+      ]
+    },
+    {
+      "name": "Fra Bartolommeo",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fra_Bartolomeo",
+          "label": "wikipedia.org's Fra Bartolomeo page"
+        }
+      ]
+    },
+    {
+      "name": "Giovanni Bellini",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Giovanni_Bellini",
+          "label": "wikipedia.org's Giovanni Bellini page"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Bontemps",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pierre_Bontemps",
+          "label": "wikipedia.org's Pierre Bontemps page"
+        }
+      ]
+    },
+    {
+      "name": "Donato Bramante",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donato_Bramante",
+          "label": "wikipedia.org's Donato Bramante page"
+        }
+      ]
+    },
+    {
+      "name": "Filippo Brunelleschi",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Filippo_Brunelleschi",
+          "label": "wikipedia.org's Filippo Brunelleschi page"
+        }
+      ]
+    },
+    {
+      "name": "Correggio",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Antonio_da_Correggio",
+          "label": "wikipedia.org's Correggio page"
+        }
+      ]
+    },
+    {
+      "name": "Benedetto da Maiano",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benedetto_da_Maiano",
+          "label": "wikipedia.org's Benedetto da Maiano page"
+        }
+      ]
+    },
+    {
+      "name": "Luca della Robbia",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Luca_della_Robbia",
+          "label": "wikipedia.org's Luca della Robbia page"
+        }
+      ]
+    },
+    {
+      "name": "Domenichino",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Domenichino",
+          "label": "wikipedia.org's Domenichino page"
+        }
+      ]
+    },
+    {
+      "name": "Donatello",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donatello",
+          "label": "wikipedia.org's Donatello page"
+        }
+      ]
+    },
+    {
+      "name": "Albrecht Durer",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Albrecht_Durer",
+          "label": "wikipedia.org's Albrecht Durer page"
+        }
+      ]
+    },
+    {
+      "name": "Lorenzo Ghiberti",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lorenzo_Ghiberti",
+          "label": "wikipedia.org's Lorenzo Ghiberti page"
+        }
+      ]
+    },
+    {
+      "name": "Giorgione",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Giorgione",
+          "label": "wikipedia.org's Giorgione page"
+        }
+      ]
+    },
+    {
+      "name": "Giotto",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Giotto",
+          "label": "wikipedia.org's Giotto page"
+        }
+      ]
+    },
+    {
+      "name": "Jean Goujon",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean_Goujon",
+          "label": "wikipedia.org's Jean Goujon page"
+        }
+      ]
+    },
+    {
+      "name": "Holbein",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Elder",
+          "label": "wikipedia.org's Hans Holbein the Elder page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "label": "wikipedia.org's Hans Holbein the Younger page"
+        }
+      ]
+    },
+    {
+      "name": "Eustache Le Sueur",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eustache_Le_Sueur",
+          "label": "wikipedia.org's Eustache Le Sueur page"
+        }
+      ]
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+          "label": "wikipedia.org's Leonardo da Vinci page"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Lescot",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pierre_Lescot",
+          "label": "wikipedia.org's Pierre Lescot page"
+        }
+      ]
+    },
+    {
+      "name": "Masaccio",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Masaccio",
+          "label": "wikipedia.org's Masaccio page"
+        }
+      ]
+    },
+    {
+      "name": "Michelangelo",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Michelangelo",
+          "label": "wikipedia.org's Michelangelo page"
+        }
+      ]
+    },
+    {
+      "name": "Bartolome Esteban Murillo",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bartolom%C3%A9_Esteban_Murillo",
+          "label": "wikipedia.org's Bartolome Esteban Murillo page"
+        }
+      ]
+    },
+    {
+      "name": "Orcagna",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Orcagna",
+          "label": "wikipedia.org's Orcagna page"
+        }
+      ]
+    },
+    {
+      "name": "Bernard Palissy",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bernard_Palissy",
+          "label": "wikipedia.org's Bernard Palissy page"
+        }
+      ]
+    },
+    {
+      "name": "Andrea Palladio",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrea_Palladio",
+          "label": "wikipedia.org's Andrea Palladio page"
+        }
+      ]
+    },
+    {
+      "name": "Giovanni Pisano",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Giovanni_Pisano",
+          "label": "wikipedia.org's Giovanni Pisano page"
+        }
+      ]
+    },
+    {
+      "name": "Nicolas Poussin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nicolas_Poussin",
+          "label": "wikipedia.org's Nicolas Poussin page"
+        }
+      ]
+    },
+    {
+      "name": "Raphael",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Raphael",
+          "label": "wikipedia.org's Raphael page"
+        }
+      ]
+    },
+    {
+      "name": "Rembrandt",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rembrandt",
+          "label": "wikipedia.org's Rembrandt page"
+        }
+      ]
+    },
+    {
+      "name": "Robert of Luzarches",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_of_Luzarches",
+          "label": "wikipedia.org's Robert of Luzarches page"
+        }
+      ]
+    },
+    {
+      "name": "Peter Paul Rubens",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+          "label": "wikipedia.org's Peter Paul Rubens page"
+        }
+      ]
+    },
+    {
+      "name": "Titian",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Titian",
+          "label": "wikipedia.org's Titian page"
+        }
+      ]
+    },
+    {
+      "name": "Anthony van Dyck",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anthony_van_Dyck",
+          "label": "wikipedia.org's Anthony van Dyck page"
+        }
+      ]
+    },
+    {
+      "name": "Jan van Eyck",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck",
+          "label": "wikipedia.org's Jan van Eyck page"
+        }
+      ]
+    },
+    {
+      "name": "Velasquez",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez",
+          "label": "wikipedia.org's Velasquez page"
+        }
+      ]
+    },
+    {
+      "name": "Paolo Veronese",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paolo_Veronese",
+          "label": "wikipedia.org's Paolo Veronese page"
+        }
+      ]
+    },
+    {
+      "name": "Peter Vischer",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Vischer_the_Elder",
+          "label": "wikipedia.org's Peter Vischer page"
+        },
+        {
+          "url": "https://www.gutenberg.org/files/57428/57428-h/57428-h.htm",
+          "label": "The Project Gutenberg eBook, Peter Vischer"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pafa3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pafa3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pafa4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pafa4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pafa5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pafa5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pafa6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pafa6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pafa7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pafa7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pafa8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pafa8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

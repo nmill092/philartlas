@@ -1,0 +1,173 @@
+{
+  "id": "693",
+  "title": {
+    "display": "Dutch Settlements Plaque",
+    "list": "Dutch Settlements Plaque"
+  },
+  "years": [
+    {
+      "year": "1909"
+    }
+  ],
+  "location": {
+    "latitude": "39.951740",
+    "longitude": "-75.163650",
+    "description": "North side of S. Penn Square at Broad"
+  },
+  "inscription": "<br />In commemoration of the Dutch settlements on the Delaware  1623-1664  <br />The territory occupied by the West India Company  and known as  New Netherland  extended from the Capes of the Delaware to the Connecticut River  and embraced within its boundaries the  Commonwealth of Pennsylvania  <br />Directors General of the West India Company  Adriaen Jorissen Tienpont,  Cornelis Jacobsen Mey,  Willem Verhulst,  Peter Minuit,  Wouter Van Twiller,  Willem Kieft,  Peter Stuyvesent  <br />Chronolgy New Netherland  Captured by the English 1664.  Recaptured by the Dutch 1673.  Ceded to the English 1674.  Charter granted by  King Charles II to William Penn  for the territory since known as  Pennsylvania  March 4, 1681  <br />The Society of Colonial Wars in the Commonwealth of Pennsylvania  1909",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "symbols",
+      "separator": ","
+    },
+    {
+      "description": "beaver",
+      "separator": ","
+    },
+    {
+      "description": "flowers",
+      "separator": ","
+    },
+    {
+      "description": "crowns"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "South side of",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "Mentions",
+  "people": [
+    {
+      "name": "King Charles II",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/King_Charles_II_of_England",
+          "label": "wikipedia.org's King Charles II page"
+        }
+      ]
+    },
+    {
+      "name": "Willem Kieft",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Willem_Kieft",
+          "label": "wikipedia.org's Willem Kieft page"
+        }
+      ]
+    },
+    {
+      "name": "Cornelis Jacobsen Mey",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cornelis_Jacobsen_Mey",
+          "label": "wikipedia.org's Cornelis Jacobsen Mey page"
+        }
+      ]
+    },
+    {
+      "name": "Peter Minuit",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Minuit",
+          "label": "wikipedia.org's Peter Minuit page"
+        }
+      ]
+    },
+    {
+      "name": "William Penn",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Penn",
+          "label": "wikipedia.org's William Penn page"
+        }
+      ]
+    },
+    {
+      "name": "Peter Stuyvesent",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Stuyvesant",
+          "label": "wikipedia.org's Peter Stuyvesent page"
+        }
+      ]
+    },
+    {
+      "name": "Adrian Jorisszen Tienpont",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adrian_Jorisszen_Tienpoint",
+          "label": "wikipedia.org's Adrian Jorisszen Tienpont page"
+        }
+      ]
+    },
+    {
+      "name": "Wouter van Twiller",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wouter_van_Twiller",
+          "label": "wikipedia.org's Wouter van Twiller page"
+        }
+      ]
+    },
+    {
+      "name": "Willem Verhulst",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Willem_Verhulst",
+          "label": "wikipedia.org's Willem Verhulst page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dutch.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dutch.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dutch2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dutch2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dutch3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dutch3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

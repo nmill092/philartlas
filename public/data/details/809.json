@@ -1,0 +1,76 @@
+{
+  "id": "809",
+  "title": {
+    "display": "For the Greater Glory of God",
+    "list": "For the Greater Glory of God"
+  },
+  "years": [
+    {
+      "year": "1968"
+    }
+  ],
+  "yearmodifier": "approximate year of building",
+  "location": {
+    "latitude": "39.972300",
+    "longitude": "-75.164500",
+    "description": "Northwest corner, 17th and Girard"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "Jesuit motto"
+    }
+  ],
+  "landmark": {
+    "name": "St. Joe's Prep",
+    "externallinks": [
+      {
+        "url": "https://www.sjprep.org/",
+        "label": "sjprep.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/forthegreater.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/forthegreater.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/forthegreater2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/forthegreater2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/forthegreater3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/forthegreater3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Southwest"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "390",
+  "title": {
+    "display": "Tiger at Bay",
+    "list": "Tiger at Bay"
+  },
+  "artists": [
+    {
+      "name": "Albino Manca",
+      "externallinks": [
+        {
+          "url": "https://nationalacademy.emuseum.com/people/413/albino-manca",
+          "label": "nationalacademy.emuseum.com's Albino Manca page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1965"
+    }
+  ],
+  "location": {
+    "latitude": "39.968425",
+    "longitude": "-75.182165",
+    "description": "Kelly Drive, just West of Fairmount, across from the Azalea Garden"
+  },
+  "comments": "Also listed as \"Tiger\"",
+  "content": [
+    {
+      "description": "tiger"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/tiger-at-bay/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mlion.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mlion.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "971",
+  "title": {
+    "display": "Drexel Mansion Windows",
+    "list": "Drexel Mansion Windows"
+  },
+  "artists": [
+    {
+      "name": "Peabody and Stearns (Architects)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peabody_and_Stearns",
+          "label": "wikipedia.org's Peabody and Sterns page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1893"
+    }
+  ],
+  "yearmodifier": "original date of building",
+  "location": {
+    "latitude": "39.948900",
+    "longitude": "-75.170635",
+    "description": "South side of Locust, East of 18th"
+  },
+  "architecture": {
+    "description": "Both sides of the entrance"
+  },
+  "content": [
+    {
+      "description": "fruit",
+      "separator": ","
+    },
+    {
+      "description": "cornucopias",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "birds"
+    }
+  ],
+  "landmark": {
+    "name": "Curtis Institute",
+    "externallinks": [
+      {
+        "url": "  https://www.curtis.edu/",
+        "label": "curtis.edu"
+      },
+      {
+        "url": "https://studylib.net/doc/8122918/architectural-history---curtis-institute-of-music",
+        "label": "architectural history of Curtis at studylib.net"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexmanw.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexmanw.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexmanw2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexmanw2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

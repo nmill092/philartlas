@@ -1,0 +1,112 @@
+{
+  "id": "962",
+  "title": {
+    "display": "Church of the Savior Entrance",
+    "list": "Church of the Savior Entrance"
+  },
+  "artists": [
+    {
+      "name": "Charles Marquedent Burns (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22848",
+          "label": "philadelphiabuildings.org's Charles Marquedent Burns page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1889"
+    }
+  ],
+  "location": {
+    "latitude": "39.955717",
+    "longitude": "-75.198085",
+    "description": "East side of 38th, North of Chestnut"
+  },
+  "comments": "According to the Architecture page on the Cathedral site the facade survived the 1902 fire, so I am listing the date for this piece as 1889.",
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "kneeling, sitting, horizontal",
+      "separator": ","
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "headgear"
+    }
+  ],
+  "landmark": {
+    "name": "Episcopal Cathedral",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiacathedral.org/",
+        "label": "philadelphiacathedral.org"
+      }
+    ]
+  },
+  "peopleprefix": "Relief featuring",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/45954",
+      "label": "philadelphiabuildings.org's entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ecathedral1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ecathedral1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ecathedral2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ecathedral2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ecathedral3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ecathedral3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "464",
+  "title": {
+    "display": "Pennsylvania Academy of the Fine Arts Stonework",
+    "list": "Pennsylvania Academy of the Fine Arts Stonework"
+  },
+  "artists": [
+    {
+      "name": "Frank Furness (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Furness",
+          "label": "wikipedia.org's Frank Furness page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1876"
+    }
+  ],
+  "location": {
+    "latitude": "39.955300",
+    "longitude": "-75.163175",
+    "description": "West side of Broad, North of Arch"
+  },
+  "architecture": {
+    "description": "Front and side walls"
+  },
+  "content": [
+    {
+      "description": "plants"
+    }
+  ],
+  "landmark": {
+    "name": "Pennsylvania Academy of the Fine Arts",
+    "externallinks": [
+      {
+        "url": "https://www.pafa.org/",
+        "label": "pafa.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/20387",
+      "label": "philadelphiabuilding.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pafa1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pafa1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pafa2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pafa2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

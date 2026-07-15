@@ -1,0 +1,53 @@
+{
+  "id": "141",
+  "title": {
+    "display": "Floating Figure",
+    "list": "Floating Figure"
+  },
+  "artists": [
+    {
+      "name": "Gaston Lachaise",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gaston_Lachaise",
+          "label": "wikipedia.org's Gaston Lachaise page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1927"
+    }
+  ],
+  "yearmodifier": "1963 cast",
+  "location": {
+    "latitude": "",
+    "longitude": "",
+    "description": "Locust between 2nd and 3rd (Society Hill Townhouses)"
+  },
+  "comments": "Despite its mention in <I>Public Art in Philadelphia</I>, this sculpture is not publicly accessible.  It is behind a locked gate.  Do not go through the gate if you find it open.  It will lock behind you.",
+  "content": [
+    {
+      "description": "horizontal person"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/floating-figure/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/float.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/float.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

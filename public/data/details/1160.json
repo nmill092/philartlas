@@ -1,0 +1,86 @@
+{
+  "id": "1160",
+  "title": {
+    "display": "Roy G. Biv",
+    "list": "Roy G. Biv"
+  },
+  "artists": [
+    {
+      "name": "Klip Collective",
+      "externallinks": [
+        {
+          "url": "https://www.klip.tv/",
+          "label": "klip.tv"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2022"
+    }
+  ],
+  "location": {
+    "latitude": "39.950030",
+    "longitude": "-75.162887",
+    "description": "Northeast corner, Juniper and Sansom"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "rainbow",
+      "separator": ","
+    },
+    {
+      "description": "neon lights"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://midtownvillagephilly.com/2022/04/20/midtown-village-merchants-association-in-partnership-with-the-city-of-philadelphia-and-klip-collective-to-unveil-roy-g-biv-a-light-installation-in-the-heart-of-midtown-village/",
+      "label": "press release"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/roygbiv1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/roygbiv1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/roygbiv2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/roygbiv2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/roygbiv3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/roygbiv3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Gayborhood"
+    }
+  ]
+}

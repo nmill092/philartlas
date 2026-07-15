@@ -1,0 +1,83 @@
+{
+  "id": "21",
+  "title": {
+    "display": "Benjamin Franklin",
+    "list": "Benjamin Franklin (Lazzarini replica)"
+  },
+  "artists": [
+    {
+      "name": "Francesco Lazzarini"
+    }
+  ],
+  "years": [
+    {
+      "year": "1789"
+    }
+  ],
+  "yearmodifier": "original",
+  "location": {
+    "latitude": "39.948425",
+    "longitude": "-75.149190",
+    "description": "105 S. 5th St, West side of 5th, South of Chestnut"
+  },
+  "architecture": {
+    "description": "Pediment"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "staff",
+      "separator": ","
+    },
+    {
+      "description": "books"
+    }
+  ],
+  "landmark": {
+    "name": "Library Hall",
+    "externallinks": [
+      {
+        "url": "https://www.ushistory.org/franklin/philadelphia/library.htm",
+        "label": "ushistory.org's history of the Library Company"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/benjamin-franklin-3/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benflib.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benflib.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

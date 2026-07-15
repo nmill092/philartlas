@@ -1,0 +1,212 @@
+{
+  "id": "192",
+  "title": {
+    "display": "Irish Memorial",
+    "list": "Irish Memorial"
+  },
+  "artists": [
+    {
+      "name": "Glenna Goodacre",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Glenna_Goodacre",
+          "label": "wikipedia.org's Glenna Goodacre page"
+        },
+        {
+          "url": "https://publicartarchive.org/artist/Glenna%20Goodacre",
+          "label": "publicartarchive.org's Glenna Goodacre page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2002"
+    }
+  ],
+  "yearmodifier": "opened late 2003",
+  "location": {
+    "latitude": "39.944500",
+    "longitude": "-75.143825",
+    "description": "Northeast corner of Spruce and 38th Parallel Place"
+  },
+  "comments": "The Association for Public Art lists it as \"The Irish Memorial An Gorta Mor (The Great Hunger)\". Was on the Southeast corner, Front and Chestnut.  Moved late 2023 through early 2024.  Pictures are from the original location. ",
+  "inscription": "(excerpt)  <br />  Remembrance  <br />  The hunger ended<br />  but it never went away<br />  It was there in silent memories,<br />  from one generation<br />  to the next,<br />  The time to take away<br />  the silence has come,<br />  to commemorate,<br />  to mourn what was lost<br />  to celebrate what survives -<br />  without apology or fear.<br />  We have it in our power<br />  not only to remember<br />  what took place but to relive it...<br />  To find in the hungry and lost,<br />  not a different race...<br />  but the faces of our ancestors...<br />  An image of ourselves.<br />  -Peter Quinn",
+  "content": [
+    {
+      "description": "group of people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "lying and sitting",
+      "separator": ","
+    },
+    {
+      "description": "grave stones",
+      "separator": ","
+    },
+    {
+      "description": "crosses",
+      "separator": ","
+    },
+    {
+      "description": "shovel",
+      "separator": ","
+    },
+    {
+      "description": "part of a ship",
+      "separator": ","
+    },
+    {
+      "description": "luggage",
+      "separator": ","
+    },
+    {
+      "description": "cane",
+      "separator": ","
+    },
+    {
+      "description": "hats"
+    }
+  ],
+  "landmark": {
+    "name": "Foglietta Plaza",
+    "prefix": "Southwest corner of"
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/the-irish-memorial-an-gorta-mor-the-great-hunger/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/irish11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/irish11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

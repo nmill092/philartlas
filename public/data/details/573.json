@@ -1,0 +1,76 @@
+{
+  "id": "573",
+  "title": {
+    "display": "Galapagos Tortoise",
+    "list": "Galapagos Tortoise"
+  },
+  "artists": [
+    {
+      "name": "Eric Berg",
+      "externallinks": [
+        {
+          "url": "https://www.bergbronze.com/",
+          "label": "bergbronze.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "location": {
+    "latitude": "39.941060",
+    "longitude": "-75.158475",
+    "description": "North side of Fitzwater, East of 10th"
+  },
+  "comments": "visible through the fence",
+  "content": [
+    {
+      "description": "tortoise"
+    }
+  ],
+  "landmark": {
+    "name": "Palumbo Recreation Center",
+    "externallinks": [
+      {
+        "url": "https://www.facebook.com/palumboreccenter/",
+        "label": "facebook.com/palumboreccenter"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.bergbronze.com/gallery/galapagos-tortoise",
+      "label": "bergbronze.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/turtle1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/turtle1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/turtle2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/turtle2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

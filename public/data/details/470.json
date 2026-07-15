@@ -1,0 +1,59 @@
+{
+  "id": "470",
+  "title": {
+    "display": "Pay Attention",
+    "list": "Pay Attention"
+  },
+  "artists": [
+    {
+      "name": "Bob Rivera",
+      "externallinks": [
+        {
+          "url": "https://www.facebook.com/p/Bob-Rivera-Studios-100063439881039/",
+          "label": "Bob Rivera Studios page on facebook.com"
+        },
+        {
+          "url": "https://www.lehman.edu/vpadvance/artgallery/publicart/bio/rivera.html",
+          "label": "lehman.edu's Bob Rivera page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2003"
+    }
+  ],
+  "location": {
+    "latitude": "39.967515",
+    "longitude": "-75.150000",
+    "description": "Southwest corner Franklin and Poplar (Franklin is one block East of 8th)"
+  },
+  "comments": "Behind a fence but visible from both Poplar and Franklin.  A companion piece, <i>Discovery</i> not yet pictured here, is high on the North wall of the building  along 8th Street.",
+  "content": [
+    {
+      "description": "scientific equipment",
+      "separator": ","
+    },
+    {
+      "description": "symbols"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/payattention.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/payattention.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

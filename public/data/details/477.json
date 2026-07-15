@@ -1,0 +1,47 @@
+{
+  "id": "477",
+  "title": {
+    "display": "Untitled",
+    "list": "Untitled (Montgomery)"
+  },
+  "artists": [
+    {
+      "name": "Robert E. Montgomery"
+    }
+  ],
+  "years": [
+    {
+      "year": "1972"
+    }
+  ],
+  "location": {
+    "latitude": "39.959850",
+    "longitude": "-75.148600",
+    "description": "West side of 6th, South of Spring Garden"
+  },
+  "architecture": {
+    "description": "On the wall"
+  },
+  "content": [
+    {
+      "description": "abstract forms"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/6tubes.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/6tubes.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

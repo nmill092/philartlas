@@ -1,0 +1,107 @@
+{
+  "id": "119",
+  "title": {
+    "display": "Eli Kirk Price Fountain",
+    "list": "Eli Kirk Price Fountain"
+  },
+  "artists": [
+    {
+      "name": "Augustus Ernest D'Ambly (Architect and Engineer)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/59518",
+          "label": "philadelphiabuildings.org's Augustus Ernest D'Ambly page"
+        }
+      ]
+    },
+    {
+      "name": "Harbeson, Hough, Livingston and Larson (Architects)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22023",
+          "label": "philadelphiabuildings.org's Harbeson, Hough, Livingston and Larson page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1969"
+    }
+  ],
+  "location": {
+    "latitude": "39.963900",
+    "longitude": "-75.179625",
+    "description": "Parkway at 24th"
+  },
+  "comments": "Despite being a twin of the Ericsson fountain, this piece was built much later. There is a 1969 picture of the 1969 presentation ceremony in the Temple Digital Collections.",
+  "inscription": "<br />In memory of Eli Kirk Price 1860-1933 whose wisdom and dedication were responsible for the development of the Parkway and the Art Museum.",
+  "content": [
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Eakins Oval",
+    "prefix": "West end of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eakins_Oval",
+        "label": "wikipedia.org's Eakins Oval page"
+      }
+    ]
+  },
+  "peopleprefix": "In memory of",
+  "people": [
+    {
+      "name": "Eli Kirk Price II",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eli_Kirk_Price_II",
+          "label": "wikipedia.org's Eli Kirk Price II page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/Detail.aspx?assetId=103083",
+      "label": "aerial photograph of Eakins Oval from 1966 without this piece"
+    },
+    {
+      "url": "https://digital.library.temple.edu/digital/collection/p15037coll3/id/69237/rec/3",
+      "label": "Temple Digital Collections picture of the presentation ceremony for this piece from 1969"
+    },
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/862182",
+      "label": "philadelphiabuildings.org page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ekpft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ekpft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ekpft2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ekpft2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

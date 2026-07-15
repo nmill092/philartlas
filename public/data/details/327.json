@@ -1,0 +1,100 @@
+{
+  "id": "327",
+  "title": {
+    "display": "Rock Form (Porthcurno)",
+    "list": "Rock Form (Porthcurno)"
+  },
+  "artists": [
+    {
+      "name": "Barbara Hepworth",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Barbara_Hepworth",
+          "label": "wikipedia.org's Barbara Hepworth page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1964"
+    }
+  ],
+  "location": {
+    "latitude": "39.955800",
+    "longitude": "-75.167400",
+    "description": "Northeast corner, 17th and the Parkway"
+  },
+  "comments": "Was on the East side of 5th,  South of Race.  Put in storage some time before May, 2011.  Installed in the current location November 26, 2012.  The last picture is from the original location.",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "rock"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/rock-form-porthcurno/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rock1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rock1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rock2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rock2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rock3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rock3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rock4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rock4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rock.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rock.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

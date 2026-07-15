@@ -1,0 +1,147 @@
+{
+  "id": "10",
+  "title": {
+    "display": "All Wars Memorial to Colored Soldiers and Sailors",
+    "list": "All Wars Memorial to Colored Soldiers and Sailors"
+  },
+  "artists": [
+    {
+      "name": "J. Otto Schweizer",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/J._Otto_Schweizer",
+          "label": "wikipedia.org's J. Otto Schweizer page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1934"
+    }
+  ],
+  "yearmodifier": "installed 1994",
+  "location": {
+    "latitude": "39.958320",
+    "longitude": "-75.171800",
+    "description": "Aviator Park. Southeast of 20th and the Parkway"
+  },
+  "inscription": "<br />  front: Erected by the Commonwealth of Pennsylvania in honor of her  colored soldiers.<br />  back: To commemorate the heroism and sacrifice of all colored soldiers  who served in the various wars engaged in by the United States of America  that a lasting record shall be made of their unselfish devotion to duty  as an inspiration to future generations  this monument is dedicated  May 30, 1934.<br />  right: American Revolution, Civil War, Indian Wars<br />  left: Spanish American War, Phillipine Insurrection, World War",
+  "content": [
+    {
+      "description": "group of people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "torch",
+      "separator": ","
+    },
+    {
+      "description": "hats and helmets",
+      "separator": ","
+    },
+    {
+      "description": "shield",
+      "separator": ","
+    },
+    {
+      "description": "eagles and large feather",
+      "separator": ","
+    },
+    {
+      "description": "horses",
+      "separator": ","
+    },
+    {
+      "description": "seal of Pennsylvania"
+    }
+  ],
+  "landmark": {
+    "name": "Logan Square",
+    "prefix": "West side of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Logan_Circle_(Philadelphia)",
+        "label": "wikipedia.org's Logan Circle page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": " https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=14956",
+      "label": "phillyhistory.org 1935 picture of this piece from a previous location in Fairmount Park"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/91655790",
+      "label": "One of Max Buten's pictures of this piece"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/91796479",
+      "label": "Another of Max Buten's pictures of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/all-wars-memorial-to-colored-soldiers-and-sailors/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/colsol.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/colsol.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/colsol3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/colsol3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/colsol2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/colsol2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/colsol4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/colsol4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/colsol5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/colsol5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

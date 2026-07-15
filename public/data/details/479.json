@@ -1,0 +1,78 @@
+{
+  "id": "479",
+  "title": {
+    "display": "Mother Bethel Gargoyles",
+    "list": "Mother Bethel Gargoyles"
+  },
+  "artists": [
+    {
+      "name": "Hazlehurst and Huckel (Architects)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22158",
+          "label": "philadelphiabuildings.org's Hazlehurst and Huckel page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1890"
+    }
+  ],
+  "location": {
+    "latitude": "39.943375",
+    "longitude": "-75.151850",
+    "description": "Northeast corner 6th and Lombard"
+  },
+  "architecture": {
+    "description": "High on the walls"
+  },
+  "content": [
+    {
+      "description": "dragons"
+    }
+  ],
+  "landmark": {
+    "name": "Mother Bethel African Methodist Episcopal Church",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mother_Bethel_A.M.E._Church",
+        "label": "wikipedia.org's Mother Bethel AME Church page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/4906",
+      "label": "philadelphiabuilding.org's entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mbgar1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mbgar1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mbgar2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mbgar2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

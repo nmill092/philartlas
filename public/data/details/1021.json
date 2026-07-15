@@ -1,0 +1,139 @@
+{
+  "id": "1021",
+  "title": {
+    "display": "Royal Coat of Arms of the United Kingdom",
+    "list": "Royal Coat of Arms of the United Kingdom"
+  },
+  "years": [
+    {
+      "year": "1924"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.947320",
+    "longitude": "-75.148480",
+    "description": "South side of Walnut, West of 4th"
+  },
+  "comments": "Best viewed from the North side of Walnut. The other emblems probably represent places where General Accident operated.",
+  "inscription": "<br />Honi soit qui mal y pense  <br />Dieu et mon droit",
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "coat of arms",
+      "separator": ","
+    },
+    {
+      "description": "lions",
+      "separator": ","
+    },
+    {
+      "description": "unicorn",
+      "separator": ","
+    },
+    {
+      "description": "helmet and crown",
+      "separator": ","
+    },
+    {
+      "description": "harp",
+      "separator": ","
+    },
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "lance",
+      "separator": ","
+    },
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "dragon"
+    }
+  ],
+  "peopleprefix": "Includes a representation of",
+  "people": [
+    {
+      "name": "Saint George",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saint_George",
+          "label": "wikipedia.org's Saint George page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/117101",
+      "label": "philadelphiabuildings.org entry for the building"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Royal_coat_of_arms_of_the_United_Kingdom",
+      "label": "wikipedia.org's entry for the coat of arms"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/royal1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/royal1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/royal2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/royal2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/royal3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/royal3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/royal4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/royal4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/royal5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/royal5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

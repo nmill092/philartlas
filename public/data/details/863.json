@@ -1,0 +1,71 @@
+{
+  "id": "863",
+  "title": {
+    "display": "Athletics",
+    "list": "Athletics"
+  },
+  "artists": [
+    {
+      "name": "George R. Anthonisen",
+      "externallinks": [
+        {
+          "url": "https://www.ganthonisen.com/",
+          "label": "ganthonisen.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "location": {
+    "latitude": "39.919940",
+    "longitude": "-75.223150",
+    "description": "Northwest of the West corner, 63rd and Eastwick"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "vertical",
+      "separator": ","
+    },
+    {
+      "description": "horizontal"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "helmets",
+      "separator": ","
+    },
+    {
+      "description": "other sports equipment"
+    }
+  ],
+  "landmark": {
+    "name": "Anita M. Carboni Ball Field"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/carboniballfield.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/carboniballfield.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

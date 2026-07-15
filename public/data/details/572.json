@@ -1,0 +1,116 @@
+{
+  "id": "572",
+  "title": {
+    "display": "Comcast Center Fountain",
+    "list": "Comcast Center Fountain"
+  },
+  "artists": [
+    {
+      "name": "Laurie Olin",
+      "externallinks": [
+        {
+          "url": "https://www.theolinstudio.com/",
+          "label": "theolinstudio.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2008"
+    }
+  ],
+  "location": {
+    "latitude": "39.954325",
+    "longitude": "-75.168600",
+    "description": "Northwest corner, 17th and JFK"
+  },
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Comcast Center",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Comcast_Center",
+        "label": "wikipedia.org's Comcast Center page"
+      },
+      {
+        "url": "https://www.theolinstudio.com/comcast-center-plaza",
+        "label": "theolinstudio.com's page for the plaza, including the fountain and trellis"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comcastft1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comcastft1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comcastft2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comcastft2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comcastft3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comcastft3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comcastft4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comcastft4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comcastft5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comcastft5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comcastft6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comcastft6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1036",
+  "title": {
+    "display": "Continental Army Encampment Memorial",
+    "list": "Continental Army Encampment Memorial"
+  },
+  "years": [
+    {
+      "year": "1895"
+    }
+  ],
+  "location": {
+    "latitude": "40.018450",
+    "longitude": "-75.183115",
+    "description": "South corner, Fox and Queen"
+  },
+  "inscription": "<br />The main Continental Army commanded by Gen. George Washington encamped on this and adjacent ground from Aug. 1 to Aug. 8 and from Sep. 12 to Sep. 14, 1777.  Before and immediately after the Battle of the Brandywine. <br />Erected in 1895 by the Penna. Society of Sons of the Revolution to perpetuate the memory of the encampment.",
+  "content": [
+    {
+      "description": "rock",
+      "separator": ","
+    },
+    {
+      "description": "cannon barrels"
+    }
+  ],
+  "peopleprefix": "In memory of an encampment by",
+  "people": [
+    {
+      "name": "George Washington",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Washington",
+          "label": "wikipedia.org's George Washington page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Brandywine",
+      "label": "wikipedia.org's Battle of Brandywine page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/encampment.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/encampment.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

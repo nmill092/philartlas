@@ -1,0 +1,73 @@
+{
+  "id": "56",
+  "title": {
+    "display": "Carnell Hall Gargoyles",
+    "list": "Carnell Hall Gargoyles"
+  },
+  "artists": [
+    {
+      "name": "William Harold Lee (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Harold_Lee",
+          "label": "wikipedia.org's William Harold Lee page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1928"
+    }
+  ],
+  "location": {
+    "latitude": "39.980425",
+    "longitude": "-75.157075",
+    "description": "East side of Broad, North of Montgomery"
+  },
+  "architecture": {
+    "description": "Both sides of the door"
+  },
+  "content": [
+    {
+      "description": "heads"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.wrti.com/wrtifriend/carnellhall.html",
+      "label": "Gerry Wilkinson's Carnell Hall page on wrti.com"
+    },
+    {
+      "url": "https://digital.librarycompany.org/islandora/object/digitool%3A96905",
+      "label": "librarycompany.org's Temple University postcards page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/carnel1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/carnel1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/carnel2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/carnel2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Campus"
+    }
+  ]
+}

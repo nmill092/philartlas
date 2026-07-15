@@ -1,0 +1,133 @@
+{
+  "id": "245",
+  "title": {
+    "display": "Major General Peter Muhlenberg",
+    "list": "Major General Peter Muhlenberg"
+  },
+  "artists": [
+    {
+      "name": "J. Otto Schweizer",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/J._Otto_Schweizer",
+          "label": "wikipedia.org's J. Otto Schweizer page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1910"
+    }
+  ],
+  "location": {
+    "latitude": "39.966600",
+    "longitude": "-75.181950",
+    "description": "Anne d'Harnocourt Drive (25th and Kelly Drive to the Spring Garden Bridge)"
+  },
+  "inscription": "<br />  front:  <br />  \"There is a time for all things - a time to preach and a time to fight, and now is the to fight\"  <br />  Farewell sermon in the church at Woodstock, VA, 1776  <br />  right:  <br />  1776, Charleston, Sullivans Island, Brandywine, Germantown, Monmouth, Stony Point, Petersburg, Yorktown, 1781  <br />  left:  <br />  Member of the Supreme Executive Council of Pennsylvania, 1784  <br />  Vice President of the Commonwealth of Pennsylvania, 1785  <br />  Member of the first, third, and sixth Congress of the U.S.  <br />  U.S. Senator from Pennsylvania, 1801  <br />  President of the German Society of Pennsylvania, 1788 and 1802-1807",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "group of people",
+      "separator": ","
+    },
+    {
+      "description": "church interior",
+      "separator": ","
+    },
+    {
+      "description": "pulpit and pews",
+      "separator": ","
+    },
+    {
+      "description": "book",
+      "separator": ","
+    },
+    {
+      "description": "hat"
+    }
+  ],
+  "landmark": {
+    "name": "Art Museum",
+    "prefix": "Behind the",
+    "externallinks": [
+      {
+        "url": "https://www.philamuseum.org/",
+        "label": "philamuseum.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "John Peter Gabriel Muhlenberg",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Peter_Gabriel_Muhlenberg",
+          "label": "wikipedia.org's John Peter Gabriel Muhlenberg page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42866735",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=6861",
+      "label": "phillyhistory.org 1913 picture of this piece outside City Hall"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/muhlen.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/muhlen.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/muhlen2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/muhlen2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/muhlen3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/muhlen3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/muhlen4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/muhlen4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

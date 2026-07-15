@@ -1,0 +1,158 @@
+{
+  "id": "307",
+  "title": {
+    "display": "Public Ledger Building",
+    "list": "Public Ledger Building"
+  },
+  "artists": [
+    {
+      "name": "Horace Trumbauer (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21596",
+          "label": "philadelphiabuildings.org's Horace Trumbauer page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1924"
+    }
+  ],
+  "location": {
+    "latitude": "39.949200",
+    "longitude": "-75.150850",
+    "description": "Southwest corner, 6th and Chestnut"
+  },
+  "architecture": {
+    "description": "Entrances"
+  },
+  "content": [
+    {
+      "description": "reclining people",
+      "separator": ","
+    },
+    {
+      "description": "head scarf",
+      "separator": ","
+    },
+    {
+      "description": "scepter",
+      "separator": ","
+    },
+    {
+      "description": "burning"
+    },
+    {
+      "description": "oil lamp",
+      "separator": ","
+    },
+    {
+      "description": "quills, scrolls, books and tablets"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=811A79AD-0F9B-40A3-9E9CAB90A03AA620",
+      "label": "philadelphiabuilding.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/publedge.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/publedge.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/publedge2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/publedge2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/publedge7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/publedge7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/publedge3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/publedge3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/publedge4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/publedge4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/publedge5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/publedge5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/publedge6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/publedge6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/publedge8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/publedge8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/publedge9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/publedge9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

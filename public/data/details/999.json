@@ -1,0 +1,127 @@
+{
+  "id": "999",
+  "title": {
+    "display": "Thomas Jefferson",
+    "list": "Thomas Jefferson"
+  },
+  "artists": [
+    {
+      "name": "Lloyd Lillie",
+      "externallinks": [
+        {
+          "url": "https://www.bostonglobe.com/2020/04/28/metro/lloyd-lillie-whose-boston-sculptures-depicted-red-auerbach-james-michael-curley-dies-87/",
+          "label": "bostonglobe.com's Lloyd Lillie obituary"
+        },
+        {
+          "url": "https://www.wickedlocal.com/story/hingham-journal/2014/10/15/linden-ponds-resident-lloyd-lillie/36167261007/",
+          "label": "Hingham Journal article about Lloyd Lillie at wickedlocal.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "yearmodifier": "1987 cast",
+  "location": {
+    "latitude": "39.947380",
+    "longitude": "-75.158400",
+    "description": "South side of Locust between 10th and 11th"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Thomas Jefferson",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+          "label": "wikipedia.org's Thomas Jefferson page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://nationalacademy.emuseum.com/objects/733/thomas-jefferson",
+      "label": "picture of a copy of this piece at nationalacademy.emuseum.com"
+    },
+    {
+      "url": "https://tribetrek.wm.edu/items/show/14?tour=1&index=13",
+      "label": "tribetrek.wm.edu's page for a copy of this piece at William and Mary"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jefferson1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jefferson1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jefferson2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jefferson2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jefferson3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jefferson3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jefferson4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jefferson4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jefferson5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jefferson5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jefferson6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jefferson6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

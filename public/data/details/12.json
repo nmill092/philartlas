@@ -1,0 +1,90 @@
+{
+  "id": "12",
+  "title": {
+    "display": "Barry Memorial",
+    "list": "Barry Memorial"
+  },
+  "years": [
+    {
+      "year": "1913"
+    }
+  ],
+  "location": {
+    "latitude": "39.945700",
+    "longitude": "-75.148325",
+    "description": "West side of 4th Street South of Locust"
+  },
+  "inscription": "<br />  In memory of John Barry, father of the American Navy,  born in Co. Wexford, Ireland, March 25, 1745.<br />  First captain of the first ship owned by the Continental Congress.  Continuous in his service during the entire period of the revolution.  Supreme Commander of the entire naval forces of the colonies in the  war for independence.  Appointed by President Washington to the highest  rank and first command of the navy of the United States.  He died  in Philadelphia September 3, 1803, and is buried in the adjoining  churchyard.  Requiscat in pace.",
+  "architecture": {
+    "description": "On the wall"
+  },
+  "content": [
+    {
+      "description": "anchor",
+      "separator": ","
+    },
+    {
+      "description": "rope",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "cross"
+    }
+  ],
+  "landmark": {
+    "name": "Old St. Mary's",
+    "externallinks": [
+      {
+        "url": "https://www.oldstmary.com/",
+        "label": "oldstmary.com"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Roman_Catholic_Church_(Philadelphia)",
+        "label": "wikipedia.org's St. Mary's page"
+      }
+    ]
+  },
+  "peopleprefix": "Memorial to",
+  "people": [
+    {
+      "name": "John Barry",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Barry_(naval_officer)",
+          "label": "wikipedia.org's John Barry page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barryme.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barryme.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barryme2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barryme2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

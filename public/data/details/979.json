@@ -1,0 +1,66 @@
+{
+  "id": "979",
+  "title": {
+    "display": "Good Samaritan",
+    "list": "Good Samaritan"
+  },
+  "location": {
+    "latitude": "39.945750",
+    "longitude": "-75.155600",
+    "description": "South side of Spruce between 8th and 9th"
+  },
+  "inscription": "Take care of him and I will repay thee.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "donkey",
+      "separator": ","
+    },
+    {
+      "description": "suggestion of a building",
+      "separator": ","
+    },
+    {
+      "description": "hospital seal"
+    }
+  ],
+  "landmark": {
+    "name": "Pennsylvania Hospital",
+    "externallinks": [
+      {
+        "url": "https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/pennsylvania-hospital",
+        "label": "pennmedicine.org's Pennsylvania Hospital page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pahospsamaritan.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pahospsamaritan.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "135",
+  "title": {
+    "display": "Firemen in Action",
+    "list": "Firemen in Action"
+  },
+  "artists": [
+    {
+      "name": "Harold Kimmelman",
+      "externallinks": [
+        {
+          "url": "http://www.hksculpt.com/",
+          "label": "hksculpt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.942075",
+    "longitude": "-75.152400",
+    "description": "Northwest corner, 6th and South"
+  },
+  "architecture": {
+    "description": "South wall"
+  },
+  "content": [
+    {
+      "description": "standing and running"
+    },
+    {
+      "description": "people"
+    },
+    {
+      "description": "wearing helmets",
+      "separator": ","
+    },
+    {
+      "description": "fire-fighting equipment"
+    }
+  ],
+  "landmark": {
+    "name": "Engine Company 11",
+    "externallinks": [
+      {
+        "url": "https://www.firemanshallmuseum.org/engine-11/",
+        "label": "firemanshallmuseum.org's Engine 11 page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ssfire.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ssfire.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ssfire2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ssfire2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ssfire3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ssfire3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ssfire4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ssfire4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

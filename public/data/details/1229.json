@@ -1,0 +1,89 @@
+{
+  "id": "1229",
+  "title": {
+    "display": "Girard Trust Corn Exchange Bank",
+    "list": "Girard Trust Corn Exchange Bank"
+  },
+  "artists": [
+    {
+      "name": "Allen Evans (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/25865",
+          "label": "philadelphiabuildings.org's Allen Evans page"
+        }
+      ]
+    },
+    {
+      "name": "Frank Furness (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Furness",
+          "label": "wikipedia.org's Frank Furness page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1908"
+    }
+  ],
+  "location": {
+    "latitude": "39.951150",
+    "longitude": "-75.164100",
+    "description": "West side of Broad North of Chestnut"
+  },
+  "comments": "best observed from the East side of Broad",
+  "inscription": "Girard Trust Company, Incorporated 1836",
+  "architecture": {
+    "description": "East pediment"
+  },
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "ships"
+    }
+  ],
+  "landmark": {
+    "name": "Ritz Carlton"
+  },
+  "peopleprefix": "relief bust of",
+  "people": [
+    {
+      "name": "Stephen Girard",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Girard",
+          "label": "wikipedia.org's Stephen Girard page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/15398",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/girtrust1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/girtrust1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

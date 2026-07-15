@@ -1,0 +1,103 @@
+{
+  "id": "379",
+  "title": {
+    "display": "Tackle",
+    "list": "Tackle"
+  },
+  "artists": [
+    {
+      "name": "Joe Brown",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Brown_%28sculptor%29",
+          "label": "wikipedia.org Joe Brown page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.905440",
+    "longitude": "-75.172125",
+    "description": "North side of Pattison, East of Broad"
+  },
+  "comments": "Originally on the walkway around Veterans Stadium until it was torn down in 2004. The last picture is from the original location.",
+  "inscription": "<br />Veterans Stadium was home to the Eagles from 1971 through  two playoff games in January 2003.  Biggest of their 11  playoff games at the Vet was a 20-7 win over the bitter  rival Dallas Cowboys in the NFC Championship game before  70,696 roaring fans, January 11, 1981.  <br />The Vet was home to another pro football team, the  Philadelphia Stars, of the United States Football League.  The Stars played there during the 1983 and 1984 USFL seasons.  Included was one playoff game in their initial season.  <br />Seventeen times the Army/Navy college football classic  was played at the Vet.  The stadium was home to Temple University  football, 1974-2002.  Among other college teams that made their  appearances at the Vet were Notre Dame, Penn State, BYU, Villanova,  Florida A&M, Howard University and Delaware State.",
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "football",
+      "separator": ","
+    },
+    {
+      "description": "helmets"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/wallyg/2545968303",
+      "label": "Wally Gobetz's picture of this piece at flickr.com"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Brown_Tackle_Philly_art.JPG",
+      "label": "picture of this piece at commons.wikimedia.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tackle2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tackle2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tackle3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tackle3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tackle4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tackle4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tackle.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tackle.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

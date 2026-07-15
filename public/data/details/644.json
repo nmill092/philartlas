@@ -1,0 +1,78 @@
+{
+  "id": "644",
+  "title": {
+    "display": "The Alchemist",
+    "list": "Alchemist, The"
+  },
+  "artists": [
+    {
+      "name": "Donald De Lue",
+      "externallinks": [
+        {
+          "url": "https://www.sculptor.org/Sculptors/ByName/DonaldDeLue.htm",
+          "label": "sculptor.org's Donald De Lue page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_De_Lue",
+          "label": "wikipedia.org's Donald De Lue page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1940"
+    }
+  ],
+  "location": {
+    "latitude": "39.950510",
+    "longitude": "-75.192050",
+    "description": "North side of Spruce, West of 33rd"
+  },
+  "architecture": {
+    "description": "Above the entrance"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "furniture",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "alchemy equipment"
+    }
+  ],
+  "landmark": {
+    "name": "Chemistry Laboratories Cret Wing"
+  },
+  "externallinks": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Alchemist_Penn.JPG",
+      "label": "picture of this piece at commons.wikimedia.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/alchemist.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/alchemist.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

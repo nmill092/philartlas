@@ -1,0 +1,371 @@
+{
+  "id": "48",
+  "title": {
+    "display": "Board of Education Building",
+    "list": "Board of Education Building"
+  },
+  "artists": [
+    {
+      "name": "Irwin T. Catharine (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Irwin_T._Catharine",
+          "label": "wikipedia.org Irwin T. Catharine page"
+        }
+      ]
+    },
+    {
+      "name": "Jules Melidon"
+    }
+  ],
+  "years": [
+    {
+      "year": "1930"
+    }
+  ],
+  "location": {
+    "latitude": "39.958900",
+    "longitude": "-75.174150",
+    "description": "Southwest Corner, 21st and Winter"
+  },
+  "comments": "There is artwork on the Winter and 21st street sides and in the courtyard on Winter.  More busts, not pictured and not easily visible, are on the East and West sides of the building. The School District  no longer occupies the building.",
+  "architecture": {
+    "description": "Building"
+  },
+  "content": [
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "people standing",
+      "separator": ","
+    },
+    {
+      "description": "people sitting and kneeling",
+      "separator": ","
+    },
+    {
+      "description": "winged people",
+      "separator": ","
+    },
+    {
+      "description": "heads",
+      "separator": ","
+    },
+    {
+      "description": "books, tablets, scrolls, writing implements",
+      "separator": ","
+    },
+    {
+      "description": "linked BE logo",
+      "separator": ","
+    },
+    {
+      "description": "eagles",
+      "separator": ","
+    },
+    {
+      "description": "scarf",
+      "separator": ","
+    },
+    {
+      "description": "staff",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "tools",
+      "separator": ","
+    },
+    {
+      "description": "urns, jugs",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "hourglass",
+      "separator": ","
+    },
+    {
+      "description": "lamp, light fixtures",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "sun",
+      "separator": ","
+    },
+    {
+      "description": "globes"
+    }
+  ],
+  "peopleprefix": "Busts of",
+  "people": [
+    {
+      "name": "Alexander Graham Bell",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+          "label": "wikipedia.org's Alexander Graham Bell page"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    },
+    {
+      "name": "Robert Fulton",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Fulton",
+          "label": "wikipedia.org's Robert Fulton page"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Girard",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Girard",
+          "label": "wikipedia.org's Stephen Girard page"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Jefferson",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+          "label": "wikipedia.org's Thomas Jefferson page"
+        }
+      ]
+    },
+    {
+      "name": "Abraham Lincoln",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+          "label": "wikipedia.org's Abraham Lincoln page"
+        }
+      ]
+    },
+    {
+      "name": "John Marshall",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Marshall",
+          "label": "wikipedia.org's John Marshall page"
+        }
+      ]
+    },
+    {
+      "name": "William Penn",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Penn",
+          "label": "wikipedia.org's William Penn page"
+        }
+      ]
+    },
+    {
+      "name": "William Shakespeare",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Shakespeare",
+          "label": "wikipedia.org's William Shakespeare page"
+        }
+      ]
+    },
+    {
+      "name": "Thaddeus Stevens",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thaddeus_Stevens",
+          "label": "wikipedia.org's Thaddeus Stevens page"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Webster",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Daniel_Webster",
+          "label": "wikipedia.org's Daniel Webster page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=NR-83002266",
+      "label": "philadelphiabuildings.org's page for the building"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Board_of_Education_Building_(Philadelphia)",
+      "label": "wikipedia.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoold.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoold.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoold4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoold4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoold5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoold5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoold6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoold6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoold7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoold7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoold8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoold8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoold9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoold9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoold2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoold2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoold3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoold3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoolda.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoolda.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schooldb.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schooldb.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schooldc.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schooldc.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schooldd.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schooldd.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schoolde.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schoolde.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1049",
+  "title": {
+    "display": "Masonic Temple Entrance",
+    "list": "Masonic Temple Entrance"
+  },
+  "artists": [
+    {
+      "name": "James H. Windrim (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21564",
+          "label": "philadelphiabuildings.org's James H. Windrim page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1868"
+    },
+    {
+      "year": "1873"
+    }
+  ],
+  "location": {
+    "latitude": "39.953675",
+    "longitude": "-75.163145",
+    "description": "Northeast corner, Broad and JFK"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "geometric patterns"
+    }
+  ],
+  "landmark": {
+    "name": "Masonic Temple",
+    "externallinks": [
+      {
+        "url": "https://pamasonictemple.org/",
+        "label": "pamasonictemple.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Masonic_Temple_(Philadelphia,_Pennsylvania)",
+      "label": "wikipedia.org's Masonic Temple page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/masonic1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/masonic1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/masonic2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/masonic2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

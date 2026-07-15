@@ -1,0 +1,111 @@
+{
+  "id": "1181",
+  "title": {
+    "display": "Regarding the Delaware",
+    "list": "Regarding the Delaware"
+  },
+  "artists": [
+    {
+      "name": "Carin Mincemoyer",
+      "externallinks": [
+        {
+          "url": "https://www.carinmincemoyer.com/",
+          "label": "carinmincemoyer.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2022"
+    }
+  ],
+  "location": {
+    "latitude": "39.972220",
+    "longitude": "-75.127475",
+    "description": "East and South of E. Montgomery and Moyer"
+  },
+  "architecture": {
+    "description": "Lederer Pool fence"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "images of water"
+    }
+  ],
+  "landmark": {
+    "name": "Fishtown Recreation Center",
+    "externallinks": [
+      {
+        "url": "https://www.facebook.com/fishtownrecreation/",
+        "label": "facebook.com/fishtownrecreation"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.carinmincemoyer.com/public-art/regarding-the-delaware",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/regarding1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/regarding1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/regarding2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/regarding2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/regarding3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/regarding3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/regarding4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/regarding4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/regarding5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/regarding5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

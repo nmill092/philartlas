@@ -1,0 +1,242 @@
+{
+  "id": "28",
+  "title": {
+    "display": "Art Museum North Pediment",
+    "list": "Art Museum North Pediment"
+  },
+  "artists": [
+    {
+      "name": "Carl Paul Jennewein",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/C._Paul_Jennewein",
+          "label": "wikipedia.org's Carl Paul Jennewein page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1932"
+    }
+  ],
+  "yearmodifier": "Museum website says 1933",
+  "location": {
+    "latitude": "39.965625",
+    "longitude": "-75.180275",
+    "description": "25th and the Parkway"
+  },
+  "architecture": {
+    "description": "North Pediment"
+  },
+  "content": [
+    {
+      "description": "group of people",
+      "separator": ","
+    },
+    {
+      "description": "some standing",
+      "separator": ","
+    },
+    {
+      "description": "some sitting or lying",
+      "separator": ","
+    },
+    {
+      "description": "winged person",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "staff",
+      "separator": ","
+    },
+    {
+      "description": "sun",
+      "separator": ","
+    },
+    {
+      "description": "sword",
+      "separator": ","
+    },
+    {
+      "description": "furniture",
+      "separator": ","
+    },
+    {
+      "description": "musical instrument",
+      "separator": ","
+    },
+    {
+      "description": "owl",
+      "separator": ","
+    },
+    {
+      "description": "snake",
+      "separator": ","
+    },
+    {
+      "description": "lion"
+    }
+  ],
+  "landmark": {
+    "name": "Art Museum",
+    "prefix": "Front of the",
+    "externallinks": [
+      {
+        "url": "https://www.philamuseum.org/",
+        "label": "philamuseum.org"
+      }
+    ]
+  },
+  "peopleprefix": "statues of",
+  "people": [
+    {
+      "name": "Adonis",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adonis",
+          "label": "wikipedia.org's Adonis page"
+        }
+      ]
+    },
+    {
+      "name": "Aphrodite",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Aphrodite",
+          "label": "wikipedia.org's Aphrodite page"
+        }
+      ]
+    },
+    {
+      "name": "Ariadne",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ariadne",
+          "label": "wikipedia.org's Ariadne page"
+        }
+      ]
+    },
+    {
+      "name": "Demeter",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Demeter",
+          "label": "wikipedia.org's Demeter page"
+        }
+      ]
+    },
+    {
+      "name": "Eos",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eos  ",
+          "label": "wikipedia.org's Eos page"
+        }
+      ]
+    },
+    {
+      "name": "Eros",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eros  ",
+          "label": "wikipedia.org's Eros page"
+        }
+      ]
+    },
+    {
+      "name": "Hippomenes",
+      "comment": "the lion",
+      "externallinks": [
+        {
+          "url": "",
+          "label": "wikipedia.org's Hippomenes page"
+        }
+      ]
+    },
+    {
+      "name": "Theseus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theseus",
+          "label": "wikipedia.org's Theseus page"
+        }
+      ]
+    },
+    {
+      "name": "Triptolemus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Triptolemus",
+          "label": "wikipedia.org's Triptolemus page"
+        }
+      ]
+    },
+    {
+      "name": "Zeus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zeus",
+          "label": "wikipedia.org's Zeus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/north-pediment/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pedim.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pedim.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pedim2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pedim2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pedim3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pedim3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pedim4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pedim4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

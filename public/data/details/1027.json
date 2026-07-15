@@ -1,0 +1,50 @@
+{
+  "id": "1027",
+  "title": {
+    "display": "Park Towne Place West Fountain",
+    "list": "Park Towne Place West Fountain"
+  },
+  "location": {
+    "latitude": "39.960640",
+    "longitude": "-75.177490",
+    "description": "South side of the Parkway, West of 22nd"
+  },
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Park Towne Place",
+    "prefix": "Southwest side of the driveway,",
+    "externallinks": [
+      {
+        "url": "https://www.parktowneapthomes.com/",
+        "label": "parktowneapthomes.com"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ptwf.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ptwf.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

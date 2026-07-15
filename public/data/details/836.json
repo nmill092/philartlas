@@ -1,0 +1,79 @@
+{
+  "id": "836",
+  "title": {
+    "display": "Barnes Foundation Tabletop Fountain",
+    "list": "Barnes Foundation Tabletop Fountain"
+  },
+  "artists": [
+    {
+      "name": "Laurie Olin",
+      "externallinks": [
+        {
+          "url": "https://www.theolinstudio.com/",
+          "label": "theolinstudio.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2012"
+    }
+  ],
+  "location": {
+    "latitude": "39.959950",
+    "longitude": "-75.172250",
+    "description": "North side of the Parkway, West of 20th"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Barnes Foundation",
+    "prefix": "Southeast of the",
+    "externallinks": [
+      {
+        "url": "https://www.barnesfoundation.org/",
+        "label": "barnesfoundation.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://terenceroberts.com/Folio/Barnes-Foundation/6",
+      "label": "picture of this piece at terenceroberts.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barnesft1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barnesft1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barnesft2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barnesft2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

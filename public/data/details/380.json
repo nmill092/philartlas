@@ -1,0 +1,139 @@
+{
+  "id": "380",
+  "title": {
+    "display": "Tamanend",
+    "list": "Tamanend"
+  },
+  "artists": [
+    {
+      "name": "Raymond Sandoval",
+      "externallinks": [
+        {
+          "url": "https://epgn.com/2021/10/08/raymond-sandoval-an-indigenous-gay-artist-and-his-philly-legacy/",
+          "label": "epgn.com 2021 interview with Raymond Sandoval"
+        },
+        {
+          "url": "https://www.instagram.com/raymondsandoval575/",
+          "label": "Raymnod Sandoval's page on instagram.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1994"
+    }
+  ],
+  "yearmodifier": "installed 1995",
+  "location": {
+    "latitude": "39.949735",
+    "longitude": "-75.142000",
+    "description": "Front and Market"
+  },
+  "inscription": "<br />  In honor of the contributions of Native American Indians - the  ancestors, the elders, this generation and the generations to come -  this sculpture commemorates Tamanend, a Sakima, of the Lenni-Lenape  Nation who resided in the Delaware Valley when Philadelphia or  \"Coaquannok\" was established.  <br />  Tamanend stands on a turtle, which represents Mother Earth.  The  eagle, a reverend messenger of Great Spirit, has a wampum belt  in its grasp.  This belt recognizes the friendship treaty under the  Sackomaxen elm between William Penn (\"Mikwon\"), Tamanend (\"The Affable  One\") and other leaders of the Lenni-Lenape Nation. It reads \"to live  in peace as long as the waters are in the rivers and creeks and as  long as the stars and moon endure.\"  <br />  Penn dealt with the Lenni-Lenape people when he came to the land  given him by the King of England.  He bought the land from the  Lenni-Lenape through a number of treaties.  Tamanend was one of  the Sakimas who played a prominent role as a welcoming delegate  on Penn's arrival in 1682 and in the early treaties of 1683 and 1692.  <br />  Tamanend was considered the patron saint of America by the colonists  prior to American Independence.  Tamanend day was celebrated annually  on May 1st in Philadelphia and bells were rung in his honor.",
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "wearing a hat",
+      "separator": ","
+    },
+    {
+      "description": "eagle",
+      "separator": ","
+    },
+    {
+      "description": "turtle"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Tamanend",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tamanend",
+          "label": "wikipedia.org's Tamanend page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://publicartarchive.org/art/Tamanend/e641e262",
+      "label": "publicartarchive.org's page for this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/tamanend/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tamanen.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tamanen.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tamane2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tamane2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tamane3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tamane3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tamane4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tamane4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tamane5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tamane5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tamane6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tamane6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

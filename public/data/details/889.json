@@ -1,0 +1,62 @@
+{
+  "id": "889",
+  "title": {
+    "display": "Wills Sainte Claire Logo",
+    "list": "Wills Sainte Claire Logo"
+  },
+  "years": [
+    {
+      "year": "1923"
+    }
+  ],
+  "yearmodifier": "approximate.  Could be anywhere 1921-1927",
+  "location": {
+    "latitude": "39.963075",
+    "longitude": "-75.189200",
+    "description": "South side of Spring Garden (and North side of Hamilton), West of 32nd"
+  },
+  "comments": "There are multiple copies of this relief logo in various states of repair.  Wills Sainte Claire, which produced cars from 1921-1927 did have a dealership in Philadelphia, and I have found 1 possible reference to Claire automobiles being sold at this address in 1923.",
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "goose",
+      "separator": ","
+    },
+    {
+      "description": "trees"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wills_Sainte_Claire",
+      "label": "wikipedia.org's Wills Sainte Claire page"
+    },
+    {
+      "url": "https://www.uniquecarsandparts.com/lost_marques_wills_sainte_claire.htm",
+      "label": "uniquecarsandparts.com's Wills Sainte Claire page, which includes the logo"
+    },
+    {
+      "url": "https://newspaperarchive.com/philadelphia-inquirer-mar-15-1923-p-27/",
+      "label": "newspaper.com Inquirer want ad from March 15, 1923 for cars at the Claire company possibly at this address"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/canadiangoose.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/canadiangoose.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

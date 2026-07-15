@@ -1,0 +1,45 @@
+{
+  "id": "998",
+  "title": {
+    "display": "Tezzi-Reitz Veterans Memorial",
+    "list": "Tezzi-Reitz Veterans Memorial"
+  },
+  "years": [
+    {
+      "year": "1955"
+    }
+  ],
+  "location": {
+    "latitude": "39.983275",
+    "longitude": "-75.115515",
+    "description": "Southwest side of Somerset between Aramingo and Cedar St."
+  },
+  "comments": "Picture provided by and Copyright William Mason",
+  "inscription": "<br />Erected through the combined efforts of the commanding officers and members of VFW Post 250 and the public spirited people of the Port Richmond and Kensington areas,  in evidence of those who gave so much to protect our God given freedom and liberty.  <br />Memorial Day 1955   <br />Tezzi-Reitz Post",
+  "content": [
+    {
+      "description": "stele",
+      "separator": ","
+    },
+    {
+      "description": "memorial with VFW emblem"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tezzireitz.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tezzireitz.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

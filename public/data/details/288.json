@@ -1,0 +1,64 @@
+{
+  "id": "288",
+  "title": {
+    "display": "Philadelphian Fountain",
+    "list": "Philadelphian Fountain (original)"
+  },
+  "artists": [
+    {
+      "name": "Samuel Israel Oshiver (Architect)",
+      "externallinks": [
+        {
+          "url": "  https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/19047",
+          "label": "philadelphiabuildings.org's Samuel Israel Oshiver page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1963"
+    }
+  ],
+  "location": {
+    "latitude": "39.966510",
+    "longitude": "-75.178150"
+  },
+  "comments": "This fountain had many different configurations.  It was on the North side of Pennsylvania Avenue between 24th and 25th, until it was replaced in 2024 as part of renovations to the building's public spaces",
+  "architecture": {
+    "description": "Steps"
+  },
+  "content": [
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Philadelphian",
+    "prefix": "The",
+    "externallinks": [
+      {
+        "url": "https://www.2401.com/home/",
+        "label": "2401.com"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/108334",
+      "label": "philadelphiabuildings.org's entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/philaft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/philaft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

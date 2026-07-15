@@ -1,0 +1,81 @@
+{
+  "id": "710",
+  "title": {
+    "display": "Giant Three-Way Plug, Scale A",
+    "list": "Giant Three-Way Plug, Scale A"
+  },
+  "artists": [
+    {
+      "name": "Claes Oldenburg",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Claes_Oldenburg",
+          "label": "wikipedia.org's Claes Oldenburg page"
+        },
+        {
+          "url": "https://publicartarchive.org/artist/Claes%20Oldenburg",
+          "label": "publicartarchive.org's Claes Oldenburg page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1970"
+    }
+  ],
+  "yearmodifier": "installed 2010",
+  "location": {
+    "latitude": "39.966950",
+    "longitude": "-75.181950",
+    "description": "Anne d'Harnocourt Drive (25th and Kelly Drive to the Spring Garden Bridge)"
+  },
+  "content": [
+    {
+      "description": "electric plug"
+    }
+  ],
+  "landmark": {
+    "name": "Anne d'Harnoncourt Sculpture Garden",
+    "prefix": "In the",
+    "externallinks": [
+      {
+        "url": "https://www.theolinstudio.com/anne-dharnoncourt-sculpture-garden",
+        "label": "theolinstudio.com's Anne d'Harnoncourt Sculpture Garden page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.slam.org/blog/electrifying-claes-oldenburg-sculpture-stuns-on-slams-front-lawn/",
+      "label": "blog post about the St. Louis Art Museum's copy of this piece at slam.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/plug1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/plug1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/plug2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/plug2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

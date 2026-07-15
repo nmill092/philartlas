@@ -1,0 +1,54 @@
+{
+  "id": "737",
+  "title": {
+    "display": "Drunken Satyr",
+    "list": "Drunken Satyr"
+  },
+  "years": [
+    {
+      "year": "1905"
+    }
+  ],
+  "yearmodifier": "approximate date of casting",
+  "location": {
+    "latitude": "39.944300",
+    "longitude": "-75.148100",
+    "description": "North side of Delancey, East of 4th"
+  },
+  "comments": "reportedly a bronze reproduction of a Pompeian sculpture on loan from the Penn Museum",
+  "content": [
+    {
+      "description": "reclining person"
+    },
+    {
+      "description": "(satyr)"
+    }
+  ],
+  "landmark": {
+    "name": "Hill Physick Keith House",
+    "prefix": "Barely visible through the gate on the South side of the",
+    "externallinks": [
+      {
+        "url": "https://www.ushistory.org/tour/physick-house.htm",
+        "label": "ushistory.org entry for the Hill Physick Keith House"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drunkensatyr.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drunkensatyr.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

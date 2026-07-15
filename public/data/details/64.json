@@ -1,0 +1,100 @@
+{
+  "id": "64",
+  "title": {
+    "display": "cirque, CIRQUE",
+    "list": "cirque, CIRQUE"
+  },
+  "artists": [
+    {
+      "name": "Judy Pfaff",
+      "externallinks": [
+        {
+          "url": "https://www.judypfaffstudio.com/",
+          "label": "judypfaffstudio.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1993"
+    }
+  ],
+  "location": {
+    "latitude": "39.952800",
+    "longitude": "-75.159050",
+    "description": "Inside Reading Terminal Headhouse, North side of Market between 11th and 12th, at the top of the escalator (top floor)"
+  },
+  "comments": "Unless you're there for an event, you'll have to look at it through the entrance",
+  "architecture": {
+    "description": "On the ceiling"
+  },
+  "content": [
+    {
+      "description": "abstract forms"
+    }
+  ],
+  "landmark": {
+    "name": "Convention Center",
+    "prefix": "Ballroom of the",
+    "externallinks": [
+      {
+        "url": "https://www.paconvention.com/",
+        "label": "paconvention.com"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.judypfaffstudio.com/#/cirque-cirque-1993/",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ballroo.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ballroo.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ballroo2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ballroo2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ballroo3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ballroo3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ballroo4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ballroo4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

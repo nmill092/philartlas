@@ -1,0 +1,74 @@
+{
+  "id": "349",
+  "title": {
+    "display": "The Signer",
+    "list": "Signer, The"
+  },
+  "artists": [
+    {
+      "name": "EvAngelos W. Frudakis",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/obituaries/evangelos-frudakis-sculptor-fishing-bear-the-signer-pafa-teacher-mentor-20190221.html",
+          "label": "inquirer.com obituary for EvAngelos Frudakis"
+        },
+        {
+          "url": "https://sculptorewfrudakis.com/",
+          "label": "sculptorewfrudakis.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1980"
+    }
+  ],
+  "location": {
+    "latitude": "39.948825",
+    "longitude": "-75.149000",
+    "description": "5th and Chestnut, Southeast corner"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "scroll and quill"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/89903901@N00/267978490",
+      "label": "Mark Jones' picture of this piece on flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/signer.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/signer.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/signer2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/signer2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

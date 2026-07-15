@@ -1,0 +1,204 @@
+{
+  "id": "895",
+  "title": {
+    "display": "Gulf Refinery Fire Memorial",
+    "list": "Gulf Refinery Fire Memorial"
+  },
+  "years": [
+    {
+      "year": "2007"
+    }
+  ],
+  "location": {
+    "latitude": "39.953290",
+    "longitude": "-75.142910",
+    "description": "East side of 2nd, North of Quarry"
+  },
+  "inscription": "<br />The plaques below memorialize those firefighters who lost their  lives at the Gulf Refinery Fire on August 17, 1975",
+  "architecture": {
+    "description": "Sidewalk"
+  },
+  "content": [
+    {
+      "description": "Philadelphia Fire Department insignia"
+    }
+  ],
+  "landmark": {
+    "name": "Fireman's Hall Museum",
+    "prefix": "On the West side of",
+    "externallinks": [
+      {
+        "url": "https://www.firemanshallmuseum.org/",
+        "label": "firemanshallmuseum.org"
+      }
+    ]
+  },
+  "peopleprefix": "Plaques in memory of",
+  "people": [
+    {
+      "name": "John Andrews",
+      "externallinks": [
+        {
+          "url": "https://www.firehero.org/fallen-firefighter/john-andrews/",
+          "label": "firehero.org's John Andrews page"
+        }
+      ]
+    },
+    {
+      "name": "Carrol Brenek",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/92704390/carroll-brenek",
+          "label": "findagrave.com's Carroll Brenek page"
+        }
+      ]
+    },
+    {
+      "name": "Ralph Campana",
+      "externallinks": [
+        {
+          "url": "https://www.firehero.org/fallen-firefighter/ralph-campana/",
+          "label": "firehero.org's Ralph Campana page"
+        }
+      ]
+    },
+    {
+      "name": "Robert J. Fisher",
+      "externallinks": [
+        {
+          "url": "https://www.firehero.org/fallen-firefighter/robert-fisher/",
+          "label": "firehero.org's Robert Fisher page"
+        }
+      ]
+    },
+    {
+      "name": "Hugh McIntyre",
+      "externallinks": [
+        {
+          "url": "https://www.firehero.org/fallen-firefighter/hugh-mcintyre/",
+          "label": "firehero.org's Hugh McIntyre page"
+        }
+      ]
+    },
+    {
+      "name": "Roger Parker",
+      "externallinks": [
+        {
+          "url": "https://www.firehero.org/fallen-firefighter/roger-parker/",
+          "label": "firehero.org's Roger Parker page"
+        }
+      ]
+    },
+    {
+      "name": "James Pouliot",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/92700778/james-j.-pouliot",
+          "label": "findagrave.com's James Pouliot page"
+        }
+      ]
+    },
+    {
+      "name": "Joseph R. Wiley",
+      "externallinks": [
+        {
+          "url": "https://www.firehero.org/fallen-firefighter/joseph-wiley/",
+          "label": "firehero.org's Joseph Wiley page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1975_Philadelphia_Refinery_Fire",
+      "label": "wikipedia.org's 1975 Philadelphia Refinery Fire page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gulffire1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gulffire1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gulffire2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gulffire2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gulffire3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gulffire3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gulffire4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gulffire4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gulffire5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gulffire5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gulffire6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gulffire6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gulffire7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gulffire7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gulffire8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gulffire8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Old City"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "404",
+  "title": {
+    "display": "Unity",
+    "list": "Unity"
+  },
+  "artists": [
+    {
+      "name": "Richard Lieberman"
+    }
+  ],
+  "years": [
+    {
+      "year": "1969"
+    }
+  ],
+  "location": {
+    "latitude": "39.946025",
+    "longitude": "-75.147500",
+    "description": "East side of 4th at Locust"
+  },
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "landmark": {
+    "name": "Bingham Court",
+    "externallinks": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Bingham_Court",
+        "label": "commons.wikimedia.org's Bingham Court page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.instagram.com/2patravelinggirls/p/CZ1oeWgLXdr/?img_index=1",
+      "label": "2patravelinggirls' picture of another copy of this piece on the grounds of the Emmaus Public Library at instagram.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/unity.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/unity.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/unity2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/unity2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/unity3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/unity3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/unity4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/unity4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

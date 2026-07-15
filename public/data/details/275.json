@@ -1,0 +1,61 @@
+{
+  "id": "275",
+  "title": {
+    "display": "Peace Symbol",
+    "list": "Peace Symbol"
+  },
+  "artists": [
+    {
+      "name": "Robert Engman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Engman",
+          "label": "wikipedia.org's Robert Engman page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/Robert%20Engman",
+          "label": "publicartarchive.org's Robert Engman page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1967"
+    }
+  ],
+  "location": {
+    "latitude": "39.952600",
+    "longitude": "-75.194175",
+    "description": "Woodland Walk East of 36th"
+  },
+  "comments": "This piece has been listed as being by David Linquist or Lindquist, but according to the Smithsonian, it was a group student project supervised by Robert Engman",
+  "content": [
+    {
+      "description": "peace symbol"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/peace-symbol",
+      "label": "upenn.edu'a page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/peace.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/peace.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

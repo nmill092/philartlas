@@ -1,0 +1,120 @@
+{
+  "id": "901",
+  "title": {
+    "display": "Walk Together Forever",
+    "list": "Walk Together Forever"
+  },
+  "artists": [
+    {
+      "name": "statues.com",
+      "externallinks": [
+        {
+          "url": "https://statues.com/",
+          "label": "statues.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "location": {
+    "latitude": "39.904600",
+    "longitude": "-75.169100",
+    "description": "Southwest corner, 11th and Pattison"
+  },
+  "comments": "Located in an outdoor seating area.  It may be difficult to see up close.",
+  "inscription": "<br />Since their inception in 1967,  the Flyers have always done everything possible to put a winning team on the ice.  That work ethic was rewarded on May 19, 1974  when the Flyers defeated the Boston Bruins in six games to become  the first expansion team to win the Stanley Cup.  The Flyers then repeated the feat on May 27, 1975  with a six game series win over the Buffalo Sabres.  <br />  On both occasions, Flyers greats Bobby Clarke and Bernie Parent  accepted the Stanley Cup for the Flyers and began the on-ice celebration.  Those moments are immortalized with this statue, which honors all of  those who made the Broad Street Bullies a legendary part  of Philadelphia Flyers history and forever cemented their spot in hockey lore.",
+  "content": [
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "hockey equipment",
+      "separator": ","
+    },
+    {
+      "description": "Stanley Cup"
+    }
+  ],
+  "landmark": {
+    "name": "Xfinity Live",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://www.xfinitylive.com/",
+        "label": "xfinitylive.com"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Bobby Clarke",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bobby_Clarke",
+          "label": "wikipedia.org's Bobby Clarke page"
+        }
+      ]
+    },
+    {
+      "name": "Bernie Parent",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bernie_Parent",
+          "label": "wikipedia.org's Bernie Parent page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "http://www.flyershistory.net/cgi-bin/photoalbum.cgi?wtfstatue",
+      "label": "flyershistory.net's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/walktogether.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/walktogether.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/walktogether2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/walktogether2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/walktogether3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/walktogether3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

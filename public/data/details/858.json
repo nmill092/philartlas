@@ -1,0 +1,84 @@
+{
+  "id": "858",
+  "title": {
+    "display": "Roll of Honor",
+    "list": "Roll of Honor"
+  },
+  "years": [
+    {
+      "year": "1956"
+    }
+  ],
+  "location": {
+    "latitude": "39.952250",
+    "longitude": "-75.163325",
+    "description": "Market, West of Juniper"
+  },
+  "inscription": "<br />Police Department  <br />City of Philadelphia  <br />In grateful memory of those who gave their lives in performance of their duty",
+  "architecture": {
+    "description": "Courtyard (Southeast corner)"
+  },
+  "content": [
+    {
+      "description": "head, upper body and arm",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "police call box",
+      "separator": ","
+    },
+    {
+      "description": "names"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/docgeorge/25896835746/",
+      "label": "Adventure George's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rollofhonor.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rollofhonor.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rollofhonor2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rollofhonor2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

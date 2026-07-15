@@ -1,0 +1,130 @@
+{
+  "id": "257",
+  "title": {
+    "display": "Monument to the Six Million Jewish Martyrs",
+    "list": "Monument to the Six Million Jewish Martyrs"
+  },
+  "artists": [
+    {
+      "name": "Nathan Rapoport",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nathan_Rapoport",
+          "label": "wikipedia.org's Nathan Rapoport page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1964"
+    }
+  ],
+  "location": {
+    "latitude": "39.955035",
+    "longitude": "-75.167100",
+    "description": "16th, Arch, and the Parkway"
+  },
+  "comments": "The base of the memorial has inscriptions in both English and Hebrew. The last picture is from the new plaza.",
+  "inscription": "<br />  front (English):<br />  Presented to the City of Philadelphia by the Association of Jewish  New Americans in cooperation with the Federation of Jewish Agencies of  Greater Philadelphia, April 26 1964.<br />  right (English):<br />  Remember Drancy, Flossenberg, Gross-Rosea, Klooga, Ewow-Janowska,  Majdanek, Mauthausen, Newengamme, Auschwitz, Babi-Yar, Belzic, Bergen-Belsen,  Buchenwald, Chelmno, Dauchau, Ponary, Ravensbruck, Sachsenhausen, Sobibor,  Stutthof, Therestenstadt, Trebeinka, Westerbork.<br />  left (English):<br />  The Holocaust 1933-1945.<br />  Now and forever enshrined in memory are the  six million Jewish martyrs who perished in concentration camps, ghettos, and  gas chambers.  In their deepest agony they clung to the image of humanity,  and their acts of resistance in the forests and ghettos redeemed the honor  of man.  Their suffering and heroism are forever branded upon our  conscience and shall be remembered from generation to generation.",
+  "content": [
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "books and scrolls",
+      "separator": ","
+    },
+    {
+      "description": "sword",
+      "separator": ","
+    },
+    {
+      "description": "flames"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/monument-to-six-million-jewish-martyrs/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/holmem.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/holmem.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/holmem2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/holmem2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/holmem3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/holmem3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/holmem4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/holmem4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/holmem5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/holmem5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/holmem6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/holmem6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/holmem7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/holmem7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

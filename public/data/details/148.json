@@ -1,0 +1,101 @@
+{
+  "id": "148",
+  "title": {
+    "display": "Free Interpretation of Plant Forms",
+    "list": "Free Interpretation of Plant Forms"
+  },
+  "artists": [
+    {
+      "name": "Harry Bertoia",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Harry_Bertoia",
+          "label": "wikipedia.org's Harry Bertoia page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1967"
+    }
+  ],
+  "location": {
+    "latitude": "40.082985",
+    "longitude": "-75.220250",
+    "description": "Corner of Germantown Avenue and Bells Mill Road"
+  },
+  "comments": "Formerly on Civic Center Boulevard (34th Street South of Spruce). Removed when the entire complex was torn down in 2000.  Installed at the Woodmere in 2016 with a very different fountain treatment. The last picture is from the original location.",
+  "content": [
+    {
+      "description": "plant",
+      "separator": ","
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Woodmere Art Museum",
+    "prefix": "Grounds of",
+    "externallinks": [
+      {
+        "url": "https://woodmereartmuseum.org/",
+        "label": "woodmereartmuseum.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philly.com/philly/entertainment/20160807_Old_sculpture__new_home__new_wonders___Plant_Forms__comes_to_Woodmere.html",
+      "label": "<i>Inquirer</i> article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/plantfo2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/plantfo2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/plantfo3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/plantfo3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/plantfo4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/plantfo4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/plantfo.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/plantfo.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "447",
+  "title": {
+    "display": "World Park",
+    "list": "World Park"
+  },
+  "artists": [
+    {
+      "name": "Ned Smyth",
+      "externallinks": [
+        {
+          "url": "https://www.nedsmyth.com/",
+          "label": "nedsmyth.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1995"
+    }
+  ],
+  "location": {
+    "latitude": "39.952800",
+    "longitude": "-75.159875",
+    "description": "Southwest corner, 12th and Filbert"
+  },
+  "comments": "This piece is listed elsewhere as \"World Park: Orders and Perspectives\".  The shorter title is from the artist's web site. ",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "architectural elements",
+      "separator": ","
+    },
+    {
+      "description": "globe"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/world-park-orders-and-perspectives/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/worldpa.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/worldpa.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/worldpa2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/worldpa2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/worldpa3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/worldpa3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/worldpa4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/worldpa4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/worldpa5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/worldpa5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

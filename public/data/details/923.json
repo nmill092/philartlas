@@ -1,0 +1,100 @@
+{
+  "id": "923",
+  "title": {
+    "display": "The Singing Fountain",
+    "list": "Singing Fountain, The"
+  },
+  "years": [
+    {
+      "year": "2004"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.929900",
+    "longitude": "-75.163210",
+    "description": "In the middle of the triangle formed by 11th, Passyunk, and Tasker"
+  },
+  "comments": "This piece was purchased commercially by the Passyunk Avenue Revitalization Corporation.",
+  "content": [
+    {
+      "description": "fountain",
+      "separator": ","
+    },
+    {
+      "description": "standing people"
+    },
+    {
+      "description": "(including a mermaid)",
+      "separator": ","
+    },
+    {
+      "description": "bowl",
+      "separator": ","
+    },
+    {
+      "description": "musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "flowers"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.passyarc.com/the-singing-fountain/",
+      "label": "passyarc.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/singingft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/singingft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/singingft2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/singingft2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/singingft3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/singingft3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/singingft4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/singingft4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

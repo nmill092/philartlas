@@ -1,0 +1,66 @@
+{
+  "id": "635",
+  "title": {
+    "display": "Suburban Station Clock",
+    "list": "Suburban Station Clock"
+  },
+  "years": [
+    {
+      "year": "1930"
+    }
+  ],
+  "location": {
+    "latitude": "39.954150",
+    "longitude": "-75.166750",
+    "description": "West side of 16th, North of JFK"
+  },
+  "comments": "Best observed from the East side of 16th",
+  "architecture": {
+    "description": "16th Street entrance"
+  },
+  "content": [
+    {
+      "description": "clock",
+      "separator": ","
+    },
+    {
+      "description": "sign"
+    }
+  ],
+  "landmark": {
+    "name": "Suburban Station",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Suburban_Station",
+        "label": "wikipedia.org's Suburban Station page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/subclock.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/subclock.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/subclock2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/subclock2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

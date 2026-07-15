@@ -1,0 +1,74 @@
+{
+  "id": "1172",
+  "title": {
+    "display": "Faces",
+    "list": "Faces (Windrim)"
+  },
+  "artists": [
+    {
+      "name": "John Torrey Windrim (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21563",
+          "label": "philadelphiabuildings.org's John Torrey Windrim page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1893"
+    }
+  ],
+  "yearmodifier": "approximate year of building",
+  "location": {
+    "latitude": "39.947760",
+    "longitude": "-75.170490",
+    "description": "North side of Spruce, East of 18th"
+  },
+  "architecture": {
+    "description": "Both sides of the front door"
+  },
+  "content": [
+    {
+      "description": "heads",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/14296",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1723spruce2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1723spruce2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1723spruce1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1723spruce1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

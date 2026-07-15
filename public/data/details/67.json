@@ -1,0 +1,253 @@
+{
+  "id": "67",
+  "title": {
+    "display": "City Hall, North Pavilion",
+    "list": "City Hall, North Pavilion"
+  },
+  "artists": [
+    {
+      "name": "Alexander Milne Calder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexander_Milne_Calder",
+          "label": "wikipedia.org's Alexander Milne Calder page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1873"
+    },
+    {
+      "year": "1893"
+    }
+  ],
+  "location": {
+    "latitude": "39.953000",
+    "longitude": "-75.163400",
+    "description": "South side of JFK at Broad"
+  },
+  "comments": "This pavilion was the first of the four to be cleaned and lit.  Standing in this one small portion of the building you can sense the incredible amount of work that went into the building's sculpture.",
+  "architecture": {
+    "description": "Part of the whole building's art"
+  },
+  "content": [
+    {
+      "description": "people sitting",
+      "separator": ","
+    },
+    {
+      "description": "people standing",
+      "separator": ","
+    },
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "horse head",
+      "separator": ","
+    },
+    {
+      "description": "seal of the city",
+      "separator": ","
+    },
+    {
+      "description": "scale, plow",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "cattle head",
+      "separator": ","
+    },
+    {
+      "description": "bear head",
+      "separator": ","
+    },
+    {
+      "description": "lion or tiger head",
+      "separator": ","
+    },
+    {
+      "description": "elephant head"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "North entrance",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "Keystone bust of",
+  "people": [
+    {
+      "name": "William Penn",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Penn",
+          "label": "wikipedia.org's William Penn page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/city-hall/#north",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cityhn13.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cityhn13.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

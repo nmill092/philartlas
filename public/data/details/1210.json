@@ -1,0 +1,79 @@
+{
+  "id": "1210",
+  "title": {
+    "display": "We Here",
+    "list": "We Here"
+  },
+  "artists": [
+    {
+      "name": "Roberto Lugo",
+      "externallinks": [
+        {
+          "url": "https://www.robertolugostudio.com/",
+          "label": "robertolugostudio.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2024"
+    }
+  ],
+  "location": {
+    "latitude": "39.997625",
+    "longitude": "-75.111920",
+    "description": "Northwest side of Kensington between H and I"
+  },
+  "comments": "visible through the fence",
+  "content": [
+    {
+      "description": "pottery-inspired arch"
+    },
+    {
+      "description": "decorated with symbols of Kensington residents"
+    }
+  ],
+  "landmark": {
+    "name": "Kensington Corridor Trust Garden",
+    "externallinks": [
+      {
+        "url": "https://kctphilly.org/",
+        "label": "kctphilly.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.muralarts.org/artworks/we-here/",
+      "label": "muralarts.org's page about this work"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wehere1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wehere1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wehere2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wehere2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

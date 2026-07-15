@@ -1,0 +1,63 @@
+{
+  "id": "543",
+  "title": {
+    "display": "Neons for Buttonwood",
+    "list": "Neons for Buttonwood"
+  },
+  "artists": [
+    {
+      "name": "Stephen Anotonakos",
+      "externallinks": [
+        {
+          "url": "https://stephenantonakos.com/",
+          "label": "stephenantonakos.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "39.962550",
+    "longitude": "-75.171750",
+    "description": "North side of Hamilton between 20th and 21st.  Visible from the Parkway from 18th to 22nd."
+  },
+  "architecture": {
+    "description": "Roof"
+  },
+  "content": [
+    {
+      "description": "abstract lines"
+    }
+  ],
+  "landmark": {
+    "name": "CityView Condominiums",
+    "prefix": "South side of"
+  },
+  "externallinks": [
+    {
+      "url": "https://cityviewphilly.org/about-cityview/history/neons/",
+      "label": "article about this piece on cityviewphilly.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/neon.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/neon.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Franklin Town"
+    }
+  ]
+}

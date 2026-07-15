@@ -1,0 +1,93 @@
+{
+  "id": "384",
+  "title": {
+    "display": "Tom Foglietta",
+    "list": "Tom Foglietta"
+  },
+  "artists": [
+    {
+      "name": "Zenos Frudakis",
+      "externallinks": [
+        {
+          "url": "https://www.zenosfrudakis.com/",
+          "label": "zenosfrudakis.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2000"
+    }
+  ],
+  "location": {
+    "latitude": "39.947250",
+    "longitude": "-75.152000",
+    "description": "Southwest of 6th and Walnut"
+  },
+  "inscription": "<br />City Councilman<br />Citizen of Philadelphia<br />Ambassador to Italy<br />Congressman<br />Champion of Historic Preservation  ",
+  "content": [
+    {
+      "description": "head and upper torso"
+    }
+  ],
+  "landmark": {
+    "name": "Washington Square",
+    "prefix": "Northeast of the center of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Washington_Square_(Philadelphia)",
+        "label": "wikipedia.org's Washington Square page"
+      },
+      {
+        "url": "https://www.nps.gov/parkhistory/online_books/inde/washington_square_clr.pdf",
+        "label": "nps.gov's Cultural Landscape Report for Washington Square (449 page pdf)"
+      }
+    ]
+  },
+  "peopleprefix": "Bas-relief bust of",
+  "people": [
+    {
+      "name": "Thomas Foglietta",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_M._Foglietta",
+          "label": "wikipedia.org's Thomas M. Foglietta page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.zenosfrudakis.com/sculpture/tom-foglietta",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fogliett.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fogliett.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fogliett2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fogliett2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

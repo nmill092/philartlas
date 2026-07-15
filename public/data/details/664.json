@@ -1,0 +1,62 @@
+{
+  "id": "664",
+  "title": {
+    "display": "Lion and Knight",
+    "list": "Lion and Knight"
+  },
+  "years": [
+    {
+      "year": "1800"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "40.015710",
+    "longitude": "-75.086650",
+    "description": "Northeast side of Orthdox, Southeast of Penn St."
+  },
+  "content": [
+    {
+      "description": "lion",
+      "separator": ","
+    },
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "armor, shield, and sword hilt"
+    }
+  ],
+  "landmark": {
+    "name": "Historical Society of Frankford",
+    "prefix": "In a gated alley to the right of the",
+    "externallinks": [
+      {
+        "url": "https://www.thehistoricalsocietyoffrankford.org/",
+        "label": "thehistoricalsocietyoffrankford.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lionknight.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lionknight.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

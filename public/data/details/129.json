@@ -1,0 +1,94 @@
+{
+  "id": "129",
+  "title": {
+    "display": "Family of Bears",
+    "list": "Family of Bears"
+  },
+  "artists": [
+    {
+      "name": "Sherl Joseph Winter",
+      "externallinks": [
+        {
+          "url": "https://www.winterartstudio.com/",
+          "label": "winterartstudio.com"
+        },
+        {
+          "url": "https://www.inquirer.com/obituaries/sherl-joseph-winter-sculptor-chestnut-hill-us-mint-medals-coins-died-dies-obituary-20200729.html",
+          "label": "inquirer.com obituary for Sherl Joseph Winter"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1966"
+    }
+  ],
+  "location": {
+    "latitude": "39.944150",
+    "longitude": "-75.148000",
+    "description": "Delancey between 3rd and 4th"
+  },
+  "comments": "The black and white picture of the webmaster climbing on this piece is copyright Joan Anderson, 1972",
+  "content": [
+    {
+      "description": "bears"
+    }
+  ],
+  "landmark": {
+    "name": "Delancey (Three Bears) Park",
+    "externallinks": [
+      {
+        "url": "https://www.threebearspark.org/",
+        "label": "threebearspark.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fambear.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fambear.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fambear2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fambear2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fambear3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fambear3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fambear4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fambear4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

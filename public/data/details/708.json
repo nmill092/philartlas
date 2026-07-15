@@ -1,0 +1,57 @@
+{
+  "id": "708",
+  "title": {
+    "display": "Fire Hat",
+    "list": "Fire Hat"
+  },
+  "artists": [
+    {
+      "name": "Harold Kimmelman",
+      "externallinks": [
+        {
+          "url": "http://www.hksculpt.com/",
+          "label": "hksculpt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "location": {
+    "latitude": "39.959575",
+    "longitude": "-75.233050",
+    "description": "Northwest corner, 56th and Chestnut"
+  },
+  "architecture": {
+    "description": "West wall"
+  },
+  "content": [
+    {
+      "description": "Helmet"
+    }
+  ],
+  "landmark": {
+    "name": "Engine Company 57",
+    "externallinks": [
+      {
+        "url": "https://www.firemanshallmuseum.org/engine-57/",
+        "label": "firemanshallmuseum.org's Engine 57 page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/firehat.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/firehat.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "873",
+  "title": {
+    "display": "Atlas X",
+    "list": "Atlas X"
+  },
+  "artists": [
+    {
+      "name": "Art Brenner",
+      "externallinks": [
+        {
+          "url": "https://www.artbrenner.com/",
+          "label": "artbrenner.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1974"
+    }
+  ],
+  "location": {
+    "latitude": "39.888600",
+    "longitude": "-75.232675",
+    "description": "Hotel parking lot.  East side of Island Ave., just South of Industrial Highway/Penrose Ave."
+  },
+  "comments": "Originally \"bright orange-red\" according to the artist's description.  ",
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.artbrenner.com/metal-sculpture-commissions/atlas.html",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/atlasx1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/atlasx1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/atlasx2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/atlasx2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

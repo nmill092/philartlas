@@ -1,0 +1,86 @@
+{
+  "id": "17",
+  "title": {
+    "display": "Bell Atlantic Tower Fountain",
+    "list": "Bell Atlantic Tower Fountain"
+  },
+  "artists": [
+    {
+      "name": "Vincent Kling/Kling Lindquist Partnership/KlingStubbins (Architects)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vincent_Kling_(architect)",
+          "label": "wikipedia.org's Vincent Kling page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/KlingStubbins",
+          "label": "wikipedia.org's KlingStubbins page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1991"
+    }
+  ],
+  "location": {
+    "latitude": "39.956000",
+    "longitude": "-75.16900",
+    "description": "Southeast corner of 18th and Cherry.  One block South of the Parkway"
+  },
+  "comments": "The Bell Atlantic Tower is attributed to the Kling Lindquist Partnership on the building's wikipedia page.",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "fountain",
+      "separator": ","
+    },
+    {
+      "description": "architectural elements"
+    }
+  ],
+  "landmark": {
+    "name": "Three Logan Square",
+    "prefix": "Behind"
+  },
+  "externallinks": [
+    {
+      "url": "https://www.turnerconstruction.com/projects/bell-atlantic-tower",
+      "label": "turnerconstruction.com's page for the building"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Three_Logan_Square",
+      "label": "wikipedia.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bellft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bellft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bellft2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bellft2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

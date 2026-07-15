@@ -1,0 +1,96 @@
+{
+  "id": "45",
+  "title": {
+    "display": "Black Forest",
+    "list": "Black Forest"
+  },
+  "artists": [
+    {
+      "name": "Robinson Fredenthal",
+      "externallinks": [
+        {
+          "url": "http://www.robinfredenthal.com",
+          "label": "robinfredenthal.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "yearmodifier": "upenn.edu page has 1977",
+  "location": {
+    "latitude": "39.951625",
+    "longitude": "-75.194925",
+    "description": "East side of 36th, South of Locust Walk"
+  },
+  "comments": "upenn.edu says 1977.  1983 is from the APA page. Was at the Southwest corner of 34th and Walnut until 2020.  First two pictures are from the original location.",
+  "content": [
+    {
+      "description": "geometric forms"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42869835",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/polyhedron-forms-black-forest",
+      "label": "upenn.edu's page for this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/black-forest/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bforest.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bforest.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bforest2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bforest2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bforest3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bforest3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bforest4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bforest4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

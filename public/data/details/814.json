@@ -1,0 +1,60 @@
+{
+  "id": "814",
+  "title": {
+    "display": "The Men Can Pledge",
+    "list": "Men Can Pledge, The"
+  },
+  "artists": [
+    {
+      "name": "Isaiah Zagar",
+      "externallinks": [
+        {
+          "url": "https://www.phillymagicgardens.org/",
+          "label": "phillymagicgardens.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2005"
+    }
+  ],
+  "location": {
+    "latitude": "39.982775",
+    "longitude": "-75.166400",
+    "description": "Southeast corner, 20th and Berks"
+  },
+  "inscription": "<br />  As a man I know the realities of violence  against women &amp; children.  I have taken a hard  look at the facts.  Millions of women &amp;  children are beaten, raped, sexually harassed  &amp; stalked every year. These women &amp; children  live in fear of what tomorrow might bring.    Today I take a stand to stop the violence  because I am the friend, family, & companion of  those who have suffered.  I have made a   commitment to turn my private concern into  public action.  I promise to treat all women &amp;  children with dignity &amp; respect. I will  intervene when I see destructive behaviors   that can dehumanize &amp; humiliate others. I  will defend those who cannot defend   themselves by taking action.  I will promote a new kind of society where  decency &amp; respect require no special day on  the calendar, where boys are taught that  violence does not equal strength &amp; where  men stand with courage, lead with conviction   &amp; speak with one voice that says \"no more\".",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "pledge"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://imgur.com/Wp2eegQ",
+      "label": "official picture of this piece at imgur.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/themencanpledge.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/themencanpledge.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Southwest"
+    }
+  ]
+}

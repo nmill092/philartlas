@@ -1,0 +1,75 @@
+{
+  "id": "112",
+  "title": {
+    "display": "Eagle",
+    "list": "Eagle (Post Office Main Branch Building)"
+  },
+  "artists": [
+    {
+      "name": "Rankin and Kellog (Architects)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/26268",
+          "label": "philadelphiabuildings.org's Rankin and Kellog page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1933"
+    }
+  ],
+  "location": {
+    "latitude": "39.954390",
+    "longitude": "-75.181950",
+    "description": "Southwest corner, 29th and Market"
+  },
+  "architecture": {
+    "description": "Over the entrance"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "eagle"
+    }
+  ],
+  "landmark": {
+    "name": "Post Office Main Branch Building",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/United_States_Post_Office-Main_Branch_(Philadelphia,_Pennsylvania)",
+        "label": "wikipedia.org's U.S. Post Office Main Branch Building page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/posteag.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/posteag.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/posteag2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/posteag2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

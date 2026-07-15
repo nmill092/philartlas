@@ -1,0 +1,71 @@
+{
+  "id": "1268",
+  "title": {
+    "display": "Mary",
+    "list": "Mary (St. Francis de Sales Parrish House)"
+  },
+  "years": [
+    {
+      "year": "2009"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.947475",
+    "longitude": "-75.214800",
+    "description": "North side of Springfield, East of 47th"
+  },
+  "inscription": "<br />In gratitude for the legacy of Most Blessed Sacrament Parish, 1901-2008  and with praise, love and thanksgiving for all the good done there by  the priests, the faithful, and especially the sisters servants of the  Immaculate Heart of Mary.",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "head covering",
+      "separator": ","
+    },
+    {
+      "description": "rock"
+    }
+  ],
+  "landmark": {
+    "name": "St. Francis de Sales Catholic Church",
+    "prefix": "Front yard of the Parrish House,",
+    "externallinks": [
+      {
+        "url": "https://desalesphilly.com/",
+        "label": "desalesphilly.com"
+      }
+    ]
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stfdsccphmary.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stfdsccphmary.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Cedar Park, Clark Park, Portal"
+    }
+  ]
+}

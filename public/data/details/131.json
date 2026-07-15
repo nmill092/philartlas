@@ -1,0 +1,281 @@
+{
+  "id": "131",
+  "title": {
+    "display": "Fidelity Bank Building",
+    "list": "Fidelity Bank Building"
+  },
+  "artists": [
+    {
+      "name": "Richard William Morton Keast (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/25018",
+          "label": "philadelphiabuildings.org's Richard William Morton Keast page"
+        }
+      ]
+    },
+    {
+      "name": "Edward Paul  Simon (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21527",
+          "label": "philadelphiabuildings.org's Edward Paul Simon page"
+        }
+      ]
+    },
+    {
+      "name": "Grant Miles Simon (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21536",
+          "label": "philadelphiabuildings.org's Grant Miles Simon page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1928"
+    }
+  ],
+  "location": {
+    "latitude": "39.949675",
+    "longitude": "-75.163925",
+    "description": "East side of Broad between Sansom and Walnut"
+  },
+  "comments": "Keast is listed in two places as the actual designer of the building, but Simon and Simon are officially credited.",
+  "inscription": "<br />Libertas Americana, 4 Juil 1776  <br />Non sine diis animosusinians 17 Oct. 1777 - 19 Oct. 1781  <br />Fugio. 1787, Mind your business  <br />Value me as you please  <br />Masathusets",
+  "architecture": {
+    "description": "Whole building"
+  },
+  "content": [
+    {
+      "description": "reclining people",
+      "separator": ","
+    },
+    {
+      "description": "heads",
+      "separator": ","
+    },
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "hammer, artists tools",
+      "separator": ","
+    },
+    {
+      "description": "quill and scroll",
+      "separator": ","
+    },
+    {
+      "description": "dragons",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "lion",
+      "separator": ","
+    },
+    {
+      "description": "tree",
+      "separator": ","
+    },
+    {
+      "description": "donkey",
+      "separator": ","
+    },
+    {
+      "description": "sun",
+      "separator": ","
+    },
+    {
+      "description": "sundial"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=NR-78002447",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank13.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank13.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank14.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank14.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank15.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank15.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fibank16.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fibank16.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

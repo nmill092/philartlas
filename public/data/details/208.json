@@ -1,0 +1,80 @@
+{
+  "id": "208",
+  "title": {
+    "display": "Johnnie Ring",
+    "list": "Johnnie Ring"
+  },
+  "artists": [
+    {
+      "name": "Boris Blai",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Boris_Blai",
+          "label": "wikipedia.org's Boris Blai page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1958"
+    }
+  ],
+  "yearmodifier": "installed 1964",
+  "location": {
+    "latitude": "39.982575",
+    "longitude": "-75.156525",
+    "description": "West side of Beasley' Walk, North of Polett Walk"
+  },
+  "comments": "Also listed as \"Johnny Ring\" including on maps distributed by the University.",
+  "inscription": "<br />  \"Johnnie Ring was the youth whose example in life and heroism in death  provided inspiration that led to the founding of Temple  University. In the war between the states he was personal  orderly to Captain Russell H. Conwell of the 46th Massachusetts   Infantry.  The moving forces of his life at that time were his  religious faith and his devotion to Captain Conwell.  When a surprise  Confederate attack routed Union troops, it was Johnnie Ring who  raced across a flaming bridge and through enemy gunfire to  retrieve from his commander's tent the ceremonial sword presented  to the Captain by the city of Springfield.  He brought back the  sword, but he died that night of his burns as Conwell knelt by his  cot in prayer.  The incident turned Conwell to the ministry as a life  work and later to the founding of Temple University.  He vowed  to live a life for Johnnie Ring as well as for himself. Eight hours  of work a day for Johnnie, eight hours of work for his own.    Except for Johnnie Ring, Conwell would never have told America the  story of the acres of diamonds, nor would he have built the  University that enabled multitudes of young men and women to  realize the promise of education.\"  -Russell Conwell Cooney  <br />A lad who didn't die   <br />1861-1958  ",
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "wearing a hat",
+      "separator": ","
+    },
+    {
+      "description": "Bible",
+      "separator": ","
+    },
+    {
+      "description": "sword"
+    }
+  ],
+  "peopleprefix": "Statue of and tribute to",
+  "people": [
+    {
+      "name": "Johnnie Ring"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jring.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jring.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jring2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jring2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Campus"
+    }
+  ]
+}

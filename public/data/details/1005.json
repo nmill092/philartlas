@@ -1,0 +1,85 @@
+{
+  "id": "1005",
+  "title": {
+    "display": "Jesus",
+    "list": "Jesus (Holy Redeemer)"
+  },
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "yearmodifier": "installed, based on June 2014 Street View",
+  "location": {
+    "latitude": "39.957215",
+    "longitude": "-75.154300",
+    "description": "North side of Vine, West of 9th"
+  },
+  "inscription": "<br />In loving memory of  <br />Joseph James Moy  <br />1924-1963",
+  "architecture": {
+    "description": "On top of the South wall"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Holy Redeemer Chinese Catholic Church",
+    "externallinks": [
+      {
+        "url": "https://holyredeemerccc.org/",
+        "label": "holyredeemerccc.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hrjesus1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hrjesus1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hrjesus2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hrjesus2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hrjesus3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hrjesus3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

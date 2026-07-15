@@ -1,0 +1,179 @@
+{
+  "id": "449",
+  "title": {
+    "display": "Your Move",
+    "list": "Your Move"
+  },
+  "artists": [
+    {
+      "name": "Daniel Martinez",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Daniel_Joseph_Martinez",
+          "label": "wikipedia.org's Daniel Joseph Martinez page"
+        }
+      ]
+    },
+    {
+      "name": "Renee Petropoulos",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Renee_Petropoulos",
+          "label": "wikipedia.org's Renee Petropoulos page"
+        }
+      ]
+    },
+    {
+      "name": "Roger White"
+    }
+  ],
+  "years": [
+    {
+      "year": "1996"
+    }
+  ],
+  "location": {
+    "latitude": "39.953950",
+    "longitude": "-75.164150"
+  },
+  "comments": "Was on the West side of Broad between Arch and JFK.  Severely deteriorated. Removed by the City in late May 2023 for eventual destruction.",
+  "architecture": {
+    "description": "Scattered around the plaza"
+  },
+  "content": [
+    {
+      "description": "chess pieces, Monopoly pieces, dominoes, etc."
+    }
+  ],
+  "landmark": {
+    "name": "Municipal Services Building"
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/your-move/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/yourmv12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/yourmv12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

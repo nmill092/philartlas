@@ -1,0 +1,63 @@
+{
+  "id": "1218",
+  "title": {
+    "display": "Philadelphian Fountain",
+    "list": "Philadelphian Fountain (2024)"
+  },
+  "artists": [
+    {
+      "name": "CBP Architects",
+      "externallinks": [
+        {
+          "url": "https://www.cbparchitects.com/",
+          "label": "cbparchitects.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2024"
+    }
+  ],
+  "location": {
+    "latitude": "39.966510",
+    "longitude": "-75.178150",
+    "description": "North side of Pennsylvania Avenue between 24th and 25th"
+  },
+  "architecture": {
+    "description": "Steps"
+  },
+  "content": [
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Philadelphian",
+    "prefix": "The",
+    "externallinks": [
+      {
+        "url": "https://www.2401.com/home/",
+        "label": "2401.com"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/philaft2024.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/philaft2024.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

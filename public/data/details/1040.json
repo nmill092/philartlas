@@ -1,0 +1,77 @@
+{
+  "id": "1040",
+  "title": {
+    "display": "Wynn Commons Sign",
+    "list": "Wynn Commons Sign"
+  },
+  "artists": [
+    {
+      "name": "Venturi, Scott Brown (and Rauch)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Venturi",
+          "label": "wikipedia.org's Robert Venturi page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+          "label": "wikipedia.org's Denise Scott Brown page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2001"
+    }
+  ],
+  "location": {
+    "latitude": "39.951090",
+    "longitude": "-75.193215",
+    "description": "East end of Penn Commons.  Northwest corner of Irvine Auditorium.  North side of Spruce, West of 34th."
+  },
+  "comments": "At the time this piece was installed the firm was named Venturi, Scott Brown and Associates.  In 2018 Wynn's name was removed from the sign. It now says \"Penn Commons\".",
+  "content": [
+    {
+      "description": "Penn logo",
+      "separator": ","
+    },
+    {
+      "description": "sign"
+    }
+  ],
+  "peopleprefix": "Originally named for",
+  "people": [
+    {
+      "name": "Steve Wynn",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Wynn",
+          "label": "wikipedia.org's Steve Wynn page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.thedp.com/article/2018/12/wynn-commons-vandalism-penn-upenn-consent-tea",
+      "label": "thedp.com 2018 article about the name change and a temporary unauthorized alteration"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wynncommons.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wynncommons.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

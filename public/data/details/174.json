@@ -1,0 +1,113 @@
+{
+  "id": "174",
+  "title": {
+    "display": "The Great Mother",
+    "list": "Great Mother, The"
+  },
+  "artists": [
+    {
+      "name": "Waldemar Raemisch",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Waldemar_Raemisch",
+          "label": "wikipedia.org's Waldemar Raemisch page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1955"
+    }
+  ],
+  "location": {
+    "latitude": "39.974750",
+    "longitude": "-75.203650",
+    "description": "North side of Parkside at 40th and Girard"
+  },
+  "comments": "Formerly on the North side of the Parkway bewteen 19th and 20th. Moved August, 2008. The first two pictures are from the original location. The third and fourth pictures were taken during installation at the new site.",
+  "content": [
+    {
+      "description": "group of people",
+      "separator": ","
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "book"
+    }
+  ],
+  "landmark": {
+    "name": "School of the Future",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://sof.philasd.org/",
+        "label": "sof.philasd.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://changingskyline.blogspot.com/2008/08/farewell-to-youth-study-center.html",
+      "label": "blog about this piece being moved"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/the-great-mother-and-the-great-doctor/",
+      "label": "associationforpublicart.org's page for this piece and The Great Doctor"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mother.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mother.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mother2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mother2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mother3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mother3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mother4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mother4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

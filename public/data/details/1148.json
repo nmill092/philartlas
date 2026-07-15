@@ -1,0 +1,55 @@
+{
+  "id": "1148",
+  "title": {
+    "display": "Science Leadership Academy Sign",
+    "list": "Science Leadership Academy Sign"
+  },
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "yearmodifier": "school founded",
+  "location": {
+    "latitude": "39.955930",
+    "longitude": "-75.176175"
+  },
+  "comments": "Was on the Southeast corner of 22nd and Arch. The school has moved to Broad and Green.  The sign was removed shortly before 6/30/2022.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "sign",
+      "separator": ","
+    },
+    {
+      "description": "idea"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sla1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sla1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sla3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sla3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

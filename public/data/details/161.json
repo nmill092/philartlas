@@ -1,0 +1,89 @@
+{
+  "id": "161",
+  "title": {
+    "display": "General Nathanael Greene",
+    "list": "General Nathanael Greene"
+  },
+  "artists": [
+    {
+      "name": "Lewis Iselin",
+      "externallinks": [
+        {
+          "url": "http://www.lewisiselin.com/",
+          "label": "lewisiselin.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1960"
+    }
+  ],
+  "location": {
+    "latitude": "39.966835",
+    "longitude": "-75.182925",
+    "description": "On the hill, South side of Kelly Drive, West of 26th"
+  },
+  "inscription": "<br />  front:<br />  1742-1786<br />  <i>We fight, get beat, rise, and fight again.</i><br />  left:<br />  A Rhode Islander<br />  Businessman turned soldier<br />  Served with great distinction as Quartermaster General and Army Commander<br />  A trusted friend of General Washington  <br />  right:<br />  <i>His qualifications for statesmanship were not less remarkable than  his military ability.</i><br>  -Alexander Hamilton.<br />  <i>Second to no one in enterprise, in resource, in sound judgement,  promptitude of decision, and every other military talent.</i><br />  -Thomas Jefferson",
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "William M. Reilly Memorial",
+    "prefix": "Part of the",
+    "externallinks": [
+      {
+        "url": "https://www.associationforpublicart.org/artwork/william-m-reilly-memorial-revolutionary-war-heroes/",
+        "label": "associationforpublicart.org's William M. Reilly Memorial page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Nathanael Greene",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nathanael_Greene",
+          "label": "wikipedia.org's Nathanael Greene page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/general-nathanael-greene/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/greene.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/greene.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/greene2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/greene2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

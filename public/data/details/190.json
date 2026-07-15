@@ -1,0 +1,81 @@
+{
+  "id": "190",
+  "title": {
+    "display": "The Immigrant",
+    "list": "Immigrant, The"
+  },
+  "artists": [
+    {
+      "name": "Heinz Warneke",
+      "externallinks": [
+        {
+          "url": "https://library.syr.edu/digital/guides/w/warneke_h.htm",
+          "label": "syr.edu Heinz Warneke papers"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1933"
+    }
+  ],
+  "location": {
+    "latitude": "39.973800",
+    "longitude": "-75.190925",
+    "description": "Kelly Drive, past Boat House Row"
+  },
+  "inscription": "They came seeking freedom",
+  "content": [
+    {
+      "description": "kneeling person",
+      "separator": ","
+    },
+    {
+      "description": "staff"
+    }
+  ],
+  "landmark": {
+    "name": "Ellen Phillips Samuel Memorial",
+    "prefix": "Central Terrace",
+    "externallinks": [
+      {
+        "url": "https://www.associationforpublicart.org/artwork/ellen-phillips-samuel-memorial/",
+        "label": "associationforpublicart.org's Ellen Phillips Samuel Memorial page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/the-immigrant/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/immigra.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/immigra.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/immigra2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/immigra2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

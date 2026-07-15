@@ -1,0 +1,70 @@
+{
+  "id": "721",
+  "title": {
+    "display": "Pyramid",
+    "list": "Pyramid"
+  },
+  "artists": [
+    {
+      "name": "Ernest Shaw",
+      "externallinks": [
+        {
+          "url": "https://www.groundsforsculpture.org/Artist/Ernest-Shaw",
+          "label": "groundsforsculpture.org's Ernest Shaw page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/Ernest%20Shaw",
+          "label": "publicartarchive.org's Ernest Shaw page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "location": {
+    "latitude": "39.949235",
+    "longitude": "-75.195475",
+    "description": "418 Curie Blvd."
+  },
+  "content": [
+    {
+      "description": "geometric form"
+    }
+  ],
+  "landmark": {
+    "name": "Claire M. Fagin Hall",
+    "prefix": "East end of",
+    "externallinks": [
+      {
+        "url": "https://www.facilities.upenn.edu/maps/locations/fagin-hall-claire-m",
+        "label": "facilities.upenn.edu Claire M. Fagin Hall page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/pyramid",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pyramid.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pyramid.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "University City South Medical Complex"
+    }
+  ]
+}

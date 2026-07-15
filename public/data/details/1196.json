@@ -1,0 +1,77 @@
+{
+  "id": "1196",
+  "title": {
+    "display": "ALOMH",
+    "list": "ALOMH"
+  },
+  "artists": [
+    {
+      "name": "Tobi Kahn",
+      "externallinks": [
+        {
+          "url": "https://tobikahn.com",
+          "label": "tobikahn.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2024"
+    }
+  ],
+  "location": {
+    "latitude": "39.950625",
+    "longitude": "-75.158650",
+    "description": "Southwest corner, 11th and Clover"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "abstract vertical forms"
+    }
+  ],
+  "landmark": {
+    "name": "Honickman Center",
+    "prefix": "Northeast corner of",
+    "externallinks": [
+      {
+        "url": "https://www.jeffersonhealth.org/locations/honickman-center",
+        "label": "jeffersonhealth.org's Honickman Center page"
+      },
+      {
+        "url": "https://www.ennead.com/work/jefferson-health-specialty-care",
+        "label": "ennead.com's Honickman Center page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/alomh1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/alomh1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/alomh2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/alomh2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

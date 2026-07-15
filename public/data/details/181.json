@@ -1,0 +1,87 @@
+{
+  "id": "181",
+  "title": {
+    "display": "Henry Howard Houston",
+    "list": "Henry Howard Houston"
+  },
+  "artists": [
+    {
+      "name": "John Massey Rhind",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/J._Massey_Rhind",
+          "label": "wikipedia.org's John Massey Rhind page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1900"
+    }
+  ],
+  "location": {
+    "latitude": "40.032060",
+    "longitude": "-75.187160",
+    "description": "Lincoln Drive and Harvey Street"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "dog"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Henry Howard Houston",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_H._Houston",
+          "label": "wikipedia.org's Henry Howard Houston page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://fow.org/virtual-valley/trails-to-the-past/henry-houston-statue/",
+      "label": "fow.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/houston.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/houston.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/houston2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/houston2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/houston3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/houston3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

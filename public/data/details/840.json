@@ -1,0 +1,72 @@
+{
+  "id": "840",
+  "title": {
+    "display": "Mitosis",
+    "list": "Mitosis"
+  },
+  "artists": [
+    {
+      "name": "Clark B. Fitz-Gerald",
+      "externallinks": [
+        {
+          "url": "https://www.sfitzgeraldfineart.com/gallery/gallery-detail.asp?gallery=clark-fitz-gerald",
+          "label": "Clark Fitz-Gerald gallery from sfitzgeraldfineart.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1970"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.903800",
+    "longitude": "-75.243600",
+    "description": "Northwest Corner 78th and Lindbergh"
+  },
+  "comments": "picture of the artist with this piece provided by and copyright Stephen Fitz-Gerald",
+  "content": [
+    {
+      "description": "plant"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mitosis.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mitosis.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mitosis2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mitosis2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mitosis3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mitosis3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

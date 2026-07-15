@@ -1,0 +1,76 @@
+{
+  "id": "63",
+  "title": {
+    "display": "China Gate",
+    "list": "China Gate"
+  },
+  "artists": [
+    {
+      "name": "Sabrina Soong",
+      "externallinks": [
+        {
+          "url": "https://www.legacy.com/us/obituaries/inquirer/name/sabrina-soong-obituary?pid=17494027",
+          "label": "legacy.com's Sabrina Soong obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1984"
+    }
+  ],
+  "location": {
+    "latitude": "39.953700",
+    "longitude": "-75.156250",
+    "description": "Spanning 10th Street, North of Arch"
+  },
+  "content": [
+    {
+      "description": "arch"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/the-china-gate/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chigate.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chigate.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chigate2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chigate2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chigate3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chigate3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

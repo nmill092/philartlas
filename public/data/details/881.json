@@ -1,0 +1,190 @@
+{
+  "id": "881",
+  "title": {
+    "display": "Convent of Divine Love",
+    "list": "Convent of Divine Love"
+  },
+  "artists": [
+    {
+      "name": "Paul Monaghan (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21895",
+          "label": "philadelphiabuildings.org's Paul Monaghan page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1914"
+    }
+  ],
+  "yearmodifier": "date of building",
+  "location": {
+    "latitude": "39.965285",
+    "longitude": "-75.174400",
+    "description": "Southwest corner, 22nd and Green"
+  },
+  "inscription": "<br />Chapel Entrance: Venite Jesum Adoremus  <br />:Convent Entrance:  Come holy spirit.  Beneath the shadow of thy wings we dwell.",
+  "architecture": {
+    "description": "Whole building"
+  },
+  "content": [
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "winged people",
+      "separator": ","
+    },
+    {
+      "description": "sword",
+      "separator": ","
+    },
+    {
+      "description": "dove",
+      "separator": ","
+    },
+    {
+      "description": "sun",
+      "separator": ","
+    },
+    {
+      "description": "dragon heads",
+      "separator": ","
+    },
+    {
+      "description": "symbols"
+    }
+  ],
+  "landmark": {
+    "name": "Convent of Divine Love",
+    "externallinks": [
+      {
+        "url": "https://adorationsisters.org/",
+        "label": "adorationsisters.org"
+      }
+    ]
+  },
+  "peopleprefix": "Relief of winged",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/59715",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/divinelove.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/divinelove.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/divinelove2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/divinelove2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/divinelove3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/divinelove3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/divinelove4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/divinelove4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/divinelove5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/divinelove5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/divinelove6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/divinelove6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/divinelove7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/divinelove7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/divinelove8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/divinelove8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/divinelove9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/divinelove9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fairmount"
+    }
+  ]
+}

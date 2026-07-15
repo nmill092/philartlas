@@ -1,0 +1,52 @@
+{
+  "id": "759",
+  "title": {
+    "display": "Chinatown Sound Barrier",
+    "list": "Chinatown Sound Barrier"
+  },
+  "years": [
+    {
+      "year": "1991"
+    }
+  ],
+  "location": {
+    "latitude": "39.956725",
+    "longitude": "-75.155750",
+    "description": "South side of Vine at 10th"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "symbol and text"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chinawall1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chinawall1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chinawall2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chinawall2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

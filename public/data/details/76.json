@@ -1,0 +1,80 @@
+{
+  "id": "76",
+  "title": {
+    "display": "Collab 1",
+    "list": "Collab 1"
+  },
+  "artists": [
+    {
+      "name": "Bernard Brenner",
+      "externallinks": [
+        {
+          "url": "http://www.chrisray.com/exhibit/show01/index.htm",
+          "label": "Bernard Brenner exhibit at chrisray.com"
+        }
+      ]
+    },
+    {
+      "name": "James Fuhrman",
+      "externallinks": [
+        {
+          "url": "https://www.jfuhrman.com/",
+          "label": "jfuhrman.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "location": {
+    "latitude": "39.960550",
+    "longitude": "-75.142350",
+    "description": "South Side of Spring Garden between 2nd and 3rd"
+  },
+  "comments": "White in the first two pictures, taken September, 2012. Black in the third picture, taken circa 1998.  ",
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/collab2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/collab2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/collab3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/collab3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/collab.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/collab.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

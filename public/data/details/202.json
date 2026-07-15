@@ -1,0 +1,80 @@
+{
+  "id": "202",
+  "title": {
+    "display": "John Harrison, Chemist",
+    "list": "John Harrison, Chemist"
+  },
+  "artists": [
+    {
+      "name": "Lawrence Tenney Stevens",
+      "externallinks": [
+        {
+          "url": "https://lawrencetenneystevens.com/",
+          "label": "lawrencetenneystevens.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1932"
+    }
+  ],
+  "location": {
+    "latitude": "39.951150",
+    "longitude": "-75.191685",
+    "description": "In a small park South of Smith Walk between 33rd and 34th."
+  },
+  "comments": "I'm basing the attribution on the name and date at the bottom of the back of the statue's coat.  The University listed it as Lynn Jenkins, 1934.",
+  "inscription": "1773-1833",
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "John Harrison",
+      "externallinks": [
+        {
+          "url": "https://americanaristocracy.com/people/john-harrison",
+          "label": "americanaristocracy.com's John Harrison page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/john-harrison-1773-1833",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chemist.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chemist.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chemist2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chemist2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}
