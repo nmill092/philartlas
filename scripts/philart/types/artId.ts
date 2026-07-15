@@ -133,3 +133,22 @@ export interface ArtIdResponse {
   head: Head, 
   body: ArtBody
 }
+
+export interface FinalArtBody {
+  id: string, 
+  title: ArtBody['title'];
+  artists?: Omit<Artist, 'links'>[];
+  years?: Omit<Year, 'links'>[];
+  yearmodifier?: string;
+  location: Location;
+  comments?: string;
+  inscription?: string;
+  architecture?: Omit<Architecture, 'links'>;
+  content: Omit<Content, 'links'>[];
+  landmark?: Omit<Landmark, 'links'>;
+  peopleprefix?: string;
+  people?: Omit<Person, 'links'>[];
+  externallinks?: ExternalLink[];
+  pictures: Picture[];
+  tours?: Omit<Tour, 'links'>[];
+}
