@@ -1,7 +1,7 @@
-import type { TopLevelArtResponse, TopLevelBody } from "../../src/types/api";
 import { mkdir, readdir, writeFile } from "fs/promises";
-import type { ArtIdResponse } from "../../src/types/api";
-import { cleanArtResponseBody } from "./fetchUtils.ts";
+
+import type { TopLevelArtResponse, ArtIdResponse, TopLevelBody } from "../../src/types/api.ts";
+import { cleanArtResponseBody } from "./utils.ts";
 
 const TOP_LEVEL_ART_URL = 'https://www.philart.net/api/art.json';
 const DETAILS_PATH = 'public/data/details';

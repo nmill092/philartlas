@@ -1,11 +1,13 @@
 import { readdir, readFile, writeFile } from 'fs/promises';
-import type { FinalArtBody } from '../../src/types/mapData';
 import type { Feature, FeatureCollection, Point } from 'geojson';
-import type { ArtFeatureProperty } from '../../src/types/mapData';
+
+import type { FinalArtBody, ArtFeatureProperty, MapFeatureCollection } from '../../src/types/mapData';
+import { getNeighborhoodForPoint } from './utils.ts';
 
 const DETAILS_PATH = 'public/data/details';
+const NEIGHBORHOODS_PATH = new URL('../data/philadelphia-neighborhoods.geojson', import.meta.url);
 
-const buildGeojsonFeatures = async () => {
+const buildGeojsonFeatures = async (neighborhoodData: MapFeatureCollection) => {
   const failures: { file: string, error: unknown }[] = []; 
 
   const files = await readdir(DETAILS_PATH); 
@@ -14,7 +16,7 @@ const buildGeojsonFeatures = async () => {
     try {
       const fileContent = await readFile(`${DETAILS_PATH}/${file}`, { encoding: 'utf-8' });
       const data = JSON.parse(fileContent) as FinalArtBody;
-      return buildGeojsonFeature(data);
+      return buildGeojsonFeature(data, neighborhoodData);
     } catch(err) {
       failures.push({ file, error: err instanceof Error ? err.message : String(err)})
     }
@@ -27,20 +29,23 @@ const buildGeojsonFeatures = async () => {
   }
 }
 
-const buildGeojsonFeature = (data: FinalArtBody): Feature<Point, ArtFeatureProperty>  => {
+const buildGeojsonFeature = (data: FinalArtBody, neighborhoodData: MapFeatureCollection): Feature<Point, ArtFeatureProperty>  => {
   const { latitude, longitude } = data.location;
   const [latParsed, lngParsed] = [Number(latitude), Number(longitude)]; 
-  
-  if (isNaN(latParsed) || isNaN(lngParsed)) {
-    throw new Error(`Coords for id ${data.id} could not be parsed.`)
+  const coords = [lngParsed, latParsed]; 
+
+  if (isNaN(latParsed) || isNaN(lngParsed) || lngParsed === 0 || latParsed === 0) {
+    throw new Error(`Coords for id ${data.id} could not be parsed. Coords: lat ${latitude}, lng ${longitude}`)
   }
+
+  const neighborhood = getNeighborhoodForPoint(coords, neighborhoodData); 
   
   return {
     type: 'Feature',
     id: data.id, 
     geometry: {
       type: 'Point',
-      coordinates: [lngParsed, latParsed]
+      coordinates: coords
     },
     properties: {
       id: data.id,
@@ -48,6 +53,7 @@ const buildGeojsonFeature = (data: FinalArtBody): Feature<Point, ArtFeaturePrope
       artists: data.artists?.map(artist => artist.name).join(', '), 
       years: data.years, 
       locationDescription: data.location.description,
+      neighborhood
     }
   }
 }
@@ -67,7 +73,11 @@ const buildFinalGeoJson = async (features: Feature<Point, ArtFeatureProperty>[])
 }
 
 async function main() {
-  const { features, failures } = await buildGeojsonFeatures(); 
+
+  const neighborhoodData = await readFile(NEIGHBORHOODS_PATH, { encoding: 'utf-8'}); 
+  const data = JSON.parse(neighborhoodData) as MapFeatureCollection; 
+
+  const { features, failures } = await buildGeojsonFeatures(data); 
   await buildFinalGeoJson(features); 
 
   console.log(`Successfully wrote ${features.length} features.`) 

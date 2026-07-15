@@ -1,3 +1,4 @@
+import type { Feature, FeatureCollection, MultiPolygon, Polygon } from "geojson";
 import type { Architecture, ArtBody, Artist, Content, ExternalLink, Landmark, Location, Person, Picture, Tour, Year } from "./api";
 
 export interface FinalArtBody {
@@ -26,5 +27,14 @@ export interface ArtFeatureProperty {
   artists: string | undefined,
   years: FinalArtBody['years'],
   locationDescription: string | undefined, 
+  neighborhood: string | undefined
 }
 
+export interface NeighborhoodProperties {
+  MAPNAME: string, 
+  LISTNAME: string, 
+  NAME: string
+}
+
+export type MapFeature = Feature<Polygon | MultiPolygon, NeighborhoodProperties>; 
+export type MapFeatureCollection = FeatureCollection<Polygon | MultiPolygon, NeighborhoodProperties>; 

@@ -1,5 +1,4 @@
-import type { Link } from "../../src/types/api";
-import type { ArtBody } from "../../src/types/api";
+import type { Link, ArtBody } from "../../src/types/api";
 import type { FinalArtBody } from "../../src/types/mapData";
 
 export function stripLinks<T extends { links: Link[] }>(item: T): Omit<T, 'links'> {
