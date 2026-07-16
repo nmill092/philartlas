@@ -33,3 +33,11 @@ jobs:
       - name: Build geojson file
         run: |
           node scripts/geo/buildFeatures.ts
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/details/ public/data/geojson.json
+          git diff --staged --quiet || git commit -m "Update art data"
+          git push
