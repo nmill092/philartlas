@@ -1,0 +1,219 @@
+{
+  "id": "511",
+  "title": {
+    "display": "St. Paul's Episcopal Church",
+    "list": "St. Paul's Episcopal Church"
+  },
+  "years": [
+    {
+      "year": "1928"
+    },
+    {
+      "year": "1929"
+    }
+  ],
+  "location": {
+    "latitude": "40.079100",
+    "longitude": "-75.208850",
+    "description": "South side of Chestnut Hill Ave., East of Germantown Ave."
+  },
+  "inscription": "Spiritus Gladius",
+  "architecture": {
+    "description": "Whole building."
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "Bible",
+      "separator": ","
+    },
+    {
+      "description": "sword",
+      "separator": ","
+    },
+    {
+      "description": "crosses",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "dragons and chimeras",
+      "separator": ","
+    },
+    {
+      "description": "snake",
+      "separator": ","
+    },
+    {
+      "description": "bird",
+      "separator": ","
+    },
+    {
+      "description": "fish"
+    }
+  ],
+  "landmark": {
+    "name": "St. Paul's Episcopal Church",
+    "externallinks": [
+      {
+        "url": "https://stpaulschestnuthill.org/",
+        "label": "stpaulschestnuthill.org"
+      }
+    ]
+  },
+  "peopleprefix": "gargoyles and statue of",
+  "people": [
+    {
+      "name": "Saint Paul",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_the_Apostle",
+          "label": "wikipedia.org's Paul the Apostle page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.oocities.org/gargoyleppa/specch.html",
+      "label": "gargoyle hunter's page for the building"
+    },
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/117839",
+      "label": "philadelphiabuildings.org's entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaulsch12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaulsch12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

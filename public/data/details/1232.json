@@ -1,0 +1,71 @@
+{
+  "id": "1232",
+  "title": {
+    "display": "Fire Fighter Stephen Yale Memorial Plaque",
+    "list": "Fire Fighter Stephen Yale Memorial Plaque"
+  },
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "yearmodifier": "probable",
+  "location": {
+    "latitude": "40.044375",
+    "longitude": "-75.144410",
+    "description": "East side of Old York South of Champlost"
+  },
+  "inscription": "Died in the line of duty protecting the citizens of Philadelphia on December 26. 1991.  Dedicated by his family and friends.",
+  "architecture": {
+    "description": "West wall"
+  },
+  "content": [
+    {
+      "description": "Philadelphia Fire Department insignia"
+    }
+  ],
+  "landmark": {
+    "name": "Engine Company 51",
+    "externallinks": [
+      {
+        "url": "https://www.firemanshallmuseum.org/engine-51/",
+        "label": "firemanshallmuseum.org's Engine 51 page"
+      }
+    ]
+  },
+  "peopleprefix": "plaque in memory of",
+  "people": [
+    {
+      "name": "Stephen Yale",
+      "externallinks": [
+        {
+          "url": "https://www.facebook.com/story.php?story_fbid=1003202831839898&id=100064505717759&_rdr",
+          "label": "PFD History's Stephen Yale post at facebook.com"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://apps.usfa.fema.gov/firefighter-fatalities/details?id=2822",
+      "label": "fema.gov's record of Stephen Yale's death"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stephenyale.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stephenyale.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Logan/Ogontz"
+    }
+  ]
+}

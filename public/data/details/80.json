@@ -1,0 +1,62 @@
+{
+  "id": "80",
+  "title": {
+    "display": "Commerce Square Fountain",
+    "list": "Commerce Square Fountain"
+  },
+  "artists": [
+    {
+      "name": "Laurie Olin",
+      "externallinks": [
+        {
+          "url": "https://www.theolinstudio.com/",
+          "label": "theolinstudio.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "location": {
+    "latitude": "39.954200",
+    "longitude": "-75.174100",
+    "description": "South side of Market between 20th and 21st"
+  },
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Commerce Square"
+  },
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Commerce_Square",
+      "label": "wikipedia.org's Commerce Square page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comsqft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comsqft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

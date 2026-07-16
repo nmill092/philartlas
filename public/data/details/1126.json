@@ -1,0 +1,84 @@
+{
+  "id": "1126",
+  "title": {
+    "display": "Schuylkill Avenue Viaduct Decorative Barriers",
+    "list": "Schuylkill Avenue Viaduct Decorative Barriers"
+  },
+  "years": [
+    {
+      "year": "2021"
+    }
+  ],
+  "location": {
+    "latitude": "39.952375",
+    "longitude": "-75.182415",
+    "description": "West side of Schuylkill Avenue (aka 29th Street) between Chestnut and Walnut"
+  },
+  "comments": "Very similar panels repeat the length of the block. The title is from references in PennDot press releases.",
+  "architecture": {
+    "description": "Fence"
+  },
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "standing, walking and running",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "clouds",
+      "separator": ","
+    },
+    {
+      "description": "benches",
+      "separator": ","
+    },
+    {
+      "description": "dogs",
+      "separator": ","
+    },
+    {
+      "description": "baby carriages",
+      "separator": ","
+    },
+    {
+      "description": "Schuylkill Banks logos"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/savdp1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/savdp1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/savdp2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/savdp2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

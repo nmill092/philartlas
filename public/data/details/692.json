@@ -1,0 +1,219 @@
+{
+  "id": "692",
+  "title": {
+    "display": "Swedish Settlements Plaque",
+    "list": "Swedish Settlements Plaque"
+  },
+  "years": [
+    {
+      "year": "1909"
+    }
+  ],
+  "location": {
+    "latitude": "39.951735",
+    "longitude": "-75.163725",
+    "description": "North side of S. Penn Square at Broad"
+  },
+  "comments": "Many of the names and spellings on this plaque do not match other sources",
+  "inscription": "<br />In commemoration of The Swedish Settlements on the Delaware 1638-1655  <br />New Sweden embraced within its boundaries the Commonwealth of Pennsylvania and included lands on the West side of the Delaware from  Cape Henlopen to Trenton Falls and on the East side from Cape May to Mantua Creek  <br />Swedish Governors Peter Minuit, Peter Hollender, Johan Printz, Johan Risingh  <br />Swedish Sovereignty passed by capture to the Dutch, 1655  <br />Among the prominent Swedish settlers were Mans Kling, Sven Schute, Johan Campanius,  Joran Kyn, Olof Stille, Peter Cock, Anders Dalbo, Peter Lindhstrom, Anders Bonde, Peter Rambo  <br />Erected by The Society of Colonial Wars in the Commonwealth of Pennsylvania 1909",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "symbols",
+      "separator": ","
+    },
+    {
+      "description": "lions",
+      "separator": ","
+    },
+    {
+      "description": "crowns",
+      "separator": ","
+    },
+    {
+      "description": "tree"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "South side of",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "Lists",
+  "people": [
+    {
+      "name": "Anders Svensson Bonde",
+      "externallinks": [
+        {
+          "url": "https://www.geni.com/people/Anders-Bonde/6000000014522135577",
+          "label": "geni.com's Anders Svensson Bonde page"
+        }
+      ]
+    },
+    {
+      "name": "Johan Campanius",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Johan_Campanius",
+          "label": "wikipedia.org's Johan Campanius page"
+        }
+      ]
+    },
+    {
+      "name": "Peter Larsson Cock",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/36866519/peter-larsson-cock",
+          "label": "findagrave.com's Peter Larsson Cock page"
+        }
+      ]
+    },
+    {
+      "name": "Anders Larson Dalbo",
+      "externallinks": [
+        {
+          "url": "https://www.geni.com/people/Anders-Dalbo/4936286692720124749",
+          "label": "geni.com's Anders Larson Dalbo page"
+        }
+      ]
+    },
+    {
+      "name": "Mans Nilsson Kling",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/M%C3%A5ns_Nilsson_Kling",
+          "label": "wikipedia.org's Mans Nilsson Kling page"
+        }
+      ]
+    },
+    {
+      "name": "Joran Kyn",
+      "externallinks": [
+        {
+          "url": "https://sites.rootsweb.com/~wjohn55447/joran_kyn_article.htm",
+          "label": "Joran Kyn article on rootsweb.com"
+        }
+      ]
+    },
+    {
+      "name": "Peter Lindstrom",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Upland,_Pennsylvania",
+          "label": "wikipedia.org's Upland, Pennsylvania page mentions Peter Lindstrom"
+        }
+      ]
+    },
+    {
+      "name": "Peter Minuit",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Minuit",
+          "label": "wikipedia.org's Peter Minuit page"
+        }
+      ]
+    },
+    {
+      "name": "Johan Printz",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Johan_Bj%C3%B6rnsson_Printz",
+          "label": "wikipedia.org's Johan Printz page"
+        }
+      ]
+    },
+    {
+      "name": "Peter Gunnarsson Rambo",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Gunnarsson_Rambo",
+          "label": "wikipedia.org's Peter Gunnarsson Rambo page"
+        }
+      ]
+    },
+    {
+      "name": "Peter Hollander Ridder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Hollander_Ridder",
+          "label": "wikipedia.org's Peter Hollander Ridder page"
+        }
+      ]
+    },
+    {
+      "name": "Johan Risingh",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Johan_Risingh",
+          "label": "wikipedia.org's Johan Risingh page"
+        }
+      ]
+    },
+    {
+      "name": "Sven Skute",
+      "externallinks": [
+        {
+          "url": "http://drphysick.com/svenskute.html",
+          "label": "drphysick.com's Sven Skute page"
+        }
+      ]
+    },
+    {
+      "name": "Olof Persson Stille",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Olof_Persson_Stille",
+          "label": "wikipedia.org's Olof Persson Stille page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swedish.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swedish.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swedish2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swedish2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swedish3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swedish3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

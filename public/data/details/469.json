@@ -1,0 +1,86 @@
+{
+  "id": "469",
+  "title": {
+    "display": "Andrey Sheptytsky",
+    "list": "Andrey Sheptytsky"
+  },
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "yearmodifier": "unveiled",
+  "location": {
+    "latitude": "39.965875",
+    "longitude": "-75.150300",
+    "description": "West side of Franklin between Brown and Poplar (Franklin is one block East of 8th)"
+  },
+  "comments": "Behind a fence, but visible from the sidewalk.",
+  "inscription": "1865-1944",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "crown",
+      "separator": ","
+    },
+    {
+      "description": "staff",
+      "separator": ","
+    },
+    {
+      "description": "crosses"
+    }
+  ],
+  "landmark": {
+    "name": "Ukrainian Catholic Cathedral of the Immaculate Conception",
+    "prefix": "On the grounds just South of the",
+    "externallinks": [
+      {
+        "url": "https://www.facebook.com/profile.php?id=100064600512990",
+        "label": "facebook.com page for the Cathedral"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Andrey Sheptytsky",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrey_Sheptytsky",
+          "label": "wikipedia.org's Andrey Sheptytsky page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sheptytsky1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sheptytsky1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sheptytsky2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sheptytsky2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "1139",
+  "title": {
+    "display": "Canal Bridge Mosaic",
+    "list": "Canal Bridge Mosaic"
+  },
+  "years": [
+    {
+      "year": "2009"
+    }
+  ],
+  "location": {
+    "latitude": "40.027590",
+    "longitude": "-75.228610",
+    "description": "Schuylkill River Trail between Green Lane and Leverington"
+  },
+  "comments": "The title is unofficial. According to the inscriptions, which are mostly unreadable, this was a collaboration between the 2009 North Light Summer Camp, the EPA and the Manayunk Development Corporation. What is left of the artist attribution is in the second picture. I have been unable to determine their names with any certainty. Any information would be appreciated.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "bridge",
+      "separator": ","
+    },
+    {
+      "description": "water",
+      "separator": ","
+    },
+    {
+      "description": "hand prints"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/canalbridge.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/canalbridge.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/canalbridge2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/canalbridge2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Manayunk"
+    }
+  ]
+}

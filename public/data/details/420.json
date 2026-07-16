@@ -1,0 +1,72 @@
+{
+  "id": "420",
+  "title": {
+    "display": "Walt Whitman",
+    "list": "Walt Whitman (Baskin)"
+  },
+  "artists": [
+    {
+      "name": "Leonard Baskin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Leonard_Baskin",
+          "label": "wikipedia.org's Leonard Baskin page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1981"
+    }
+  ],
+  "location": {
+    "latitude": "39.914700",
+    "longitude": "-75.156260",
+    "description": "4th and Oregon"
+  },
+  "content": [
+    {
+      "description": "head"
+    }
+  ],
+  "landmark": {
+    "name": "Whitman Plaza",
+    "prefix": "In front of"
+  },
+  "peopleprefix": "Bust of",
+  "people": [
+    {
+      "name": "Walt Whitman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Walt_Whitman",
+          "label": "wikipedia.org's Walt Whitman page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Walt_Whitman_sculpture_and_plaque_by_Leonard_Baskin_at_Whitman_Plaza_330_W_Oregon_Ave_Philadelphia_PA_(DSC_4053).jpg",
+      "label": "picture of this piece at commons.wikimedia.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/whitman.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/whitman.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

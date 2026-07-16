@@ -1,0 +1,139 @@
+{
+  "id": "1003",
+  "title": {
+    "display": "St. Mary's School Doors",
+    "list": "St. Mary's School Doors"
+  },
+  "years": [
+    {
+      "year": "1970"
+    }
+  ],
+  "location": {
+    "latitude": "39.946080",
+    "longitude": "-75.149510",
+    "description": "South side of Locust, East of 5th"
+  },
+  "comments": "Visible through the gate. Designed to echo the stained glass doors.  The reference to Katherine Drexel is from the school's website.",
+  "architecture": {
+    "description": "North entrance"
+  },
+  "content": [
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "staff",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "crosses"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Mary Interparochial School",
+    "externallinks": [
+      {
+        "url": "https://www.saintmarys.us/",
+        "label": "saintmarys.us"
+      }
+    ]
+  },
+  "peopleprefix": "Partial representations of",
+  "people": [
+    {
+      "name": "John Adams",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Adams",
+          "label": "wikipedia.org's John Adams page"
+        }
+      ]
+    },
+    {
+      "name": "John Carroll",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Carroll_(archbishop)",
+          "label": "wikipedia.org's John Carroll page"
+        }
+      ]
+    },
+    {
+      "name": "Katherine Drexel",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Katharine_Drexel",
+          "label": "wikipedia.org's Katherine Drexel page"
+        }
+      ]
+    },
+    {
+      "name": "Michael Francis Egan",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Francis_Egan",
+          "label": "wikipedia.org's Michael Francis Egan page"
+        }
+      ]
+    },
+    {
+      "name": "Robert Harding",
+      "externallinks": [
+        {
+          "url": "https://www.jstor.org/stable/pdf/44373654.pdf",
+          "label": "jstor.org article about Robert Harding"
+        }
+      ]
+    },
+    {
+      "name": "George Washington",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Washington",
+          "label": "wikipedia.org's George Washington page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stmarydoor.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stmarydoor.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stmarydoor2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stmarydoor2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "685",
+  "title": {
+    "display": "Mary and Jesus with Angels",
+    "list": "Mary and Jesus with Angels"
+  },
+  "artists": [
+    {
+      "name": "John Notman (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Notman",
+          "label": "wikipedia.org's John Notman page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1849"
+    }
+  ],
+  "location": {
+    "latitude": "39.948735",
+    "longitude": "-75.168200",
+    "description": "North side of Locust between 16th and 17th"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "one held",
+      "separator": ","
+    },
+    {
+      "description": "two flying angels"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Mark's Church",
+    "externallinks": [
+      {
+        "url": "https://www.saintmarksphiladelphia.org/",
+        "label": "saintmarksphiladelphia.org"
+      }
+    ]
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stmarksmj.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stmarksmj.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

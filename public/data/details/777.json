@@ -1,0 +1,55 @@
+{
+  "id": "777",
+  "title": {
+    "display": "Manufacturers Club",
+    "list": "Manufacturers Club"
+  },
+  "years": [
+    {
+      "year": "1911"
+    }
+  ],
+  "location": {
+    "latitude": "39.949500",
+    "longitude": "-75.164525",
+    "description": "Northwest corner, Broad and Walnut"
+  },
+  "architecture": {
+    "description": "South wall"
+  },
+  "content": [
+    {
+      "description": "partial"
+    },
+    {
+      "description": "winged people",
+      "separator": ","
+    },
+    {
+      "description": "fruit"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/136296",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/banrep.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/banrep.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

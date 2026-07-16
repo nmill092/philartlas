@@ -1,0 +1,100 @@
+{
+  "id": "206",
+  "title": {
+    "display": "John Wanamaker, Citizen",
+    "list": "John Wanamaker, Citizen"
+  },
+  "artists": [
+    {
+      "name": "John Massey Rhind",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/J._Massey_Rhind",
+          "label": "wikipedia.org's John Massey Rhind page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1923"
+    }
+  ],
+  "location": {
+    "latitude": "39.952650",
+    "longitude": "-75.162750",
+    "description": "West side of Juniper, North of Market"
+  },
+  "inscription": "1838 - 1922",
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "carrying a hat"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "East side of",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "John Wanamaker",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Wanamaker",
+          "label": "wikipedia.org's John Wanamaker page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=42612",
+      "label": "phillyhistory.org 1936 picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/john-wanamaker/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wanamak.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wanamak.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wanamak2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wanamak2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

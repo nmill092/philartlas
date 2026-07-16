@@ -1,0 +1,54 @@
+{
+  "id": "229",
+  "title": {
+    "display": "Linpro Building Fountain",
+    "list": "Linpro Building Fountain"
+  },
+  "artists": [
+    {
+      "name": "WZMH Architects",
+      "externallinks": [
+        {
+          "url": "https://www.wzmh.com/",
+          "label": "wzmh.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "39.953875",
+    "longitude": "-75.172250"
+  },
+  "comments": "Was on the North side of Market, West of 19th, behind what was supposed to be a plaza between twin towers.  The building has since been renamed, and the fountain was replaced by a live wall in 2018 when a companion building (not the twin that was originally planned) was finally built 28 years later.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "fountain"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/G._Fred_DiBona_Jr._Building",
+      "label": "wikipedia.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/linprof.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/linprof.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "27",
+  "title": {
+    "display": "Art Museum Cherub",
+    "list": "Art Museum Cherub"
+  },
+  "artists": [
+    {
+      "name": "Julian Abele (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Julian_Abele",
+          "label": "wikipedia.org's Julian Abele page"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=eT-ZPZ_BNl8",
+          "label": "youtube.com video of a recorded lecture from the Art Museum about the role of Julian Abele in designing the building"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1928"
+    }
+  ],
+  "location": {
+    "latitude": "39.966075",
+    "longitude": "-75.181700",
+    "description": "Anne d'Harnocourt Drive (25th and Kelly Drive to the Spring Garden Bridge)"
+  },
+  "architecture": {
+    "description": "Over the back door"
+  },
+  "content": [
+    {
+      "description": "upright"
+    },
+    {
+      "description": "winged person"
+    }
+  ],
+  "landmark": {
+    "name": "Art Museum",
+    "externallinks": [
+      {
+        "url": "https://www.philamuseum.org/",
+        "label": "philamuseum.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amcheru.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amcheru.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

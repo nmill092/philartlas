@@ -1,0 +1,164 @@
+{
+  "id": "798",
+  "title": {
+    "display": "Patrick Ward Memorial Park",
+    "list": "Patrick Ward Memorial Park"
+  },
+  "location": {
+    "latitude": "39.968800",
+    "longitude": "-75.176900",
+    "description": "Northwest corner, 24th and Aspen"
+  },
+  "comments": "Many of the names are initials or nicknames.  I've called out here the names that were most obvious and complete.",
+  "inscription": "<br />  In memory of<br />   Sp./4 Patrick E. Ward<br />  Killed in Vietnam<br />  Aug. 22, 1968<br />  And to all the men  and women of the neighborhood  who gave their today for  our tomorrow  <br /><br />  Hugo \"Hugie\" T. Caroselli<br />  1920-2010<br />  The Mayor of 24th and Aspen<br />  Hugo proudly served as a Staff Sergent in the  US Army Air Corps during WWII.<br />  Hugo was a founder and dedicated overseer of  Patrick Ward Memorial Park<br />  Hugo will always be remembered for his generosity,  wisdom, wit, and especially for his kindness.<br />  Hugo's undying commitment to his wife Anna, his  family, his community, his church and his country  made him a hero to any who knew him.  Hugie will always live in our hearts.  <br /><br />  PFC David F. Jones<br />  Serial Number 33583089<br />  Company A 32nd Infantry Regiment<br />  U.S. Army<br />  Korea<br />  Born Jan. 5, 1923<br />  Died Dec. 2, 1948<br />  David F. Jones, 771 N. 24th St., Phila. PA (1941 to 1943)  served our country during World War II and Korea.  David served in the China-India-Burma Campaign during  WWII (1943 to 1946) then served in Korea 1948 where  he was one of the first Americans killed Dec. 2, 1948  <br /><br />  Sp 4 Joseph E. Shubiak<br />  1947-1967  <br /><br />  in memory of<br />  Joe L. Kelly Sr.<br />  Born March 11, 1929<br />  Died August 5, 2001<br />  Served in US Army  June 10, 1951 to June 14, 1953.<br />  Served as commander  St. Francis Xavier C.W.V. Post  1020 for 32 years.<br />  A loving husband and father.<br />  Helped maintain Ward Park.<br />  Always worked for Fairmount.<br />  Sadly he will be missed.",
+  "content": [
+    {
+      "description": "actual US and POW flags",
+      "separator": ","
+    },
+    {
+      "description": "keystone",
+      "separator": ","
+    },
+    {
+      "description": "headshot",
+      "separator": ","
+    },
+    {
+      "description": "hat"
+    }
+  ],
+  "peopleprefix": "In memory of",
+  "people": [
+    {
+      "name": "Hugo T. Caroselli",
+      "externallinks": [
+        {
+          "url": "https://www.legacy.com/us/obituaries/inquirer/name/hugo-caroselli-obituary?pid=142859364",
+          "label": "legacy.com's Hugo T. Caroselli obituary"
+        }
+      ]
+    },
+    {
+      "name": "David F. Jones"
+    },
+    {
+      "name": "Joe L. Kelly Sr."
+    },
+    {
+      "name": "Joseph E. Shubiak",
+      "externallinks": [
+        {
+          "url": "http://www.phillymemorials.com/PVVM/veteranbio.php?id=Shubiak_Joseph_1947515",
+          "label": "phillymemorials.com's Joseph E. Shubiak page"
+        }
+      ]
+    },
+    {
+      "name": "Patrick E. Ward",
+      "externallinks": [
+        {
+          "url": "https://www.pvvm.org/our-heroes/ward-patrick-e",
+          "label": "pvvm.prg's Patrick E. Ward page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wardpark1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wardpark1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wardpark2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wardpark2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wardpark3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wardpark3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wardpark4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wardpark4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wardpark5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wardpark5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wardpark6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wardpark6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wardpark7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wardpark7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wardpark8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wardpark8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wardpark9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wardpark9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fairmount"
+    }
+  ]
+}

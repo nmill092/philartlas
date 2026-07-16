@@ -1,0 +1,82 @@
+{
+  "id": "805",
+  "title": {
+    "display": "Lines in Four Directions in Flowers",
+    "list": "Lines in Four Directions in Flowers"
+  },
+  "artists": [
+    {
+      "name": "Sol LeWitt",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sol_LeWitt",
+          "label": "wikipedia.org's Sol LeWitt page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2012"
+    }
+  ],
+  "yearmodifier": "realized",
+  "location": {
+    "latitude": "39.967325",
+    "longitude": "-75.183300"
+  },
+  "comments": "Was on the hill behind the Art Museum, South side of Kelly Drive, West of 26th.  It was not clear from the sign at the time of installation whether the piece was  intended to be permanent, but it was not consistently maintained, and was removed in 2015.",
+  "content": [
+    {
+      "description": "beds of actual flowers"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/lines-in-four-directions-in-flowers/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/linesinfour1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/linesinfour1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/linesinfour2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/linesinfour2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/linesinfour3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/linesinfour3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/linesinfour4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/linesinfour4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

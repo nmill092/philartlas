@@ -1,0 +1,86 @@
+{
+  "id": "1212",
+  "title": {
+    "display": "Monet's Haystacks",
+    "list": "Monet's Haystacks"
+  },
+  "artists": [
+    {
+      "name": "Stuart Netsky",
+      "externallinks": [
+        {
+          "url": "https://www.stuartnetsky.com/",
+          "label": "stuartnetsky.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1991"
+    }
+  ],
+  "location": {
+    "latitude": "39.946520",
+    "longitude": "-75.165575",
+    "description": "South side of Spruce, West of Broad"
+  },
+  "comments": "freely accessible when the building is open if you can manage the stairs or the escalators if they're on",
+  "inscription": "Billboard flickers on Plastic Panels on Wood. Purchased by the Kimmel Center for the Performing Arts for the City of Philadelphia Percent for Art Program",
+  "architecture": {
+    "description": "Inside South wall, 2nd floor"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    }
+  ],
+  "landmark": {
+    "name": "Kimmel Center",
+    "externallinks": [
+      {
+        "url": "https://www.ensembleartsphilly.org/plan-your-visit/our-venues/kimmel-center",
+        "label": "ensembleartsphilly.org's Kimmel Center page"
+      }
+    ]
+  },
+  "peopleprefix": "reference to the haystack paintings of",
+  "people": [
+    {
+      "name": "Claude Monet",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Claude_Monet",
+          "label": "wikipedia.org's Claude Monet page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/kimmelcenter/127011626/",
+      "label": "kimmelcenter's picture of this piece being installed at flickr.com"
+    },
+    {
+      "url": "https://www.flickr.com/photos/kimmelcenter/135530200",
+      "label": "kimmelcenter's picture of the artist in front of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/monetshaystacks.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/monetshaystacks.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

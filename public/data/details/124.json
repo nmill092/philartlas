@@ -1,0 +1,97 @@
+{
+  "id": "124",
+  "title": {
+    "display": "Evelyn Taylor Price Sundial",
+    "list": "Evelyn Taylor Price Sundial"
+  },
+  "artists": [
+    {
+      "name": "Beatrice Fenton",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Beatrice_Fenton",
+          "label": "wikipedia.org's Beatrice Fenton page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1947"
+    }
+  ],
+  "location": {
+    "latitude": "39.949735",
+    "longitude": "-75.171420",
+    "description": "Near the Southwest corner of 18th and Walnut"
+  },
+  "inscription": "A tribute to Evelyn Taylor Price, President, Rittenhouse Square Flower Market Association, 1916-1939, Rittenhouse Square Improvement Association, 1934-1946.  Erected by her friends.",
+  "content": [
+    {
+      "description": "children"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "sundial"
+    }
+  ],
+  "landmark": {
+    "name": "Rittenhouse Square",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rittenhouse_Square",
+        "label": "wikipedia.org's Rittenhouse Square page"
+      },
+      {
+        "url": "https://www.friendsofrittenhouse.org/",
+        "label": "friendsofrittenhouse.org"
+      }
+    ]
+  },
+  "peopleprefix": "Tribute to",
+  "people": [
+    {
+      "name": "Evelyn Taylor Price",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/136742412/evelyn-price",
+          "label": "findagrave.com's Evelyn Taylor Price page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=17170",
+      "label": "phillyhistory.org 1949 picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/evelyn-taylor-price-memorial-sundial/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/etprice.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/etprice.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

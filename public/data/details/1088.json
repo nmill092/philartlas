@@ -1,0 +1,78 @@
+{
+  "id": "1088",
+  "title": {
+    "display": "Main Street Fire Station Lion Heads",
+    "list": "Main Street Fire Station Lion Heads"
+  },
+  "artists": [
+    {
+      "name": "John Molitor (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/153501",
+          "label": "philadelphiabuildings.org's John Molitor page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1928"
+    }
+  ],
+  "location": {
+    "latitude": "40.026720",
+    "longitude": "-75.226475",
+    "description": "North side of Main, East of Green"
+  },
+  "architecture": {
+    "description": "Front wall"
+  },
+  "content": [
+    {
+      "description": "anthropomorphic lion heads"
+    }
+  ],
+  "landmark": {
+    "name": "Engine Company 12",
+    "externallinks": [
+      {
+        "url": "https://www.firemanshallmuseum.org/engine-12",
+        "label": "firemanshallmuseum.org's Engine 12 page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/1185573",
+      "label": "philadelphiabuilding.org's entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mainstfirelions1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mainstfirelions1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mainstfirelions2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mainstfirelions2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Manayunk"
+    }
+  ]
+}

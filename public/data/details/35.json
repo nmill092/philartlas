@@ -1,0 +1,108 @@
+{
+  "id": "35",
+  "title": {
+    "display": "Benjamin Franklin and His Kite",
+    "list": "Benjamin Franklin and His Kite"
+  },
+  "artists": [
+    {
+      "name": "Agnes Yarnall",
+      "externallinks": [
+        {
+          "url": "  https://ulheritagecenter.pastperfectonline.com/bycreator?keyword=Agnes+Yarnall",
+          "label": "ulheritagecenter.pastperfectonline.com's Agnes Yarnall page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1965"
+    }
+  ],
+  "yearmodifier": "installed 1994",
+  "location": {
+    "latitude": "39.956800",
+    "longitude": "-75.175550",
+    "description": "South Side of Cherry, just East of 22nd"
+  },
+  "comments": "Also listed as \"Benjamin Franklin with Kite\"",
+  "inscription": "June 12th, 1752 was the day on which Benjamin Franklin  extracted lightning from the sky with his kite and key.",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "kite"
+    }
+  ],
+  "landmark": {
+    "name": "Coxe Park"
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/benjamin-franklin-with-kite/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfki.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfki.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfki2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfki2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfki3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfki3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfki4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfki4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

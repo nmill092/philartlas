@@ -1,0 +1,74 @@
+{
+  "id": "794",
+  "title": {
+    "display": "Untitled Wall Sculpture",
+    "list": "Untitled Wall Sculpture"
+  },
+  "artists": [
+    {
+      "name": "George Sugarman",
+      "externallinks": [
+        {
+          "url": "https://www.georgesugarman.com/",
+          "label": "georgesugarman.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1972"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.952400",
+    "longitude": "-75.177500",
+    "description": "South side of Chestnut, West of 22nd"
+  },
+  "comments": "Visible through the window",
+  "architecture": {
+    "description": "Interior"
+  },
+  "content": [
+    {
+      "description": "abstract relief"
+    }
+  ],
+  "landmark": {
+    "name": "Albert M. Greenfield School",
+    "externallinks": [
+      {
+        "url": "https://www.albertmgreenfieldschool.org/",
+        "label": "albertmgreenfieldschool.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/greenfield1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/greenfield1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/greenfield2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/greenfield2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

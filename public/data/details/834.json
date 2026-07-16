@@ -1,0 +1,62 @@
+{
+  "id": "834",
+  "title": {
+    "display": "Shells",
+    "list": "Shells"
+  },
+  "years": [
+    {
+      "year": "2010"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.956600",
+    "longitude": "-75.170950",
+    "description": "West side of 19th between Cherry and the Parkway"
+  },
+  "architecture": {
+    "description": "Either side of the East entrance"
+  },
+  "content": [
+    {
+      "description": "shells"
+    }
+  ],
+  "landmark": {
+    "name": "Academy of Natural Sciences",
+    "externallinks": [
+      {
+        "url": "https://ansp.org/",
+        "label": "ansp.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/shells1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/shells1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/shells2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/shells2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

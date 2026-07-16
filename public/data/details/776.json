@@ -1,0 +1,62 @@
+{
+  "id": "776",
+  "title": {
+    "display": "Moose Head",
+    "list": "Moose Head"
+  },
+  "years": [
+    {
+      "year": "1914"
+    }
+  ],
+  "yearmodifier": "building converted to Moose lodge",
+  "location": {
+    "latitude": "39.973800",
+    "longitude": "-75.159175",
+    "description": "West side of Broad, South of Master"
+  },
+  "architecture": {
+    "description": "Above the entrance"
+  },
+  "content": [
+    {
+      "description": "moose head"
+    }
+  ],
+  "landmark": {
+    "name": "Blue Horizon",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Blue_Horizon",
+        "label": "wikipedia.org's Blue Horizon page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/moosehead1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/moosehead1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/moosehead2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/moosehead2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Southwest"
+    }
+  ]
+}

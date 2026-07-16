@@ -1,0 +1,102 @@
+{
+  "id": "853",
+  "title": {
+    "display": "South Street Laundromat Patio",
+    "list": "South Street Laundromat Patio"
+  },
+  "artists": [
+    {
+      "name": "Isaiah Zagar",
+      "externallinks": [
+        {
+          "url": "https://www.phillymagicgardens.org/",
+          "label": "phillymagicgardens.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2001"
+    },
+    {
+      "year": "2004"
+    }
+  ],
+  "location": {
+    "latitude": "39.942350",
+    "longitude": "-75.156660",
+    "description": "East side of Schell, South of South"
+  },
+  "comments": "lower parts are visible through the fence",
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "bottles",
+      "separator": ","
+    },
+    {
+      "description": "bicycle wheels",
+      "separator": ","
+    },
+    {
+      "description": "words"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/laundromat1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/laundromat1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/laundromat2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/laundromat2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/laundromat3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/laundromat3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/laundromat4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/laundromat4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

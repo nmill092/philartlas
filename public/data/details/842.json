@@ -1,0 +1,74 @@
+{
+  "id": "842",
+  "title": {
+    "display": "The Point Where Things Change",
+    "list": "Point Where Things Change, The"
+  },
+  "artists": [
+    {
+      "name": "Michael Grothusen",
+      "externallinks": [
+        {
+          "url": "https://michaelgrothusen.com/",
+          "label": "michaelgrothusen.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2001"
+    }
+  ],
+  "location": {
+    "latitude": "39.896650",
+    "longitude": "-75.233150",
+    "description": "East side of Holstein, North of Bartram "
+  },
+  "comments": "Commissioned by the Redevelopment Authority of the City of Philadelphia.   The large ring is oriented on a north/south axis.    During the morning the shadow climbs up the AM side of the cone, at noon it rests directly on the point,   and after noon it starts to descend down the PM side of the cone.",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "sundial"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://michaelgrothusen.com/work/public-sculpture/the-point-where-things-change",
+      "label": "artist's page for this piece"
+    },
+    {
+      "url": "https://sundials.org/index.php/component/sundials/onedial/1017",
+      "label": ""
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pointwhere1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pointwhere1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pointwhere2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pointwhere2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

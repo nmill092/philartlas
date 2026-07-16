@@ -1,0 +1,84 @@
+{
+  "id": "437",
+  "title": {
+    "display": "Wind Helix",
+    "list": "Wind Helix"
+  },
+  "artists": [
+    {
+      "name": "Roy Wilson",
+      "externallinks": [
+        {
+          "url": "https://www.roywilsonart.com/",
+          "label": "roywilsonart.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1994"
+    }
+  ],
+  "location": {
+    "latitude": "39.955950",
+    "longitude": "-75.198100",
+    "description": "Northeast corner, 38th and Ludlow"
+  },
+  "comments": "The fence used to surround an open space behind the building. The fence was removed around 2007 and the open space was replaced with an extension of the building. In 2009 the fence was put back in approximately its original position, but surrounding the building extension instead of open space. The first picture is from the original context.",
+  "architecture": {
+    "description": "Back of the fence"
+  },
+  "content": [
+    {
+      "description": "abstract forms"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.roywilsonart.com/public-art/1/7",
+      "label": "artist's picture of this piece"
+    },
+    {
+      "url": "https://www.roywilsonart.com/public-art/1/8",
+      "label": "artist's other picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/windhel.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/windhel.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/windhel2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/windhel2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/windhel3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/windhel3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

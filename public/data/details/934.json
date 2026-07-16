@@ -1,0 +1,95 @@
+{
+  "id": "934",
+  "title": {
+    "display": "1822 Chestnut",
+    "list": "1822 Chestnut"
+  },
+  "years": [
+    {
+      "year": "1870"
+    }
+  ],
+  "yearmodifier": "approximate year of building",
+  "location": {
+    "latitude": "39.951700",
+    "longitude": "-75.171350",
+    "description": "South side of Chestnut, East of 19th"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "fruit and nuts",
+      "separator": ","
+    },
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "crouching person",
+      "separator": ","
+    },
+    {
+      "description": "artist tools"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/277290",
+      "label": "philadelphiabuildings.org entry"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1822chest1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1822chest1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1822chest2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1822chest2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1822chest3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1822chest3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1822chest4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1822chest4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

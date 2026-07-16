@@ -1,0 +1,96 @@
+{
+  "id": "497",
+  "title": {
+    "display": "Drexel Book",
+    "list": "Drexel Book"
+  },
+  "artists": [
+    {
+      "name": "Harold Kimmelman",
+      "externallinks": [
+        {
+          "url": "http://www.hksculpt.com/",
+          "label": "hksculpt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1985"
+    }
+  ],
+  "location": {
+    "latitude": "39.956805",
+    "longitude": "-75.189875",
+    "description": "Northwest of 33rd and Market.  Enter on the South side near 33rd.  Also visible through the fence on the West side"
+  },
+  "comments": "Also listed as <i>Book</i> and <i>Volume 1</i>.",
+  "inscription": "<br />From the plaque at the garden entrance:  <br />Garden Sculpture in memory of Doris A. Zimmerman, 1929-1981  ",
+  "architecture": {
+    "description": "Walled garden"
+  },
+  "content": [
+    {
+      "description": "book"
+    }
+  ],
+  "landmark": {
+    "name": "Drexel University",
+    "externallinks": [
+      {
+        "url": "https://drexel.edu/",
+        "label": "drexel.edu"
+      }
+    ]
+  },
+  "peopleprefix": "In memory of",
+  "people": [
+    {
+      "name": "Doris Zimmerman",
+      "externallinks": [
+        {
+          "url": "https://giving.drexel.edu/ways-to-give/gift-planning-blog/2021/october/doris-zimmerman",
+          "label": "giving.drexel.edu article about Doris Zimmerman"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexbook1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexbook1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexbook2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexbook2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexbook3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexbook3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "39",
+  "title": {
+    "display": "Big Ben at Franklin Town",
+    "list": "Big Ben at Franklin Town"
+  },
+  "artists": [
+    {
+      "name": "Alexander L. Generalis"
+    },
+    {
+      "name": "Tom Miles",
+      "externallinks": [
+        {
+          "url": "https://milesstudios.info/",
+          "label": "milesstudios.info"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "location": {
+    "latitude": "39.958450",
+    "longitude": "-75.167100",
+    "description": "17th and Vine"
+  },
+  "comments": "The eight seat-sized posts each have a letter inscribed on top, spelling out FRANKLIN.",
+  "architecture": {
+    "description": "Bridge over I-676"
+  },
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "eyeglasses",
+      "separator": ","
+    },
+    {
+      "description": "lightning bolts",
+      "separator": ","
+    },
+    {
+      "description": "arch",
+      "separator": ","
+    },
+    {
+      "description": "kite",
+      "separator": ","
+    },
+    {
+      "description": "implied keys"
+    }
+  ],
+  "peopleprefix": "Bust of",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bigben.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bigben.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bigben2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bigben2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bigben3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bigben3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bigben4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bigben4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bigben5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bigben5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Franklin Town"
+    }
+  ]
+}

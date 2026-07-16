@@ -1,0 +1,89 @@
+{
+  "id": "1065",
+  "title": {
+    "display": "Masnad",
+    "list": "Masnad"
+  },
+  "artists": [
+    {
+      "name": "Bryan Hunt",
+      "externallinks": [
+        {
+          "url": "https://www.bryanhunt.com/",
+          "label": "bryanhunt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1980"
+    },
+    {
+      "year": "1981"
+    }
+  ],
+  "location": {
+    "latitude": "39.952640",
+    "longitude": "-75.199250",
+    "description": "West side of 38th, North side of the Locust Walk Bridge"
+  },
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "landmark": {
+    "name": "Perry World House",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://global.upenn.edu/perryworldhouse",
+        "label": "upenn.edu's Perry World House page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/masnad-torso-series",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/masnad1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/masnad1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/masnad2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/masnad2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/masnad3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/masnad3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

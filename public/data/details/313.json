@@ -1,0 +1,77 @@
+{
+  "id": "313",
+  "title": {
+    "display": "Quiet Vigil",
+    "list": "Quiet Vigil"
+  },
+  "artists": [
+    {
+      "name": "Bernard Brenner",
+      "externallinks": [
+        {
+          "url": "http://www.chrisray.com/exhibit/show01/index.htm",
+          "label": "Bernard Brenner exhibit at chrisray.com"
+        }
+      ]
+    },
+    {
+      "name": "James Fuhrman",
+      "externallinks": [
+        {
+          "url": "https://www.jfuhrman.com/",
+          "label": "jfuhrman.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "location": {
+    "latitude": "40.064155",
+    "longitude": "-75.238245",
+    "description": "Andorra Shopping Center, Ridge and Cathedral"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Andorra Library",
+    "prefix": "Outside the",
+    "externallinks": [
+      {
+        "url": "https://libwww.freelibrary.org/locations/andorra-library",
+        "label": "freelibrary.org's Andorra Library page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/quietvig.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/quietvig.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/quietvig2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/quietvig2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

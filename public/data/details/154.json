@@ -1,0 +1,56 @@
+{
+  "id": "154",
+  "title": {
+    "display": "Gate",
+    "list": "Gate (Duffield)"
+  },
+  "artists": [
+    {
+      "name": "Timothy Duffield",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/obituaries/timothy-duffield-obituary-landscape-architect-philadelphia-west-chester-20240212.html",
+          "label": "inquirer.com obituary for Timothy Duffield"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1989"
+    },
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "39.943600",
+    "longitude": "-75.156025",
+    "description": "North side of Lombard, West of 8th"
+  },
+  "architecture": {
+    "description": "Gate"
+  },
+  "content": [
+    {
+      "description": "abstract lines"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lomgate.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lomgate.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

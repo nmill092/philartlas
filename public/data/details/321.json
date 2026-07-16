@@ -1,0 +1,70 @@
+{
+  "id": "321",
+  "title": {
+    "display": "Greyhounds",
+    "list": "Greyhounds"
+  },
+  "years": [
+    {
+      "year": "1988"
+    }
+  ],
+  "yearmodifier": "installed, donated 1986",
+  "location": {
+    "latitude": "39.948910",
+    "longitude": "-75.172900",
+    "description": "South of 19th and Locust"
+  },
+  "content": [
+    {
+      "description": "dogs"
+    }
+  ],
+  "landmark": {
+    "name": "Rittenhouse Square",
+    "prefix": "Southwest corner",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rittenhouse_Square",
+        "label": "wikipedia.org's Rittenhouse Square page"
+      },
+      {
+        "url": "https://www.friendsofrittenhouse.org/",
+        "label": "friendsofrittenhouse.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/greyhound-sculptures/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ritdog.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ritdog.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ritdog2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ritdog2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

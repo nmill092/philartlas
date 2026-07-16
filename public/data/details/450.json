@@ -1,0 +1,69 @@
+{
+  "id": "450",
+  "title": {
+    "display": "Zen Doors",
+    "list": "Zen Doors"
+  },
+  "artists": [
+    {
+      "name": "Ike Hay",
+      "externallinks": [
+        {
+          "url": "https://www.covnews.com/obituaries/mr-ike-hay/",
+          "label": "covnews.com Ike Hay obituary"
+        },
+        {
+          "url": "https://www.terihay.com/portfolio/ike-hay",
+          "label": "Ike Hay portfolio page at terihay.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "yearmodifier": "installed 1979 or early 1980",
+  "location": {
+    "latitude": "39.957565",
+    "longitude": "-75.144300"
+  },
+  "comments": "Was at the Northwest corner, 3rd and Callowhill.   Not there when checked 2/14/2026.  There is something that looks like it could have been part of the piece nearest the wall. The date is from terihay.com, but the Millersville State College Exchange of 2/20/1980 has an announcement of the installation under \"Staff Activities\" which is consistent with the 1979 installation date in the Smithsonian catalog.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://millersville.tind.io/record/5311/files/MVS_Exchange_1980_02_20.pdf",
+      "label": "Millersville State College Exchange for February 20, 1980 at millersvile.tind.io"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zendoor.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zendoor.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zendoor2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zendoor2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

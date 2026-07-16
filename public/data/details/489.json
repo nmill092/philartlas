@@ -1,0 +1,117 @@
+{
+  "id": "489",
+  "title": {
+    "display": "Navy Ships",
+    "list": "Navy Ships"
+  },
+  "artists": [
+    {
+      "name": "Louis Eugene Jallade (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/51969",
+          "label": "philadelphiabuildings.org's Louis Eugene Jallade page"
+        }
+      ]
+    },
+    {
+      "name": "O.W. Ketcham Terra Cotta Works",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22791",
+          "label": "philadelphiabuildings.org's O.W. Ketcham Terra Cotta Works page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1928"
+    }
+  ],
+  "location": {
+    "latitude": "39.955150",
+    "longitude": "-75.164675",
+    "description": "East side of 15th, North of Arch"
+  },
+  "comments": "The building was originally the Navy Central YMCA Annex. Around the entrance are subtle reliefs of Navy ships including the Hornet, the Constitution, the Enterprise, the Bon Homme Richard, the Kearsarge, and the Olympia.",
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "ships",
+      "separator": ","
+    },
+    {
+      "description": "anchor",
+      "separator": ","
+    },
+    {
+      "description": "eagle"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/69330",
+      "label": "philadelphiabuildings.org's entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ships1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ships1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ships2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ships2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ships3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ships3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ships4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ships4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ships5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ships5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Franklin Town"
+    }
+  ]
+}

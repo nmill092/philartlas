@@ -1,0 +1,98 @@
+{
+  "id": "400",
+  "title": {
+    "display": "Tuscan Girl Fountain",
+    "list": "Tuscan Girl Fountain"
+  },
+  "artists": [
+    {
+      "name": "Oscar Stonorov",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Oscar_Stonorov",
+          "label": "wikipedia.org's Oscar Stonorov page"
+        }
+      ]
+    },
+    {
+      "name": "Jorio Vivarelli",
+      "externallinks": [
+        {
+          "url": "https://www.macn.it/en/collection/vivarelli-jorio/",
+          "label": "macn.it's Jorio Vivarelli page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1965"
+    }
+  ],
+  "location": {
+    "latitude": "39.956100",
+    "longitude": "-75.168550",
+    "description": "Southwest corner, Cherry and the Parkway"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "fountain",
+      "separator": ","
+    },
+    {
+      "description": "four people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "three not standing",
+      "separator": ","
+    },
+    {
+      "description": "globe"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.candychang.com/public-art-time/",
+      "label": "brief commentary and a picture of this piece at candychang.com"
+    },
+    {
+      "url": "https://youtu.be/9NFccWMs_jQ",
+      "label": "<i>Tuscan Girl</i> a short film featuring this piece by Chris Milewski (as Piero Pannaccio) at youtube.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tuscan.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tuscan.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tuscan2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tuscan2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

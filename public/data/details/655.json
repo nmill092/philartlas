@@ -1,0 +1,64 @@
+{
+  "id": "655",
+  "title": {
+    "display": "Families",
+    "list": "Families"
+  },
+  "artists": [
+    {
+      "name": "Evelyn Keyser",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/philly/obituaries/20110215_Evelyn_Keyser__88__an_artist_with_wood.html",
+          "label": "inquirer.com Evelyn Keyser obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "40.048100",
+    "longitude": "-75.060990",
+    "description": "In front of the District Health Center, Southwest side of Cottman, Northwest of Bustleton"
+  },
+  "content": [
+    {
+      "description": "people in groups",
+      "separator": ","
+    },
+    {
+      "description": "sitting"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/families1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/families1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/families2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/families2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

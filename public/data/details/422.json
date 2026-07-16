@@ -1,0 +1,109 @@
+{
+  "id": "422",
+  "title": {
+    "display": "Washington Grays Monument",
+    "list": "Washington Grays Monument"
+  },
+  "artists": [
+    {
+      "name": "John A. Wilson",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._Wilson_(sculptor)",
+          "label": "wikipedia.org's John A. Wilson page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1908"
+    }
+  ],
+  "location": {
+    "latitude": "39.950060",
+    "longitude": "-75.164350",
+    "description": "Southwest corner, Broad and Sansom"
+  },
+  "comments": "The base was created by Joseph Wilson in 1872.  The statue was previously located in Washington Square (1908-1954) and at Lemon Hill (1954-1991). Pictures are from the current location.",
+  "inscription": "To Our Fallen Comrades 1861-1865",
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "wearing a hat",
+      "separator": ","
+    },
+    {
+      "description": "rifle"
+    }
+  ],
+  "landmark": {
+    "name": "Union League",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://www.unionleague.org/",
+        "label": "unionleague.org"
+      }
+    ]
+  },
+  "peopleprefix": "Portrait on soldier's hat of",
+  "people": [
+    {
+      "name": "George Washington",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Washington",
+          "label": "wikipedia.org's George Washington page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/47098138",
+      "label": "Max Buten's page for this piece"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Washington_Grays_Monument",
+      "label": "wikipedia.org page for this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/washington-grays-monument/",
+      "label": "associationforpublicart.org's page for this piece"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/Detail.aspx?assetId=136424",
+      "label": "phillyhistory.org 1959 picture of this piece at Lemon Hill"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fallen.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fallen.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fallen2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fallen2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

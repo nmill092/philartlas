@@ -1,0 +1,87 @@
+{
+  "id": "1233",
+  "title": {
+    "display": "St. John Baptist de La Salle",
+    "list": "St. John Baptist de La Salle"
+  },
+  "years": [
+    {
+      "year": "1956"
+    }
+  ],
+  "yearmodifier": "gift",
+  "location": {
+    "latitude": "40.039040",
+    "longitude": "-75.153290",
+    "description": "South side of Olney West of 19th"
+  },
+  "comments": "visible when the gate is closed",
+  "inscription": "Gift of Rt. Rev. Monsignor Charles B. McGinley 1956",
+  "content": [
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "books"
+    }
+  ],
+  "landmark": {
+    "name": "La Salle University",
+    "prefix": "Just inside a gated entrance to the Hansen Quad at",
+    "externallinks": [
+      {
+        "url": "https://www.lasalle.edu/",
+        "label": "lasalle.edu"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Jean Baptiste de La Salle",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle",
+          "label": "wikipedia.org's Jean-Baptiste de La Salle page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Lasalle_with_John.JPG",
+      "label": "picture of this piece at commons.wikimedia.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lasalle.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lasalle.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lasalle2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lasalle2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Logan/Ogontz"
+    }
+  ]
+}

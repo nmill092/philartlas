@@ -1,0 +1,40 @@
+{
+  "id": "550",
+  "title": {
+    "display": "September 11 Memorial Labyrinth",
+    "list": "September 11 Memorial Labyrinth"
+  },
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "location": {
+    "latitude": "40.017900",
+    "longitude": "-75.193400",
+    "description": "Southwest from School House Lane and Henry Ave."
+  },
+  "comments": "Observed April 2023. The bricks had faded to a uniform color.  The only designation of this piece as a 9/11 memorial that I have found is on an interactive map of the East Falls campus.",
+  "content": [
+    {
+      "description": "labyrinth"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/labyrinth.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/labyrinth.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson East Falls Campus"
+    }
+  ]
+}

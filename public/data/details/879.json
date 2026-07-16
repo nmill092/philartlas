@@ -1,0 +1,84 @@
+{
+  "id": "879",
+  "title": {
+    "display": "Gray Manor Memorial",
+    "list": "Gray Manor Memorial"
+  },
+  "artists": [
+    {
+      "name": "Joseph C. Bailey",
+      "externallinks": [
+        {
+          "url": "https://www.askart.com/artist/Joseph_C_Bailey/10002159/Joseph_C_Bailey.aspx",
+          "label": "askart.com's Joseph C. Bailey page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1982"
+    }
+  ],
+  "location": {
+    "latitude": "39.976875",
+    "longitude": "-75.148775",
+    "description": "West side of 8th between Oxford and Cecil B. Moore"
+  },
+  "comments": "The father and grandfather of William H. Gray III. Pictures provided by and Copyright Karl Henry",
+  "inscription": "<br />Dr. William Herbert Gray, Sr.  <br />Servent of God and the People  <br />Dr. William Herbert Gray, Jr.  <br />God's Ambassador  <br />Helped make the world a better place for all mankind.",
+  "content": [
+    {
+      "description": "steles",
+      "separator": ","
+    },
+    {
+      "description": "heads",
+      "separator": ","
+    },
+    {
+      "description": "abstract design"
+    }
+  ],
+  "landmark": {
+    "name": "Gray Manor Apartments",
+    "prefix": "In front of the"
+  },
+  "peopleprefix": "Relief busts of",
+  "people": [
+    {
+      "name": "Dr. William Herbert Gray, Jr.",
+      "externallinks": [
+        {
+          "url": "https://kinginstitute.stanford.edu/encyclopedia/gray-william-h-jr",
+          "label": "kinginstitute.stanford.edu's William H. Gray Jr. page"
+        }
+      ]
+    },
+    {
+      "name": "Dr. William Herbert Gray, Sr."
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/graymanor.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/graymanor.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/graymanor2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/graymanor2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

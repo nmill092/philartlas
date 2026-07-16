@@ -1,0 +1,66 @@
+{
+  "id": "458",
+  "title": {
+    "display": "Refractive Light Spine",
+    "list": "Refractive Light Spine"
+  },
+  "artists": [
+    {
+      "name": "James Carpenter",
+      "externallinks": [
+        {
+          "url": "http://www.jcdainc.com/",
+          "label": "jcdainc.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1988"
+    },
+    {
+      "year": "1989"
+    }
+  ],
+  "location": {
+    "latitude": "39.956050",
+    "longitude": "-75.194800",
+    "description": "Southwest corner, 36th and Market"
+  },
+  "architecture": {
+    "description": "Over the entrance"
+  },
+  "content": [
+    {
+      "description": "collection of triangles"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/refract1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/refract1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/refract2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/refract2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

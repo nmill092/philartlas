@@ -1,0 +1,76 @@
+{
+  "id": "972",
+  "title": {
+    "display": "The Pretzel",
+    "list": "Pretzel, The"
+  },
+  "artists": [
+    {
+      "name": "Peter Everett  Brown",
+      "externallinks": [
+        {
+          "url": "https://www.behance.net/gnemob",
+          "label": "Peter Everett Brown's page on behance.net"
+        },
+        {
+          "url": "https://brownsprague.com/",
+          "label": "brownsprague.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "location": {
+    "latitude": "39.955175",
+    "longitude": "-75.162850",
+    "description": "East side of Broad between Arch and Race"
+  },
+  "architecture": {
+    "description": "Bike rack"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "pretzel"
+    }
+  ],
+  "landmark": {
+    "name": "Convention Center",
+    "prefix": "West side of the",
+    "externallinks": [
+      {
+        "url": "https://www.paconvention.com/",
+        "label": "paconvention.com"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.behance.net/gallery/16616825/Philadelphia-Bike-Rack-The-Pretzel",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pretzelrack.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pretzelrack.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

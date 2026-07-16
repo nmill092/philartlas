@@ -1,0 +1,80 @@
+{
+  "id": "618",
+  "title": {
+    "display": "Indian Land Commemorative",
+    "list": "Indian Land Commemorative"
+  },
+  "artists": [
+    {
+      "name": "Bob Haozous",
+      "externallinks": [
+        {
+          "url": "https://www.bobhaozous.com/",
+          "label": "bobhaozous.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1995"
+    }
+  ],
+  "location": {
+    "latitude": "39.966800",
+    "longitude": "-75.129400",
+    "description": "Delaware and Marlborough"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "birds"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Treaty Park",
+    "prefix": "On the traffic island next to",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Penn_Treaty_Park",
+        "label": "wikipedia.org's Penn Treaty Park page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/indianland1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/indianland1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/indianland2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/indianland2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

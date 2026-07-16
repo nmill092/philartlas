@@ -1,0 +1,102 @@
+{
+  "id": "166",
+  "title": {
+    "display": "Ghost Structures",
+    "list": "Ghost Structures"
+  },
+  "artists": [
+    {
+      "name": "Venturi, Scott Brown (and Rauch)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Venturi",
+          "label": "wikipedia.org's Robert Venturi page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+          "label": "wikipedia.org's Denise Scott Brown page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.949650",
+    "longitude": "-75.146525",
+    "description": "Between 3nd and 4th, Market and Chestnut, entrances on Market and Chestnut"
+  },
+  "comments": "At the time this piece was built the firm was named Venturi and Rauch.",
+  "content": [
+    {
+      "description": "buildings"
+    }
+  ],
+  "landmark": {
+    "name": "Franklin Court",
+    "externallinks": [
+      {
+        "url": "https://www.ushistory.org/tour/franklin-court.htm",
+        "label": "ushistory.org's Franklin Court tour page"
+      }
+    ]
+  },
+  "peopleprefix": "Representation of houses belonging to",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/ghost-structures/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ghostst.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ghostst.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ghostst2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ghostst2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ghostst3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ghostst3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Old City"
+    }
+  ]
+}

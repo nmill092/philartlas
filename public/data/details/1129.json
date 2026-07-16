@@ -1,0 +1,89 @@
+{
+  "id": "1129",
+  "title": {
+    "display": "Opposing Forces",
+    "list": "Opposing Forces"
+  },
+  "artists": [
+    {
+      "name": "Ellen Tiberino",
+      "externallinks": [
+        {
+          "url": "https://www.phillyvoice.com/ellen-tiberino--an-artist-in-her-own-right",
+          "label": "phillyvoice.com article about Ellen Tiberino"
+        }
+      ]
+    },
+    {
+      "name": "Alvin Tull",
+      "externallinks": [
+        {
+          "url": "https://www.muralarts.org/artist/alvin-tull/",
+          "label": "muralarts.org's Alvin Tull page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2021"
+    }
+  ],
+  "location": {
+    "latitude": "39.954225",
+    "longitude": "-75.167400",
+    "description": "Under JFK between 16th and 17th"
+  },
+  "comments": "Thanks to the @SEPTAPHILLY twitter account for providing the initial information about this piece,  including \"Tull created a painted mural of natural landscapes, and Tiberino created mosaic parts overlaying it.\"",
+  "architecture": {
+    "description": "Inside"
+  },
+  "content": [
+    {
+      "description": "sun and moon"
+    }
+  ],
+  "landmark": {
+    "name": "Suburban Station",
+    "prefix": "Back of the ticket office.",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Suburban_Station",
+        "label": "wikipedia.org's Suburban Station page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://publicartarchive.org/art/Opposing-Forces/bfe1af56",
+      "label": "publicartarchive.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sunmoon1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sunmoon1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sunmoon2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sunmoon2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

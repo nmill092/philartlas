@@ -1,0 +1,59 @@
+{
+  "id": "320",
+  "title": {
+    "display": "Monument to The Rising Sun",
+    "list": "Monument to The Rising Sun"
+  },
+  "artists": [
+    {
+      "name": "Alan Sonfist",
+      "externallinks": [
+        {
+          "url": "https://www.alansonfiststudio.com/",
+          "label": "alansonfist.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "location": {
+    "latitude": "40.003350",
+    "longitude": "-75.152150",
+    "description": "North side of Rising Sun, just East of Broad"
+  },
+  "comments": "Title is from the artist's website.  Also listed as \"Rising Sun\"",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract forms"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/risun1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/risun1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/risun2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/risun2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

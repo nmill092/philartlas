@@ -1,0 +1,50 @@
+{
+  "id": "561",
+  "title": {
+    "display": "Mustang at Play",
+    "list": "Mustang at Play"
+  },
+  "artists": [
+    {
+      "name": "Margaret Wasserman Levy",
+      "externallinks": [
+        {
+          "url": "https://library.delval.edu/corn-god/levy",
+          "label": "delval.edu page with an interview and two obituaries for Margaret Wasserman Levy"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1969"
+    }
+  ],
+  "location": {
+    "latitude": "39.942900",
+    "longitude": "-75.146200",
+    "description": "North side of Stamper, West of 2nd (off Head House Square, just South of Pine)"
+  },
+  "content": [
+    {
+      "description": "horse"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mustang.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mustang.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

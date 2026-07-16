@@ -1,0 +1,73 @@
+{
+  "id": "839",
+  "title": {
+    "display": "ANH: Acro, Nexus, Habile",
+    "list": "ANH: Acro, Nexus, Habile"
+  },
+  "artists": [
+    {
+      "name": "Robert David Lasus"
+    }
+  ],
+  "years": [
+    {
+      "year": "1980"
+    }
+  ],
+  "location": {
+    "latitude": "39.904450",
+    "longitude": "-75.251150",
+    "description": "Northwest of 80th and Mars"
+  },
+  "content": [
+    {
+      "description": "abstract linear form"
+    }
+  ],
+  "landmark": {
+    "name": "Eastwick Park"
+  },
+  "externallinks": [
+    {
+      "url": "https://www.instagram.com/candicane82/p/C6h68kSNdyh/?img_index=1",
+      "label": "candicane82's picture of this piece at intagram.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/anh1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/anh1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/anh2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/anh2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/anh3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/anh3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

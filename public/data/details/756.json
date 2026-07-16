@@ -1,0 +1,87 @@
+{
+  "id": "756",
+  "title": {
+    "display": "St. Stephen Community House",
+    "list": "St. Stephen Community House"
+  },
+  "years": [
+    {
+      "year": "1923"
+    }
+  ],
+  "location": {
+    "latitude": "39.950700",
+    "longitude": "-75.156350",
+    "description": "Ludlow East of 10th (just North of 10th and Chestnut)"
+  },
+  "architecture": {
+    "description": "South wall"
+  },
+  "content": [
+    {
+      "description": "head, arms, and hands",
+      "separator": ","
+    },
+    {
+      "description": "cross",
+      "separator": ","
+    },
+    {
+      "description": "roses"
+    }
+  ],
+  "landmark": {
+    "name": "St. Stephen's Church",
+    "externallinks": [
+      {
+        "url": "https://www.ststephensphl.org/",
+        "label": "ststephensphl.org"
+      }
+    ]
+  },
+  "peopleprefix": "Relief bust of",
+  "people": [
+    {
+      "name": "Saint Stephen",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saint_Stephen",
+          "label": "wikipedia.org's Saint Stephen page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/100675",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ststephens1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ststephens1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ststephens2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ststephens2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

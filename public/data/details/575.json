@@ -1,0 +1,53 @@
+{
+  "id": "575",
+  "title": {
+    "display": "Schuylkill Permanent Bridge",
+    "list": "Schuylkill Permanent Bridge"
+  },
+  "years": [
+    {
+      "year": "1932"
+    }
+  ],
+  "location": {
+    "latitude": "39.954350",
+    "longitude": "-75.180430",
+    "description": "Market, East of 29th"
+  },
+  "inscription": "<br />Schuylkill Permanent Bridge  <br />Opened to traffic January 1, 1805  <br />Altered and remodeled 1850  <br />Destroyed by fire, November 20, 1875  <br />Replaced the same year by  <br />a temporary wooden bridge  <br />Iron cantilever bridge built and completed  <br />April 20, 1888.  Replaced by this structure  <br />1932",
+  "architecture": {
+    "description": "Bridge column"
+  },
+  "content": [
+    {
+      "description": "bridge"
+    }
+  ],
+  "landmark": {
+    "name": "Market Street Bridge",
+    "prefix": "Middle of the South side of the",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Market_Street_Bridge_(Philadelphia)",
+        "label": "wikipedia.org's Market Street Bridge page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marketbridge.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marketbridge.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

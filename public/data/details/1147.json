@@ -1,0 +1,80 @@
+{
+  "id": "1147",
+  "title": {
+    "display": "At the Center",
+    "list": "At the Center"
+  },
+  "artists": [
+    {
+      "name": "Gord Peteran",
+      "externallinks": [
+        {
+          "url": "https://www.instagram.com/gordpeteran/",
+          "label": "Gord Peteran's page on instagram.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2011"
+    }
+  ],
+  "yearmodifier": "year the Museum (formerly the Center) moved into the building",
+  "location": {
+    "latitude": "39.953380",
+    "longitude": "-75.144890",
+    "description": "East side of 3rd, South of Quarry"
+  },
+  "comments": "The door handles are attributed to Louis Bower of the John Grass Wood Turning Company",
+  "architecture": {
+    "description": "Delivery doors"
+  },
+  "content": [
+    {
+      "description": "carved concentric circles"
+    }
+  ],
+  "landmark": {
+    "name": "Museum for Art in Wood",
+    "externallinks": [
+      {
+        "url": "https://museumforartinwood.org/",
+        "label": "museumforartinwood.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://museumforartinwood.org/johngrass/content/gibson-history.pdf",
+      "label": "pdf about the John Grass Wood Turning Company"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/atthecenter1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/atthecenter1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/atthecenter2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/atthecenter2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Old City"
+    }
+  ]
+}

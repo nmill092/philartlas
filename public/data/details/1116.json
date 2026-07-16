@@ -1,0 +1,75 @@
+{
+  "id": "1116",
+  "title": {
+    "display": "Market Bridge Lights",
+    "list": "Market Bridge Lights"
+  },
+  "artists": [
+    {
+      "name": "GVA Lighting",
+      "externallinks": [
+        {
+          "url": "https://gvalighting.com/",
+          "label": "gvalighting.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "yearmodifier": "replaced 1999 installation",
+  "location": {
+    "latitude": "39.954665",
+    "longitude": "-75.180600",
+    "description": "Market Street, East of 29th to West of 24th"
+  },
+  "comments": "Visible after dark",
+  "architecture": {
+    "description": "Bridge arches"
+  },
+  "content": [
+    {
+      "description": "LED lights"
+    }
+  ],
+  "landmark": {
+    "name": "Market Street Bridge",
+    "prefix": "Underneath the",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Market_Street_Bridge_(Philadelphia)",
+        "label": "wikipedia.org's Market Street Bridge page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.schuylkillbanks.org/projects/bridge-lighting",
+      "label": "schuylkillbanks.org bridge lighting project article"
+    },
+    {
+      "url": "https://gvalighting.com/portfolio-items/market-street-bridge/",
+      "label": "gvalighting.com's page for this project"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marketlights.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marketlights.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

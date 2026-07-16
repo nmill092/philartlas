@@ -1,0 +1,97 @@
+{
+  "id": "203",
+  "title": {
+    "display": "Chief Justice John Marshall",
+    "list": "Chief Justice John Marshall"
+  },
+  "artists": [
+    {
+      "name": "William Wetmore Story",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Wetmore_Story",
+          "label": "wikipedia.org's William Wetmore Story page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1883"
+    }
+  ],
+  "location": {
+    "latitude": "39.966200",
+    "longitude": "-75.181800",
+    "description": "Anne d'Harnocourt Drive (25th and Kelly Drive to the Spring Garden Bridge)"
+  },
+  "inscription": "Chief Justice of the United States 1801-1835.  As soldier he fought that the nation might come into being.  As expounder of the Constitution he gave it length of days.",
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "chair"
+    }
+  ],
+  "landmark": {
+    "name": "Art Museum",
+    "prefix": "On a traffic island behind the",
+    "externallinks": [
+      {
+        "url": "https://www.philamuseum.org/",
+        "label": "philamuseum.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "John Marshall",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Marshall",
+          "label": "wikipedia.org's John Marshall page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42866729",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/chief-justice-john-marshall/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marshal.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marshal.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marshal2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marshal2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

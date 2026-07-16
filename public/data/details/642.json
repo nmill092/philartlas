@@ -1,0 +1,96 @@
+{
+  "id": "642",
+  "title": {
+    "display": "University Museum Medallions",
+    "list": "University Museum Medallions"
+  },
+  "artists": [
+    {
+      "name": "John Ross"
+    }
+  ],
+  "years": [
+    {
+      "year": "1899"
+    }
+  ],
+  "location": {
+    "latitude": "39.949160",
+    "longitude": "-75.191140",
+    "description": "South side of South, East of 33rd"
+  },
+  "architecture": {
+    "description": "Walls of the Lower Courtyard"
+  },
+  "content": [
+    {
+      "description": "two people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "one sitting",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "scarab",
+      "separator": ","
+    },
+    {
+      "description": "sphinx"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Museum",
+    "externallinks": [
+      {
+        "url": "https://www.penn.museum/",
+        "label": "penn.museum"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ummedallions1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ummedallions1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ummedallions2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ummedallions2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ummedallions3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ummedallions3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

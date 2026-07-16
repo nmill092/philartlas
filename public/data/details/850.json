@@ -1,0 +1,111 @@
+{
+  "id": "850",
+  "title": {
+    "display": "United States Mint Historical Plaque",
+    "list": "United States Mint Historical Plaque"
+  },
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "location": {
+    "latitude": "39.952240",
+    "longitude": "-75.151550",
+    "description": "East side of 7th between Market and Arch"
+  },
+  "inscription": "<br />On this site stood The First United States Mint  <br />First Public Building Authorized by the  United States Government  <br />This plaque dedicated for the bicentennial  of the U.S. Mint 1792-1992  <br />First Mint 1792-1833 7th Street between Market and Arch  <br />Second Mint 1833-1901 Juniper and Chestnut Sts.  <br />Third Mint 1901-1969 16th and Spring Garden Sts.  <br />Fourth Mint 1969 - 5th and Arch Sts.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "sitting people",
+      "separator": ","
+    },
+    {
+      "description": "cart",
+      "separator": ","
+    },
+    {
+      "description": "horses",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "flags",
+      "separator": ","
+    },
+    {
+      "description": "clouds"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mint1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mint1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mint2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mint2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mint3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mint3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mint4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mint4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mint5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mint5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

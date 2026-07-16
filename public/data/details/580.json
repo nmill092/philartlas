@@ -1,0 +1,64 @@
+{
+  "id": "580",
+  "title": {
+    "display": "The Triangle Fire",
+    "list": "Triangle Fire, The"
+  },
+  "artists": [
+    {
+      "name": "Frank Bramblett",
+      "externallinks": [
+        {
+          "url": "http://www.frankbramblett.com/",
+          "label": "frankbramblett.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "location": {
+    "latitude": "39.949475",
+    "longitude": "-75.147250",
+    "description": "East side of 4th, North of Chestnut, behind the security grate"
+  },
+  "comments": "Permanently in shadow and not easy to see.",
+  "architecture": {
+    "description": "South wall of the overhang"
+  },
+  "content": [
+    {
+      "description": "fire",
+      "separator": ","
+    },
+    {
+      "description": "clothing manufacturing tools"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire",
+      "label": "wikipedia.org's Triangle Shirtwaist Factory Fire page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/trianglefire.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/trianglefire.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "460",
+  "title": {
+    "display": "Native Americans, Swedish Settlers and Eagles",
+    "list": "Native Americans, Swedish Settlers and Eagles"
+  },
+  "artists": [
+    {
+      "name": "Alexander Milne Calder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexander_Milne_Calder",
+          "label": "wikipedia.org's Alexander Milne Calder page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1894"
+    }
+  ],
+  "location": {
+    "latitude": "39.952750",
+    "longitude": "-75.163350",
+    "description": "Broad and Market"
+  },
+  "architecture": {
+    "description": "Part of the whole building's art"
+  },
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "eagles"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "Around the tower of",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=5067",
+      "label": "undated picture of part of this piece in the studio from phillyhistory.org"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=5069",
+      "label": "another picture of part of this piece in the studio from phillyhistory.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nasse.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nasse.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

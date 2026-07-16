@@ -1,0 +1,114 @@
+{
+  "id": "298",
+  "title": {
+    "display": "Playing Angels",
+    "list": "Playing Angels"
+  },
+  "artists": [
+    {
+      "name": "Carl Milles",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Carl_Milles",
+          "label": "wikipedia.org's Carl Milles page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1950"
+    }
+  ],
+  "yearmodifier": "installed 1972",
+  "location": {
+    "latitude": "39.980225",
+    "longitude": "-75.198840",
+    "description": "Kelly Drive and Fountain Green Drive"
+  },
+  "content": [
+    {
+      "description": "vertical"
+    },
+    {
+      "description": "angels",
+      "separator": ","
+    },
+    {
+      "description": "musical instruments"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/playing-angels/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/angels1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/angels1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/angels2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/angels2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/angels3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/angels3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/angels4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/angels4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/angels5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/angels5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/angels6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/angels6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

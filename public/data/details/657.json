@@ -1,0 +1,63 @@
+{
+  "id": "657",
+  "title": {
+    "display": "Word Play",
+    "list": "Word Play"
+  },
+  "artists": [
+    {
+      "name": "David Cerulli",
+      "externallinks": [
+        {
+          "url": "https://www.cerullistudio.com/",
+          "label": "cerullistudio.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1986"
+    }
+  ],
+  "location": {
+    "latitude": "40.039380",
+    "longitude": "-75.053150",
+    "description": "Princeton Ave. and Battersby St."
+  },
+  "comments": "Painted red since the artist's picture was taken.",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "idea"
+    }
+  ],
+  "landmark": {
+    "name": "Mayfair Park"
+  },
+  "externallinks": [
+    {
+      "url": "https://www.cerullistudio.com/sculpture/commissions.html#lg=1&slide=7",
+      "label": "artist's picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wordplay.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wordplay.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

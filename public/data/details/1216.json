@@ -1,0 +1,45 @@
+{
+  "id": "1216",
+  "title": {
+    "display": "Gate",
+    "list": "Gate (23rd and Perot)"
+  },
+  "location": {
+    "latitude": "39.967975",
+    "longitude": "-75.175648",
+    "description": "South side of Perot, West of 23rd"
+  },
+  "architecture": {
+    "description": "Gate"
+  },
+  "content": [
+    {
+      "description": "surf",
+      "separator": ","
+    },
+    {
+      "description": "palm trees",
+      "separator": ","
+    },
+    {
+      "description": "jellyfish"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/perotgate.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/perotgate.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fairmount"
+    }
+  ]
+}

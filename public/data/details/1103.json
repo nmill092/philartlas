@@ -1,0 +1,81 @@
+{
+  "id": "1103",
+  "title": {
+    "display": "O'Connor Plaza Fountain",
+    "list": "O'Connor Plaza Fountain"
+  },
+  "artists": [
+    {
+      "name": "Sikora Wells Appel",
+      "externallinks": [
+        {
+          "url": "https://www.sikora-wa.com/",
+          "label": "sikora-wa.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2017"
+    }
+  ],
+  "location": {
+    "latitude": "39.981390",
+    "longitude": "-75.155690",
+    "description": "Liacouras and Polett Walks"
+  },
+  "architecture": {
+    "description": "O'Connor Plaza"
+  },
+  "content": [
+    {
+      "description": "abstract geometric"
+    },
+    {
+      "description": "waterfall fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Founder's Garden",
+    "prefix": "Upper Northwest corner of",
+    "externallinks": [
+      {
+        "url": "https://www.sikora-wa.com/temple-university-founders-garden-website",
+        "label": "sikora-wa.com page for their Founder's Garden reimagining"
+      }
+    ]
+  },
+  "peopleprefix": "In honor of",
+  "people": [
+    {
+      "name": "Marie O'Connor"
+    },
+    {
+      "name": "Patrick O'Connor",
+      "externallinks": [
+        {
+          "url": "https://www.cozen.com/people/bios/oconnor-patrick",
+          "label": "cozen.com's Patrick O'Connor page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oconnorplazaft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oconnorplazaft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Campus"
+    }
+  ]
+}

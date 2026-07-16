@@ -1,0 +1,101 @@
+{
+  "id": "1035",
+  "title": {
+    "display": "AMOR",
+    "list": "AMOR"
+  },
+  "artists": [
+    {
+      "name": "Robert Indiana",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Indiana",
+          "label": "wikipedia.org's Robert Indiana page"
+        },
+        {
+          "url": "https://www.aaa.si.edu/collections/interviews/oral-history-interview-robert-indiana-12936",
+          "label": "si.edu interview with Robert Indiana"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1998"
+    }
+  ],
+  "yearmodifier": "installed 2016",
+  "location": {
+    "latitude": "39.957220",
+    "longitude": "-75.169275",
+    "description": "Northwest corner, 18th, Cherry, and the Parkway"
+  },
+  "content": [
+    {
+      "description": "idea"
+    }
+  ],
+  "landmark": {
+    "name": "Logan Square",
+    "prefix": "South end of Sister Cities Park, East side of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Logan_Circle_(Philadelphia)",
+        "label": "wikipedia.org's Logan Circle page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/amor/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amor.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amor.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amor2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amor2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amor3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amor3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amor4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amor4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

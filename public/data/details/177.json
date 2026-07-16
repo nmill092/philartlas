@@ -1,0 +1,92 @@
+{
+  "id": "177",
+  "title": {
+    "display": "Guardian Lions",
+    "list": "Guardian Lions"
+  },
+  "years": [
+    {
+      "year": "400"
+    },
+    {
+      "year": "500"
+    }
+  ],
+  "location": {
+    "latitude": "39.949175",
+    "longitude": "-75.191125",
+    "description": "South side of South, East of 33rd"
+  },
+  "content": [
+    {
+      "description": "lions"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Museum",
+    "prefix": "Lower (East) courtyard of the",
+    "externallinks": [
+      {
+        "url": "https://www.penn.museum/",
+        "label": "penn.museum"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/guardian-lion-female",
+      "label": "upenn.edu's page for the female lion"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/guardian-lion-male",
+      "label": "upenn.edu's page for the male lion"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umlion1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umlion1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umlion2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umlion2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umlion3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umlion3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umlion4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umlion4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

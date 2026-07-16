@@ -1,0 +1,72 @@
+{
+  "id": "763",
+  "title": {
+    "display": "Gate and Gargoyles",
+    "list": "Gate and Gargoyles (Yellin)"
+  },
+  "artists": [
+    {
+      "name": "Samuel Yellin",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/23067",
+          "label": "philadelphiabuildings.orgs's Samuel Yellin page"
+        },
+        {
+          "url": "http://www.samuelyellin.com/",
+          "label": "samuelyellin.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1912"
+    }
+  ],
+  "location": {
+    "latitude": "39.948150",
+    "longitude": "-75.168350",
+    "description": "South side of Latimer, West of 16th"
+  },
+  "comments": "there are identical gargoyles on either side of the gate",
+  "architecture": {
+    "description": "Gate (and gargoyles)"
+  },
+  "content": [
+    {
+      "description": "dragon head",
+      "separator": ","
+    },
+    {
+      "description": "abstract gate"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gategargoyles1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gategargoyles1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gategargoyles2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gategargoyles2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

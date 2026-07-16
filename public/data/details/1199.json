@@ -1,0 +1,152 @@
+{
+  "id": "1199",
+  "title": {
+    "display": "Bicentennial Bell",
+    "list": "Bicentennial Bell"
+  },
+  "artists": [
+    {
+      "name": "Holzman Iron Studio",
+      "externallinks": [
+        {
+          "url": "https://www.ironstudioltd.com/",
+          "label": "ironstudioltd.com"
+        }
+      ]
+    },
+    {
+      "name": "Studio Bryan Hanes",
+      "externallinks": [
+        {
+          "url": "https://www.studiobryanhanes.com/",
+          "label": "studiobryanhanes.com"
+        }
+      ]
+    },
+    {
+      "name": "Whitechapel Bell Foundry",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Whitechapel_Bell_Foundry",
+          "label": "wikipedia.org's Whitechapel Bell Foundry page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2024"
+    }
+  ],
+  "yearmodifier": "the bell itself is 1976",
+  "location": {
+    "latitude": "39.947350",
+    "longitude": "-75.146575",
+    "description": "Northwest corner, 3rd and Walnut"
+  },
+  "comments": "The bell was originally installed in the tower of the old Visitor Center at 3rd and Chestnut.   The bell itself is now in the center of the garden.    The names of the 13 colonies are carved into the walk around the bell.     The fountain, bust of the queen, and text of her speech are on the North wall.  ",
+  "inscription": "<br />Bell:  <br />FOR THE   <br />PEOPLE OF THE UNITED STATES OF AMERICA  <br />FROM THE  <br />PEOPLE OF BRITAIN  <br />4 JULY, 1976  <br />LET FREEDOM RING  <br />  <br />Wall:   <br />HERE, ON JULY 6, 1976, HER MAJESTY QUEEN ELIZABETH II  <br />OF GREAT BRITAIN PRESENTED THE BICENTENNIAL BELL  <br />TO THE PEOPLE OF THE UNITED STATES, IN THESE WORDS:  <br />  <br />I speak to you as the direct descendant of King George III.  <br />He was the last Crowned Sovereign to rule in this country, and it  <br />is therefore with a particular personal interest that I view those  <br />events which took place 200 years ago.  <br />  <br />It seems to me that Independence Day, the Fourth of July, should  <br />be celebrated as much in Britain as IN America.  Not in recjoicing  <br />at the separation of the American Colonies from the British  <br />Crown but in sincere gratitude to the Founding Fathers of this  <br />great Republic for having taught Britain a very valuable lesson.  <br />  <br />We lost the American Colonies because we lacked that  <br />statesmanship \"to know the right time, and the manner of yielding,  <br />what is impossible to keep\".  <br />  <br />But the lesson was learnt.  In the next century and a half we kept  <br />more closely to the principles of Magna Carta which have been  <br />the common heritage of both our countries.  <br />  <br />We learnt to respect the right of others to govern themselves in  <br />their own ways.  This was the outcome of experience learned the   <br />hard way in 1776.  Without that great act in the cause of liberty  <br />performed in Independence Hall two hundred years ago, we  <br />could never have transformed an Empire into a Commonwealth!  <br />  <br />Ultimately peace brought a renewal of friendship which has  <br />continued and grown over the years and has played a vital part  <br />in world affairs.  Together we have fought in two world wars in  <br />the defence of our common heritage of freedom.  Together we  <br />have striven to keep the peace so dearly won.  Together, as  <br />friends and allies, we can face the uncertainties of the future,  <br />and this is something for which we in Britain can also celeberate  <br />the Fourth of July.  <br />  <br />This morning I saw the famout Liberty Bell.  It came here over  <br />200 years ago when Philadelphia, after London, was the largest  <br />English speaking City in the world. It was cast to commemorate  <br />the Pennsylvania Charter of Privileges, but it is better known for  <br />its association with the Declaration of Independence.  <br />  <br />Today, to mark the 200th anniversary of that declaration,  <br />it gives me the greatest pleasure, on behalf of the British people,  <br />to present a new bell to the people of the United States of  <br />America.  It comes from the same foundry as the Liberty Bell,  <br />but written on the side of this Bicentennial Bell are the wrds  <br />\"Let Freedom Ring\".  <br />  <br />It is a message in which both our people can join and which  <br />I hope will be heard around the world for centuries to come.",
+  "content": [
+    {
+      "description": "actual bell",
+      "separator": ","
+    },
+    {
+      "description": "arch",
+      "separator": ","
+    },
+    {
+      "description": "ideas",
+      "separator": ","
+    },
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "crown",
+      "separator": ","
+    },
+    {
+      "description": "fish head"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "peopleprefix": "quote from and relief bust of",
+  "people": [
+    {
+      "name": "Elizabeth II",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "label": "wikipedia.org's Elizabeth II page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://defector.com/this-is-not-a-damn-bell",
+      "label": "defector.com blog entry about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bibell1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bibell1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bibell2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bibell2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bibell3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bibell3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bibell4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bibell4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bibell5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bibell5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Old City"
+    }
+  ]
+}

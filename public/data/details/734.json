@@ -1,0 +1,90 @@
+{
+  "id": "734",
+  "title": {
+    "display": "Four Decorative Panels",
+    "list": "Four Decorative Panels"
+  },
+  "artists": [
+    {
+      "name": "Bernard Felch",
+      "externallinks": [
+        {
+          "url": "https://www.legacy.com/us/obituaries/delawareonline/name/bernard-felch-obituary?pid=145541213",
+          "label": "legacy.com's Bernard Felch obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1978"
+    }
+  ],
+  "location": {
+    "latitude": "39.942950",
+    "longitude": "-75.143725",
+    "description": "Northwest corner, Front and Pine"
+  },
+  "comments": "Set in to the East walls of the entrances of the first three houses, and facing the sidewalk on Front. The pictures are ordered from West to East. The first is almost completely obscured by a gate, but the rest are visible.",
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "abstract brickwork"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://dpd-art-is-essential-docs.s3.amazonaws.com/10.pdf",
+      "label": "Percent for Art's pdf with a picture of one of the panels at dpd-art-is-essential-docs.s3.amazonaws.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/100pine1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/100pine1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/100pine2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/100pine2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/100pine3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/100pine3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/100pine4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/100pine4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

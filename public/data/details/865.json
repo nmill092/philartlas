@@ -1,0 +1,88 @@
+{
+  "id": "865",
+  "title": {
+    "display": "Lin Zexu Memorial Statue",
+    "list": "Lin Zexu Memorial Statue"
+  },
+  "years": [
+    {
+      "year": "2012"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.956900",
+    "longitude": "-75.155750",
+    "description": "West side of 10th at Vine"
+  },
+  "inscription": "<br />  Summary  <br />  Lin Zexu (1785-1850) was a Chinese scholar and  official during the late Qing dynasty.  He is  most famous for his fight against opium smuggling  in Guangzhou, China. In 1838, Lin was sent to  Guanadong to halt the importation of opium by  the British.  He confiscated more than 20,000  chests of opium and supervised its destruction  during a 23-day campaign beginning on June 3,  1839 in Humen China.  This action is usually  considered to be the primary catalyst for the  first Opium War (1839-1842) between Britain and  China.  In recognition of his valiant fight against  narcotics and British invasion, Lin is highly  respected in the history of China as national hero.",
+  "architecture": {
+    "description": "Bridge over I-676"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "telescope",
+      "separator": ","
+    },
+    {
+      "description": "sword"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Lin Zexu",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lin_Zexu",
+          "label": "wikipedia.org Lin Zexu page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/155896017@N08/54096267719",
+      "label": "Austin Dodge's picture of this piece at flickr.com"
+    },
+    {
+      "url": "https://www.flickr.com/photos/buddhadog/29553091360",
+      "label": "buddhadog's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/linzexu.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/linzexu.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/linzexu2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/linzexu2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

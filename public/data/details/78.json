@@ -1,0 +1,99 @@
+{
+  "id": "78",
+  "title": {
+    "display": "Columbus Monument",
+    "list": "Columbus Monument (Columbus Blvd.)"
+  },
+  "artists": [
+    {
+      "name": "Venturi, Scott Brown (and Rauch)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Venturi",
+          "label": "wikipedia.org's Robert Venturi page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+          "label": "wikipedia.org's Denise Scott Brown page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "location": {
+    "latitude": "39.944650",
+    "longitude": "-75.141500",
+    "description": "Columbus at Dock Street"
+  },
+  "comments": "At the time this piece was built the firm was named Venturi, Scott Brown",
+  "inscription": "<br />1492-1992  <br />Charismatic Leader, Navigator, Mathematician, Cartographer  <br />Cinquecento Anniversary  <br />Columbus, intrepid navigator, with a sense of the sea unparalleled  before or after him.  A native son of Genoa, he became through  his dedication to a dream, an honored hero of history.  <br />His keen intellect, abiding faith, and undaunted persistence  made him a giant among men of this millenium.",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "obelisk",
+      "separator": ","
+    },
+    {
+      "description": "pennant",
+      "separator": ","
+    },
+    {
+      "description": "biographical text"
+    }
+  ],
+  "peopleprefix": "Monument to",
+  "people": [
+    {
+      "name": "Christopher Columbus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+          "label": "wikipedia.org's Christopher Columbus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/columbu.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/columbu.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/columbu2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/columbu2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/columbu3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/columbu3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

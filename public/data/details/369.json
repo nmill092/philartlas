@@ -1,0 +1,92 @@
+{
+  "id": "369",
+  "title": {
+    "display": "Striding Man",
+    "list": "Striding Man"
+  },
+  "artists": [
+    {
+      "name": "Bernard Brenner",
+      "externallinks": [
+        {
+          "url": "http://www.chrisray.com/exhibit/show01/index.htm",
+          "label": "Bernard Brenner exhibit at chrisray.com"
+        }
+      ]
+    },
+    {
+      "name": "James Fuhrman",
+      "externallinks": [
+        {
+          "url": "https://www.jfuhrman.com/",
+          "label": "jfuhrman.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.902700",
+    "longitude": "-75.241025",
+    "description": "West side of Island, South of Lindbergh"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Penrose Plaza",
+    "prefix": "In the parking lot of",
+    "externallinks": [
+      {
+        "url": "https://www.mallsinamerica.com/pennsylvania/penrose-plaza-shopping-center",
+        "label": "mallsinamerica.com's Penrose Plaza page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stridin1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stridin1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stridin2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stridin2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stridin3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stridin3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

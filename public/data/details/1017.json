@@ -1,0 +1,58 @@
+{
+  "id": "1017",
+  "title": {
+    "display": "Welcome to Main Street Manayunk Sign",
+    "list": "Welcome to Main Street Manayunk Sign"
+  },
+  "artists": [
+    {
+      "name": "Venturi, Scott Brown (and Rauch)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Venturi",
+          "label": "wikipedia.org's Robert Venturi page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+          "label": "wikipedia.org's Denise Scott Brown page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2002"
+    }
+  ],
+  "location": {
+    "latitude": "40.015615",
+    "longitude": "-75.209110",
+    "description": "Main at Ridge"
+  },
+  "comments": "At the time this piece was installed the firm was named Venturi, Scott Brown and Associates",
+  "content": [
+    {
+      "description": "idea"
+    },
+    {
+      "description": "sign"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wtmsms.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wtmsms.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Manayunk"
+    }
+  ]
+}

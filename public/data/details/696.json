@@ -1,0 +1,52 @@
+{
+  "id": "696",
+  "title": {
+    "display": "Headhouse Square Fountain",
+    "list": "Headhouse Square Fountain"
+  },
+  "years": [
+    {
+      "year": "2009"
+    }
+  ],
+  "location": {
+    "latitude": "39.942040",
+    "longitude": "-75.145490"
+  },
+  "comments": "Was in the middle of 2nd at Lombard.  Removed as part of the 2021 renovation of Headhouse Square 12 years after it was installed.",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Headhouse Square",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Headhouse_Square",
+        "label": "wikipedia.org's Headhouse Square page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.facebook.com/southstreetheadhousedistrict/photos/a.10150161849387121/10152742626697121/?type=3&_rdr",
+      "label": "South Street Headhouse District's picture of this piece on facebook.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/headhouseft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/headhouseft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

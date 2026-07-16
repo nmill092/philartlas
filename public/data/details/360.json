@@ -1,0 +1,114 @@
+{
+  "id": "360",
+  "title": {
+    "display": "Spring Gardens Fence",
+    "list": "Spring Gardens Fence"
+  },
+  "years": [
+    {
+      "year": "2001"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.966200",
+    "longitude": "-75.168750",
+    "description": "Around the block bounded by 18th, 19th, Wallace and North"
+  },
+  "architecture": {
+    "description": "Fence and gates"
+  },
+  "content": [
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "springs",
+      "separator": ","
+    },
+    {
+      "description": "sign"
+    }
+  ],
+  "landmark": {
+    "name": "Spring Gardens",
+    "externallinks": [
+      {
+        "url": "https://thespringgardens.org/",
+        "label": "thespringgardens.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spring4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spring4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spring6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spring6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spring5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spring5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spring.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spring.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spring3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spring3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spring2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spring2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fairmount"
+    }
+  ]
+}

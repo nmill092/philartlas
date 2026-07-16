@@ -1,0 +1,79 @@
+{
+  "id": "459",
+  "title": {
+    "display": "Tribute to Nursing",
+    "list": "Tribute to Nursing"
+  },
+  "artists": [
+    {
+      "name": "Cathy Hopkins",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/obituaries/cathy-hopkins-obituary-philadelphia-sculptor-fleisher-art-20231128.html",
+          "label": "inquirer.com's Cathy Hopkins obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1989"
+    }
+  ],
+  "location": {
+    "latitude": "39.958740",
+    "longitude": "-75.199000",
+    "description": "East and North of 39th and Filbert"
+  },
+  "inscription": "<br />  In honor of<br />  Our Nurses<br />  Past, Present and Future<br />  Genorously donated by<br />  Presbyterian's Nursing Alumni<br />  and<br />  Ladies Aid Society<br />  May 6, 1989",
+  "content": [
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "one sitting"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Presbyterian Medical Center",
+    "prefix": "North side of the traffic circle of the",
+    "externallinks": [
+      {
+        "url": "https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/penn-presbyterian-medical-center",
+        "label": "pennmedicine.org's Penn Presbyterian Medical Center page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nursing1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nursing1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nursing2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nursing2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

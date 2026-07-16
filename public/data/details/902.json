@@ -1,0 +1,150 @@
+{
+  "id": "902",
+  "title": {
+    "display": "Veterans Memorial",
+    "list": "Veterans Memorial"
+  },
+  "years": [
+    {
+      "year": "2005"
+    }
+  ],
+  "location": {
+    "latitude": "39.905400",
+    "longitude": "-75.171900",
+    "description": "North side of Pattison, East of Broad"
+  },
+  "inscription": "<br />  Philadelphia City Council in 1970 chose Veteran's Stadium as the name for  the city's new sports facility. Veteran's stadium opened April 10, 1971,  was closed September 28, 2003 and imploded March 21, 2004.  <br />  To commemorate the site of Veteran's Stadium, the Phillies dedicate this  monument as an everlasting memorial to veterans who have defended  America's freedom since its inception in Philadelphia, July 4, 1776.",
+  "content": [
+    {
+      "description": "actual and sculpted flags",
+      "separator": ","
+    },
+    {
+      "description": "POW-MIA, Coast Guard, Air Force, Navy, Marines and Army insignia",
+      "separator": ","
+    },
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "guard tower",
+      "separator": ","
+    },
+    {
+      "description": "anchors",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "eagles",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "globe",
+      "separator": ","
+    },
+    {
+      "description": "snake"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/vetsmem1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/vetsmem1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/vetsmem2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/vetsmem2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/vetsmem3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/vetsmem3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/vetsmem4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/vetsmem4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/vetsmem5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/vetsmem5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/vetsmem6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/vetsmem6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/vetsmem7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/vetsmem7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/vetsmem8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/vetsmem8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

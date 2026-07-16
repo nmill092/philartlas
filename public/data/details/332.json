@@ -1,0 +1,293 @@
+{
+  "id": "332",
+  "title": {
+    "display": "Fidelity Mutual Building",
+    "list": "Fidelity Mutual Building"
+  },
+  "artists": [
+    {
+      "name": "Lee Lawrie",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lee_Lawrie",
+          "label": "wikipedia.org's Lee Lawrie page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1926"
+    },
+    {
+      "year": "1927"
+    }
+  ],
+  "location": {
+    "latitude": "39.967490",
+    "longitude": "-75.179490",
+    "description": "Northwest corner of Fairmount and Pennsylvania"
+  },
+  "comments": "Originally an insurance building. Donated to the Art Museum by the Perelmans.  The pictures here are only a representative sampling of the art.",
+  "inscription": "<br />Pennsylvania side:<br />In the honor and perpetuity of the family is founded the state.  In the nobler life of the household is the nobler life of mankind.<br />26th side:<br />He labors best who loves best : the finest work of a man's life is to open the doors of opportunity to those who depend on him.",
+  "architecture": {
+    "description": "The whole building"
+  },
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "furniture",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "kite",
+      "separator": ","
+    },
+    {
+      "description": "ships",
+      "separator": ","
+    },
+    {
+      "description": "tools and machines",
+      "separator": ","
+    },
+    {
+      "description": "dogs",
+      "separator": ","
+    },
+    {
+      "description": "horses",
+      "separator": ","
+    },
+    {
+      "description": "alligators",
+      "separator": ","
+    },
+    {
+      "description": "elephants",
+      "separator": ","
+    },
+    {
+      "description": "owls",
+      "separator": ","
+    },
+    {
+      "description": "squirrels",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "trains",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "symbols and words"
+    }
+  ],
+  "landmark": {
+    "name": "Perelman Building"
+  },
+  "peopleprefix": "Building renamed in honor of",
+  "people": [
+    {
+      "name": "Ruth and Raymond G. Perelman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Raymond_G._Perelman",
+          "label": "wikipedia.org's Raymond G. Perlman page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=NR-73001662",
+      "label": "philadelphiabuildings.org's page for the building"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/88529325",
+      "label": "Max Buten's picture of one of the reliefs"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/88529321",
+      "label": "Another Max Buten picture of one of the reliefs"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian13.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian13.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian14.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian14.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/relian15.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/relian15.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

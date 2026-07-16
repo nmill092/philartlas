@@ -1,0 +1,244 @@
+{
+  "id": "1057",
+  "title": {
+    "display": "A Quest for Parity: The Octavius V. Catto Memorial",
+    "list": "A Quest for Parity: The Octavius V. Catto Memorial"
+  },
+  "artists": [
+    {
+      "name": "Branly Cadet",
+      "externallinks": [
+        {
+          "url": "https://www.branlycadet.com/",
+          "label": "branlycadet.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2017"
+    }
+  ],
+  "location": {
+    "latitude": "39.951775",
+    "longitude": "-75.164100",
+    "description": "North side of S. Penn Square at Broad"
+  },
+  "inscription": "<br />South side of steles, North side of cube:  <br />There must come a change  which will force upon this nation  that course which providence  seems wisely to be directing  for the mutual benefit of all peoples.  <br />West side of steles, West side of cube:  <br />Educator Leader Major Athlete Activist  <br />South side of cube: October 10, 1871  <br />East side of cube:  <br />XV  <br />Amendment to the United States Constitution  <br />The right of citizens of the United States to vote  shall not be denied or abridged by the United States  or by any State on account of race, color,  or previous condition of servitude.  <br />North side of steles:  <br />1839 Born February 22 in Charleston, South Carolina  <br />1854 Becomes a student at the Philadelphia Institute for Colored Youth  <br />1858 Graduates from the Institute for Colored Youth  <br />1859 Chosen as a member and recording secretary of the Banneker Institute,  an all black literary society led by Jacob White, Jr.  Hired as an English and mathematics teacher at his alma mater.  Campaign to desegregate the horse-drawn streetcars in Philadelphia begins.  <br />1863 becomes a member of the Pennsylvania National Guard.  Helps lead a civil war recruitment committee with Frederick Douglas,  members of the Union League, and others, which raises eleven regiments of  black troops who trained at Camp William Penn in Cheltenham.  <br />1864 Named corresponding secretary of the Pennsylvania Equal Rights League,  an affiliate of the National Equal Rights League.  Appointed Vice President of the State Convention of Colored People held in Harrisburg.  Led civil disobedience protests and lobbied white legislators in Harrisburg to desegregate streetcars.  <br />1865 Co-authored the state Equal Rights League call for voting rights, streetcar desegregation,  and the hiring of black teachers for black students in public schools.  <br />1867 Governor signs statewide \"Bill of Rights\" law desegregating streetcars.  Led the Pythians Base Ball Club of Philadelphia to an undefeated season.  <br />1869 Named principal of male students at the Institute for Colored Youth  Pythians play the Olympic Ball Club in Philadelphia in the first match between black and white teams.  A leader of the unsuccessful effort to integrate the private City Wide Congress of Literary Societies.  Helps lead successful Pennsylvania campaign to pass the 15th Amendment which led to thousands of black men  registering to vote.  <br />1870 The Union League presents Octavius Catto, Frederick Douglas, and Robert Purvis with a banner  celebrating Pennsylvania's adoption of the 15th Amendment at a ceremony on Broad Street.  Writes curriculum for new schools for freed former slaves in the District of Columbia.  Becomes a member of the original Franklin Institute breaking the color line at the prestigious  national forum for advancing American science and technology.  <br />1871 Named an Inspector General with the rank of Major in the Pennsylvania National Guard.  Shot to death on October 10, on South Street in the midst of election day riots. He was 32,  and one of many black men shot or attacked that day by opponents of the 15th Amendment. As one  of Philadelphia's most influential leaders, more than 5,000 mourners attended his funeral and  procession down Broad Street.",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "ideas",
+      "separator": ","
+    },
+    {
+      "description": "cube and mirrored orb",
+      "separator": ","
+    },
+    {
+      "description": "steles"
+    },
+    {
+      "description": "representing a streetcar and a representational streetcar",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "clouds",
+      "separator": ","
+    },
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "some sitting",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "guns",
+      "separator": ","
+    },
+    {
+      "description": "baseball equipment"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "South side of",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "Memorial to and statue of",
+  "people": [
+    {
+      "name": "Octavius Catto",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Octavius_Catto",
+          "label": "wikipedia.org's Octavius Catto page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/catto-memorial/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/catto1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/catto1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/catto2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/catto2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/catto3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/catto3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/catto4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/catto4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/catto5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/catto5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/catto6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/catto6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/catto7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/catto7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/catto8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/catto8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/catto9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/catto9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cattoa.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cattoa.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cattob.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cattob.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cattoc.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cattoc.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

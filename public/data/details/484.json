@@ -1,0 +1,80 @@
+{
+  "id": "484",
+  "title": {
+    "display": "The Spirit of Girard",
+    "list": "Spirit of Girard, The"
+  },
+  "artists": [
+    {
+      "name": "Bruno Lucchesi",
+      "externallinks": [
+        {
+          "url": "https://www.brunolucchesi.com/",
+          "label": "brunolucchesi.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2000"
+    }
+  ],
+  "location": {
+    "latitude": "39.973400",
+    "longitude": "-75.170225",
+    "description": "North side of Girard at Corinthian"
+  },
+  "comments": "visible from the sidewalk",
+  "content": [
+    {
+      "description": "group of people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting"
+    }
+  ],
+  "landmark": {
+    "name": "Girard College",
+    "prefix": "Inside the main gate",
+    "externallinks": [
+      {
+        "url": "https://www.girardcollege.edu/",
+        "label": "girardcollege.edu"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Stephen Girard",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Girard",
+          "label": "wikipedia.org's Stephen Girard page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/girardcol.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/girardcol.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fairmount"
+    }
+  ]
+}

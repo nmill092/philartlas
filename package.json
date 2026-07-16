@@ -13,5 +13,11 @@
   },
   "dependencies": {
     "astro": "^7.0.9"
+  },
+  "devDependencies": {
+    "@turf/boolean-point-in-polygon": "^7.3.5",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^26.1.1",
+    "@types/turf": "^3.5.32"
   }
 }

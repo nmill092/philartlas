@@ -1,0 +1,129 @@
+{
+  "id": "334",
+  "title": {
+    "display": "Schiller",
+    "list": "Schiller"
+  },
+  "artists": [
+    {
+      "name": "Heinrich Manger",
+      "externallinks": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Heinrich_Manger",
+          "label": "fr.wikipedia.org's Heinrich Manger page (in French)"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1885"
+    }
+  ],
+  "yearmodifier": "installed 1886",
+  "location": {
+    "latitude": "39.982750",
+    "longitude": "-75.211800",
+    "description": "Horticulture Drive.  East of Belmont."
+  },
+  "content": [
+    {
+      "description": "two standing people",
+      "separator": ","
+    },
+    {
+      "description": "one winged",
+      "separator": ","
+    },
+    {
+      "description": "torch",
+      "separator": ","
+    },
+    {
+      "description": "sitting person",
+      "separator": ","
+    },
+    {
+      "description": "tree stump",
+      "separator": ","
+    },
+    {
+      "description": "quill"
+    }
+  ],
+  "landmark": {
+    "name": "Horticulture Center",
+    "prefix": "South side near the East end of the central promenade under a tree in the",
+    "externallinks": [
+      {
+        "url": "https://myphillypark.org/explore/parks/fairmount-park-horticulture-center/",
+        "label": "myphillypark.org's Horticulture Center page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Johann Christoph Friedrich von Schiller",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Friedrich_Schiller",
+          "label": "wikipedia.org's Schiller page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/schiller/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schill1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schill1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schill3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schill3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schill4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schill4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schill2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schill2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

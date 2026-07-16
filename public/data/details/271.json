@@ -1,0 +1,102 @@
+{
+  "id": "271",
+  "title": {
+    "display": "Otters",
+    "list": "Otters"
+  },
+  "artists": [
+    {
+      "name": "Henry Mitchell",
+      "externallinks": [
+        {
+          "url": "https://www.cantonartcollection.com/artistbio.php?artist_id=476",
+          "label": "cantonartcollection.com's Henry Mitchell bio"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "location": {
+    "latitude": "39.947965",
+    "longitude": "-75.157975",
+    "description": "South side of Walnut between 10th and 11th behind the building which faces Walnut."
+  },
+  "comments": "Moved from the West end of the building to the East end, probably in 2007. The first picture is from the original location, the rest are from after the move, and with a much lower water level in the pool.",
+  "inscription": "With Gratitude to William W. Bodine Jr.  Leader, builder and friend of Thomas Jefferson University.",
+  "content": [
+    {
+      "description": "otters",
+      "separator": ","
+    },
+    {
+      "description": "rocks",
+      "separator": ","
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "peopleprefix": "In memory of",
+  "people": [
+    {
+      "name": "William W. Bodine, Jr.",
+      "externallinks": [
+        {
+          "url": "https://query.nytimes.com/gst/fullpage.html?res=9F05EEDA1F39F931A2575BC0A965948260",
+          "label": "nytimes.com's William W. Bodine, Jr. obituary"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/otters.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/otters.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/otters2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/otters2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/otters3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/otters3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/otters4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/otters4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

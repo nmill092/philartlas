@@ -1,0 +1,95 @@
+{
+  "id": "308",
+  "title": {
+    "display": "Punter",
+    "list": "Punter"
+  },
+  "artists": [
+    {
+      "name": "Joe Brown",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Brown_%28sculptor%29",
+          "label": "wikipedia.org Joe Brown page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.907575",
+    "longitude": "-75.171500",
+    "description": "North side of the parking lot North of Pattison and East of Broad"
+  },
+  "comments": "Originally on the walkway around Veterans Stadium until it was torn down in 2004. The last picture is from the original location.",
+  "inscription": "The Philadelphia Catholic League football playoffs  were held at the Vet during the 1970s and 1980s.  South Philadelphia High School played a football game there in 1983.  Soccer, including two pro soccer teams, the Fury and the Atoms,  plus a World Soccer Exhibition in 1991, took place at the stadium.",
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "wearing a helmet"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.loc.gov/item/2011633292",
+      "label": "picture of this piece in its original location at loc.gov"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Brown_punter_Philly_art.JPG",
+      "label": "picture of this piece at commons.wikimedia.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/punt2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/punt2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/punt3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/punt3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/punt4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/punt4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/punt.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/punt.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

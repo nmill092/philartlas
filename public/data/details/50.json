@@ -1,0 +1,100 @@
+{
+  "id": "50",
+  "title": {
+    "display": "Moore Residence",
+    "list": "Moore Residence"
+  },
+  "artists": [
+    {
+      "name": "Wilson Eyre (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wilson_Eyre",
+          "label": "wikipedia.org's Wilson Eyre page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1890"
+    }
+  ],
+  "location": {
+    "latitude": "39.948100",
+    "longitude": "-75.163290",
+    "description": "Northeast corner of Locust and Juniper"
+  },
+  "architecture": {
+    "description": "Front stairs and wall"
+  },
+  "content": [
+    {
+      "description": "standing children",
+      "separator": ","
+    },
+    {
+      "description": "dolphins",
+      "separator": ","
+    },
+    {
+      "description": "fruit"
+    },
+    {
+      "description": "stands"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/16459",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/juniloc.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/juniloc.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/juniloc2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/juniloc2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/juniloc3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/juniloc3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/juniloc4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/juniloc4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Gayborhood"
+    }
+  ]
+}

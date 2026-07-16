@@ -1,0 +1,67 @@
+{
+  "id": "411",
+  "title": {
+    "display": "Untitled",
+    "list": "Untitled (Maroschick)"
+  },
+  "artists": [
+    {
+      "name": "Mark Maroshick"
+    }
+  ],
+  "years": [
+    {
+      "year": "1970"
+    }
+  ],
+  "location": {
+    "latitude": "39.934800",
+    "longitude": "-75.146100",
+    "description": "North side of Carpenter West of Front"
+  },
+  "comments": "Earlier pictures found on the internet suggest this piece may have been reconfigured since it was originally installed.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "group of children"
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "spelling the word"
+    },
+    {
+      "description": "cat"
+    }
+  ],
+  "landmark": {
+    "name": "Shot Tower Recreation Center",
+    "prefix": "North side of the",
+    "externallinks": [
+      {
+        "url": "https://www.ushistory.org/oddities/sparks.htm",
+        "label": "ushistory.org's Shot Tower page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/shotorec.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/shotorec.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "1143",
+  "title": {
+    "display": "Ellen's Bicycle",
+    "list": "Ellen's Bicycle"
+  },
+  "artists": [
+    {
+      "name": "Isaiah Zagar",
+      "externallinks": [
+        {
+          "url": "https://www.phillymagicgardens.org/",
+          "label": "phillymagicgardens.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2011"
+    }
+  ],
+  "location": {
+    "latitude": "39.943260",
+    "longitude": "-75.162810",
+    "description": "South side of South between 12th and 13th"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "bicycle",
+      "separator": ","
+    },
+    {
+      "description": "vertical people",
+      "separator": ","
+    },
+    {
+      "description": "horizontal people",
+      "separator": ","
+    },
+    {
+      "description": "actual plates and bottles"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://imgur.com/rwO3ru6",
+      "label": "official picture of this piece at imgur.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ellensbike.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ellensbike.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

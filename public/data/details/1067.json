@@ -1,0 +1,57 @@
+{
+  "id": "1067",
+  "title": {
+    "display": "East Germantown World War Memorial",
+    "list": "East Germantown World War Memorial"
+  },
+  "years": [
+    {
+      "year": "1923"
+    }
+  ],
+  "location": {
+    "latitude": "40.052065",
+    "longitude": "-75.157900",
+    "description": "Traffic island, Chelten, Wyncote, and Wister"
+  },
+  "inscription": "<br />  Erected by the people of East Germantown  as an imperishable tribute to the memory  of the more than one thousand of its heroes  who served in the World War  1917-1918  offering to our country  all that mortal man could give: their lives,  their fortunes and their sacred honor.  <br />  To all who pass  this sacred spot,  let the head be bowed,  a tear be shed -  may the heart swell  in gratitude  and praise in honor of  those to whom this  memorial stands.  <br />Aisne Marne  <br />St. Mihiel  <br />Meuse Argonne  <br />Chateau Thierry  <br />Somme  <br />Toul  <br />Troyon  <br />Vesel",
+  "content": [
+    {
+      "description": "stele",
+      "separator": ","
+    },
+    {
+      "description": "words",
+      "separator": ","
+    },
+    {
+      "description": "garland",
+      "separator": ","
+    },
+    {
+      "description": "shield"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/egwwm.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/egwwm.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/egwwm2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/egwwm2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

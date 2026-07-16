@@ -1,0 +1,85 @@
+{
+  "id": "1193",
+  "title": {
+    "display": "Alder Street Garages",
+    "list": "Alder Street Garages"
+  },
+  "artists": [
+    {
+      "name": "Isaiah Zagar",
+      "externallinks": [
+        {
+          "url": "https://www.phillymagicgardens.org/",
+          "label": "phillymagicgardens.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1991"
+    }
+  ],
+  "location": {
+    "latitude": "39.942680",
+    "longitude": "-75.159125",
+    "description": "East side of Alder, South of South"
+  },
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "abstract forms",
+      "separator": ","
+    },
+    {
+      "description": "parts of people",
+      "separator": ","
+    },
+    {
+      "description": "actual bottles and plates",
+      "separator": ","
+    },
+    {
+      "description": "bicycle wheel"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/alderg1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/alderg1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/alderg2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/alderg2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/alderg3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/alderg3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "1155",
+  "title": {
+    "display": "stikman (25th and Pennsylvania NW)",
+    "list": "stikman (25th and Pennsylvania NW)"
+  },
+  "artists": [
+    {
+      "name": "stikman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stikman",
+          "label": "wikipedia.org's stikman page"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "latitude": "39.966850",
+    "longitude": "-75.178900",
+    "description": "West side of 25th, in the Northwestbound lanes of Pennsylvania."
+  },
+  "architecture": {
+    "description": "West of the crosswalk"
+  },
+  "content": [
+    {
+      "description": "abstract lines",
+      "separator": ","
+    },
+    {
+      "description": "standing person"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stikman25panw.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stikman25panw.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stikman25panw2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stikman25panw2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

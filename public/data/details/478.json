@@ -1,0 +1,71 @@
+{
+  "id": "478",
+  "title": {
+    "display": "Skin of the Bride",
+    "list": "Skin of the Bride"
+  },
+  "artists": [
+    {
+      "name": "Isaiah Zagar",
+      "externallinks": [
+        {
+          "url": "https://www.phillymagicgardens.org/",
+          "label": "phillymagicgardens.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1991"
+    },
+    {
+      "year": "2000"
+    }
+  ],
+  "location": {
+    "latitude": "39.955725",
+    "longitude": "-75.143950"
+  },
+  "comments": "Was on the South side of Vine between 2nd and 3rd on the walls of the Painted Bride Art Center, which is no longer the home of the Painted Bride.  The mosaic was dismantled in 2023.",
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "abstract",
+      "separator": ","
+    },
+    {
+      "description": "words"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.phillymagicgardens.org/about-philadelphias-magic-gardens/preservation/painted-bride/",
+      "label": "phillymagicgardens.org article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bride1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bride1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bride2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bride2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

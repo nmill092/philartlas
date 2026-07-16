@@ -1,0 +1,67 @@
+{
+  "id": "688",
+  "title": {
+    "display": "1835 Market Fountain",
+    "list": "1835 Market Fountain"
+  },
+  "artists": [
+    {
+      "name": "Vincent Kling/Kling Lindquist Partnership/KlingStubbins (Architects)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vincent_Kling_(architect)",
+          "label": "wikipedia.org's Vincent Kling page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/KlingStubbins",
+          "label": "wikipedia.org's KlingStubbins page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1986"
+    }
+  ],
+  "location": {
+    "latitude": "39.953600",
+    "longitude": "-75.170825",
+    "description": "North side of Market, East of 19th"
+  },
+  "comments": "The building is attributed to the Kling Lindquist Partnership.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1835_Market_Street",
+      "label": "wikipedia.org's 1835 Market Street page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1835mktft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1835mktft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

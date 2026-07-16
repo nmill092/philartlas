@@ -1,0 +1,213 @@
+{
+  "id": "579",
+  "title": {
+    "display": "Witherspoon Building Figures",
+    "list": "Witherspoon Building Figures"
+  },
+  "artists": [
+    {
+      "name": "Alexander Stirling Calder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexander_Stirling_Calder",
+          "label": "wikipedia.org's Alexander Stirling Calder page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/Alexander%20Stirling%20Calder",
+          "label": "publicartarchive.org's Alexander Stirling Calder page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1899"
+    }
+  ],
+  "location": {
+    "latitude": "39.942900",
+    "longitude": "-75.149950",
+    "description": "North side of Lombard, East of 5th"
+  },
+  "comments": "The first six pictures are of the individuals in the order listed on the plaques.  The last two are detail shots. The pieces are visible up close when the gates are open and through the gates when they are closed.",
+  "inscription": "<br />Francis Makemie  <br />c1658-1708  <br />John Witherspoon  <br />1723-1794  <br />John McMillan  <br />1752-1833  <br />Samuel Davies  <br />1723-1761  <br />James Caldwell  <br />1734-1781  <br />Marcus Whitman  <br />1802-1847",
+  "architecture": {
+    "description": "Front courtyard"
+  },
+  "content": [
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "books and papers",
+      "separator": ","
+    },
+    {
+      "description": "wagon wheel"
+    }
+  ],
+  "landmark": {
+    "name": "Presbyterian Historical Society",
+    "externallinks": [
+      {
+        "url": "https://www.history.pcusa.org/",
+        "label": "history.pcusa.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statues of",
+  "people": [
+    {
+      "name": "James Caldwell",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Caldwell_%28clergyman%29",
+          "label": "wikipedia.org's James Caldwell page"
+        }
+      ]
+    },
+    {
+      "name": "Samuel Davies",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Samuel_Davies_%28clergyman%29",
+          "label": "wikipedia.org's Samuel Davies page"
+        }
+      ]
+    },
+    {
+      "name": "Francis Makemie",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_Makemie",
+          "label": "wikipedia.org's Francis Makemie page"
+        }
+      ]
+    },
+    {
+      "name": "John McMillan",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/cgi-bin/fg.cgi?page=sh&GRid=10902669",
+          "label": "findagrave.com's Rev. John McMillan page"
+        }
+      ]
+    },
+    {
+      "name": "Marcus Whitman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marcus_Whitman",
+          "label": "wikipedia.org's Marcus Whitman page"
+        }
+      ]
+    },
+    {
+      "name": "John Witherspoon",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Witherspoon",
+          "label": "wikipedia.org's John Witherspoon page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/calder-statues/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withfig1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withfig1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withfig2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withfig2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withfig3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withfig3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withfig4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withfig4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withfig5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withfig5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withfig6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withfig6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withfig13.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withfig13.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/withfig16.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/withfig16.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

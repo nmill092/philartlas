@@ -1,0 +1,96 @@
+{
+  "id": "217",
+  "title": {
+    "display": "King Solomon",
+    "list": "King Solomon"
+  },
+  "artists": [
+    {
+      "name": "Alexander Archipenko",
+      "externallinks": [
+        {
+          "url": "https://archipenko.org/",
+          "label": "archipenko.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1968"
+    }
+  ],
+  "yearmodifier": "posthumous cast of a 1963 design, installed 1985",
+  "location": {
+    "latitude": "39.952625",
+    "longitude": "-75.194850",
+    "description": "East side of 36th, between Locust Walk and Walnut"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing person"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Solomon",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon",
+          "label": "wikipedia.org's Solomon page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/king-solomon/",
+      "label": "associationforpublicart.org's page for this piece"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/solomon",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kingsol.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kingsol.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kingsol2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kingsol2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kingsol3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kingsol3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

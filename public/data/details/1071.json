@@ -1,0 +1,112 @@
+{
+  "id": "1071",
+  "title": {
+    "display": "Ed Snider",
+    "list": "Ed Snider"
+  },
+  "artists": [
+    {
+      "name": "Chad Fisher",
+      "externallinks": [
+        {
+          "url": "https://www.fishersculpture.com/",
+          "label": "fishersculpture.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2017"
+    }
+  ],
+  "location": {
+    "latitude": "39.902050",
+    "longitude": "-75.172695",
+    "description": "East side of Broad, South of Pattison"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "rock"
+    }
+  ],
+  "landmark": {
+    "name": "Wells Fargo Center",
+    "prefix": "Northwest corner of the",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wells_Fargo_Center_(Philadelphia)",
+        "label": "wikipedia.org's Wells Fargo Center page"
+      }
+    ]
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Ed Snider",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ed_Snider",
+          "label": "wikipedia.org's Ed Snider page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.fishersculpture.com/our-work/ed-snider-philadelphia-flyers",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/edsnider1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/edsnider1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/edsnider2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/edsnider2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/edsnider3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/edsnider3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/edsnider4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/edsnider4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

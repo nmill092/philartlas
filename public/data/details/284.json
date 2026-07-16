@@ -1,0 +1,176 @@
+{
+  "id": "284",
+  "title": {
+    "display": "Philadelphia Beirut Memorial",
+    "list": "Philadelphia Beirut Memorial"
+  },
+  "artists": [
+    {
+      "name": "Doug Corsini"
+    }
+  ],
+  "years": [
+    {
+      "year": "1985"
+    }
+  ],
+  "location": {
+    "latitude": "39.944885",
+    "longitude": "-75.142660",
+    "description": "South side of Dock, East of Front"
+  },
+  "comments": "Was at Penn's Landing on the North side of the Seaport Museum. Moved prior to 2010. The last picture is from the original location.",
+  "inscription": "<br />In Memoriam to the Philadelphia Marine Casualties of the Beirut Peace Keeping Mission.<br />If you forget my death then I died in vain.<br />October 23, 1983, 241 servicemen killed in the Beirut Terrorist Bombing.  <br />Dedicated October 20, 1985",
+  "content": [
+    {
+      "description": "3D USMC logo",
+      "separator": ","
+    },
+    {
+      "description": "eagle",
+      "separator": ","
+    },
+    {
+      "description": "globe",
+      "separator": ","
+    },
+    {
+      "description": "anchor",
+      "separator": ","
+    },
+    {
+      "description": "rope"
+    }
+  ],
+  "landmark": {
+    "name": "Foglietta Plaza",
+    "prefix": "East end of"
+  },
+  "peopleprefix": "Memorial to",
+  "people": [
+    {
+      "name": "Cpl. Moses Arnold, Jr.",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/5986141/moses-j-arnold",
+          "label": "findagrave.com's Moses Arnold, Jr. page"
+        }
+      ]
+    },
+    {
+      "name": "Sgt. John J. Bonk, Jr.",
+      "externallinks": [
+        {
+          "url": "https://www.bensalemowls.org/class_profile.cfm?member_id=790384",
+          "label": "bensalemowls.org John J. Bonk, Jr. memorial page"
+        }
+      ]
+    },
+    {
+      "name": "Cpl. Thomas A. Hairston",
+      "externallinks": [
+        {
+          "url": "https://www.newspapers.com/clip/28069192/thomas-a-hairston-obitkilled-in-beirut/",
+          "label": "Thomas A.Hairston obituary on newspapers.com"
+        }
+      ]
+    },
+    {
+      "name": "Sgt. Gilbert Hanton",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/173206446/gilbert-hanton",
+          "label": "findagrave.com's Gilbert Hanton page"
+        }
+      ]
+    },
+    {
+      "name": "Cpl. John F. Muffler",
+      "externallinks": [
+        {
+          "url": "https://www.buckscountycouriertimes.com/article/20121023/OPINION/310239812",
+          "label": "buckscountycouriertimes.com memory of John Muffler from 2012"
+        }
+      ]
+    },
+    {
+      "name": "Sgt. Rafael Pomales-Torres",
+      "externallinks": [
+        {
+          "url": "https://www.uswarmemorials.org/html/people_details.php?PeopleID=20733",
+          "label": "uswarmemorials.org's Rafael Pomales-Torres page"
+        }
+      ]
+    },
+    {
+      "name": "Pfc. Rui Manuel A. Relvas",
+      "externallinks": [
+        {
+          "url": "https://whyy.org/articles/remembering-philly-residents-lost-in-beirut-terrorist-attack/",
+          "label": "whyy.org article focusing on Rui Manuel A. Relvas"
+        }
+      ]
+    },
+    {
+      "name": "Cpl. Louis J. Rotondo",
+      "externallinks": [
+        {
+          "url": "https://marines.togetherweserved.com/usmc/servlet/tws.webapp.WebApp?cmd=ShadowBoxProfile&type=DecorationExt&ID=1593662",
+          "label": "marines.togetherweserved.com's Louis J. Rotondo page"
+        }
+      ]
+    },
+    {
+      "name": "Sgt. Allen D. Wesley",
+      "externallinks": [
+        {
+          "url": "https://myfallensoldiers.com/1983/10/23/wesley-allen-d-marines-sergeant/",
+          "label": "myfallensoldiers.com's Allen D. Wesley page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.beirutveterans.org/1985/10/philadelphia-beirut-memorial",
+      "label": "beirutveterans.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beirut2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beirut2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beirut3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beirut3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/beirut.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/beirut.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

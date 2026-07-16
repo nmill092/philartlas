@@ -1,0 +1,100 @@
+{
+  "id": "921",
+  "title": {
+    "display": "Bishop Neumann and Southeast Catholic War Memorials",
+    "list": "Bishop Neumann and Southeast Catholic War Memorials"
+  },
+  "location": {
+    "latitude": "39.927150",
+    "longitude": "-75.162200",
+    "description": "West side of 10th at Moore"
+  },
+  "comments": "The stone lists students with graduation dates from 1955 to 1968",
+  "inscription": "<br />plaque top:  <br />In memory of those who gave their lives  <br />plaque bottom:  <br />1941 World War II 1945  <br />stone top:   <br />In memory of those men who made the supreme sacrifice  <br />Southeast Catholic, Bishop Neumann  <br />stone bottom:    <br />I have fought the good fight.    I have finished the race.  <br />I have kept the faith.  <br />Timothy 4:7-8",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "flowers",
+      "separator": ","
+    },
+    {
+      "description": "Army, Navy, and Marine insignia",
+      "separator": ","
+    },
+    {
+      "description": "eagle"
+    }
+  ],
+  "landmark": {
+    "name": "Saints John Neumann and Maria Goretti Catholic High School",
+    "prefix": "East side of",
+    "externallinks": [
+      {
+        "url": "https://neumanngorettihs.org/",
+        "label": "neumanngorettihs.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/neumannwar1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/neumannwar1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/neumannwar2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/neumannwar2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/neumannwar3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/neumannwar3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/neumannwar4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/neumannwar4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

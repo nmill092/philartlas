@@ -1,0 +1,102 @@
+{
+  "id": "1141",
+  "title": {
+    "display": "Corporal Michael J. Crescenz MOH",
+    "list": "Corporal Michael J. Crescenz MOH"
+  },
+  "artists": [
+    {
+      "name": "Chad Fisher",
+      "externallinks": [
+        {
+          "url": "https://www.fishersculpture.com/",
+          "label": "fishersculpture.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2016"
+    }
+  ],
+  "location": {
+    "latitude": "39.943735",
+    "longitude": "-75.143100",
+    "description": "Southeast of the Southeast corner, Front and Spruce"
+  },
+  "comments": "The title listed here as a combination of the title on the artist's site and the title on the base.",
+  "inscription": "<br />United States Army  <br />A Company  4th Battalion  <br />31st Infantry Regiment  <br />Light Infantry Brigade  <br />One of the heroes honored at this memorial  <br />Michael was posthumously awarded the Medal  <br />of Honor for gallantry above and beyond  <br />the call of duty on November 20 1968 at Hiep  <br />Duc Valley Republic of Vietnam.  The Medal  <br />of Honor is our nation's higest award for valor.",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "automatic rifle",
+      "separator": ","
+    },
+    {
+      "description": "helmet",
+      "separator": ","
+    },
+    {
+      "description": "Medal of Honor on the base"
+    }
+  ],
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Michael J. Crescenz",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Crescenz",
+          "label": "wikipedia.org's Michael Crescenz page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.fishersculpture.com/our-work/michael-crescenz-philadelphia-vietnam-veterans-memorial",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/crescenz1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/crescenz1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/crescenz2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/crescenz2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/crescenz3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/crescenz3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

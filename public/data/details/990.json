@@ -1,0 +1,66 @@
+{
+  "id": "990",
+  "title": {
+    "display": "Science Leadership Academy Mosaics",
+    "list": "Science Leadership Academy Mosaics"
+  },
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "yearmodifier": "school founded",
+  "location": {
+    "latitude": "39.955950",
+    "longitude": "-75.175875",
+    "description": "South side of Arch, East of 22nd"
+  },
+  "comments": "SLA has moved to Broad and Green and has been replaced by Greene Towne Montessori.",
+  "architecture": {
+    "description": "North wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "kneeling people"
+    }
+  ],
+  "landmark": {
+    "name": "Greene Towne Montessori School",
+    "externallinks": [
+      {
+        "url": "https://gtms.org/",
+        "label": "gtms.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sla2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sla2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sla4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sla4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

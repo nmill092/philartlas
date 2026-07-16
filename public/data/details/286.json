@@ -1,0 +1,175 @@
+{
+  "id": "286",
+  "title": {
+    "display": "Philadelphia Firsts",
+    "list": "Philadelphia Firsts"
+  },
+  "artists": [
+    {
+      "name": "George Greenamyer",
+      "externallinks": [
+        {
+          "url": "http://www.greenamyer.com/",
+          "label": "greenamyer.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1998"
+    }
+  ],
+  "location": {
+    "latitude": "39.954900",
+    "longitude": "-75.166100",
+    "description": "On top of a pole outside 1515 Arch (aka One Parkway)"
+  },
+  "inscription": "<br />  <b>First American Zoo</b><br />  1874<br />  The first animal and Dr. William Camac, founder<br />  <b>First American museum and art school</b><br />  1805<br />  The Pennsylvania Academy of the Fine Arts<br />  Thomas Eakins and Mary Cassat<br />  <b>First American volunteer fire company</b><br />  1736<br />  The union, founded by Benjamin Franklin<br />  <b>First American botanical garden</b><br />  1728<br />  Bartram's Gardens<br />  John Bartram with <i>Franklinia alatamaha</i><br />  <b>First American steamboat</b><br />  1785<br />  John Fitch, inventor<br />  <b>First African-American  to graduate from the Women's Medical College</b><br />  1867<br />  Dr. Rebecca Cole<br />  <b>First American Flag</b><br />  1777<br />  Betsy Ross, seamstress<br />  Francis Hopkinson, alleged designer",
+  "content": [
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "building",
+      "separator": ","
+    },
+    {
+      "description": "bear",
+      "separator": ","
+    },
+    {
+      "description": "tiger",
+      "separator": ","
+    },
+    {
+      "description": "snake",
+      "separator": ","
+    },
+    {
+      "description": "boat",
+      "separator": ","
+    },
+    {
+      "description": "fish",
+      "separator": ","
+    },
+    {
+      "description": "fire",
+      "separator": ","
+    },
+    {
+      "description": "medical and fire-fighting equipment",
+      "separator": ","
+    },
+    {
+      "description": "flag",
+      "separator": ","
+    },
+    {
+      "description": "plant"
+    }
+  ],
+  "peopleprefix": "Portrayals of and references to",
+  "people": [
+    {
+      "name": "John Bartram",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Bartram",
+          "label": "wikipedia.org's John Bartram page"
+        }
+      ]
+    },
+    {
+      "name": "William Camac",
+      "externallinks": [
+        {
+          "url": "https://www.phillymag.com/news/2015/12/22/philadelphia-zoo-facts",
+          "label": "phillymag.com article about the zoo that mentions William Camac"
+        }
+      ]
+    },
+    {
+      "name": "Mary Cassatt",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary_Cassatt",
+          "label": "wikipedia.org's Mary Cassatt page"
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Cole",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Cole",
+          "label": "wikipedia.org's Rebecca Cole page"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Eakins",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Eakins",
+          "label": "wikipedia.org's Thomas Eakins page"
+        }
+      ]
+    },
+    {
+      "name": "John Fitch",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Fitch_%28inventor%29",
+          "label": "wikipedia.org's John Fitch page"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    },
+    {
+      "name": "Francis Hopkinson",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_Hopkinson",
+          "label": "wikipedia.org's Francis Hopkinson page"
+        }
+      ]
+    },
+    {
+      "name": "Betsy Ross",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Betsy_Ross",
+          "label": "wikipedia.org's Betsy Ross page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1515ar1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1515ar1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

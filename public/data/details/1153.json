@@ -1,0 +1,51 @@
+{
+  "id": "1153",
+  "title": {
+    "display": "stikman (25th and Pennsylvania SE)",
+    "list": "stikman (25th and Pennsylvania SE)"
+  },
+  "artists": [
+    {
+      "name": "stikman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stikman",
+          "label": "wikipedia.org's stikman page"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "latitude": "39.966475",
+    "longitude": "-75.178900",
+    "description": "East side of 25th, in the Southeastbound lanes of Pennsylvania."
+  },
+  "architecture": {
+    "description": "Crosswalk"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing person"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stikman25pa.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stikman25pa.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "625",
+  "title": {
+    "display": "Awakening",
+    "list": "Awakening"
+  },
+  "artists": [
+    {
+      "name": "Ron T. Pierce"
+    }
+  ],
+  "years": [
+    {
+      "year": "1971"
+    }
+  ],
+  "location": {
+    "latitude": "39.942700",
+    "longitude": "-75.174050",
+    "description": "Southwest corner, 19th and Fitzwater"
+  },
+  "comments": "Visible through the fence",
+  "content": [
+    {
+      "description": "standing"
+    },
+    {
+      "description": "angel",
+      "separator": ","
+    },
+    {
+      "description": "horn"
+    }
+  ],
+  "landmark": {
+    "name": "Historic Union Baptist Church of South Philadelphia",
+    "prefix": "Side yard,",
+    "externallinks": [
+      {
+        "url": "https://www.facebook.com/The-Historic-Union-Baptist-Church-of-South-Philadelphia-108478347619758/",
+        "label": "facebook.com page for The Historic Union Baptist Church of South Philadelphia"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/awakening1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/awakening1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/awakening2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/awakening2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/awakening3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/awakening3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fitler Square"
+    }
+  ]
+}

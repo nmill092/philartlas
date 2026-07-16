@@ -1,0 +1,83 @@
+{
+  "id": "607",
+  "title": {
+    "display": "Caring Center Frogs and Tadpoles",
+    "list": "Caring Center Frogs and Tadpoles"
+  },
+  "artists": [
+    {
+      "name": "Friday Architects/Planners",
+      "externallinks": [
+        {
+          "url": "https://fridayarc.com/",
+          "label": "fridayarc.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "location": {
+    "latitude": "39.963450",
+    "longitude": "-75.187600",
+    "description": "Northwest corner, 31st and Spring Garden"
+  },
+  "comments": "These are separate cutouts, not painted on.",
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "frogs"
+    }
+  ],
+  "landmark": {
+    "name": "Caring Center",
+    "externallinks": [
+      {
+        "url": "",
+        "label": "thecaringcenter.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/caringfrogs1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/caringfrogs1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/caringfrogs2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/caringfrogs2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/caringfrogs3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/caringfrogs3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

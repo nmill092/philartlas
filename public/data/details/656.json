@@ -1,0 +1,73 @@
+{
+  "id": "656",
+  "title": {
+    "display": "Giraffe",
+    "list": "Giraffe (Mitchell)"
+  },
+  "artists": [
+    {
+      "name": "Henry Mitchell",
+      "externallinks": [
+        {
+          "url": "https://www.cantonartcollection.com/artistbio.php?artist_id=476",
+          "label": "cantonartcollection.com's Henry Mitchell bio"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1955"
+    }
+  ],
+  "location": {
+    "latitude": "40.038910",
+    "longitude": "-75.070400",
+    "description": "Southwest side of Magee between Oakland and Eastwood, through the gate and to the right"
+  },
+  "content": [
+    {
+      "description": "giraffe"
+    }
+  ],
+  "landmark": {
+    "name": "Max Myers Playground"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/giraffehm1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/giraffehm1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/giraffehm2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/giraffehm2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/giraffehm3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/giraffehm3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

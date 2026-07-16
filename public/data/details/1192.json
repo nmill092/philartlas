@@ -1,0 +1,58 @@
+{
+  "id": "1192",
+  "title": {
+    "display": "Sidewalk Symbols",
+    "list": "Sidewalk Symbols"
+  },
+  "years": [
+    {
+      "year": "2023"
+    }
+  ],
+  "yearmodifier": "probable",
+  "location": {
+    "latitude": "39.955610",
+    "longitude": "-75.202575",
+    "description": "South side of Chestnut, West of 40th"
+  },
+  "comments": "In a Street View image from April 2023, not in the previous image from November 2020.",
+  "architecture": {
+    "description": "Sidewalk"
+  },
+  "content": [
+    {
+      "description": "unlabeled compass roses",
+      "separator": ","
+    },
+    {
+      "description": "hendecagrams"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/newdelhiside.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/newdelhiside.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/newdelhiside2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/newdelhiside2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

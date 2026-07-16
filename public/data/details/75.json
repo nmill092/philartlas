@@ -1,0 +1,88 @@
+{
+  "id": "75",
+  "title": {
+    "display": "Clothespin",
+    "list": "Clothespin"
+  },
+  "artists": [
+    {
+      "name": "Claes Oldenburg",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Claes_Oldenburg",
+          "label": "wikipedia.org's Claes Oldenburg page"
+        },
+        {
+          "url": "https://publicartarchive.org/artist/Claes%20Oldenburg",
+          "label": "publicartarchive.org's Claes Oldenburg page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.952400",
+    "longitude": "-75.16570",
+    "description": "South side of Market at 15th"
+  },
+  "comments": "The sculpture is an elongated version of Brancusi's <I>Kiss</I>.",
+  "architecture": {
+    "description": "Top of the concourse stairs"
+  },
+  "content": [
+    {
+      "description": "clothespin",
+      "separator": ","
+    },
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people"
+    }
+  ],
+  "landmark": {
+    "name": "Centre Square",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Centre_Square_(building)",
+        "label": "wikipedia.org's Centre Square page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/travistruman/5941857974/sizes/l/in/photostream/",
+      "label": "Travis Truman's picture of this piece at flickr.com"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/clothespin/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/clothes.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/clothes.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

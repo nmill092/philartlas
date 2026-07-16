@@ -1,0 +1,89 @@
+{
+  "id": "140",
+  "title": {
+    "display": "Flame",
+    "list": "Flame"
+  },
+  "artists": [
+    {
+      "name": "Sherl Joseph Winter",
+      "externallinks": [
+        {
+          "url": "https://www.winterartstudio.com/",
+          "label": "winterartstudio.com"
+        },
+        {
+          "url": "https://www.inquirer.com/obituaries/sherl-joseph-winter-sculptor-chestnut-hill-us-mint-medals-coins-died-dies-obituary-20200729.html",
+          "label": "inquirer.com obituary for Sherl Joseph Winter"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1968"
+    }
+  ],
+  "location": {
+    "latitude": "39.958690",
+    "longitude": "-75.189050",
+    "description": "Southeast corner 33rd and Race"
+  },
+  "comments": "Originally in the main quad between Market and Chestnut, 32nd and 33rd. Moved 2006. The first picture is from the original location, the second picture is from the new location off, and the third picture is from the new location on.",
+  "content": [
+    {
+      "description": "flame",
+      "separator": ","
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Drexel University",
+    "prefix": "On the campus of",
+    "externallinks": [
+      {
+        "url": "https://drexel.edu/",
+        "label": "drexel.edu"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexfou.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexfou.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexfou2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexfou2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexfou3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexfou3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

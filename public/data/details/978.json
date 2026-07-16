@@ -1,0 +1,104 @@
+{
+  "id": "978",
+  "title": {
+    "display": "Greek Revival Fence",
+    "list": "Greek Revival Fence"
+  },
+  "artists": [
+    {
+      "name": "John Haviland (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Haviland",
+          "label": "wikipedia.org's John Haviland page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1822"
+    }
+  ],
+  "location": {
+    "latitude": "39.946300",
+    "longitude": "-75.154725",
+    "description": "West side of 8th between Spruce and Locust"
+  },
+  "architecture": {
+    "description": "Gate and fence"
+  },
+  "content": [
+    {
+      "description": "faces",
+      "separator": ","
+    },
+    {
+      "description": "abstract ironwork"
+    }
+  ],
+  "landmark": {
+    "name": "Saint George Greek Orthodox Cathedral",
+    "externallinks": [
+      {
+        "url": "https://www.saintgeorgecathedral.org/",
+        "label": "saintgeorgecathedral.org"
+      }
+    ]
+  },
+  "peopleprefix": "Faces of",
+  "people": [
+    {
+      "name": "Dionysus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dionysus",
+          "label": "wikipedia.org's Dionysus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://blog.phillyhistory.org/index.php/2013/09/john-haviland-playing-out-the-greek-option/",
+      "label": "phillyhistory.org article which mentions the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/greekfence.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/greekfence.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/greekfence2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/greekfence2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/greekfence3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/greekfence3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

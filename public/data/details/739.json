@@ -1,0 +1,78 @@
+{
+  "id": "739",
+  "title": {
+    "display": "Bas Reliefs",
+    "list": "Bas Reliefs"
+  },
+  "artists": [
+    {
+      "name": "Charles Wallis"
+    }
+  ],
+  "years": [
+    {
+      "year": "1973"
+    }
+  ],
+  "location": {
+    "latitude": "39.944450",
+    "longitude": "-75.150400",
+    "description": "Cypress and Delancey, West of 5th"
+  },
+  "comments": "The metal is missing on one of the four reliefs.",
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "abstract forms"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/5delancey1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/5delancey1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/5delancey2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/5delancey2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/5delancey3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/5delancey3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/5delancey4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/5delancey4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

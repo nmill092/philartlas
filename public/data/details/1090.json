@@ -1,0 +1,52 @@
+{
+  "id": "1090",
+  "title": {
+    "display": "Hamilton Court Sidewalk Lights",
+    "list": "Hamilton Court Sidewalk Lights"
+  },
+  "years": [
+    {
+      "year": "2018"
+    }
+  ],
+  "location": {
+    "latitude": "39.955200",
+    "longitude": "-75.199500",
+    "description": "South side of Chestnut, East of 39th"
+  },
+  "architecture": {
+    "description": "Sidewalk"
+  },
+  "content": [
+    {
+      "description": "sidewalk lights"
+    }
+  ],
+  "landmark": {
+    "name": "Hamilton Court",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://www.hamcophiladelphia.com/",
+        "label": "hamcophiladelphia.com"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hcsidewalk.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hcsidewalk.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "832",
+  "title": {
+    "display": "Pyramid (Philadelphia)",
+    "list": "Pyramid (Philadelphia)"
+  },
+  "artists": [
+    {
+      "name": "Sol LeWitt",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sol_LeWitt",
+          "label": "wikipedia.org's Sol LeWitt page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2010"
+    }
+  ],
+  "yearmodifier": "realized",
+  "location": {
+    "latitude": "39.967150",
+    "longitude": "-75.182350",
+    "description": "Anne d'Harnocourt Drive (25th and Kelly Drive to the Spring Garden Bridge)"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "pyramid"
+    }
+  ],
+  "landmark": {
+    "name": "Anne d'Harnoncourt Sculpture Garden",
+    "prefix": "West end of the",
+    "externallinks": [
+      {
+        "url": "https://www.theolinstudio.com/anne-dharnoncourt-sculpture-garden",
+        "label": "theolinstudio.com's Anne d'Harnoncourt Sculpture Garden page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pyramid1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pyramid1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pyramid2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pyramid2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

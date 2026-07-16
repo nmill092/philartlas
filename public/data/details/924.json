@@ -1,0 +1,59 @@
+{
+  "id": "924",
+  "title": {
+    "display": "Fleisher Gates",
+    "list": "Fleisher Gates"
+  },
+  "artists": [
+    {
+      "name": "Max Reese",
+      "externallinks": [
+        {
+          "url": "https://www.legacy.com/us/obituaries/inquirer/name/max-reese-obituary?pid=364057",
+          "label": "legacy.com's Max Reese obituary"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "latitude": "39.939275",
+    "longitude": "-75.155410",
+    "description": "North side of Catherine between 7th and 8th"
+  },
+  "comments": "Samuel Yellin is listed as the sculptor of the Fleisher Gates in the Smithsonian catalog. but the picture of the 1934 gates does not match the pattern of the gates pictured here and Max Reese's obituary says he \"designed and built the gate to The Fleisher Art Memorial\".",
+  "architecture": {
+    "description": "Gates"
+  },
+  "content": [
+    {
+      "description": "abstract ironwork"
+    }
+  ],
+  "landmark": {
+    "name": "Fleisher Art Memorial",
+    "prefix": "Near the back of Palumbo Park on the West side of the",
+    "externallinks": [
+      {
+        "url": "https://fleisher.org/",
+        "label": "fleisher.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fleigates.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fleigates.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

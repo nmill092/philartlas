@@ -1,0 +1,80 @@
+{
+  "id": "919",
+  "title": {
+    "display": "Hawthorne Center Hands",
+    "list": "Hawthorne Center Hands"
+  },
+  "artists": [
+    {
+      "name": "Lynn Denton",
+      "externallinks": [
+        {
+          "url": "https://www.lynnbdenton.com/",
+          "label": "lynnbdenton.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1997"
+    }
+  ],
+  "location": {
+    "latitude": "39.938350",
+    "longitude": "-75.162925",
+    "description": "West side of 12th, South of Carpenter"
+  },
+  "architecture": {
+    "description": "East Wall"
+  },
+  "content": [
+    {
+      "description": "hand prints",
+      "separator": ","
+    },
+    {
+      "description": "names"
+    }
+  ],
+  "landmark": {
+    "name": "Hawthorne Cultural Center"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hawhands.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hawhands.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hawhands2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hawhands2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hawhands3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hawhands3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

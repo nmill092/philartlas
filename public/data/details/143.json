@@ -1,0 +1,86 @@
+{
+  "id": "143",
+  "title": {
+    "display": "Florentine Lions",
+    "list": "Florentine Lions"
+  },
+  "years": [
+    {
+      "year": "1849"
+    }
+  ],
+  "location": {
+    "latitude": "39.982675",
+    "longitude": "-75.222100",
+    "description": "Avenue of the Republic  near 52nd and Parkside"
+  },
+  "comments": "According to the Association for Public Art's page for this piece they have moved it \"near the main entrance\".  I have not seen it in the new location and cannot verify the map location on that page, but the coordinates on this page are definitely out of date. ",
+  "content": [
+    {
+      "description": "lions"
+    }
+  ],
+  "landmark": {
+    "name": "Mann Center",
+    "prefix": "Near the entrance to the",
+    "externallinks": [
+      {
+        "url": "https://manncenter.org/",
+        "label": "manncenter.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/florentine-lions/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flolion1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flolion1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flolion2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flolion2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flolion3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flolion3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flolion4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flolion4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

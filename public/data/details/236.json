@@ -1,0 +1,87 @@
+{
+  "id": "236",
+  "title": {
+    "display": "Lion's Head Fountain",
+    "list": "Lion's Head Fountain"
+  },
+  "artists": [
+    {
+      "name": "Alexander Stirling Calder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexander_Stirling_Calder",
+          "label": "wikipedia.org's Alexander Stirling Calder page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/Alexander%20Stirling%20Calder",
+          "label": "publicartarchive.org's Alexander Stirling Calder page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1899"
+    }
+  ],
+  "yearmodifier": "2004 copy",
+  "location": {
+    "latitude": "39.949700",
+    "longitude": "-75.191600",
+    "description": "South side of South, just East of 33rd."
+  },
+  "comments": "Visible through the gate when the gate is closed. Previously listed as 1929 but the University Museum web site lists that section as completed in 1899 and the Penn News  claims to have an archival photo dating from 1913-1916.",
+  "architecture": {
+    "description": "Upper (West) courtyard"
+  },
+  "content": [
+    {
+      "description": "lion's head"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Museum",
+    "externallinks": [
+      {
+        "url": "https://www.penn.museum/",
+        "label": "penn.museum"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/lions-head-fountain",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umfoun1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umfoun1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/umfoun1d.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/umfoun1d.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "615",
+  "title": {
+    "display": "United House of Prayer For All People",
+    "list": "United House of Prayer For All People"
+  },
+  "location": {
+    "latitude": "39.962800",
+    "longitude": "-75.204150",
+    "description": "Haverford and Preston"
+  },
+  "architecture": {
+    "description": "Front wall"
+  },
+  "content": [
+    {
+      "description": "two lions",
+      "separator": ","
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "angels",
+      "separator": ","
+    },
+    {
+      "description": "three crosses"
+    }
+  ],
+  "landmark": {
+    "name": "United House of Prayer For All People",
+    "externallinks": [
+      {
+        "url": "https://www.tuhopfap.org/",
+        "label": "tuhopfap.org"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/United_House_of_Prayer_for_All_People",
+        "label": "wikipedia.org's  United House of Prayer for All People page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/uhopfap1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/uhopfap1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/uhopfap2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/uhopfap2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

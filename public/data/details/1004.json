@@ -1,0 +1,80 @@
+{
+  "id": "1004",
+  "title": {
+    "display": "Saint Francis of Assisi",
+    "list": "Saint Francis of Assisi (Holy Redeemer)"
+  },
+  "location": {
+    "latitude": "39.957310",
+    "longitude": "-75.155325",
+    "description": "Northeast corner, 10th and Vine"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "bird"
+    }
+  ],
+  "landmark": {
+    "name": "Holy Redeemer Chinese Catholic Church",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://holyredeemerccc.org/",
+        "label": "holyredeemerccc.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Saint Francis of Assisi",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
+          "label": "wikipedia.org's Francis of Assisi page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hrfrancis1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hrfrancis1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hrfrancis2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hrfrancis2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hrfrancis3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hrfrancis3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

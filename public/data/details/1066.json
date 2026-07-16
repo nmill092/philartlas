@@ -1,0 +1,110 @@
+{
+  "id": "1066",
+  "title": {
+    "display": "Upper Burial Ground Memorials",
+    "list": "Upper Burial Ground Memorials"
+  },
+  "location": {
+    "latitude": "40.043775",
+    "longitude": "-75.181225",
+    "description": "Northeast side of Germantown Avenue, Northwest of Washington Lane"
+  },
+  "inscription": "<br />1 (worn away):  <br />The Upper Burial Ground  <br />Sometimes called Ax's Burial Ground was  <br />[Granted] to the Burrough of Germantown in [1724]  <br />by Paul [Wullf]  <br />[Here are] buried many of the early settlers  and their descendants  <br />[Here are the] graves of Major Irwin, Captain Turner  <br />[Lieutenant] Lucas and six other American soldiers  <br />killed in the Battle of Germantown  <br />The wall was built in 1777  <br />The Site and Relic Society of Germantown 1902  <br />2:  <br />1724  <br />1776  <br />1843  <br />3 (long list of names omitted):  <br />To Honor   <br />the Revolutionary Soldiers Buried Here  <br />Placed by Germantown Chapter Daughters of the American Revolution  <br />1946  <br />4:  <br />In Memory of Soldiers of the War of 1812  <br />Who lie in Upper Germantown Burying Ground  <br />Philadelphia  <br />William Crout, John Paulson  <br />George Knorr, Frederick Sheetz  <br />Jacob K. Knorr, Edward Snyder  <br />Lewis Lehman, Michael Snyder  <br />John Nell, George Streeper  <br />Jeremiah Trout  <br />Placed by Stephen Decatur Chapter  <br />U.S. Daughters of 1812  <br />1945",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "logos of the DAR and US Daughters of 1812"
+    }
+  ],
+  "peopleprefix": "Relief bust of",
+  "people": [
+    {
+      "name": "George Washington",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Washington",
+          "label": "wikipedia.org's George Washington page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Upper_Burial_Ground",
+      "label": "wikipedia.org's Upper Burial Ground page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ubgm1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ubgm1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ubgm2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ubgm2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ubgm3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ubgm3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ubgm4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ubgm4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ubgm5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ubgm5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ubgm6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ubgm6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

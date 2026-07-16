@@ -1,0 +1,87 @@
+{
+  "id": "224",
+  "title": {
+    "display": "Life Savers",
+    "list": "Life Savers"
+  },
+  "artists": [
+    {
+      "name": "Billie Lawless",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Billie_Lawless",
+          "label": "wikipedia.org's Billie Lawless page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1982"
+    }
+  ],
+  "location": {
+    "latitude": "39.951150",
+    "longitude": "-75.199425",
+    "description": "Southwest corner, 38th and Spruce"
+  },
+  "comments": "Was at 39th Street between Spruce and Baltimore (39.950750,-75.200900). Moved late 2014.  Not clear if this is permanent or temporary.  The last picture is from the new location and shows paint loss on the red piece.",
+  "content": [
+    {
+      "description": "Lifesavers"
+    }
+  ],
+  "landmark": {
+    "name": "Veterinary Hospital",
+    "prefix": "Northeast corner of the",
+    "externallinks": [
+      {
+        "url": "https://www.vet.upenn.edu/veterinary-hospitals/ryan-veterinary-hospital/",
+        "label": "upenn.edu's Ryan Veterinary Hospital page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/life-savers",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lifesave.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lifesave.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lifesave2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lifesave2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lifesave3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lifesave3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "University City South Medical Complex"
+    }
+  ]
+}

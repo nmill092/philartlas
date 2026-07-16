@@ -1,0 +1,70 @@
+{
+  "id": "46",
+  "title": {
+    "display": "Black Rock Mesa",
+    "list": "Black Rock Mesa"
+  },
+  "artists": [
+    {
+      "name": "Glenn Zweygardt",
+      "externallinks": [
+        {
+          "url": "https://www.glennzweygardt.com/",
+          "label": "glennzweygardt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1978"
+    }
+  ],
+  "location": {
+    "latitude": "39.979225",
+    "longitude": "-75.156500",
+    "description": "Liacouras Walk, just North of Cecil B. Moore"
+  },
+  "content": [
+    {
+      "description": "geometric forms"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mesa.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mesa.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mesa2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mesa2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mesa3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mesa3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Campus"
+    }
+  ]
+}

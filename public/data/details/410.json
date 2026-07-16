@@ -1,0 +1,94 @@
+{
+  "id": "410",
+  "title": {
+    "display": "Morphic Opening",
+    "list": "Morphic Opening"
+  },
+  "artists": [
+    {
+      "name": "James Lloyd",
+      "externallinks": [
+        {
+          "url": "https://www.sculpturelightsource.com/",
+          "label": "sculpturelightsource.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1974"
+    }
+  ],
+  "location": {
+    "latitude": "39.956210",
+    "longitude": "-75.195550",
+    "description": "South side of Market, West of 36th"
+  },
+  "comments": "Originally in the middle of the sidewalk.  Moved closer to the building late 2005 or early 2006. The last picture is from the original location.  Title is from the artist's website.",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "snake"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "http://www.sculpturelightsource.com/Slide107.jpg",
+      "label": "artist's picture of this piece"
+    },
+    {
+      "url": "http://www.sculpturelightsource.com/Slide108.jpg",
+      "label": "artist's other picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lloyd2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lloyd2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lloyd3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lloyd3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lloyd4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lloyd4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lloyd1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lloyd1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "581",
+  "title": {
+    "display": "History In Motion",
+    "list": "History In Motion"
+  },
+  "artists": [
+    {
+      "name": "Eric Okdeh",
+      "externallinks": [
+        {
+          "url": "https://www.ericokdeh.com/",
+          "label": "ericokdeh.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2004"
+    }
+  ],
+  "location": {
+    "latitude": "39.969975",
+    "longitude": "-75.141900",
+    "description": "North side of Girard between 3rd and 4th"
+  },
+  "comments": "The extreme horizontal proportion and the level of detail  on this piece combined with the slanted sidewalk and  number of people hanging around outside  make it difficult to capture accurately on camera.  The pictures are in order left to right with some overlap  on the wider panels.  The last picture is a detail to  show the level of pixelization provided by the tiles.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "sitting people"
+    },
+    {
+      "description": "wearing hats",
+      "separator": ","
+    },
+    {
+      "description": "balloon",
+      "separator": ","
+    },
+    {
+      "description": "turtle",
+      "separator": ","
+    },
+    {
+      "description": "tiger",
+      "separator": ","
+    },
+    {
+      "description": "El cars and trolleys"
+    }
+  ],
+  "landmark": {
+    "name": "District Health Center Six"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsix1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsix1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsix2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsix2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsix3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsix3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsix4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsix4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsix5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsix5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsix6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsix6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsix7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsix7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsix8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsix8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsix9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsix9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/districtsixdet.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/districtsixdet.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

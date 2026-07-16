@@ -1,0 +1,86 @@
+{
+  "id": "1175",
+  "title": {
+    "display": "threshold object",
+    "list": "threshold object"
+  },
+  "artists": [
+    {
+      "name": "Kennedy and Violich Architecture",
+      "externallinks": [
+        {
+          "url": "https://www.kvarch.net/",
+          "label": "kvarch.net"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2012"
+    }
+  ],
+  "location": {
+    "latitude": "39.953785",
+    "longitude": "-75.192870",
+    "description": "North side of Sansom, West of 34th"
+  },
+  "comments": "the title is from a quote from the architect in an article about this piece",
+  "architecture": {
+    "description": "Sunshade wall"
+  },
+  "content": [
+    {
+      "description": "abstact"
+    },
+    {
+      "description": "books"
+    }
+  ],
+  "landmark": {
+    "name": "Golkin Hall"
+  },
+  "externallinks": [
+    {
+      "url": "https://www.architecturalrecord.com/articles/7578-golkin-hall-penn-law-school",
+      "label": "architecturalrecord.com article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/threshold1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/threshold1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/threshold2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/threshold2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/threshold3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/threshold3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

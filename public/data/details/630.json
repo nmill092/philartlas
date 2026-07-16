@@ -1,0 +1,238 @@
+{
+  "id": "630",
+  "title": {
+    "display": "Barbelin Hall Gargoyles",
+    "list": "Barbelin Hall Gargoyles"
+  },
+  "artists": [
+    {
+      "name": "Francis Ferdinand Durang (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_Ferdinand_Durang_Sr.",
+          "label": "wikipedia.org's Francis Ferdinand Durang, Sr. page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1927"
+    }
+  ],
+  "location": {
+    "latitude": "39.995250",
+    "longitude": "-75.237950",
+    "description": "City Line, West of 54th"
+  },
+  "comments": "the builder is John McShain, but there's no record of him being the gargoyle carver",
+  "architecture": {
+    "description": "All over the building"
+  },
+  "content": [
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "cat",
+      "separator": ","
+    },
+    {
+      "description": "bat",
+      "separator": ","
+    },
+    {
+      "description": "books",
+      "separator": ","
+    },
+    {
+      "description": "saxaphone"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Joseph's University",
+    "externallinks": [
+      {
+        "url": "https://www.sju.edu/",
+        "label": "sju.edu"
+      }
+    ]
+  },
+  "peopleprefix": "including heads of",
+  "people": [
+    {
+      "name": "Felix-Joseph Barbelin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Felix-Joseph_Barbelin",
+          "label": "wikipedia.org's Felix-Joseph Barbalin page"
+        }
+      ]
+    },
+    {
+      "name": "James A. Ryder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_A._Ryder",
+          "label": "wikipedia.org's James A. Ryder page"
+        }
+      ]
+    },
+    {
+      "name": "Burchard Villiger",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Burchard_Villiger",
+          "label": "wikipedia.org's Burchard Villiger page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.oocities.org/gargoyleppa/stjoes.html",
+      "label": "Gargoyle Hunter page for this piece"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barbelin_Hall",
+      "label": "wikipedia.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barbelin13.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barbelin13.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

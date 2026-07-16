@@ -1,0 +1,164 @@
+{
+  "id": "1047",
+  "title": {
+    "display": "Washington Crossing the Delaware",
+    "list": "Washington Crossing the Delaware"
+  },
+  "artists": [
+    {
+      "name": "Guangxi Qihe Bronze Studio"
+    },
+    {
+      "name": "Emanuel Leutze",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Emanuel_Leutze",
+          "label": "wikipedia.org's Emanuel Leutze page"
+        }
+      ]
+    },
+    {
+      "name": "Dr. QiongZhao (Ellen) Schicktanz",
+      "externallinks": [
+        {
+          "url": "https://www.americangoddessartmuseum.com/",
+          "label": "americangoddessartmuseum.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2017"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.948495",
+    "longitude": "-75.145650",
+    "description": "South side of Chestnut, East of 3rd"
+  },
+  "inscription": "(partial)  <br />This bronze sculpture replicates the famous painting,  <i>Washington Crossing the Delaware</i> by Emanuel Leutze.  It depicts Gen. George Washington leading the Continental  Army on a dangerous nighttime crossing of the Delaware  River on December 25, 1776 to attack Hessian troops  stationed at Trenton.  His attack was a final, desperate  effort to gain a victory after months of defeats had reduced  the Army to a small, exhausted, and demoralized force.  Washington's success at Trenton reinvigorated the American  cause and kept the Revolution alive.  <br />  The painting captures the drama, danger, and desperation  of the river crossing, even though a number of details are  historically inaccurate, such as the type of boat. The artist,  Emanuel Luenze, grew up and was trained in Philadelphia,   but created the painting in 1850 after he returned to his  native Germany.  The painting was a sensation when it was  displayed in America the following year.  <br />  The sculpture is a donation from Dr. QiongZhao (Ellen) Schicktanz, a naturalized Asian-American artist, in gratitude for her life as an American Citizen.",
+  "architecture": {
+    "description": "North wall"
+  },
+  "content": [
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "mostly seated",
+      "separator": ","
+    },
+    {
+      "description": "some standing",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "flag",
+      "separator": ","
+    },
+    {
+      "description": "boat with oars",
+      "separator": ","
+    },
+    {
+      "description": "clouds",
+      "separator": ","
+    },
+    {
+      "description": "water",
+      "separator": ","
+    },
+    {
+      "description": "horses"
+    }
+  ],
+  "landmark": {
+    "name": "Museum of the American Revolution",
+    "externallinks": [
+      {
+        "url": "https://www.amrevmuseum.org/",
+        "label": "amrevmuseum.org"
+      }
+    ]
+  },
+  "peopleprefix": "Full figure relief of",
+  "people": [
+    {
+      "name": "George Washington",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Washington",
+          "label": "wikipedia.org's George Washington page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.amrevmuseum.org/news/iconic-revolutionary-moments-in-bronze",
+      "label": "amrevmuseum.org's page for this piece and Declaration of Independence"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Washington_Crossing_the_Delaware_(1851_paintings)",
+      "label": "wikipedia.org's page for the original painting"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/delaware.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/delaware.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/delaware2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/delaware2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/delaware3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/delaware3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/delaware4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/delaware4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Old City"
+    }
+  ]
+}

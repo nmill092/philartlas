@@ -1,0 +1,127 @@
+{
+  "id": "160",
+  "title": {
+    "display": "General George McClellan",
+    "list": "General George McClellan"
+  },
+  "artists": [
+    {
+      "name": "Henry Jackson Ellicott",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Jackson_Ellicott",
+          "label": "wikipedia.org's Henry Jackson Ellicott page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1891"
+    }
+  ],
+  "yearmodifier": "installed 1894",
+  "location": {
+    "latitude": "39.953250",
+    "longitude": "-75.163650",
+    "description": "South side of JFK at Broad"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "sword",
+      "separator": ","
+    },
+    {
+      "description": "horse"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "North side of",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "George B. McClellan",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_B._McClellan",
+          "label": "wikipedia.org's George B. McClellan page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=6520",
+      "label": "1911 picture of this piece from phillyhistory.org"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=6521",
+      "label": "another 1911 picture of this piece from phillyhistory.org"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=6860",
+      "label": "1913 picture of this piece from phillyhistory.org"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/general-george-mcclellan/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mcclell.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mcclell.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mcclell3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mcclell3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mcclell2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mcclell2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

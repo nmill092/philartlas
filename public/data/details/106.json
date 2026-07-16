@@ -1,0 +1,67 @@
+{
+  "id": "106",
+  "title": {
+    "display": "Doves",
+    "list": "Doves"
+  },
+  "artists": [
+    {
+      "name": "James Frost"
+    }
+  ],
+  "years": [
+    {
+      "year": "1969"
+    }
+  ],
+  "yearmodifier": "building date",
+  "location": {
+    "latitude": "39.955025",
+    "longitude": "-75.196310",
+    "description": "Northeast corner, 37th and Chestnut"
+  },
+  "architecture": {
+    "description": "South wall"
+  },
+  "content": [
+    {
+      "description": "doves"
+    }
+  ],
+  "landmark": {
+    "name": "University Lutheran",
+    "externallinks": [
+      {
+        "url": "https://www.uniluphila.org/",
+        "label": "uniluphila.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/unilu.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/unilu.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/unilu2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/unilu2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "1060",
+  "title": {
+    "display": "Bell",
+    "list": "Bell"
+  },
+  "artists": [
+    {
+      "name": "Toshiko Takaezu",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Toshiko_Takaezu",
+          "label": "wikipedia.org's Toshiko Takaezu page"
+        },
+        {
+          "url": "https://www.toshikotakaezufoundation.org/",
+          "label": "toshikotakaezufoundation.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1986"
+    }
+  ],
+  "location": {
+    "latitude": "39.966835",
+    "longitude": "-75.181775",
+    "description": "Anne d'Harnocourt Drive (25th and Kelly Drive to the Spring Garden Bridge)"
+  },
+  "content": [
+    {
+      "description": "bell"
+    }
+  ],
+  "landmark": {
+    "name": "Anne d'Harnoncourt Sculpture Garden",
+    "prefix": "On the street side of the",
+    "externallinks": [
+      {
+        "url": "https://www.theolinstudio.com/anne-dharnoncourt-sculpture-garden",
+        "label": "theolinstudio.com's Anne d'Harnoncourt Sculpture Garden page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philamuseum.org/collection/object/340109",
+      "label": "philamuseum.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bell1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bell1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bell2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bell2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bell3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bell3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

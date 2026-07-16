@@ -1,0 +1,66 @@
+{
+  "id": "780",
+  "title": {
+    "display": "Ice",
+    "list": "Ice"
+  },
+  "artists": [
+    {
+      "name": "Robinson Fredenthal",
+      "externallinks": [
+        {
+          "url": "http://www.robinfredenthal.com",
+          "label": "robinfredenthal.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1973"
+    }
+  ],
+  "location": {
+    "latitude": "39.951900",
+    "longitude": "-75.161300",
+    "description": "Southeast corner 13th and Market"
+  },
+  "comments": "Usually open, visible through the window when not",
+  "architecture": {
+    "description": "In the concourse stairwell"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "frozen water"
+    }
+  ],
+  "landmark": {
+    "name": "1234 Market"
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/water-ice-and-fire/",
+      "label": "associationforpublicart.org's page for this piece, Water,and Fire"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ice.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ice.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

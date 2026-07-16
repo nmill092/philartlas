@@ -1,0 +1,92 @@
+{
+  "id": "601",
+  "title": {
+    "display": "Charles Allen Smith",
+    "list": "Charles Allen Smith"
+  },
+  "artists": [
+    {
+      "name": "Francis P. Moitz"
+    }
+  ],
+  "years": [
+    {
+      "year": "1917"
+    }
+  ],
+  "location": {
+    "latitude": "39.994600",
+    "longitude": "-75.118425",
+    "description": "Northwest of Kensington and Indiana"
+  },
+  "inscription": "<br />Erected by the Allied Monument Committee of Phila.  <br />To Charles Allen Smith  <br />April 21, 1917  <br />Killed at Vera Cruz  <br />April 22, 1914",
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "wearing a hat",
+      "separator": ","
+    },
+    {
+      "description": "eagle",
+      "separator": ","
+    },
+    {
+      "description": "rock"
+    }
+  ],
+  "landmark": {
+    "name": "McPherson Square Park",
+    "prefix": "Southeast corner of"
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Charles Allen Smith",
+      "externallinks": [
+        {
+          "url": "https://www.facebook.com/PhiladelphiaStoriesbyBobMcNulty/photos/charles-allen-smith-a-20-year-old-seaman-from-kensington-was-killed-at-vera-cruz/1528568207314764/",
+          "label": "Philadelphia Stories by Bob Mcnulty on facebook.com: Charles Allen Smith"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/casmith1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/casmith1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/casmith2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/casmith2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/casmith3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/casmith3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

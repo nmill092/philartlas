@@ -1,0 +1,61 @@
+{
+  "id": "1259",
+  "title": {
+    "display": "Bowling Pin",
+    "list": "Bowling Pin"
+  },
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.950715",
+    "longitude": "-75.163290",
+    "description": "South side of Chestnut between Juniper and Broad"
+  },
+  "architecture": {
+    "description": "Over the entrance"
+  },
+  "content": [
+    {
+      "description": "bowling pin"
+    },
+    {
+      "description": "sign"
+    }
+  ],
+  "landmark": {
+    "name": "Lucky Strike",
+    "externallinks": [
+      {
+        "url": "https://www.luckystrikeent.com/location/lucky-strike-philadelphia",
+        "label": "luckystrikeent.com/location/lucky-strike-philadelphia"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.phila.gov/media/20250523112159/1330-Chestnut-Street-Sign-Application.pdf",
+      "label": "2025 application to modify the signage at phila.gov"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bowlingpin.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bowlingpin.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Gayborhood"
+    }
+  ]
+}

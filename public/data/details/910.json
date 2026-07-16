@@ -1,0 +1,94 @@
+{
+  "id": "910",
+  "title": {
+    "display": "Saint Fiacre",
+    "list": "Saint Fiacre"
+  },
+  "artists": [
+    {
+      "name": "Henry Mitchell",
+      "externallinks": [
+        {
+          "url": "https://www.cantonartcollection.com/artistbio.php?artist_id=476",
+          "label": "cantonartcollection.com's Henry Mitchell bio"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "latitude": "39.949950",
+    "longitude": "-75.151650",
+    "description": "North side of Ranstead between 6th and 7th"
+  },
+  "comments": "This piece is located in what was the garden of the Philadelphia History Museum. ",
+  "content": [
+    {
+      "description": "crouching person"
+    }
+  ],
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Saint Fiacre",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saint_Fiacre",
+          "label": "wikipedia.org's Saint Fiacre page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Philadelphia_History_Museum",
+      "label": "wikipedia.org's Philadelphia History Museum page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fiacre1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fiacre1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fiacre2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fiacre2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fiacre3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fiacre3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fiacre4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fiacre4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

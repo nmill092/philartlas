@@ -1,0 +1,114 @@
+{
+  "id": "132",
+  "title": {
+    "display": "Figuresphere II",
+    "list": "Figuresphere II"
+  },
+  "artists": [
+    {
+      "name": "Eric Berg",
+      "externallinks": [
+        {
+          "url": "https://www.bergbronze.com/",
+          "label": "bergbronze.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2002"
+    }
+  ],
+  "location": {
+    "latitude": "39.948500",
+    "longitude": "-75.182000",
+    "description": "North of Delancey between 25th and 26th"
+  },
+  "comments": "The memorial plaque was added after the first pictures were taken in 2004",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "curled"
+    },
+    {
+      "description": "people"
+    }
+  ],
+  "landmark": {
+    "name": "Schuylkill River Park",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Schuylkill_River_Park",
+        "label": "wikipedia.org's Schuylkill River Park page"
+      }
+    ]
+  },
+  "peopleprefix": "In loving memory of",
+  "people": [
+    {
+      "name": "Claudia Diane Goodman",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/139926690/claudia-diane-goodman",
+          "label": ""
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.bergbronze.com/gallery/figuresphere-ii",
+      "label": "bergbronze.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/figsph1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/figsph1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/figsph2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/figsph2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/figsph3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/figsph3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/figsph4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/figsph4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fitler Square"
+    }
+  ]
+}

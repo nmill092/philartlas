@@ -1,0 +1,116 @@
+{
+  "id": "348",
+  "title": {
+    "display": "Silenus and the Infant Bacchus",
+    "list": "Silenus and the Infant Bacchus"
+  },
+  "artists": [
+    {
+      "name": "Praxiteles",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Praxiteles",
+          "label": "wikipedia.org's Praxiteles page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1885"
+    }
+  ],
+  "yearmodifier": "cast of 400 BC original",
+  "location": {
+    "latitude": "39.968730",
+    "longitude": "-75.182725",
+    "description": "Kelly Drive, past Fairmount"
+  },
+  "content": [
+    {
+      "description": "two people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "one carried"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Bacchus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dionysus",
+          "label": "wikipedia.org's Bacchus/Dionysus page"
+        }
+      ]
+    },
+    {
+      "name": "Silenus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silenus",
+          "label": "wikipedia.org's Silenus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/silenus-and-the-infant-bacchus/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/silenus.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/silenus.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/silenus2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/silenus2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/silenus3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/silenus3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/silenus4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/silenus4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

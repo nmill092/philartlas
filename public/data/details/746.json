@@ -1,0 +1,99 @@
+{
+  "id": "746",
+  "title": {
+    "display": "World War II Submariners Memorial",
+    "list": "World War II Submariners Memorial"
+  },
+  "years": [
+    {
+      "year": "1996"
+    }
+  ],
+  "location": {
+    "latitude": "39.943700",
+    "longitude": "-75.141300",
+    "description": "Penn's Landing between Dock and South"
+  },
+  "inscription": "(excerpts from three plaques)<br />  Still on Patrol<br />  U.S. Navy submarines  paid heavily for  their success in World War II.<br />  A total of 374 officers and 3131 men are board  these 52 U.S. submarines still on \"patrol.\"<br />  We shall never forget that it was our submarines  that held the lines against the enemy, while our  fleets replaced losses and repaired wounds.<br />  -Fleet Admiral C.W. Nimitz, U.S.N.<br />  I can assure you that they went down fighting and  that their brothers who survived them took a  grim toll of our savage enemy to avenge their deaths.<br />  -Vice Admiral C.A. Lockwood, Jr., U.S.N.<br />  Commander Submarine Force 1943-1946<br />  U.S.S. Trigger - S.S. 237<br />  Commissioned January 30, 1942<br />  Lost on patrol March 28, 1945<br />  Still On Patrol<br />  In memory of the brave submariners who gave their lives  in peace-time for their country",
+  "content": [
+    {
+      "description": "submarine and actual parts of submarines",
+      "separator": ","
+    },
+    {
+      "description": "actual anchor",
+      "separator": ","
+    },
+    {
+      "description": "actual torpedo"
+    }
+  ],
+  "peopleprefix": "quotes from",
+  "people": [
+    {
+      "name": "Charles A. Lockwood",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_A._Lockwood",
+          "label": "wikipedia.orgs Charles A. Lockwood page"
+        }
+      ]
+    },
+    {
+      "name": "Chester W. Nimitz",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chester_W._Nimitz",
+          "label": "wikipedia.org's Chester W. Nimitz page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/submariner1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/submariner1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/submariner2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/submariner2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/submariner3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/submariner3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/submariner4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/submariner4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

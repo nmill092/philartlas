@@ -1,0 +1,104 @@
+{
+  "id": "782",
+  "title": {
+    "display": "St. John's Fire Memorial",
+    "list": "St. John's Fire Memorial"
+  },
+  "years": [
+    {
+      "year": "2011"
+    }
+  ],
+  "location": {
+    "latitude": "39.951375",
+    "longitude": "-75.161500",
+    "description": "East side of 13th between Chestnut and Market"
+  },
+  "inscription": "<br />Hoseman George Steinle  <br />Died in the line of duty protecting the  citizens of Philadelphia on February 17, 1899  <br />Hoseman William Chance  <br />Died in the line of duty protecting the  citizens of Philadelphia on February 17, 1899  <br />Hoseman Hugh Duffy  <br />Died in the line of duty protecting the  citizens of Philadelphia on February 17, 1899  <br />Hoseman James Shea   <br />Died in the line of duty protecting the  citizens of Philadelphia on March 2, 1899",
+  "architecture": {
+    "description": "Sidewalk"
+  },
+  "content": [
+    {
+      "description": "Philadelphia Fire Department insignia"
+    }
+  ],
+  "landmark": {
+    "name": "St. John the Evangelist Catholic Church",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://stjohnsphilly.org/",
+        "label": "stjohnsphilly.org"
+      }
+    ]
+  },
+  "peopleprefix": "In memory of",
+  "people": [
+    {
+      "name": "William Chance"
+    },
+    {
+      "name": "Hugh Duffy"
+    },
+    {
+      "name": "James Shea"
+    },
+    {
+      "name": "George Steinle"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.facebook.com/groups/192218352449074/posts/1165151385155761/?_rdr",
+      "label": "extensive post about this fire and the death of the memorialized firefighters at facebook.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stjohnsfire1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stjohnsfire1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stjohnsfire2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stjohnsfire2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stjohnsfire3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stjohnsfire3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stjohnsfire4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stjohnsfire4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

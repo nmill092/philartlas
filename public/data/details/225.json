@@ -1,0 +1,72 @@
+{
+  "id": "225",
+  "title": {
+    "display": "Light Fixtures",
+    "list": "Light Fixtures"
+  },
+  "artists": [
+    {
+      "name": "Gerald Allen"
+    },
+    {
+      "name": "Kent Bloomer",
+      "externallinks": [
+        {
+          "url": "https://bloomerstudio.com/",
+          "label": "bloomerstudio.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1984"
+    }
+  ],
+  "location": {
+    "latitude": "39.946785",
+    "longitude": "-75.153700",
+    "description": "South side of Locust, West of 7th"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "flower-like"
+    },
+    {
+      "description": "light fixtures"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/7locust1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/7locust1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/7locust2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/7locust2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

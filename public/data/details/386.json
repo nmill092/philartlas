@@ -1,0 +1,121 @@
+{
+  "id": "386",
+  "title": {
+    "display": "Thorfinn Karlsefni",
+    "list": "Thorfinn Karlsefni"
+  },
+  "artists": [
+    {
+      "name": "Einar Jonsson",
+      "externallinks": [
+        {
+          "url": "https://www.lej.is/en/",
+          "label": "lej.is"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1918"
+    }
+  ],
+  "yearmodifier": "installed 1920",
+  "location": {
+    "latitude": "39.970190",
+    "longitude": "-75.190050"
+  },
+  "comments": "Was on Kelly Drive, past Boat House Row.  Forcibly removed and toppled into the river, October 2nd, 2018.  Retrieved by divers and put in storage. The statue had become an annual gathering site for Nazis on Leif Erikson day.",
+  "inscription": "<br />Following Leif Erikson's discovery of North America in 1003, Thorfinn Karlsefni,  with 165 men and 35 women established a settlement which lasted 3 years, and his son Snorri was born in North America.<br />Leif Erikson society of Pennsylvania<br />Scandanavian Craft Club of Philadelphia<br />October 9, 1976  ",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "helmet",
+      "separator": ","
+    },
+    {
+      "description": "sword and shield",
+      "separator": ","
+    },
+    {
+      "description": "carved people",
+      "separator": ","
+    },
+    {
+      "description": "words"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Thorfinn Karlsefni",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thorfinn_Karlsefni",
+          "label": "wikipedia.org's Thorfinn Karlsefni page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/thorfinn-karlsefni/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/thorfin.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/thorfin.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/thorfin2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/thorfin2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/thorfin3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/thorfin3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/thorfin4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/thorfin4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/thorfin5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/thorfin5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

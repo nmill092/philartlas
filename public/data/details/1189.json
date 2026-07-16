@@ -1,0 +1,68 @@
+{
+  "id": "1189",
+  "title": {
+    "display": "Green Man",
+    "list": "Green Man (21st and Sansom)"
+  },
+  "artists": [
+    {
+      "name": "Frank Furness (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Furness",
+          "label": "wikipedia.org's Frank Furness page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1883"
+    }
+  ],
+  "yearmodifier": "approximate year of building",
+  "location": {
+    "latitude": "39.951500",
+    "longitude": "-75.175505",
+    "description": "Southeast corner, 21st and Sansom"
+  },
+  "architecture": {
+    "description": "Turret wall"
+  },
+  "content": [
+    {
+      "description": "face",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/71972",
+      "label": "philadelphiabuildings.org's entry for the building"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Green_Man",
+      "label": "wikipedia.org's Green Man page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/21sansomgreenman.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/21sansomgreenman.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

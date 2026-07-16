@@ -1,0 +1,85 @@
+{
+  "id": "981",
+  "title": {
+    "display": "Tiffany Atlas Clock",
+    "list": "Tiffany Atlas Clock"
+  },
+  "artists": [
+    {
+      "name": "Henry Frederick Metzler"
+    }
+  ],
+  "years": [
+    {
+      "year": "1853"
+    }
+  ],
+  "yearmodifier": "date of NYC original",
+  "location": {
+    "latitude": "39.949385",
+    "longitude": "-75.165200"
+  },
+  "comments": "Was on the South side of Walnut between Broad and 15th.  Tiffany moved three blocks West in late 2021 or early 2022 but does not appear to have reinstalled the Atlas Clock as of 1/18/2022.",
+  "architecture": {
+    "description": "Above the entrance"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "clock"
+    },
+    {
+      "description": "(sign)"
+    }
+  ],
+  "landmark": {
+    "name": "Tiffany and Co."
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Atlas",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Atlas_(mythology)",
+          "label": "wikipedia.org's Atlas page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://press.tiffany.com/our-story/tiffany-flagship/",
+      "label": "tiffany.com history page"
+    },
+    {
+      "url": "https://daytoninmanhattan.blogspot.com/2011/01/tiffany-cos-1853-atlas-clock.html",
+      "label": "daytoninmanhattan.blogspot.com with particulars of the history of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tiffatlas.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tiffatlas.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tiffatlas2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tiffatlas2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

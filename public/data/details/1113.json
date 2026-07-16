@@ -1,0 +1,103 @@
+{
+  "id": "1113",
+  "title": {
+    "display": "Contrafuerte",
+    "list": "Contrafuerte"
+  },
+  "artists": [
+    {
+      "name": "Miguel Horn",
+      "externallinks": [
+        {
+          "url": "https://www.miguelhorn.art/",
+          "label": "miguelhorn.art"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2021"
+    }
+  ],
+  "location": {
+    "latitude": "39.953440",
+    "longitude": "-75.160185",
+    "description": "Cuthbert, West of 12th"
+  },
+  "architecture": {
+    "description": "Bridge across the alley"
+  },
+  "content": [
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "hunched and sitting"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.miguelhorn.art/contrafuerte",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/contra1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/contra1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/contra2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/contra2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/contra3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/contra3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/contra4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/contra4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/contra5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/contra5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

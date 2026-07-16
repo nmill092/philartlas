@@ -1,0 +1,107 @@
+{
+  "id": "325",
+  "title": {
+    "display": "Robin Roberts",
+    "list": "Robin Roberts"
+  },
+  "artists": [
+    {
+      "name": "Zenos Frudakis",
+      "externallinks": [
+        {
+          "url": "https://www.zenosfrudakis.com/",
+          "label": "zenosfrudakis.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2004"
+    }
+  ],
+  "location": {
+    "latitude": "39.904900",
+    "longitude": "-75.165850",
+    "description": "North side of Pattison East of Broad"
+  },
+  "inscription": "Phillies Hall of Fame Pitcher 1948-1961",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "baseball glove"
+    }
+  ],
+  "landmark": {
+    "name": "Citizens Bank Park",
+    "prefix": "Southeast entrance",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Citizens_Bank_Park",
+        "label": "wikipedia.org's Citizens Bank Park Page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Robin Roberts",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robin_Roberts_(baseball)",
+          "label": "wikipedia.org's Robin Roberts page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.zenosfrudakis.com/sculpture/robin-roberts",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rroberts.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rroberts.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rroberts2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rroberts2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rroberts3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rroberts3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

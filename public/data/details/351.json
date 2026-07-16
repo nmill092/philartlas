@@ -1,0 +1,77 @@
+{
+  "id": "351",
+  "title": {
+    "display": "The Slave",
+    "list": "Slave, The"
+  },
+  "artists": [
+    {
+      "name": "Helene Sardeau",
+      "externallinks": [
+        {
+          "url": "https://siris-juleyphoto.si.edu/ipac20/ipac.jsp?uri=full=3100001~!66481!0#focus",
+          "label": "si.edu archives photograph of Helene Sardeau in her studio"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1940"
+    }
+  ],
+  "location": {
+    "latitude": "39.973775",
+    "longitude": "-75.191060",
+    "description": "Kelly Drive, past Boat House Row"
+  },
+  "inscription": "Their bands have broken asunder.",
+  "content": [
+    {
+      "description": "kneeling person"
+    }
+  ],
+  "landmark": {
+    "name": "Ellen Phillips Samuel Memorial",
+    "prefix": "Central Terrace",
+    "externallinks": [
+      {
+        "url": "https://www.associationforpublicart.org/artwork/ellen-phillips-samuel-memorial/",
+        "label": "associationforpublicart.org's Ellen Phillips Samuel Memorial page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/the-slave/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/slave.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/slave.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/slave2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/slave2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

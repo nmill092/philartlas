@@ -1,0 +1,61 @@
+{
+  "id": "232",
+  "title": {
+    "display": "Lions",
+    "list": "Lions (Horticulture Center)"
+  },
+  "years": [
+    {
+      "year": "1891"
+    }
+  ],
+  "yearmodifier": "donated",
+  "location": {
+    "latitude": "39.983575",
+    "longitude": "-75.208935",
+    "description": "Horticulture Drive, East of Belmont"
+  },
+  "inscription": "Presented to Fairmount Park, Henry Lisle Waln, 1891",
+  "content": [
+    {
+      "description": "lions"
+    }
+  ],
+  "landmark": {
+    "name": "Horticulture Center",
+    "prefix": "In the middle of the East end loop of the",
+    "externallinks": [
+      {
+        "url": "https://myphillypark.org/explore/parks/fairmount-park-horticulture-center/",
+        "label": "myphillypark.org's Horticulture Center page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hglions1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hglions1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hglions2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hglions2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

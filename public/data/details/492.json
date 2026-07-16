@@ -1,0 +1,82 @@
+{
+  "id": "492",
+  "title": {
+    "display": "Spring Garden Street - West River Drive Bridges",
+    "list": "Spring Garden Street - West River Drive Bridges"
+  },
+  "years": [
+    {
+      "year": "1965"
+    }
+  ],
+  "yearmodifier": "year of current bridge",
+  "location": {
+    "latitude": "39.964550",
+    "longitude": "-75.182500",
+    "description": "Center City end, Art Museum side of the Spring Garden Bridge"
+  },
+  "inscription": "<br />- The Collossus -  <br />Wooden covered bridge - span 540 feet  <br />Longest arch bridge in the world  <br />Opened to traffic - April 28, 1813  <br />Destroyed by fire - September 1, 1838  <br />Replaced by wire bridge in 1842  <br />- Wire Bridge -  <br />Wire cable suspension bridge - span 357 feet  <br />First cable suspension bridge  for vehicles in America  <br />Opened to traffic - January 2, 1842  <br />Replaced by Spring Garden Bridge in 1875  <br />- Spring Garden Bridge -  <br />Double deck truss bridge - span 355 feet  <br />Spring Garden Street - upper deck  <br />Callowhill Street - lower deck  <br />Opened to traffic - July 10, 1875  <br />Replaced by the present structures",
+  "architecture": {
+    "description": "Bridge wall"
+  },
+  "content": [
+    {
+      "description": "bridges and other buildings",
+      "separator": ","
+    },
+    {
+      "description": "trees",
+      "separator": ","
+    },
+    {
+      "description": "water"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sgbridge1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sgbridge1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sgbridge2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sgbridge2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sgbridge3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sgbridge3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sgbridge4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sgbridge4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

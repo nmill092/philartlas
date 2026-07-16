@@ -1,0 +1,199 @@
+{
+  "id": "201",
+  "title": {
+    "display": "The John Hanson Monument",
+    "list": "John Hanson Monument, The"
+  },
+  "artists": [
+    {
+      "name": "Carl Lindborg",
+      "externallinks": [
+        {
+          "url": "https://issuu.com/bestversionmedia2/docs/nsf_n_2021-12_2987_newtown_square_friends_neighb/s/14109743",
+          "label": "isssuu.com article about Carl Lindborg"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1967"
+    }
+  ],
+  "location": {
+    "latitude": "39.934500",
+    "longitude": "-75.143800"
+  },
+  "comments": "Dahlgren is listed elsewhere as 1809-1870.  This piece was inside the walls near the graveyard of Old Swedes (Columbus Blvd. & Christian St., 916 S. Swanson St). just outside the back door of the house closest to the church.  Was missing when checked on August 17 2014. Per an email from the Historic Gloria Dei Preservation Corporation received on June 27, 2022, the statue was given to descendants of John Hanson.",
+  "inscription": "<br />John Hanson, 1715-1783, First President of US Under Articles of Confederation, 1781-82  <br />John Nystrom, 1829-1885, engineer, inventor, ship builder, author  <br />John Ericsson, 1803-1889, inventor, engineer, scientist  <br />John Dahlgren, 1809-1890, U.S. Admiral - inventions influenced world navies  <br />Johan Risingh, 1617-1672,  last governor of New Sweden, author, economist  <br />Johan Printz, 1592-1663, Governor of New Sweden  <br />John Morton, 1724-1777, Signer of Declaration of Independence  <br />Erected October 7, 1967 by Swedish Colonial Society and the Vasa Order of America in Sweden",
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "book",
+      "separator": ","
+    },
+    {
+      "description": "ship, submarine",
+      "separator": ","
+    },
+    {
+      "description": "cannon",
+      "separator": ","
+    },
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Old Swedes",
+    "prefix": "In the yard behind",
+    "externallinks": [
+      {
+        "url": "https://www.nps.gov/glde/index.htm",
+        "label": "nps.gov's Gloria Dei Church (Old Swedes) page"
+      }
+    ]
+  },
+  "peopleprefix": "bust and medalions honoring",
+  "people": [
+    {
+      "name": "John A. B. Dahlgren",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_A._Dahlgren",
+          "label": "wikipedia.org's John A. Dahlgren page"
+        }
+      ]
+    },
+    {
+      "name": "John Ericsson",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Ericsson",
+          "label": "wikipedia.org's John Ericsson page"
+        }
+      ]
+    },
+    {
+      "name": "John Hanson",
+      "comment": "bust",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Hanson",
+          "label": "wikipedia.org's John Hanson page"
+        }
+      ]
+    },
+    {
+      "name": "John Morton",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Morton_(American_politician)",
+          "label": "wikipedia.org's John Morton page"
+        }
+      ]
+    },
+    {
+      "name": "John Nystrom",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_W._Nystrom",
+          "label": "wikipedia.org's John Nystrom page"
+        }
+      ]
+    },
+    {
+      "name": "Johan Printz",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Johan_Bj%C3%B6rnsson_Printz",
+          "label": "wikipedia.org's Johan Printz page"
+        }
+      ]
+    },
+    {
+      "name": "Johan Risingh",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Johan_Risingh",
+          "label": "wikipedia.org's Johan Risingh page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://colonialswedes.net/",
+      "label": "colonialswedes.net"
+    },
+    {
+      "url": "https://www.vasaorder.com/",
+      "label": "vasaorder.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swede0.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swede0.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swede1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swede1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swede2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swede2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swede3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swede3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swede4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swede4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/swede5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/swede5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

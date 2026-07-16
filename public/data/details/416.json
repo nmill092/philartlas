@@ -1,0 +1,169 @@
+{
+  "id": "416",
+  "title": {
+    "display": "Philadelphia Vietnam Veterans Memorial",
+    "list": "Philadelphia Vietnam Veterans Memorial"
+  },
+  "artists": [
+    {
+      "name": "Perry M. Morgan"
+    }
+  ],
+  "years": [
+    {
+      "year": "1987"
+    }
+  ],
+  "location": {
+    "latitude": "39.943910",
+    "longitude": "-75.142825",
+    "description": "Southeast Corner, Front and Spruce"
+  },
+  "inscription": "<br />  The Philadelphia Vietnam Veterans Memorial is designed  to honor those who served in all branches of the United States Armed  Forces during the Vietnam War. The memorial pays tribute to the 80,000  Philadelphia Vietnam Era Veterans who served our country in our nation's  longest war.  <br />  By honoring these veterans the Philadelphia Vietnam Veterans Memorial  separates the warrior from the war, focuses on the valor and sacrifice  of those patriots, and gives each of them a place in history.  <br />  It is our duty to remember the gallant Americans whose names grace this  wall.  They sacrificed their lives in the service of our country during  the Vietnam War 1964-1975.  <br />  For those who fought for it, freedom has a flavor the protected will  never know.",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "ideas, ideals and logos",
+      "separator": ","
+    },
+    {
+      "description": "map",
+      "separator": ","
+    },
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "crouching",
+      "separator": ","
+    },
+    {
+      "description": "helmets",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "airplanes and helicopters",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "buildings"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Philadelphia_Vietnam_Veterans_Memorial",
+      "label": "wikipedia.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/viet1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/viet1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/viet2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/viet2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/viet3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/viet3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/viet4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/viet4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/viet5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/viet5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/viet6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/viet6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/viet7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/viet7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/viet8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/viet8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/viet9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/viet9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

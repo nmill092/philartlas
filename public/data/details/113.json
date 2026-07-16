@@ -1,0 +1,74 @@
+{
+  "id": "113",
+  "title": {
+    "display": "Eagles",
+    "list": "Eagles (Weinman)"
+  },
+  "artists": [
+    {
+      "name": "Adolph Alexander Weinman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adolph_Alexander_Weinman",
+          "label": "wikipedia.org's Adolph Alexander Weinman page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1903"
+    }
+  ],
+  "location": {
+    "latitude": "39.954400",
+    "longitude": "-75.181090",
+    "description": "East of 29th and West of 24th on Market"
+  },
+  "comments": "Four identical eagles, originally from Pennsylvania Station in New York City.",
+  "architecture": {
+    "description": "Bridge columns"
+  },
+  "content": [
+    {
+      "description": "eagles"
+    }
+  ],
+  "landmark": {
+    "name": "Market Street Bridge",
+    "prefix": "Four corners of the",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Market_Street_Bridge_(Philadelphia)",
+        "label": "wikipedia.org's Market Street Bridge page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eagles.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eagles.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eagles2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eagles2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

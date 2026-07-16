@@ -1,0 +1,138 @@
+{
+  "id": "1209",
+  "title": {
+    "display": "KCT Garden Fence",
+    "list": "KCT Garden Fence"
+  },
+  "artists": [
+    {
+      "name": "Philly Custom Metal Fab",
+      "externallinks": [
+        {
+          "url": "https://www.instagram.com/philly_custom_metal_fab",
+          "label": "philly custom metal fab's page at instagram.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2021"
+    }
+  ],
+  "location": {
+    "latitude": "39.997400",
+    "longitude": "-75.111950",
+    "description": "Northwest side of Kensington between H and I"
+  },
+  "architecture": {
+    "description": "Fence"
+  },
+  "content": [
+    {
+      "description": "cat",
+      "separator": ","
+    },
+    {
+      "description": "dog",
+      "separator": ","
+    },
+    {
+      "description": "sun",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "abstract forms"
+    }
+  ],
+  "landmark": {
+    "name": "Kensington Corridor Trust Garden",
+    "externallinks": [
+      {
+        "url": "https://kctphilly.org/",
+        "label": "kctphilly.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kctfence2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kctfence2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kctfence3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kctfence3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kctfence4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kctfence4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kctfence1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kctfence1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kctfence7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kctfence7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kctfence6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kctfence6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/kctfence5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/kctfence5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

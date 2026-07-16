@@ -1,0 +1,67 @@
+{
+  "id": "1182",
+  "title": {
+    "display": "All the Light You See",
+    "list": "All the Light You See"
+  },
+  "artists": [
+    {
+      "name": "Alicia Eggert",
+      "externallinks": [
+        {
+          "url": "https://aliciaeggert.com/",
+          "label": "aliciaeggert.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2017"
+    }
+  ],
+  "location": {
+    "latitude": "39.974035",
+    "longitude": "-75.178235",
+    "description": "North side of Girard at Bambrey"
+  },
+  "inscription": "\"ALL THE LIGHT YOU SEE IS FROM THE PAST\" and \"ALL YOU SEE IS PAST\"   <br />(at the time the picture was taken only the second statement was lighting up)",
+  "architecture": {
+    "description": "Roof"
+  },
+  "content": [
+    {
+      "description": "light"
+    },
+    {
+      "description": "words and ideas"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://aliciaeggert.com/pages/allthelight.html",
+      "label": "artist's page for this piece"
+    },
+    {
+      "url": "https://floggingbabel.blogspot.com/2023/10/all-light-you-see-is-from-past.html",
+      "label": "Michael Swanwick's blog entry for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/allthelight.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/allthelight.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fairmount"
+    }
+  ]
+}

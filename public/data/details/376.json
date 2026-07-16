@@ -1,0 +1,137 @@
+{
+  "id": "376",
+  "title": {
+    "display": "Synergy",
+    "list": "Synergy"
+  },
+  "artists": [
+    {
+      "name": "Albert Paley",
+      "externallinks": [
+        {
+          "url": "https://www.albertpaley.com/",
+          "label": "albertpaley.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1987"
+    }
+  ],
+  "location": {
+    "latitude": "39.962500",
+    "longitude": "-75.168100",
+    "description": "West side of 18th, South of Spring Garden"
+  },
+  "comments": "Was an arch across the entrance to a parking lot, which was replaced with a new building in 2016.  The piece was temporarily removed and then put back in its original location but a completely different context.  The last two pictures are from 2017.",
+  "architecture": {
+    "description": "Entrance (after the fact)"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "implied arch"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.albertpaley.com/index.cfm?Page=Public%20Sculpture%20Synergy%20SS%201987%2002",
+      "label": "artist's page for this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/synergy/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/synergy.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/synergy.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/synergy2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/synergy2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/synergy3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/synergy3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/synergy4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/synergy4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/synergy5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/synergy5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/synergy6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/synergy6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/synergy7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/synergy7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/synergy8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/synergy8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Franklin Town"
+    }
+  ]
+}

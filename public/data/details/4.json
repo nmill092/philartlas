@@ -1,0 +1,131 @@
+{
+  "id": "4",
+  "title": {
+    "display": "Africa, America, Asia, Europe",
+    "list": "Africa, America, Asia, Europe"
+  },
+  "artists": [
+    {
+      "name": "Alexander Stirling Calder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexander_Stirling_Calder",
+          "label": "wikipedia.org's Alexander Stirling Calder page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/Alexander%20Stirling%20Calder",
+          "label": "publicartarchive.org's Alexander Stirling Calder page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1920"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.949450",
+    "longitude": "-75.190800",
+    "description": "South side of South Street, East of 33rd"
+  },
+  "architecture": {
+    "description": "Gate posts"
+  },
+  "content": [
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "bowl or basket"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Museum",
+    "prefix": "Lower (East) courtyard of the",
+    "externallinks": [
+      {
+        "url": "https://www.penn.museum/",
+        "label": "penn.museum"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/africa",
+      "label": "upenn.edu's page for Africa"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/america",
+      "label": "upenn.edu's page for America"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/asia",
+      "label": "upenn.edu's page for Asia"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/europe",
+      "label": "upenn.edu's page for Europe"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/aaae1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/aaae1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/aaae2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/aaae2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/aaae4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/aaae4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/aaae3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/aaae3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

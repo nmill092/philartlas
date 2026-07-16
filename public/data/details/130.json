@@ -1,0 +1,83 @@
+{
+  "id": "130",
+  "title": {
+    "display": "Family of Man",
+    "list": "Family of Man"
+  },
+  "artists": [
+    {
+      "name": "Costantino Nivola",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Costantino_Nivola",
+          "label": "wikipedia.org's Costantino Nivola page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/Costantino%20Nivola",
+          "label": "publicartarchive.org's Constantino Nivola page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1961"
+    }
+  ],
+  "location": {
+    "latitude": "39.952375",
+    "longitude": "-75.193750",
+    "description": "Woodland Walk between 34th and 36th"
+  },
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "abstract relief"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Library",
+    "prefix": "On both sides of the entrance of the",
+    "externallinks": [
+      {
+        "url": "https://www.library.upenn.edu/",
+        "label": "library.upenn.edu"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/family-of-man/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pennlib1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pennlib1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pennlib2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pennlib2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

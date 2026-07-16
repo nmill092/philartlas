@@ -1,0 +1,208 @@
+{
+  "id": "847",
+  "title": {
+    "display": "Labour Monument",
+    "list": "Labour Monument"
+  },
+  "artists": [
+    {
+      "name": "John Kindness",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Kindness",
+          "label": "wikipedia.org's John Kindness page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2010"
+    }
+  ],
+  "location": {
+    "latitude": "39.913850",
+    "longitude": "-75.237740",
+    "description": "Southwest of 71st and Buist"
+  },
+  "comments": "The title shown is the artist's title.  Also listed as \"The Labor Monument: Philadelphia's Tribute to the American Worker\"",
+  "inscription": "<br />Eugene V. Debs 1855-1926   <br />1900 Farm Workers \"Si Sepuede\"  <br />1905 IWW - The Wobblies - \"Don't waste your time mourning. Organize.\" - Joe Hill, 1918  <br />1912 Textile Workers  <br />1968 Sanitation Workers - \"I am a man\"  <br />Karen Gay Silkwood 1940-74  <br />The worst thief is he who steals the playtime of children",
+  "content": [
+    {
+      "description": "partial",
+      "separator": ","
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting and kneeling"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "tools",
+      "separator": ","
+    },
+    {
+      "description": "bags and buckets",
+      "separator": ","
+    },
+    {
+      "description": "train",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "landmark": {
+    "name": "Elmwood Park",
+    "prefix": "Center of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Elmwood_Park,_Philadelphia",
+        "label": "wikipedia.org's Elmwood Park neighborhood page"
+      }
+    ]
+  },
+  "peopleprefix": "people referenced:",
+  "people": [
+    {
+      "name": "Eugene V. Debs",
+      "comment": "image",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eugene_V._Debs",
+          "label": "wikipedia.org's Eugene V. Debs page"
+        }
+      ]
+    },
+    {
+      "name": "Joe Hill",
+      "comment": "quote",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Hill_(activist)",
+          "label": "wikipedia.org's Joe Hill page"
+        }
+      ]
+    },
+    {
+      "name": "Karen Gay Silkwood",
+      "comment": "image",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Karen_Silkwood",
+          "label": "wikipedia.org's Karen Silkwood page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Child_labor",
+      "label": "wikipedia.org's Child Labor page"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Memphis_Sanitation_Strike",
+      "label": "wikipedia.org's Memphis Sanitation Strike page"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Farm_Workers",
+      "label": "wikipedia.org's United Farm Workers page"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/the-labor-monument-philadelphias-tribute-to-the-american-worker/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/labor1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/labor1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/labor2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/labor2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/labor3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/labor3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/labor4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/labor4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/labor5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/labor5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/labor6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/labor6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/labor7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/labor7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

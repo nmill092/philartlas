@@ -1,0 +1,92 @@
+{
+  "id": "1263",
+  "title": {
+    "display": "Horace Jayne House Relief Panels",
+    "list": "Horace Jayne House Relief Panels"
+  },
+  "artists": [
+    {
+      "name": "Karl Bitter",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Karl_Bitter",
+          "label": "wikipedia.org's Karl Bitter page"
+        }
+      ]
+    },
+    {
+      "name": "Frank Furness (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Furness",
+          "label": "wikipedia.org's Frank Furness page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1895"
+    }
+  ],
+  "location": {
+    "latitude": "39.947280",
+    "longitude": "-75.173010",
+    "description": "Southwest corner, 19th and Delancey"
+  },
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "sitting people",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Horace_Jayne_House",
+      "label": "wikipedia.org's page for the house"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/horacejayne1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/horacejayne1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/horacejayne2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/horacejayne2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/horacejayne3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/horacejayne3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

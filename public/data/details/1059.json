@@ -1,0 +1,107 @@
+{
+  "id": "1059",
+  "title": {
+    "display": "Roosevelt Apartments Entrance",
+    "list": "Roosevelt Apartments Entrance"
+  },
+  "artists": [
+    {
+      "name": "Joseph Margolis (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/26852",
+          "label": "philadelphiabuildings.org's Joseph Margolis page"
+        }
+      ]
+    },
+    {
+      "name": "O.W. Ketcham Terra Cotta Works",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22791",
+          "label": "philadelphiabuildings.org's O.W. Ketcham Terra Cotta Works page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1927"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.951020",
+    "longitude": "-75.178310",
+    "description": "Southeast corner, 23rd and Walnut"
+  },
+  "comments": "I am assuming that this building, which was known as the Hotel Roosevelt in 1959, was originally known as the Rabinowitz Residence or Royalton Apartments as listed for this location by philadelphiabuildings.org, which gives the  build date as c. 1927. There is a modest ad in the 9/23/1928 Philadelphia Ledger for apartments in the Royalton which sounds like it might be newly opened. 2024 realty listings for the apartments in the building say 1913, but I don't know where that information came from.  I am listing it as 1927. ",
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "abstract design",
+      "separator": ","
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/274784",
+      "label": "philadelphiabuildings.org 's page for the building"
+    },
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/ho_display.cfm/61305",
+      "label": "philadelphiabuildings.org 's holdings page for the building"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/Detail.aspx?assetId=50673",
+      "label": "1959 picture of the 23rd Street side of the building at phillyhistory.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/roosapt1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/roosapt1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/roosapt2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/roosapt2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/roosapt3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/roosapt3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

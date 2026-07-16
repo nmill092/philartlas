@@ -1,0 +1,92 @@
+{
+  "id": "633",
+  "title": {
+    "display": "The City of Philadelphia",
+    "list": "City of Philadelphia, The"
+  },
+  "artists": [
+    {
+      "name": "American Society of Civil Engineers",
+      "externallinks": [
+        {
+          "url": "https://www.asce.org/",
+          "label": "asce.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1997"
+    }
+  ],
+  "location": {
+    "latitude": "39.957550",
+    "longitude": "-75.171450",
+    "description": "North side of Race, East of 20th"
+  },
+  "inscription": "<br />A portraiture of the City of Philadelphia in the Province of Pennsylvania in America  by Thomas Holme Surveyor General. Sold by Andrew Sowle in Shoreditch London.  <br />Planned 1682  <br />Dedicated 1997  <br />American Society of Civil Engineers, 1852  <br />National Historic Civil Engineering Landmark  <br />The City of Philadelphia  <br />Surveyor General Thomas Holme, Governor William Penn and others  planned the open public squares and rational street layout  that we enjoy today.  These original features have inspired city  engineers for 300 years.",
+  "content": [
+    {
+      "description": "map of Philadelphia"
+    }
+  ],
+  "landmark": {
+    "name": "Logan Square",
+    "prefix": "Southeast corner of Aviator Park, West side of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Logan_Circle_(Philadelphia)",
+        "label": "wikipedia.org's Logan Circle page"
+      }
+    ]
+  },
+  "peopleprefix": "Monument to the work of",
+  "people": [
+    {
+      "name": "Thomas Holme",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Holme",
+          "label": "wikipedia.org's Thomas Holme page"
+        }
+      ]
+    },
+    {
+      "name": "William Penn",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Penn",
+          "label": "wikipedia.org's William Penn page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/philamap1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/philamap1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/philamap2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/philamap2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

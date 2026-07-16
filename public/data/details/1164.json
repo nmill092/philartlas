@@ -1,0 +1,65 @@
+{
+  "id": "1164",
+  "title": {
+    "display": "City of Brotherly Love",
+    "list": "City of Brotherly Love"
+  },
+  "artists": [
+    {
+      "name": "Neon of Dallas",
+      "externallinks": [
+        {
+          "url": "https://www.facebook.com/NeonOfDallas",
+          "label": "Neon of Dallas on facebook.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2019"
+    }
+  ],
+  "location": {
+    "latitude": "39.953140",
+    "longitude": "-75.162120",
+    "description": "Southeast corner, Juniper and Filbert"
+  },
+  "comments": "Title based on an online article quote from Premier Project Management.  Attribution based on a Facebook post by the hotel. Mounted in what used to be a revolving door, the piece is equally visible from the sidewalk.",
+  "architecture": {
+    "description": "Lobby"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "neon",
+      "separator": ","
+    },
+    {
+      "description": "idea"
+    }
+  ],
+  "landmark": {
+    "name": "Notary Hotel",
+    "prefix": "Northwest corner of the"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cobl.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cobl.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

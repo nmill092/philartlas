@@ -1,0 +1,97 @@
+{
+  "id": "567",
+  "title": {
+    "display": "Comcast Center Trellis",
+    "list": "Comcast Center Trellis"
+  },
+  "artists": [
+    {
+      "name": "Laurie Olin",
+      "externallinks": [
+        {
+          "url": "https://www.theolinstudio.com/",
+          "label": "theolinstudio.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2008"
+    }
+  ],
+  "location": {
+    "latitude": "39.954275",
+    "longitude": "-75.168600",
+    "description": "Northwest corner, 17th and JFK"
+  },
+  "architecture": {
+    "description": "Trellis"
+  },
+  "content": [
+    {
+      "description": "abstract light refraction"
+    }
+  ],
+  "landmark": {
+    "name": "Comcast Center",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Comcast_Center",
+        "label": "wikipedia.org's Comcast Center page"
+      },
+      {
+        "url": "https://www.theolinstudio.com/comcast-center-plaza",
+        "label": "theolinstudio.com's page for the plaza, including the fountain and trellis"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comtrellis1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comtrellis1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comtrellis2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comtrellis2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comtrellis3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comtrellis3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comtrellis4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comtrellis4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

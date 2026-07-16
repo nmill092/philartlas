@@ -1,0 +1,80 @@
+{
+  "id": "175",
+  "title": {
+    "display": "Grizzly Bear",
+    "list": "Grizzly Bear"
+  },
+  "artists": [
+    {
+      "name": "Eric Berg",
+      "externallinks": [
+        {
+          "url": "https://www.bergbronze.com/",
+          "label": "bergbronze.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "location": {
+    "latitude": "39.947600",
+    "longitude": "-75.180050",
+    "description": "23rd and Pine"
+  },
+  "content": [
+    {
+      "description": "bear"
+    }
+  ],
+  "landmark": {
+    "name": "Fitler Square",
+    "prefix": "West end of",
+    "externallinks": [
+      {
+        "url": "https://www.fitlersquare.org/",
+        "label": "fitlersquare.org"
+      },
+      {
+        "url": "https://www.tclf.org/landscapes/fitler-square",
+        "label": "tclf.org's Fitler Square page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.bergbronze.com/gallery/grizzly-bear",
+      "label": "bergbronze.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/grizzly.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/grizzly.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/grizzly2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/grizzly2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fitler Square"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "1244",
+  "title": {
+    "display": "Chestnut Street Bus Shelter Panel (18th)",
+    "list": "Chestnut Street Bus Shelter Panel (18th)"
+  },
+  "artists": [
+    {
+      "name": "Pablo Tauler",
+      "externallinks": [
+        {
+          "url": "https://pablotaulerpublicartwork.blogspot.com//",
+          "label": "pablotaulerpublicartwork.blogspot.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2019"
+    }
+  ],
+  "yearmodifier": "announced",
+  "location": {
+    "latitude": "39.951630",
+    "longitude": "-75.170475",
+    "description": "Southwest corner, 18th and Chestnut"
+  },
+  "comments": "moved from the East side of the 11th street shelter to the South side of the 18th street shelter.  The second picture is from the original location.",
+  "architecture": {
+    "description": "Bus shelter"
+  },
+  "content": [
+    {
+      "description": "abstract design"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chtransb18.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chtransb18.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chtrans11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chtrans11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

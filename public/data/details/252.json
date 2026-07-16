@@ -1,0 +1,200 @@
+{
+  "id": "252",
+  "title": {
+    "display": "Meher",
+    "list": "Meher"
+  },
+  "artists": [
+    {
+      "name": "Khoren Der Harootian",
+      "externallinks": [
+        {
+          "url": "https://www.derharootian.com/",
+          "label": "derharootian.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "yearmodifier": "dedicated 1976",
+  "location": {
+    "latitude": "39.966500",
+    "longitude": "-75.179800",
+    "description": "South side of Kelly Drive, West of 25th"
+  },
+  "comments": "Also called <i>The Young Meher</i>. Incorporated into the Armenian Heritage walk in 2026 in the same location but rotated to run parallel to Kelly Drive facing Center City instead of facing the Museum.  The inscription plaque, which was originally on a rock in front of the piece has been replaced with a plaque to the side of the Walk.  The first picture is from the new context, the rest are from the original.",
+  "inscription": "<br />  On this day, April 24, 1976, commemorating the 61st anniversary of the martyrdom of the Armenian nation and celebrating the bicentennial year of American independence,  we Americans of Armenian heritage in eternal gratitude to God dedicate this monument to our adopted land of Freedom, the United States of America.  <br />The Sculpture  <br />  \"Meher\" - A legendary figure of inspiring power symbolizing the invincible faith of the Armenian people, the first nation to embrace Christianity (301 AD).  <br />The panels  <br />Front - Keeping Watch over the cultural heritage of Armenia.  <br />Left - Day of Infamy, April 24, 1915 the genocide and martyrdom of the Armenian Nation.  <br />Right - St. Vartan at the battle of Avarayr (451 AD). History's first defense of the Christian faith.  <br />Rear - Mid the ashes of the martyrs, mother and child look to freedom for Armenia and all nations.  <br />Sculpture by Khoren der Harootian  <br />Initiated by the Knights of Vartan  <br />Directed and brought to fruition by the Armenian Bicentennial Commemoration Committee",
+  "content": [
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting, and lying"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "cross",
+      "separator": ","
+    },
+    {
+      "description": "human bones",
+      "separator": ","
+    },
+    {
+      "description": "helmets",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "mountains",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "horses",
+      "separator": ","
+    },
+    {
+      "description": "vulture",
+      "separator": ","
+    },
+    {
+      "description": "water",
+      "separator": ","
+    },
+    {
+      "description": "sun"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Meher"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://digital.library.temple.edu/digital/collection/p15037coll3/id/28464/",
+      "label": "1976 picture of this piece at digital.library.temple.edu"
+    },
+    {
+      "url": "https://www.armenianheritagewalk.org/theyoungmeherstatue",
+      "label": "armenianheritagewalk.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meher8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meher8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meher.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meher.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meher5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meher5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meher6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meher6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meher7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meher7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meher1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meher1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meher2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meher2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meher3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meher3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meher4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meher4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "1140",
+  "title": {
+    "display": "Weaver's Knot: Sheet Bend",
+    "list": "Weaver's Knot: Sheet Bend"
+  },
+  "artists": [
+    {
+      "name": "Ball-Nogues Studio",
+      "externallinks": [
+        {
+          "url": "https://www.ball-nogues.com/",
+          "label": "ball-nogues.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2022"
+    }
+  ],
+  "location": {
+    "latitude": "39.953050",
+    "longitude": "-75.139750",
+    "description": "East side of Columbus, South of Race"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "knot"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://streetsdept.com/2022/03/16/holy-freaking-moly-something-exciting-is-being-installed-on-delaware-avenue/",
+      "label": "streetsdept.com article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/knot1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/knot1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/knot2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/knot2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/knot3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/knot3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/knot4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/knot4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

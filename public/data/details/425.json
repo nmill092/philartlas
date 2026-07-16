@@ -1,0 +1,60 @@
+{
+  "id": "425",
+  "title": {
+    "display": "Washington Square Prisoners of War Memorial",
+    "list": "Washington Square Prisoners of War Memorial"
+  },
+  "years": [
+    {
+      "year": "1900"
+    }
+  ],
+  "location": {
+    "latitude": "39.947400",
+    "longitude": "-75.151550",
+    "description": "Southwest of 6th and Walnut"
+  },
+  "inscription": "<br />In memory of the many American soldiers, who, during the War for Independence, died prisoners of war in the jails of Philadlelphia, and were buried in this ground during the years 1777 and 1778. Erected by Quaker City Chapter Daughters of the American Revolution, October 1900",
+  "content": [
+    {
+      "description": "rock"
+    }
+  ],
+  "landmark": {
+    "name": "Washington Square",
+    "prefix": "East side of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Washington_Square_(Philadelphia)",
+        "label": "wikipedia.org's Washington Square page"
+      },
+      {
+        "url": "https://www.nps.gov/parkhistory/online_books/inde/washington_square_clr.pdf",
+        "label": "nps.gov's Cultural Landscape Report for Washington Square (449 page pdf)"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/wallyg/2547313243/in/album-72157605406944320",
+      "label": "Wally Gobetz's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/washsqrm.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/washsqrm.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

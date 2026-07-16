@@ -1,0 +1,92 @@
+{
+  "id": "952",
+  "title": {
+    "display": "SEPTA Towers",
+    "list": "SEPTA Towers"
+  },
+  "artists": [
+    {
+      "name": "Gordon Heuther",
+      "externallinks": [
+        {
+          "url": "https://gordonhuether.com/",
+          "label": "gordonhuether.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2001"
+    }
+  ],
+  "location": {
+    "latitude": "40.023025",
+    "longitude": "-75.077725",
+    "description": "Northwest side of Frankford at Granite"
+  },
+  "architecture": {
+    "description": "Roof and interior"
+  },
+  "content": [
+    {
+      "description": "abstract forms"
+    }
+  ],
+  "landmark": {
+    "name": "Frankford Transportation Center",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Frankford_Transportation_Center",
+        "label": "wikipedia.org's Frankford Transportation Center page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ftc1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ftc1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ftc2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ftc2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ftc3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ftc3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ftc4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ftc4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

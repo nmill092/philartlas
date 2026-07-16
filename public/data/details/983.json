@@ -1,0 +1,93 @@
+{
+  "id": "983",
+  "title": {
+    "display": "Parkade on 8th",
+    "list": "Parkade on 8th"
+  },
+  "artists": [
+    {
+      "name": "WRT",
+      "externallinks": [
+        {
+          "url": "https://www.wrtdesign.com/",
+          "label": "wrtdesign.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2015"
+    }
+  ],
+  "location": {
+    "latitude": "39.953065",
+    "longitude": "-75.153100",
+    "description": "South side of Arch, spanning 8th"
+  },
+  "architecture": {
+    "description": "Parking garage"
+  },
+  "content": [
+    {
+      "description": "abstract colored forms",
+      "separator": ","
+    },
+    {
+      "description": "lights"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.wrtdesign.com/work/8th-and-filbert-streets-garage",
+      "label": "wrtdesign.com page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/parkade.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/parkade.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/parkade2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/parkade2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/parkade3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/parkade3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/parkade4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/parkade4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

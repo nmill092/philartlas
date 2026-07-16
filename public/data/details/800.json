@@ -1,0 +1,108 @@
+{
+  "id": "800",
+  "title": {
+    "display": "The Three Shades",
+    "list": "Three Shades, The"
+  },
+  "artists": [
+    {
+      "name": "Auguste Rodin",
+      "externallinks": [
+        {
+          "url": "https://www.bronze-gallery.com/sculptors/artist.cfm?sculptorID=47",
+          "label": "bronze-gallery.com's Auguste Rodin page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1886"
+    }
+  ],
+  "yearmodifier": "enlarged 1904, cast 1983",
+  "location": {
+    "latitude": "39.962050",
+    "longitude": "-75.174150",
+    "description": "North side of the Parkway between 21st and 22nd"
+  },
+  "content": [
+    {
+      "description": "three men"
+    },
+    {
+      "description": "standing"
+    }
+  ],
+  "landmark": {
+    "name": "Rodin Museum",
+    "prefix": "West side of the",
+    "externallinks": [
+      {
+        "url": "https://rodinmuseum.org/",
+        "label": "rodinmuseum.org"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rodin_Museum",
+        "label": "wikipedia.org's Rodin Museum page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Three_Shades",
+      "label": "wikipedia.org's The Three Shades page"
+    },
+    {
+      "url": "https://www.flickr.com/photos/wallyg/52670028593",
+      "label": "Wally Gobetz's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/threemen.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/threemen.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/threemen2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/threemen2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/threemen3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/threemen3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/threemen4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/threemen4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

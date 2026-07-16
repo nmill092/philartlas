@@ -1,0 +1,72 @@
+{
+  "id": "1246",
+  "title": {
+    "display": "2116 Chestnut Vent Covers",
+    "list": "2116 Chestnut Vent Covers"
+  },
+  "artists": [
+    {
+      "name": "Hartshorne Plunkard Architecture",
+      "externallinks": [
+        {
+          "url": "https://hparchitecture.com/",
+          "label": "hparchitecture.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "location": {
+    "latitude": "39.952340",
+    "longitude": "-75.176380",
+    "description": "Southwest corner Chestnut and Van Pelt"
+  },
+  "architecture": {
+    "description": "East facing wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "foliage"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://hparchitecture.com/2116-chestnut-groundbreaking/",
+      "label": "architect's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2116ch1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2116ch1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2116ch2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2116ch2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

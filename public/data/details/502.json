@@ -1,0 +1,72 @@
+{
+  "id": "502",
+  "title": {
+    "display": "Zimmerman House",
+    "list": "Zimmerman House"
+  },
+  "years": [
+    {
+      "year": "1911"
+    }
+  ],
+  "location": {
+    "latitude": "39.962975",
+    "longitude": "-75.145450",
+    "description": "North side of Fairmount between 4th and 5th"
+  },
+  "architecture": {
+    "description": "Under the eaves and on the roof"
+  },
+  "content": [
+    {
+      "description": "cattle heads",
+      "separator": ","
+    },
+    {
+      "description": "ball with Z"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.oocities.org/gargoyleppa/zimmerman.html",
+      "label": "The Gargoyle Hunter's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zimmerman1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zimmerman1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zimmerman2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zimmerman2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zimmerman3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zimmerman3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

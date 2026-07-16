@@ -1,0 +1,80 @@
+{
+  "id": "29",
+  "title": {
+    "display": "Art Museum Steps Fountain",
+    "list": "Art Museum Steps Fountain"
+  },
+  "artists": [
+    {
+      "name": "Julian Abele (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Julian_Abele",
+          "label": "wikipedia.org's Julian Abele page"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=eT-ZPZ_BNl8",
+          "label": "youtube.com video of a recorded lecture from the Art Museum about the role of Julian Abele in designing the building"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1928"
+    }
+  ],
+  "location": {
+    "latitude": "39.964950",
+    "longitude": "-75.180100",
+    "description": "25th and the Parkway"
+  },
+  "architecture": {
+    "description": "Along the front steps"
+  },
+  "content": [
+    {
+      "description": "fountain",
+      "separator": ","
+    },
+    {
+      "description": "fish"
+    }
+  ],
+  "landmark": {
+    "name": "Art Museum",
+    "externallinks": [
+      {
+        "url": "https://www.philamuseum.org/",
+        "label": "philamuseum.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amsfou1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amsfou1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amsfou2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amsfou2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "72",
+  "title": {
+    "display": "Civil War Soldiers and Sailors Monument",
+    "list": "Civil War Soldiers and Sailors Monument (West Park)"
+  },
+  "years": [
+    {
+      "year": "1909"
+    }
+  ],
+  "location": {
+    "latitude": "39.985925",
+    "longitude": "-75.215975",
+    "description": "Belmont and South George's"
+  },
+  "inscription": "<br />Dedicated May 8, 1909 to the soldiers and sailors of the Civil War 1861 to 1865<br />Did they succeed<br />Let this monument be their answer<br />  One country and one flag<br />In memory of the members of Courtland Saunders Post No. 21 G.A.R. Dept. PA",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "rifle"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=50762",
+      "label": "phillyhistory.org 1959 picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wpcivilw.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wpcivilw.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

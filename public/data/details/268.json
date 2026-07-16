@@ -1,0 +1,59 @@
+{
+  "id": "268",
+  "title": {
+    "display": "One Logan Square Fountain",
+    "list": "One Logan Square Fountain"
+  },
+  "artists": [
+    {
+      "name": "KPF (Architects)",
+      "externallinks": [
+        {
+          "url": "https://www.kpf.com/",
+          "label": "kpf.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "location": {
+    "latitude": "39.956700",
+    "longitude": "-75.170150",
+    "description": "Northwest corner of 18th and Cherry"
+  },
+  "architecture": {
+    "description": "Courtyard"
+  },
+  "content": [
+    {
+      "description": "fountain"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/One_Logan_Square",
+      "label": "wikipedia.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1logft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1logft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

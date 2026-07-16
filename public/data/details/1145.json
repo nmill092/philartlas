@@ -1,0 +1,77 @@
+{
+  "id": "1145",
+  "title": {
+    "display": "OY/YO",
+    "list": "OY/YO"
+  },
+  "artists": [
+    {
+      "name": "Deborah Kass",
+      "externallinks": [
+        {
+          "url": "https://www.deborahkass.com/",
+          "label": "deborahkass.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2022"
+    }
+  ],
+  "location": {
+    "latitude": "39.950400",
+    "longitude": "-75.148840",
+    "description": "Southeast corner, 5th and Market"
+  },
+  "comments": "Officially temporarily installed for a year, hopefully longer.",
+  "content": [
+    {
+      "description": "idea"
+    }
+  ],
+  "landmark": {
+    "name": "Weitzman National Museum of American Jewish History",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://theweitzman.org/",
+        "label": "theweitzman.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://streetsdept.com/2022/05/02/oy-yo-installed-in-philly",
+      "label": "streetsdept.com article about the installation of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oyyo1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oyyo1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oyyo2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oyyo2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

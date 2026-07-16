@@ -1,0 +1,101 @@
+{
+  "id": "812",
+  "title": {
+    "display": "General George G. Meade Public School Entrance",
+    "list": "General George G. Meade Public School Entrance"
+  },
+  "artists": [
+    {
+      "name": "Irwin T. Catharine (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Irwin_T._Catharine",
+          "label": "wikipedia.org Irwin T. Catharine page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1936"
+    }
+  ],
+  "location": {
+    "latitude": "39.978350",
+    "longitude": "-75.164650",
+    "description": "West side of 18th, North of Oxford"
+  },
+  "architecture": {
+    "description": "East entrance"
+  },
+  "content": [
+    {
+      "description": "partial"
+    },
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "lamps"
+    }
+  ],
+  "landmark": {
+    "name": "Gen. George G. Meade School",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_Meade_School",
+        "label": "wikipedia.org George Meade School page"
+      }
+    ]
+  },
+  "peopleprefix": "School named for",
+  "people": [
+    {
+      "name": "George Gordon Meade",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Meade",
+          "label": "wikipedia.org's George Meade page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meadeschool.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meadeschool.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meadeschool2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meadeschool2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/meadeschool3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/meadeschool3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Southwest"
+    }
+  ]
+}

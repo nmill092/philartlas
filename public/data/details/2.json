@@ -1,0 +1,156 @@
+{
+  "id": "2",
+  "title": {
+    "display": "Abraham Lincoln",
+    "list": "Abraham Lincoln"
+  },
+  "artists": [
+    {
+      "name": "Randolph Rogers",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Randolph_Rogers",
+          "label": "wikipedia.org's Randolph Rogers page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1871"
+    }
+  ],
+  "location": {
+    "latitude": "39.969550",
+    "longitude": "-75.184500",
+    "description": "Kelly Drive and Sedgely Drive"
+  },
+  "comments": "Moved in January 2002 from the middle of Kelly Drive to the North side.",
+  "inscription": "<br />  front:<br />  To Abraham Lincoln from a grateful people  <br>  left:<br />  With malice towards none, with charity towards all, with firmness in the  right as God gives us to see the right, let us finish the work we are in  <br />  back:<br />  Let us here highly resolve that the government of the people. by the people,  and for the people shall not perish from this earth  <br />  right:<br />  I do order and declare that all persons held as slaves within the states in  rebellion are and hence forth shall be free",
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "chair",
+      "separator": ","
+    },
+    {
+      "description": "quill, book",
+      "separator": ","
+    },
+    {
+      "description": "eagles",
+      "separator": ","
+    },
+    {
+      "description": "federal and city seals"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Abraham Lincoln",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+          "label": "wikipedia.org's Abraham Lincoln page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/abraham-lincoln/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lincoln.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lincoln.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lincoln3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lincoln3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lincoln7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lincoln7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lincoln2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lincoln2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lincoln4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lincoln4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lincoln8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lincoln8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lincoln5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lincoln5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lincoln6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lincoln6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

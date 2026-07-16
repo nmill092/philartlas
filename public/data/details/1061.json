@@ -1,0 +1,93 @@
+{
+  "id": "1061",
+  "title": {
+    "display": "Nicetown Park Tiles",
+    "list": "Nicetown Park Tiles"
+  },
+  "location": {
+    "latitude": "40.019400",
+    "longitude": "-75.155760",
+    "description": "East side of Germantown, North of St. Pauls"
+  },
+  "comments": "Many of the tiles are damaged or missing",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "words",
+      "separator": ","
+    },
+    {
+      "description": "abstract images",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "butterflies",
+      "separator": ","
+    },
+    {
+      "description": "earth and sun"
+    }
+  ],
+  "landmark": {
+    "name": "Nicetown Park",
+    "externallinks": [
+      {
+        "url": "https://myphillypark.org/explore/parks/nicetown-park/",
+        "label": "myphillypark.org's Nicetown Park page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaultile1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaultile1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaultile2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaultile2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaultile3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaultile3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stpaultile4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stpaultile4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

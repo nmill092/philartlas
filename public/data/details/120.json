@@ -1,0 +1,63 @@
+{
+  "id": "120",
+  "title": {
+    "display": "Eltanin",
+    "list": "Eltanin"
+  },
+  "artists": [
+    {
+      "name": "Bathsheba Grossman",
+      "externallinks": [
+        {
+          "url": "https://www.bathsheba.com/",
+          "label": "bathsheba.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "location": {
+    "latitude": "39.952650",
+    "longitude": "-75.189875",
+    "description": "Northeast corner of 33rd and Walnut"
+  },
+  "architecture": {
+    "description": "On top of the wall"
+  },
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.bathsheba.com/gallery/commissions/eltanin/",
+      "label": "artist's page for this piece"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/eltanin",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eltanin.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eltanin.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

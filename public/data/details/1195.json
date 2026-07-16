@@ -1,0 +1,54 @@
+{
+  "id": "1195",
+  "title": {
+    "display": "TOOLS Thon TOOLS",
+    "list": "TOOLS Thon TOOLS"
+  },
+  "years": [
+    {
+      "year": "2024"
+    }
+  ],
+  "yearmodifier": "installed as art",
+  "location": {
+    "latitude": "39.967300",
+    "longitude": "-75.165735",
+    "description": "North side of Spring Garden West of 17th"
+  },
+  "comments": "Was around the corner door of the previous building at 1701 Fairmount.  I have not yet found any history of that building online.",
+  "architecture": {
+    "description": "East wall"
+  },
+  "content": [
+    {
+      "description": "actual relocated door frame",
+      "separator": ","
+    },
+    {
+      "description": "company name"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "  https://phillyyimby.com/2023/04/construction-underway-at-1701-fairmount-avenue-in-fairmount-lower-north-philadelphia.html",
+      "label": "phillynimby.com article about the new building that includes a picture of this door frame in its original location"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/toolsthontools.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/toolsthontools.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fairmount"
+    }
+  ]
+}

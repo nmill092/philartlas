@@ -1,0 +1,147 @@
+{
+  "id": "99",
+  "title": {
+    "display": "Dickens and Little Nell",
+    "list": "Dickens and Little Nell"
+  },
+  "artists": [
+    {
+      "name": "Francis Edwin Elwell",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_Edwin_Elwell",
+          "label": "wikipedia.org's Francis Edwin Elwell page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1890"
+    }
+  ],
+  "location": {
+    "latitude": "39.948625",
+    "longitude": "-75.209550",
+    "description": "North side of Chester, West of 43rd"
+  },
+  "content": [
+    {
+      "description": "two people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "one sitting",
+      "separator": ","
+    },
+    {
+      "description": "chair"
+    }
+  ],
+  "landmark": {
+    "name": "Clark Park",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Clark_Park",
+        "label": "wikipedia.org's Clark Park page"
+      }
+    ]
+  },
+  "peopleprefix": "Only known statue of",
+  "people": [
+    {
+      "name": "Charles Dickens",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Dickens",
+          "label": "wikipedia.org's Charles Dickens page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://members.cruzio.com/~varese/dickens/statue.html",
+      "label": "Article about this piece by Martha Rosso"
+    },
+    {
+      "url": " https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=6319",
+      "label": "phillyhistory.org 1910 picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/dickens-and-little-nell/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dickens.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dickens.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dickens2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dickens2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dickens3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dickens3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dickens4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dickens4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dickens5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dickens5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dickens6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dickens6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Cedar Park, Clark Park, Portal"
+    }
+  ]
+}

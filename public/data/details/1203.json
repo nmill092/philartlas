@@ -1,0 +1,116 @@
+{
+  "id": "1203",
+  "title": {
+    "display": "Joey Giardello",
+    "list": "Joey Giardello"
+  },
+  "artists": [
+    {
+      "name": "Carl Levotch",
+      "externallinks": [
+        {
+          "url": "  https://carllevotch.com/",
+          "label": "carllevotch.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2011"
+    }
+  ],
+  "location": {
+    "latitude": "39.926660",
+    "longitude": "-75.167125",
+    "description": "Center of the triangle bounded by 13th, Mifflin, and Passyunk"
+  },
+  "comments": "There are 70 boxers listed on this piece, which exceeds my general guidelines for creating a new person entry.  Individuals other than Giardello are listed in the inscription. ",
+  "inscription": "<br />Joey Giardello  was born Carmine Orlando Tilelli  July 16, 1930  in Brooklyn, NY.  He came to South Philly  and started his 19-year  Hall of Fame Boxing  career in 1948.  Giardello  trained at the Passyunk  Gym once located nearby  at Passyunk and Moore  and posted a professional  record of 101-25-7 against  the greatest boxers of his  era. Giardello won the  world middleweight  championship in 1963 by  defeating Dick Tiger.  <br />  <br >Top 50 South Philly Boxers of Italian Ancestry  <br >Teddy Baldwin,  Carmen Bartolomeo,  Joey Belfiore,  Santa Bucca,  Dan Bucceroni,  Frakie Caris,  Jimmy Carlini,  Frankie Carto,  Nunzio Carto,  Tony Cocco,  Bobby Dean,  Vinnie Decarlo,  Johnny Demarco,  Eddie Dempsey,  Mickey Diamond,  Frankie Donato,  Gus Dorazio,  Joey Falco,  Tony Falco,  Paul Febbo,  Nick Fiorentino,  Joe Flocco,  Vince Forgione,  Johnny Forth,  Tommy Forth,  Joey Giardello,  Eddie Giosa,  Joe Grim,  Tommy Howell,  Eddie Lenny,  Kid Locke,  Johnny Marcelline,  Ray Mitchell,  Tony Morgano,  Battling Murray,  Frankie Murray,  Tony Murray,  Mike Rossman,  Babe Ruth,  Franke Sodano,  Patsy Wallach,  Dick Welsh,  Billy Willis,  Joe Wilton,  Henry Kid Wolfe,  Bobby Wolgast,  Johnny Wolgast,  Midget Wolgast  <br />  <br />Landmark South Philly Boxing Venues  <br />Municipal Stadium, Spectrum,  National A.C., Olympia A.C.  The Alhambra, Toppi Stadium,  Broadway A.C., The Plaza,  Shetzline Park, Mason Hall  <br />  <br />Landmark South Philly Boxing Gyms  <br />Philadelphia Boxing Club,  Passyunk Gym, Juniper Gym,  Southside Gym, Olympia Gym,  Percy Street Gym, Augie's Gym  Pen-Mar, Christian Street YMCA,  Marian Anderson Rec Center  <br />  <br />Twenty South Philly Boxing Legends  <br />Matthew Saad Muhammad,  Tommy Loughran, Jeff Chandler,  Lew Tendler, Yiyi Erne,  Tyrone Everett, Harry Lewis,  Battling Levinsky, Al Trainor,  Tim Witherspoon, Tim Callahan,  Pal Moore, Eddie Kid Wagner,  Billy Arnold, Buster Drayton,  Harry Kid Brown, Johnny Carter,  Danny Dougherty, Mike Evans,  Philadelphia Jack O'Brien  ",
+  "content": [
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "boxing gloves",
+      "separator": ","
+    },
+    {
+      "description": "3 panels of text"
+    }
+  ],
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Joey Giardello",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joey_Giardello",
+          "label": "wikipedia.org's Joey Giardello page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Joey_Giardello_Statue_on_Passyunk_Ave_at_13th_and_McKean_Sts_Philadelphia_PA_%28DSC_3596%29.jpg",
+      "label": "picture of this piece at commons.wikimedia.org"
+    },
+    {
+      "url": "https://www.flickr.com/photos/willceau/6137674334/",
+      "label": "Tina and Joe's picture of this piece at flickr.com"
+    },
+    {
+      "url": "http://www.phillyboxinghistory.com/giardello/joey_home1.htm",
+      "label": "Joey Giardello Statue Project page at phillyboxinghistory.com with pictures of the creative process"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/joeyg1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/joeyg1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/joeyg2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/joeyg2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/joeyg3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/joeyg3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/joeyg4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/joeyg4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

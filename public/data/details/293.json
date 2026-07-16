@@ -1,0 +1,108 @@
+{
+  "id": "293",
+  "title": {
+    "display": "Phoenixtree",
+    "list": "Phoenixtree"
+  },
+  "artists": [
+    {
+      "name": "Christopher T. Ray",
+      "externallinks": [
+        {
+          "url": "http://www.chrisray.com",
+          "label": "chrisray.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "location": {
+    "latitude": "39.958550",
+    "longitude": "-75.199000",
+    "description": "North and East of 39th and Filbert"
+  },
+  "comments": "Title is from the artist's website. Also listed as \"Phoenix Tree\"",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "tree",
+      "separator": ","
+    },
+    {
+      "description": "partial person",
+      "separator": ","
+    },
+    {
+      "description": "bird"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Presbyterian Medical Center",
+    "prefix": "In the traffic circle of the",
+    "externallinks": [
+      {
+        "url": "https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/penn-presbyterian-medical-center",
+        "label": "pennmedicine.org's Penn Presbyterian Medical Center page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "http://www.chrisray.com/commiss/page09.htm",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/phoetree.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/phoetree.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/phoetree2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/phoetree2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/phoetree3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/phoetree3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/phoetree4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/phoetree4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

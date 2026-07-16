@@ -1,0 +1,72 @@
+{
+  "id": "117",
+  "title": {
+    "display": "Elemental Intervals",
+    "list": "Elemental Intervals"
+  },
+  "artists": [
+    {
+      "name": "Bill Freeland",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/philly/obituaries/20090809_A_sculptor_who_forged_links_to_a_previous_era.html",
+          "label": "inquirer.com Bill Freeland obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1986"
+    }
+  ],
+  "location": {
+    "latitude": "39.942960",
+    "longitude": "-75.159500",
+    "description": "North side of South Street between 10th and 11th"
+  },
+  "architecture": {
+    "description": "On the wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "rocks"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/elemental-intervals/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/elint1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/elint1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/elint2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/elint2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

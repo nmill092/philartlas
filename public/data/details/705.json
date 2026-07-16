@@ -1,0 +1,108 @@
+{
+  "id": "705",
+  "title": {
+    "display": "The Funder",
+    "list": "Funder, The"
+  },
+  "artists": [
+    {
+      "name": "Tonnie Jones",
+      "externallinks": [
+        {
+          "url": "https://tahnisart.blogspot.com/",
+          "label": "a tribute to Tonnie Jones on blogspot.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1971"
+    }
+  ],
+  "location": {
+    "latitude": "39.962800",
+    "longitude": "-75.214900",
+    "description": "Christina Place, North of Haverford between 46th and 48th"
+  },
+  "comments": "The funder of this piece was the Philadelphia Redevelopment Authority",
+  "content": [
+    {
+      "description": "parts of people",
+      "separator": ","
+    },
+    {
+      "description": "unidentified creature",
+      "separator": ","
+    },
+    {
+      "description": "serpent",
+      "separator": ","
+    },
+    {
+      "description": "ankh"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/christina1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/christina1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/christina2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/christina2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/christina3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/christina3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/christina4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/christina4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/christina5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/christina5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/christina6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/christina6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

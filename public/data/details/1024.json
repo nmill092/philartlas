@@ -1,0 +1,59 @@
+{
+  "id": "1024",
+  "title": {
+    "display": "Interfaith Symbol",
+    "list": "Interfaith Symbol"
+  },
+  "years": [
+    {
+      "year": "2016"
+    }
+  ],
+  "location": {
+    "latitude": "39.955550",
+    "longitude": "-75.198100",
+    "description": "East side of 38th, North of Chestnut"
+  },
+  "content": [
+    {
+      "description": "symbol"
+    }
+  ],
+  "landmark": {
+    "name": "Episcopal Cathedral",
+    "prefix": "Just South of the",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiacathedral.org/",
+        "label": "philadelphiacathedral.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/interfaith1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/interfaith1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/interfaith2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/interfaith2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

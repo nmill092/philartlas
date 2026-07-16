@@ -1,0 +1,55 @@
+{
+  "id": "1151",
+  "title": {
+    "display": "stikman (Race and Logan Circle)",
+    "list": "stikman (Race and Logan Circle)"
+  },
+  "artists": [
+    {
+      "name": "stikman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stikman",
+          "label": "wikipedia.org's stikman page"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "latitude": "39.957465",
+    "longitude": "-75.171365",
+    "description": "Race and Logan Circle"
+  },
+  "architecture": {
+    "description": "Crosswalk"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "peace sign"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stikmanracelogan.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stikmanracelogan.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

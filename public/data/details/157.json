@@ -1,0 +1,107 @@
+{
+  "id": "157",
+  "title": {
+    "display": "Francisco de Miranda",
+    "list": "Francisco de Miranda"
+  },
+  "artists": [
+    {
+      "name": "Lorenzo Gonzalez",
+      "externallinks": [
+        {
+          "url": "http://vereda.ula.ve/wiki_artevenezolano/index.php/Gonz%C3%A1lez,_Lorenzo",
+          "label": "vereda.ula.ve's Lorenzo Gonzalez page (in Spanish)"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1977"
+    }
+  ],
+  "location": {
+    "latitude": "39.958945",
+    "longitude": "-75.172675",
+    "description": "Northwest of the Southwest corner of 20th and the Parkway"
+  },
+  "comments": "Moved 2017.  Was Northwest of the current location, where the curved end of Winter is now. The first two pictures are from the new location.",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "sword"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Francisco de Miranda",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francisco_de_Miranda",
+          "label": "wikipedia.org Francisco de Miranda page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/46816308",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/francisco-de-miranda/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/venez3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/venez3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/venez4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/venez4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/venez.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/venez.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/venez2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/venez2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

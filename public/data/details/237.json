@@ -1,0 +1,58 @@
+{
+  "id": "237",
+  "title": {
+    "display": "Lion Head Trough",
+    "list": "Lion Head Trough"
+  },
+  "years": [
+    {
+      "year": "1869"
+    }
+  ],
+  "yearmodifier": "relocated 1916",
+  "location": {
+    "latitude": "39.946250",
+    "longitude": "-75.152500",
+    "description": "7th South of Locust"
+  },
+  "content": [
+    {
+      "description": "drinking fountain",
+      "separator": ","
+    },
+    {
+      "description": "lion head"
+    }
+  ],
+  "landmark": {
+    "name": "Washington Square",
+    "prefix": "South side of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Washington_Square_(Philadelphia)",
+        "label": "wikipedia.org's Washington Square page"
+      },
+      {
+        "url": "https://www.nps.gov/parkhistory/online_books/inde/washington_square_clr.pdf",
+        "label": "nps.gov's Cultural Landscape Report for Washington Square (449 page pdf)"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wstrough.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wstrough.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

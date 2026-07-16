@@ -1,0 +1,63 @@
+{
+  "id": "605",
+  "title": {
+    "display": "Earth Sculpture",
+    "list": "Earth Sculpture"
+  },
+  "artists": [
+    {
+      "name": "Bernard Brenner",
+      "externallinks": [
+        {
+          "url": "http://www.chrisray.com/exhibit/show01/index.htm",
+          "label": "Bernard Brenner exhibit at chrisray.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1967"
+    }
+  ],
+  "location": {
+    "latitude": "40.008750",
+    "longitude": "-75.098050",
+    "description": "North side of E. Lycoming, East of Castor"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/earthsculpt1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/earthsculpt1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/earthsculpt2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/earthsculpt2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

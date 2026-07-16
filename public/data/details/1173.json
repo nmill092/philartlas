@@ -1,0 +1,75 @@
+{
+  "id": "1173",
+  "title": {
+    "display": "Pinky",
+    "list": "Pinky"
+  },
+  "artists": [
+    {
+      "name": "Frederick Prescott",
+      "externallinks": [
+        {
+          "url": "https://www.prescottstudio.com/",
+          "label": "prescottstudio.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2021"
+    }
+  ],
+  "location": {
+    "latitude": "40.023380",
+    "longitude": "-75.219995",
+    "description": "West corner, Main and Lock"
+  },
+  "content": [
+    {
+      "description": "flamingo"
+    }
+  ],
+  "landmark": {
+    "name": "Chloe's Corner",
+    "externallinks": [
+      {
+        "url": "https://www.instagram.com/chloescornermyk/",
+        "label": "instagram.com/chloescornermyk"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.phillyvoice.com/manayunk-flamingo-sculpture-chloes-corner-ice-cream-philadelphia/",
+      "label": ""
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flamingo1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flamingo1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flamingo2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flamingo2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Manayunk"
+    }
+  ]
+}

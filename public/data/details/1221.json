@@ -1,0 +1,75 @@
+{
+  "id": "1221",
+  "title": {
+    "display": "WCAU Building",
+    "list": "WCAU Building"
+  },
+  "artists": [
+    {
+      "name": "Harry Sternfeld (Design Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/25411",
+          "label": "philadelphiabuilding.org's Harry Sternfeld page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1932"
+    }
+  ],
+  "location": {
+    "latitude": "39.951310",
+    "longitude": "-75.168190",
+    "description": "South side of Chestnut between 16th and 17th"
+  },
+  "architecture": {
+    "description": "Over the entrance"
+  },
+  "content": [
+    {
+      "description": "radio waves",
+      "separator": ","
+    },
+    {
+      "description": "face",
+      "separator": ","
+    },
+    {
+      "description": "lyre",
+      "separator": ","
+    },
+    {
+      "description": "book",
+      "separator": ","
+    },
+    {
+      "description": "radio microphone?"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/15236",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wcau.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wcau.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

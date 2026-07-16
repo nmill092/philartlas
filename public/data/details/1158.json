@@ -1,0 +1,80 @@
+{
+  "id": "1158",
+  "title": {
+    "display": "The Sculptural Installation for the 40th Street Corridor",
+    "list": "Sculptural Installation for the 40th Street Corridor, The"
+  },
+  "artists": [
+    {
+      "name": "Sandra Webberking",
+      "externallinks": [
+        {
+          "url": "https://sandrawebberking.com/",
+          "label": "sandrawebberking.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "location": {
+    "latitude": "39.959075",
+    "longitude": "-75.201855",
+    "description": "Southeast corner, 40th and Powelton"
+  },
+  "comments": "yellow paint on the base has been removed with Photoshop",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing person"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://whyy.org/articles/new-salvaged-metal-sculpture-at-40th-and-powelton/",
+      "label": "whyy.org article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/40thinstall1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/40thinstall1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/40thinstall2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/40thinstall2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/40thinstall3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/40thinstall3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

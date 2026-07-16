@@ -1,0 +1,58 @@
+{
+  "id": "552",
+  "title": {
+    "display": "Blossom",
+    "list": "Blossom"
+  },
+  "artists": [
+    {
+      "name": "Joe Mooney",
+      "externallinks": [
+        {
+          "url": "https://www.joemooneysculpture.com/",
+          "label": "joemooneysculpture.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1994"
+    }
+  ],
+  "location": {
+    "latitude": "",
+    "longitude": ""
+  },
+  "comments": "Picture contributed by and copyright Joe Mooney. Was on the Woodmere grounds at the corner of Germantown Avenue and Bells Mill Road, but was not found on a visit in late May, 2017.",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "plant form"
+    }
+  ],
+  "landmark": {
+    "name": "Woodmere Art Museum",
+    "prefix": "Grounds of",
+    "externallinks": [
+      {
+        "url": "https://woodmereartmuseum.org/",
+        "label": "woodmereartmuseum.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/blossomjm.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/blossomjm.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

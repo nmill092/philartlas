@@ -1,0 +1,121 @@
+{
+  "id": "198",
+  "title": {
+    "display": "Joan of Arc",
+    "list": "Joan of Arc"
+  },
+  "artists": [
+    {
+      "name": "Emmanuel Fremiet",
+      "externallinks": [
+        {
+          "url": "https://www.bronze-gallery.com/sculptors/artist.cfm?sculptorID=22",
+          "label": "bronze-gallery.com's Emmanuel Fremiet page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1890"
+    }
+  ],
+  "yearmodifier": "installed 1948",
+  "location": {
+    "latitude": "39.966500",
+    "longitude": "-75.179175",
+    "description": "25th and Kelly Drive"
+  },
+  "comments": "According to the APA page this piece was originally installed in the park near the East side of the Girard Avenue Bridge. Most sources list Joan of Arc's dates as 1412-1431.",
+  "inscription": "<br />Jeanne D'Arc<br />1409-1431",
+  "content": [
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "flag",
+      "separator": ","
+    },
+    {
+      "description": "weapons"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Joan of Arc",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+          "label": "wikipedia.org's Joan of Arc page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42866727",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/85642327",
+      "label": "Another Max Buten picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/joan-of-arc/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/joanarc.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/joanarc.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/joanarc2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/joanarc2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/joanarc3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/joanarc3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/joanarc4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/joanarc4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

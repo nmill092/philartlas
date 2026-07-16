@@ -1,0 +1,64 @@
+{
+  "id": "653",
+  "title": {
+    "display": "Three Bears",
+    "list": "Three Bears"
+  },
+  "artists": [
+    {
+      "name": "George Papashvily",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Papashvily",
+          "label": "wikipedia.org's George Papashvily page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1966"
+    }
+  ],
+  "location": {
+    "latitude": "40.076700",
+    "longitude": "-75.081750",
+    "description": "North side of Rhawn St. East of Jeannes"
+  },
+  "comments": "Visible through the fence",
+  "architecture": {
+    "description": "Courtyard"
+  },
+  "content": [
+    {
+      "description": "bears"
+    }
+  ],
+  "landmark": {
+    "name": "Fox Chase Library",
+    "prefix": "Behind the",
+    "externallinks": [
+      {
+        "url": "https://libwww.freelibrary.org/locations/fox-chase-library",
+        "label": "freelibrary.org's Fox Chase Library page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/threebears.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/threebears.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

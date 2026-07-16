@@ -1,0 +1,86 @@
+{
+  "id": "735",
+  "title": {
+    "display": "Driftwood",
+    "list": "Driftwood"
+  },
+  "artists": [
+    {
+      "name": "Harold Kimmelman",
+      "externallinks": [
+        {
+          "url": "http://www.hksculpt.com/",
+          "label": "hksculpt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1981"
+    }
+  ],
+  "location": {
+    "latitude": "39.944550",
+    "longitude": "-75.147375",
+    "description": "North side of Cypress between 3rd and 4th"
+  },
+  "content": [
+    {
+      "description": "driftwood"
+    }
+  ],
+  "landmark": {
+    "name": "Delancey (Three Bears) Park",
+    "prefix": "Back of the parking lot Northeast of",
+    "externallinks": [
+      {
+        "url": "https://www.threebearspark.org/",
+        "label": "threebearspark.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "http://www.hksculpt.com/addedbackpages/newBackpages/Driftwood.htm",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/driftwood1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/driftwood1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/driftwood2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/driftwood2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/driftwood3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/driftwood3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

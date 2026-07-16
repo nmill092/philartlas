@@ -1,0 +1,93 @@
+{
+  "id": "357",
+  "title": {
+    "display": "Spirit of '61",
+    "list": "Spirit of '61"
+  },
+  "artists": [
+    {
+      "name": "Henry Kirke Bush-Brown",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Kirke_Bush-Brown",
+          "label": "wikipedia.org's Henry Kirke Bush-Brown page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1911"
+    }
+  ],
+  "location": {
+    "latitude": "39.949800",
+    "longitude": "-75.164400",
+    "description": "Southwest corner, Broad and Sansom"
+  },
+  "inscription": "<br />First Regiment Infantry National Guard of Pennsylvania<br>(Gray Reserves)<br />1861 - April 19 - 1911",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "rifle"
+    }
+  ],
+  "landmark": {
+    "name": "Union League",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://www.unionleague.org/",
+        "label": "unionleague.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/47098135",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=3504",
+      "label": "phillyhistory.org 1957 picture of the Union League with this piece visible"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/spirit-of-61/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spir61.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spir61.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spir61b.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spir61b.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

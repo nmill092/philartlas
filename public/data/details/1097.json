@@ -1,0 +1,94 @@
+{
+  "id": "1097",
+  "title": {
+    "display": "Goniochome",
+    "list": "Goniochome"
+  },
+  "artists": [
+    {
+      "name": "Softlab",
+      "externallinks": [
+        {
+          "url": "https://soft-lab.com/",
+          "label": "soft-lab.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2019"
+    }
+  ],
+  "location": {
+    "latitude": "39.951600",
+    "longitude": "-75.155300",
+    "description": "Northwest corner, 9th and Market"
+  },
+  "comments": "The artist's page for this piece calls it \"Sequin\", but a sign at the site itself calls it \"Goniochome\".  I don't know if the sign is wrong or the piece changed names.  I'm leaving the name from the sign for now.",
+  "inscription": "<br />Based on the concept of iridescence, this piece was  uniquely designed for the main entrance of Fashion   District.  One of the most well-known examples of this  magical light effect is Antoni Gaudi's Casa Batllo tiled  roof.  \"Just as the scales of a fish absorb different  wavelengths of light to produce a shimmering effect,  our piece uses a series of aluminum fins at varying  color and reflectivity to produce a large lenticular  surface that changes depending on the angle of view.",
+  "architecture": {
+    "description": "Lobby"
+  },
+  "content": [
+    {
+      "description": "collection of abstract colored aluminum fins"
+    }
+  ],
+  "landmark": {
+    "name": "Fashion District Philadelphia",
+    "externallinks": [
+      {
+        "url": "https://fashiondistrictphiladelphia.com/",
+        "label": "fashiondistrictphiladelphia.com"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fashion_District_Philadelphia",
+        "label": "wikipedia.org's page for Fashion District Philadelphia"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://soft-lab.com/project/sequin/",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/goniochome1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/goniochome1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/goniochome2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/goniochome2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/goniochome3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/goniochome3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

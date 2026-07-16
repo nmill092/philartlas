@@ -1,0 +1,56 @@
+{
+  "id": "984",
+  "title": {
+    "display": "Bike Cloud",
+    "list": "Bike Cloud (16th)"
+  },
+  "artists": [
+    {
+      "name": "Ralph Tullie",
+      "externallinks": [
+        {
+          "url": "https://www.linkedin.com/in/ralphjtullie/",
+          "label": "Ralph Tullie's profile on linkedin.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "location": {
+    "latitude": "39.955375",
+    "longitude": "-75.166425",
+    "description": "North of the Northwest corner, 16th, Arch, and the Parkway"
+  },
+  "architecture": {
+    "description": "Bike rack"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "cloud"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bikecloud16.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bikecloud16.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

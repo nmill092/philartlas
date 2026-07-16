@@ -1,0 +1,95 @@
+{
+  "id": "1030",
+  "title": {
+    "display": "St. Clement's Parish House Anchor",
+    "list": "St. Clement's Parish House Anchor"
+  },
+  "artists": [
+    {
+      "name": "Horace Wells Sellers (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/24179",
+          "label": "philadelphiabuildings.org's Horace Wells Sellers page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1906"
+    }
+  ],
+  "location": {
+    "latitude": "39.956550",
+    "longitude": "-75.173230",
+    "description": "South side of Cherry, West of 20th"
+  },
+  "comments": "There are some very small eroded figures under the anchor that look like they might have been symbols of the Gospel writers.",
+  "architecture": {
+    "description": "Front wall"
+  },
+  "content": [
+    {
+      "description": "anchor"
+    },
+    {
+      "description": "(symbol of St. Clement)"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Clement's Church",
+    "prefix": "Parish House.",
+    "externallinks": [
+      {
+        "url": "https://www.s-clements.org/",
+        "label": "s-clements.org"
+      }
+    ]
+  },
+  "peopleprefix": "symbol of and reference to the martyrdom of",
+  "people": [
+    {
+      "name": "Clement of Rome",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Clement_of_Rome",
+          "label": "wikipedia.org's Clement of Rome page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/81485",
+      "label": "philadelphiabuildings.org's page for the Parish House"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/clementanchor2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/clementanchor2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/clementanchor.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/clementanchor.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

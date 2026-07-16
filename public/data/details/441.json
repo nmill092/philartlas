@@ -1,0 +1,91 @@
+{
+  "id": "441",
+  "title": {
+    "display": "Wissahickon Valley Gate",
+    "list": "Wissahickon Valley Gate"
+  },
+  "artists": [
+    {
+      "name": "Christopher T. Ray",
+      "externallinks": [
+        {
+          "url": "http://www.chrisray.com",
+          "label": "chrisray.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "location": {
+    "latitude": "39.951600",
+    "longitude": "-75.169100",
+    "description": "North side of Chestnut, West of 17th"
+  },
+  "architecture": {
+    "description": "Gate"
+  },
+  "content": [
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "owl",
+      "separator": ","
+    },
+    {
+      "description": "insect"
+    }
+  ],
+  "landmark": {
+    "name": "John F. Collins Park",
+    "prefix": "South end of",
+    "externallinks": [
+      {
+        "url": "https://centercityphila.org/parks/john-f-collins-park",
+        "label": "centercityphila.org's John F. Collins Park page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wisgate.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wisgate.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wisgate2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wisgate2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wisgate3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wisgate3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

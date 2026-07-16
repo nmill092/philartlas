@@ -1,0 +1,93 @@
+{
+  "id": "289",
+  "title": {
+    "display": "Philbert the Pig",
+    "list": "Philbert the Pig"
+  },
+  "artists": [
+    {
+      "name": "Eric Berg",
+      "externallinks": [
+        {
+          "url": "https://www.bergbronze.com/",
+          "label": "bergbronze.com"
+        }
+      ]
+    },
+    {
+      "name": "Victoria Davila",
+      "externallinks": [
+        {
+          "url": "https://victoriadavila.com/",
+          "label": "victoriadavila.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1995"
+    }
+  ],
+  "location": {
+    "latitude": "39.953400",
+    "longitude": "-75.159025",
+    "description": "Southeast corner, 12th and Arch"
+  },
+  "comments": "The market is not always open.  Check hours before visiting.",
+  "inscription": "<br />By feeding Philbert you will help improve the health of people in needy communities by providing fresh, nutritious food and nutrition education.  Philbert is sponsored by CoreStates Bank for the benefit of the Reading Terminal Market Trust",
+  "architecture": {
+    "description": "Inside"
+  },
+  "content": [
+    {
+      "description": "pig",
+      "separator": ","
+    },
+    {
+      "description": "food (painted tiles)"
+    }
+  ],
+  "landmark": {
+    "name": "Reading Terminal Market",
+    "externallinks": [
+      {
+        "url": "https://readingterminalmarket.org/",
+        "label": "Reading Terminal Market"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.bergbronze.com/gallery/philbert-the-pig",
+      "label": "bergbronze.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/philber2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/philber2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/philber1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/philber1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "917",
+  "title": {
+    "display": "Object for Expression",
+    "list": "Object for Expression"
+  },
+  "artists": [
+    {
+      "name": "Warren C. Holzman",
+      "externallinks": [
+        {
+          "url": "https://www.ironstudioltd.com/",
+          "label": "ironstudioltd.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2012"
+    }
+  ],
+  "location": {
+    "latitude": "39.940650",
+    "longitude": "-75.162700",
+    "description": "Northwest of the Northwest corner, 12th and Catharine"
+  },
+  "inscription": "<br />for impromptu performances and oration -  <br />in honor of the neighborhood's musical history  <br />and Dr. Martin Luther King Jr.'s   <br />1965 speech at 13th and Fitzwater Streets",
+  "content": [
+    {
+      "description": "podium"
+    }
+  ],
+  "landmark": {
+    "name": "Hawthorne Park",
+    "prefix": "East side of"
+  },
+  "peopleprefix": "In honor of a speech by",
+  "people": [
+    {
+      "name": "Martin Luther King, Jr.",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+          "label": "wikipedia.org's Martin Luther King, Jr. page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://hiddencityphila.org/2012/07/hawthorne-community-park-opens/",
+      "label": "hiddencityphila.org about the opening of the park with pictures of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ofe1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ofe1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ofe2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ofe2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

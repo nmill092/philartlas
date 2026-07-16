@@ -1,0 +1,125 @@
+{
+  "id": "884",
+  "title": {
+    "display": "Reading Terminal Market Signs",
+    "list": "Reading Terminal Market Signs"
+  },
+  "years": [
+    {
+      "year": "2012"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.953600",
+    "longitude": "-75.159450",
+    "description": "South side of Arch East of 12th and East side of 12th between Arch and Filbert"
+  },
+  "architecture": {
+    "description": "West and North walls"
+  },
+  "content": [
+    {
+      "description": "signs:"
+    },
+    {
+      "description": "flowers",
+      "separator": ","
+    },
+    {
+      "description": "food",
+      "separator": ","
+    },
+    {
+      "description": "flatware on a plate",
+      "separator": ","
+    },
+    {
+      "description": "fish",
+      "separator": ","
+    },
+    {
+      "description": "cow",
+      "separator": ","
+    },
+    {
+      "description": "chicken"
+    }
+  ],
+  "landmark": {
+    "name": "Reading Terminal Market",
+    "externallinks": [
+      {
+        "url": "https://readingterminalmarket.org/",
+        "label": "Reading Terminal Market"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rtmsigns1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rtmsigns1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rtmsigns2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rtmsigns2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rtmsigns3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rtmsigns3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rtmsigns4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rtmsigns4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rtmsigns5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rtmsigns5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rtmsigns6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rtmsigns6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

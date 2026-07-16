@@ -1,0 +1,78 @@
+{
+  "id": "963",
+  "title": {
+    "display": "Gravestone of Monsignor Francis J. Ross",
+    "list": "Gravestone of Monsignor Francis J. Ross"
+  },
+  "years": [
+    {
+      "year": "1955"
+    }
+  ],
+  "location": {
+    "latitude": "39.954915",
+    "longitude": "-75.197800"
+  },
+  "comments": "Was on the South side of Chestnut, East of 38th.  Removed November, 2020 or earlier.  Presumably reinterred elsewhere.",
+  "inscription": "<br />Tu es sacerdos in aeternum  <br />Right Reverand Monsignor Francis J. Ross, D.D.  <br />Born June 28, 1885  <br />Ordained Nov. 1, 1911  <br />Died Aug. 6, 1955  <br />Requiscat in pace  ",
+  "architecture": {
+    "description": "Gravestone"
+  },
+  "content": [
+    {
+      "description": "cross",
+      "separator": ","
+    },
+    {
+      "description": "communion chalice",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "landmark": {
+    "name": "St. Agatha - St. James Church",
+    "prefix": "East side of",
+    "externallinks": [
+      {
+        "url": "https://www.saintsaj.org/",
+        "label": "saintsaj.org"
+      }
+    ]
+  },
+  "peopleprefix": "Memorial to Monsignor",
+  "people": [
+    {
+      "name": "Francis J. Ross",
+      "externallinks": [
+        {
+          "url": "https://thecatholicnewsarchive.org/?a=d&d=cst19550812-01.2.11&e=-------en-20--1--txt-txIN--------",
+          "label": "thecatholicnewsarchive.org Msgr. F.J. Ross obituary"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fjross.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fjross.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fjross2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fjross2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "id": "1150",
+  "title": {
+    "display": "Signers Walk",
+    "list": "Signers Walk"
+  },
+  "artists": [
+    {
+      "name": "Franklin Mint",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Franklin_Mint",
+          "label": "wikipedia.org's Franklin Mint page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "yearmodifier": "installed current location 1999",
+  "location": {
+    "latitude": "39.949260",
+    "longitude": "-75.151575",
+    "description": "South side of Chestnut between 6th and 7th"
+  },
+  "comments": "Donated by the Franklin Mint in 1975.  Moved to the current location in 1999.   People listed are those visible June 20, 2022.  Many of the plaques are missing or damaged.  One was covered by a planter.  Preference given here to likenesses of those least represented in the database as of 7/4/2022.",
+  "inscription": "<br />These plaques commemorate the 56 members of the Continental Congress who risked their lives, reputation, and fortunes by signing the Declaration of Independence in 1776 and 1777.",
+  "architecture": {
+    "description": "Sidewalk"
+  },
+  "content": [
+    {
+      "description": "heads",
+      "separator": ","
+    },
+    {
+      "description": "parts of buildings"
+    }
+  ],
+  "peopleprefix": "Plaques with relief busts of",
+  "people": [
+    {
+      "name": "John Adams",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Adams",
+          "label": "wikipedia.org's John Adams page"
+        }
+      ]
+    },
+    {
+      "name": "Samuel Adams",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Samuel_Adams",
+          "label": "wikiedia.org's Samuel Adams page"
+        }
+      ]
+    },
+    {
+      "name": "Carter Braxton",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Carter_Braxton",
+          "label": "wikipedia.org's Carter Braxton page"
+        }
+      ]
+    },
+    {
+      "name": "Charles Carroll",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Carroll_of_Carrollton",
+          "label": "wikipedia.org's Charles Carroll page"
+        }
+      ]
+    },
+    {
+      "name": "George Clymer",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Clymer",
+          "label": "wikipedia.org's George Clymer page"
+        }
+      ]
+    },
+    {
+      "name": "William Floyd",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Floyd",
+          "label": "wikipedia.org's William Floyd page"
+        }
+      ]
+    },
+    {
+      "name": "Elbridge Gerry",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Elbridge_Gerry",
+          "label": "wikipedia.org's Elbridge Gerry page"
+        }
+      ]
+    },
+    {
+      "name": "Button Gwinnett",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Button_Gwinnett",
+          "label": "wikipedia.org's Button Gwinnett page"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Harrison V",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Harrison_V",
+          "label": "wikipedia.org's Benjamin Harrison V page"
+        }
+      ]
+    },
+    {
+      "name": "Joseph Hewes",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Hewes",
+          "label": "wikipedia.org's Joseph Hewes page"
+        }
+      ]
+    },
+    {
+      "name": "William Hooper",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Hooper",
+          "label": "wikipedia.org's William Hooper page"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Jefferson",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+          "label": "wikipedia.org's Thomas Jefferson page"
+        }
+      ]
+    },
+    {
+      "name": "Francis Lightfoot Lee",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_Lightfoot_Lee",
+          "label": "wikipedia.org's Francis Lightfoot Lee page"
+        }
+      ]
+    },
+    {
+      "name": "Philip  Livingston",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Philip_Livingston",
+          "label": "wikipedia.org's Philip Livingston page"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Lynch Jr.",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Lynch_Jr.",
+          "label": "wikipedia.org's Thomas Lynch Jr. page"
+        }
+      ]
+    },
+    {
+      "name": "Thomas McKean",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_McKean",
+          "label": "wikipedia.org's Thomas McKean page"
+        }
+      ]
+    },
+    {
+      "name": "Arthur Middleton",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arthur_Middleton",
+          "label": "wikipedia.org's Arthur Middleton page"
+        }
+      ]
+    },
+    {
+      "name": "Lewis Morris",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lewis_Morris",
+          "label": "wikipedia.org's Lewis Morris page"
+        }
+      ]
+    },
+    {
+      "name": "Robert Morris",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Morris_(financier)",
+          "label": "wikipedia.org's Robert Morris page"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Nelson, Jr.",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Nelson_Jr.",
+          "label": "wikipedia.org's Thomas Nelson, Jr. page"
+        }
+      ]
+    },
+    {
+      "name": "William Paca",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Paca",
+          "label": "wikipedia.org's William Paca page"
+        }
+      ]
+    },
+    {
+      "name": "Robert Treat Paine",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Treat_Paine",
+          "label": "wikipedia.org's Robert Treat Paine page"
+        }
+      ]
+    },
+    {
+      "name": "Caesar Rodney",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Caesar_Rodney",
+          "label": "wikipedia.org's Caesar Rodney page"
+        }
+      ]
+    },
+    {
+      "name": "George Ross",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Ross_(American_politician)",
+          "label": "wikipedia.org's George Ross page"
+        }
+      ]
+    },
+    {
+      "name": "Edward Rutledge",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Edward_Rutledge",
+          "label": "wikipedia.org's Edward Rutledge page"
+        }
+      ]
+    },
+    {
+      "name": "Roger Sherman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Roger_Sherman",
+          "label": "wikipedia.org's Roger Sherman page"
+        }
+      ]
+    },
+    {
+      "name": "James Smith",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician)",
+          "label": "wikipedia.org's James Smith page"
+        }
+      ]
+    },
+    {
+      "name": "George Taylor",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Taylor_(Pennsylvania_politician)",
+          "label": "wikipedia.org's George Taylor page"
+        }
+      ]
+    },
+    {
+      "name": "William Williams",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Williams_(Connecticut_politician)",
+          "label": "wikipedia.org's William Williams page"
+        }
+      ]
+    },
+    {
+      "name": "John Witherspoon",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Witherspoon",
+          "label": "wikipedia.org's John Witherspoon page"
+        }
+      ]
+    },
+    {
+      "name": "George Wythe",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Wythe",
+          "label": "wikipedia.org's George Wythe page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.inquirer.com/news/philadelphia/declaration-independence-signers-plaques-chestnut-street-20210703.html",
+      "label": "inquirer.com article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalksamadams.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalksamadams.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkbraxton.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkbraxton.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkclymer.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkclymer.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkfloyd.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkfloyd.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkgerry.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkgerry.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkgwinnett.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkgwinnett.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkhewes.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkhewes.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkllee.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkllee.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalknelson.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalknelson.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkrobertpaine.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkrobertpaine.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkrodney.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkrodney.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkross.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkross.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalksherman.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalksherman.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalksmith.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalksmith.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalktaylor.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalktaylor.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fwalkwilliams.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fwalkwilliams.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}
