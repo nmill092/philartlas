@@ -25690,22 +25690,6 @@
     },
     {
       "type": "Feature",
-      "id": "90",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.167485,
-          39.957567
-        ]
-      },
-      "properties": {
-        "id": "90",
-        "name": "Cross",
-        "neighborhood": "Logan Square"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "900",
       "geometry": {
         "type": "Point",
