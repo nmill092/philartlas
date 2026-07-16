@@ -1,0 +1,98 @@
+{
+  "id": "803",
+  "title": {
+    "display": "Adam",
+    "list": "Adam"
+  },
+  "artists": [
+    {
+      "name": "Auguste Rodin",
+      "externallinks": [
+        {
+          "url": "https://www.bronze-gallery.com/sculptors/artist.cfm?sculptorID=47",
+          "label": "bronze-gallery.com's Auguste Rodin page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1880"
+    },
+    {
+      "year": "1881"
+    }
+  ],
+  "yearmodifier": "cast 1925",
+  "location": {
+    "latitude": "39.961675",
+    "longitude": "-75.174500",
+    "description": "North side of the Parkway between 21st and 22nd"
+  },
+  "architecture": {
+    "description": "West side of the gateway wall"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Rodin Museum",
+    "externallinks": [
+      {
+        "url": "https://rodinmuseum.org/",
+        "label": "rodinmuseum.org"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rodin_Museum",
+        "label": "wikipedia.org's Rodin Museum page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Adam",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adam",
+          "label": "wikipedia.org's Adam page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.rodinmuseum.org/collections/permanent/103357.html?mulR=9037|1",
+      "label": "rodinmuseum.org entry for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/adam.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/adam.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/adam2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/adam2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

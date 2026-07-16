@@ -1,0 +1,131 @@
+{
+  "id": "1012",
+  "title": {
+    "display": "Arches of Resurgence",
+    "list": "Arches of Resurgence"
+  },
+  "artists": [
+    {
+      "name": "Michael Morgan",
+      "externallinks": [
+        {
+          "url": "https://www.brickworksmichaelmorgan.com/",
+          "label": "brickworksmichaelmorgan.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "location": {
+    "latitude": "39.992350",
+    "longitude": "-75.186075",
+    "description": "Southeast corner, 33rd and Ridge"
+  },
+  "comments": "The inscription is based on the John Coltrane quote: \"I've found you've got to look back at the old things and see them in a new light.\" ",
+  "inscription": "<br />look back at the old things and see them  <br />back at the old things and them in a  <br />in a new light John Coltrane - look",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "arches",
+      "separator": ","
+    },
+    {
+      "description": "idea"
+    }
+  ],
+  "landmark": {
+    "name": "33rd and Dauphin Bus Loop",
+    "externallinks": [
+      {
+        "url": "https://whyy.org/articles/ahead-of-schedule-with-funding-to-spare-septa-unveils-renovated-bus-loop/",
+        "label": "whyy.org article about the 33rd and Dauphin Bus Loop"
+      }
+    ]
+  },
+  "peopleprefix": "Reference to",
+  "people": [
+    {
+      "name": "John Coltrane",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Coltrane",
+          "label": "wikipedia.org's John Coltrane page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.brickworksmichaelmorgan.com/archesofresurgence/",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/arches1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/arches1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/arches2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/arches2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/arches3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/arches3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/arches4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/arches4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/arches5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/arches5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/arches6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/arches6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

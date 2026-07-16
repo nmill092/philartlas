@@ -1,0 +1,91 @@
+{
+  "id": "196",
+  "title": {
+    "display": "Jerusalem Stabile",
+    "list": "Jerusalem Stabile"
+  },
+  "artists": [
+    {
+      "name": "Alexander Calder",
+      "externallinks": [
+        {
+          "url": "https://www.calder.org/",
+          "label": "calder.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.952025",
+    "longitude": "-75.192660",
+    "description": "South of Woodland Walk, West of 34th"
+  },
+  "comments": "Moved several yards East since it was first installed.  The last picture is from the original location.",
+  "content": [
+    {
+      "description": "abstract forms"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42869830",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/jerusalem-stabile",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jerusal2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jerusal2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jerusal3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jerusal3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jerusal4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jerusal4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jerusal.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jerusal.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

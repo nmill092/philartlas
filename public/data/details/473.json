@@ -1,0 +1,63 @@
+{
+  "id": "473",
+  "title": {
+    "display": "Ramonita G. de Rodriguez Library Fascia",
+    "list": "Ramonita G. de Rodriguez Library Fascia"
+  },
+  "artists": [
+    {
+      "name": "Joseph J. Greenberg, Jr.",
+      "externallinks": [
+        {
+          "url": "https://www.nytimes.com/1991/04/12/obituaries/joseph-j-greenberg-sculptor-75.html",
+          "label": "nytimes.com Joseph J. Greenberg obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1968"
+    }
+  ],
+  "yearmodifier": "date of building",
+  "location": {
+    "latitude": "39.970200",
+    "longitude": "-75.146650",
+    "description": "Southwest corner 6th and Girard"
+  },
+  "architecture": {
+    "description": "Fascia"
+  },
+  "content": [
+    {
+      "description": "abstract relief"
+    }
+  ],
+  "landmark": {
+    "name": "Ramonita G. de Rodriguez Library",
+    "externallinks": [
+      {
+        "url": "https://libwww.freelibrary.org/locations/ramonita-g-de-rodriguez-library",
+        "label": "freelibrary.org's Ramonita G. de Rodriguez Library page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rgrlbf.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rgrlbf.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

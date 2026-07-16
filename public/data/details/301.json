@@ -1,0 +1,85 @@
+{
+  "id": "301",
+  "title": {
+    "display": "Pompeian Dancing Satyr",
+    "list": "Pompeian Dancing Satyr"
+  },
+  "years": [
+    {
+      "year": "1904"
+    }
+  ],
+  "location": {
+    "latitude": "39.949630",
+    "longitude": "-75.191610",
+    "description": "South side of South, just East of 33rd"
+  },
+  "comments": "Listed as a reproduction, no artist",
+  "architecture": {
+    "description": "Upper (West) courtyard"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "(satyr)"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Museum",
+    "externallinks": [
+      {
+        "url": "https://www.penn.museum/",
+        "label": "penn.museum"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/satyr.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/satyr.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/satyr2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/satyr2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/satyr3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/satyr3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/satyr4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/satyr4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

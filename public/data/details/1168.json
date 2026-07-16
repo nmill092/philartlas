@@ -1,0 +1,78 @@
+{
+  "id": "1168",
+  "title": {
+    "display": "Veterans Stadium Liberty Bell",
+    "list": "Veterans Stadium Liberty Bell"
+  },
+  "artists": [
+    {
+      "name": "Cima Network",
+      "externallinks": [
+        {
+          "url": "https://cimanetwork.com/",
+          "label": "cimanetwork.com"
+        }
+      ]
+    },
+    {
+      "name": "Cutler Sign Advertising"
+    },
+    {
+      "name": "Paul Hlywiak"
+    },
+    {
+      "name": "Peter Hlywiak"
+    }
+  ],
+  "years": [
+    {
+      "year": "2019"
+    }
+  ],
+  "yearmodifier": "refurbished, repainted, and installed, originally built 1983",
+  "location": {
+    "latitude": "39.904910",
+    "longitude": "-75.167950",
+    "description": "North side of Pattison East of Broad."
+  },
+  "comments": "artist attributions are based on a 4/12/2019 article in <i>The Athletic</i> by Matt Gelb",
+  "inscription": "<br />  Recognizing the historical significance of the Liberty Bell<br />  to Philadelphia and to the nation, the Phillies have often<br />  incorporated the iconic symbol into their team logo and<br />  ballparks throughout the years.  The replica Liberty Bell<br />  that stands here is the second and final bell that was<br />  displayed at Veterans Stadium, the Phillies home from<br />  1971 to 2003.  Installed on the Vet's catwalk prior to the<br />  1983 season, the steel and aluminum bell weighs more than<br />  5,000 pounds, covers roughly 270 square feet and features<br />  over 300 light bulbs.  It remained, high above center field,<br />  for 21 seasons until its removal in preparation for the<br />  stadium's implosion after the 2003 baseball season.  The<br />  bell was refurbished and placed here in March of 2019 just<br />  outside Pass and Stow, a name that derives from the two<br />  Philadelphia foundry workers, John Pass and John Stow,<br />   who re-cast the original Liberty Bell in 1753 and whose<br />  names are inscribed on this important part of history.",
+  "content": [
+    {
+      "description": "bell"
+    }
+  ],
+  "landmark": {
+    "name": "Citizens Bank Park",
+    "prefix": "Southwest entrance",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Citizens_Bank_Park",
+        "label": "wikipedia.org's Citizens Bank Park Page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://theathletic.com/920243/2019/04/12/the-veterans-stadium-liberty-bells-strange-and-joyous-journey-from-a-south-philly-warehouse-back-to-the-ballpark/",
+      "label": "article in <i>The Athletic</i>"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/vetbell.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/vetbell.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "218",
+  "title": {
+    "display": "Gatekeepers",
+    "list": "Gatekeepers"
+  },
+  "artists": [
+    {
+      "name": "Andrea Zemel",
+      "externallinks": [
+        {
+          "url": "https://iliad.nyc/contemporary-art/andrea-zemel/",
+          "label": "iliad.nyc's Andrea Zemel page"
+        },
+        {
+          "url": "https://collaborativehistory.gse.upenn.edu/stories/past-recaptured-honoring-memory-black-bottom",
+          "label": "upenn.edu article The Past Recaptured: Honoring the Memory of the Black Bottom begins with Andrea Zemel's pieces"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1997"
+    }
+  ],
+  "yearmodifier": "from the artist's CV, also listed as 1998",
+  "location": {
+    "latitude": "39.957350",
+    "longitude": "-75.194225"
+  },
+  "comments": "A collaborative project with Penn and University City High School students, it was located on the West side of 36th, North of Market, at the Southwest corner of the High School, which was torn down in 2015",
+  "inscription": "Knowledge is Power",
+  "content": [
+    {
+      "description": "hand",
+      "separator": ","
+    },
+    {
+      "description": "book"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/knispow.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/knispow.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

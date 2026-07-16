@@ -1,0 +1,86 @@
+{
+  "id": "1273",
+  "title": {
+    "display": "Memorial to Victims of Sexual Abuse",
+    "list": "Memorial to Victims of Sexual Abuse"
+  },
+  "years": [
+    {
+      "year": "2026"
+    }
+  ],
+  "location": {
+    "latitude": "40.075995",
+    "longitude": "-75.080605",
+    "description": "North side yof Rhawn at Ridgeway"
+  },
+  "inscription": "<br />front:   <br />\"The light shines in the darkness, and the darkness did not overcome it.\" John:1-5  <br />This light burns to honor all victims of sexual abuse by clergy and others at our parish,  throughout the Archdiocese of Philadelphia, and throughout the nation.  <br />May their light burn brightly as we protect our children and all that are vulnerable.  <br />left:   <br />I had to forgive a person who wasn't even sorry.  That is strength.   <br />A Survivor  <br />right:   <br .<Truth will always be the truth even if no one believes it.  <br />You are not alone.  Our parish believes you.  We are sorry.  We stand with you.",
+  "content": [
+    {
+      "description": "words",
+      "separator": ","
+    },
+    {
+      "description": "light"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Cecilia Church",
+    "prefix": "In front of the Southeast corner of",
+    "externallinks": [
+      {
+        "url": "https://stceciliafc.org/",
+        "label": "stceciliafc.org"
+      }
+    ]
+  },
+  "peopleprefix": "quote from the Gospel of",
+  "people": [
+    {
+      "name": "Saint John",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_the_Evangelist",
+          "label": "wikipedia.org's John the Evangelist page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stcmemorial1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stcmemorial1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stcmemorial2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stcmemorial2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stcmemorial3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stcmemorial3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

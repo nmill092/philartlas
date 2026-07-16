@@ -1,0 +1,117 @@
+{
+  "id": "267",
+  "title": {
+    "display": "Old Man, Young Man, The Future",
+    "list": "Old Man, Young Man, The Future"
+  },
+  "artists": [
+    {
+      "name": "Leonard Baskin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Leonard_Baskin",
+          "label": "wikipedia.org's Leonard Baskin page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1966"
+    }
+  ],
+  "location": {
+    "latitude": "39.945225",
+    "longitude": "-75.144875",
+    "description": "2nd Street North of Spruce"
+  },
+  "comments": "Also known as <i>Society Hill Sculpture</i>. The picture of the Webmaster sitting on the Old Man is copyright Joan Anderson, 1972",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "sitting person",
+      "separator": ","
+    },
+    {
+      "description": "bird"
+    }
+  ],
+  "landmark": {
+    "name": "Society Hill Towers",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=C3131099-95B5-4EBF-A187F838061430A9",
+        "label": "philadelphiabuildings.org's Society Hill Towers page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/old-man-young-man-the-future/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sochill.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sochill.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sochill2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sochill2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sochill3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sochill3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sochill4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sochill4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oldmancp.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oldmancp.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

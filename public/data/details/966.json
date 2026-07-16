@@ -1,0 +1,82 @@
+{
+  "id": "966",
+  "title": {
+    "display": "Powelton Village Playground Entrance",
+    "list": "Powelton Village Playground Entrance"
+  },
+  "years": [
+    {
+      "year": "2000"
+    }
+  ],
+  "location": {
+    "latitude": "39.960150",
+    "longitude": "-75.192325",
+    "description": "Northeast corner, 35th and Powelton"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "arch",
+      "separator": ","
+    },
+    {
+      "description": "live plants"
+    }
+  ],
+  "landmark": {
+    "name": "Powelton Village Playground"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pvp.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pvp.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pvp2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pvp2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pvp3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pvp3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pvp4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pvp4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "712",
+  "title": {
+    "display": "Rock Chair",
+    "list": "Rock Chair"
+  },
+  "artists": [
+    {
+      "name": "Scott Burton",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Scott_Burton",
+          "label": "wikipedia.org's Scott Burton page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1981"
+    }
+  ],
+  "location": {
+    "latitude": "39.967175",
+    "longitude": "-75.181450",
+    "description": "Anne d'Harnocourt Drive (25th and Kelly Drive to the Spring Garden Bridge)"
+  },
+  "content": [
+    {
+      "description": "chair"
+    }
+  ],
+  "landmark": {
+    "name": "Anne d'Harnoncourt Sculpture Garden",
+    "prefix": "In the",
+    "externallinks": [
+      {
+        "url": "https://www.theolinstudio.com/anne-dharnoncourt-sculpture-garden",
+        "label": "theolinstudio.com's Anne d'Harnoncourt Sculpture Garden page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.instagram.com/williamcookestudio/p/COC_OOplE60/",
+      "label": "William Cooke Studio's picture of a different Rock Chair by the same artist at instagram.com"
+    },
+    {
+      "url": "https://www.flickr.com/photos/hanneorla/3145757225",
+      "label": "Hanne Therkildsen's picture of a different Rock Chair by the same artist at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rockchair.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rockchair.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "817",
+  "title": {
+    "display": "Mitten Hall",
+    "list": "Mitten Hall"
+  },
+  "artists": [
+    {
+      "name": "William Harold Lee (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Harold_Lee",
+          "label": "wikipedia.org's William Harold Lee page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1931"
+    }
+  ],
+  "location": {
+    "latitude": "39.981900",
+    "longitude": "-75.156900",
+    "description": "East side of Broad, South of Norris"
+  },
+  "comments": "Pictures have been significantly color altered to show detail.  Owls carved at the corners and reliefs on the South wall are not yet pictured.  ",
+  "architecture": {
+    "description": "West wall"
+  },
+  "content": [
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting and horizontal",
+      "separator": ","
+    },
+    {
+      "description": "partial"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "sun, moon and stars",
+      "separator": ","
+    },
+    {
+      "description": "telescope",
+      "separator": ","
+    },
+    {
+      "description": "flying horse",
+      "separator": ","
+    },
+    {
+      "description": "castle",
+      "separator": ","
+    },
+    {
+      "description": "symbols"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.wrti.com/wrtifriend/mittenhall.html",
+      "label": "Gerry Wilkinson's Mitten Hall page on wrti.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mitten1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mitten1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mitten2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mitten2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mitten3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mitten3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Campus"
+    }
+  ]
+}

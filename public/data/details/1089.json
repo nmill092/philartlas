@@ -1,0 +1,113 @@
+{
+  "id": "1089",
+  "title": {
+    "display": "When I was Hungry and Thirsty",
+    "list": "When I was Hungry and Thirsty"
+  },
+  "artists": [
+    {
+      "name": "Timothy Schmalz",
+      "externallinks": [
+        {
+          "url": "https://www.sculpturebytps.com/",
+          "label": "sculpturebytps.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2017"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.955750",
+    "longitude": "-75.198070",
+    "description": "East side of 38th, North of Chestnut"
+  },
+  "comments": "Only one of the casts pictured on the artist's site includes the plate and chalice.",
+  "inscription": "<br />The Hungry and Thirsty Jesus  <br />Matthew 25:35  <br />For I was hungry and you gave me something to eat,  I was thirsty and you gave me something to drink,  I was a stranger and you invited me in...",
+  "content": [
+    {
+      "description": "sitting person",
+      "separator": ","
+    },
+    {
+      "description": "head covered",
+      "separator": ","
+    },
+    {
+      "description": "chalice and plate",
+      "separator": ","
+    },
+    {
+      "description": "Christian symbolism"
+    }
+  ],
+  "landmark": {
+    "name": "Episcopal Cathedral",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiacathedral.org/",
+        "label": "philadelphiacathedral.org"
+      }
+    ]
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.sculpturebytps.com/portfolio_page/when-i-was-hungry-thirsty/",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wheniwas1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wheniwas1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wheniwas2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wheniwas2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wheniwas3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wheniwas3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

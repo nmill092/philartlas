@@ -1,0 +1,52 @@
+{
+  "id": "603",
+  "title": {
+    "display": "Eagle",
+    "list": "Eagle (Tioga L Station)"
+  },
+  "years": [
+    {
+      "year": "1922"
+    }
+  ],
+  "location": {
+    "latitude": "40.000140",
+    "longitude": "-75.106450",
+    "description": "Kensington and Tioga"
+  },
+  "architecture": {
+    "description": "Tioga Station entrance"
+  },
+  "content": [
+    {
+      "description": "eagle"
+    }
+  ],
+  "landmark": {
+    "name": "Harrowgate Park",
+    "prefix": "North corner"
+  },
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tioga_station",
+      "label": "wikipedia.org's Tioga Station page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tiogael.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tiogael.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

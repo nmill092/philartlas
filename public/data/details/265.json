@@ -1,0 +1,260 @@
+{
+  "id": "265",
+  "title": {
+    "display": "N.W. Ayer Building",
+    "list": "N.W. Ayer Building"
+  },
+  "artists": [
+    {
+      "name": "Ralph Bowden Bencker (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22266",
+          "label": "philadelphiabuildings.org's Ralph Bowden Bencker page"
+        }
+      ]
+    },
+    {
+      "name": "J. Wallace Kelly",
+      "externallinks": [
+        {
+          "url": "https://bucksco.michenerartmuseum.org/artists/j-wallace-kelly/",
+          "label": "michenermuseum.org's J. Wallace Kelly Page"
+        }
+      ]
+    },
+    {
+      "name": "Raphael Sabatini",
+      "externallinks": [
+        {
+          "url": "https://www.askart.com/artist/Raphael_Sabatini/120269/Raphael_Sabatini.aspx",
+          "label": "askart.com's Raphael Sabatini page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1929"
+    }
+  ],
+  "location": {
+    "latitude": "39.947250",
+    "longitude": "-75.153400",
+    "description": "210 West Washington Square (West side of 7th, South of Walnut)"
+  },
+  "comments": "There are two large figures on each of the four corners of the building that are best seen from a block away.",
+  "architecture": {
+    "description": "Doors and upper walls"
+  },
+  "content": [
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "seated people",
+      "separator": ","
+    },
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "furniture",
+      "separator": ","
+    },
+    {
+      "description": "sun",
+      "separator": ","
+    },
+    {
+      "description": "swords",
+      "separator": ","
+    },
+    {
+      "description": "books",
+      "separator": ","
+    },
+    {
+      "description": "publishing equipment",
+      "separator": ","
+    },
+    {
+      "description": "implications of building interiors",
+      "separator": ","
+    },
+    {
+      "description": "zodiac signs",
+      "separator": ","
+    },
+    {
+      "description": "ram",
+      "separator": ","
+    },
+    {
+      "description": "crab",
+      "separator": ","
+    },
+    {
+      "description": "centaur"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/1997",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer14.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer14.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer15.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer15.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer10.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer10.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer11.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer11.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nwayer12.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nwayer12.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1082",
+  "title": {
+    "display": "Daisy",
+    "list": "Daisy"
+  },
+  "artists": [
+    {
+      "name": "Rebecca Hoenig",
+      "externallinks": [
+        {
+          "url": "http://rebeccahoenig.com",
+          "label": "rebeccahoenig.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "location": {
+    "latitude": "40.074260",
+    "longitude": "-75.202615",
+    "description": "Southampton, Northeast of Germantown, across the parking lot"
+  },
+  "architecture": {
+    "description": "Roof"
+  },
+  "content": [
+    {
+      "description": "pig"
+    },
+    {
+      "description": "painted with a flower"
+    }
+  ],
+  "landmark": {
+    "name": "Market at the Fareway",
+    "externallinks": [
+      {
+        "url": "https://www.marketatthefareway.com/",
+        "label": "marketatthefareway.com"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "http://rebeccahoenig.com/www.web.me.com_rebeccahoenig/Noteworthy.html",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/daisy1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/daisy1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/daisy2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/daisy2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

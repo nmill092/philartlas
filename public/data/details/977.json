@@ -1,0 +1,66 @@
+{
+  "id": "977",
+  "title": {
+    "display": "Bike Cloud",
+    "list": "Bike Cloud (Kimmel Center)"
+  },
+  "artists": [
+    {
+      "name": "Ralph Tullie",
+      "externallinks": [
+        {
+          "url": "https://www.linkedin.com/in/ralphjtullie/",
+          "label": "Ralph Tullie's profile on linkedin.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "location": {
+    "latitude": "39.946630",
+    "longitude": "-75.164980",
+    "description": "West side of Broad, South of Spruce"
+  },
+  "architecture": {
+    "description": "Bike rack"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "cloud"
+    }
+  ],
+  "landmark": {
+    "name": "Kimmel Center",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://www.ensembleartsphilly.org/plan-your-visit/our-venues/kimmel-center",
+        "label": "ensembleartsphilly.org's Kimmel Center page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bikecloudk.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bikecloudk.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

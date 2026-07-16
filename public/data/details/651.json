@@ -1,0 +1,62 @@
+{
+  "id": "651",
+  "title": {
+    "display": "Children Playing",
+    "list": "Children Playing"
+  },
+  "artists": [
+    {
+      "name": "Sarala Ruth Pinto"
+    }
+  ],
+  "years": [
+    {
+      "year": "1969"
+    }
+  ],
+  "location": {
+    "latitude": "40.095190",
+    "longitude": "-74.989775",
+    "description": "Northeast side of Comly between Decatur and Thornton"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "balls"
+    }
+  ],
+  "landmark": {
+    "name": "Palmer Playground"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/palmer1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/palmer1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/palmer2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/palmer2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

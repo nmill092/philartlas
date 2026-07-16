@@ -1,0 +1,67 @@
+{
+  "id": "608",
+  "title": {
+    "display": "Puma",
+    "list": "Puma (Berg)"
+  },
+  "artists": [
+    {
+      "name": "Eric Berg",
+      "externallinks": [
+        {
+          "url": "https://www.bergbronze.com/",
+          "label": "bergbronze.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "location": {
+    "latitude": "39.963625",
+    "longitude": "-75.187800",
+    "description": "North side of Spring Garden, West of 31st"
+  },
+  "comments": "Visible through the fence",
+  "content": [
+    {
+      "description": "puma"
+    }
+  ],
+  "landmark": {
+    "name": "Caring Center",
+    "prefix": "Playground of the",
+    "externallinks": [
+      {
+        "url": "",
+        "label": "thecaringcenter.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.bergbronze.com/gallery/puma",
+      "label": "berbronze.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/puma.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/puma.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

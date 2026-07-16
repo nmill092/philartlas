@@ -1,0 +1,80 @@
+{
+  "id": "830",
+  "title": {
+    "display": "Curve I",
+    "list": "Curve I"
+  },
+  "artists": [
+    {
+      "name": "Ellsworth Kelly",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ellsworth_Kelly",
+          "label": "wikipedia.org's Ellsworth Kelly page"
+        },
+        {
+          "url": "https://ellsworthkelly.org/",
+          "label": "ellsworthkelly.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1973"
+    }
+  ],
+  "location": {
+    "latitude": "39.966825",
+    "longitude": "-75.181625",
+    "description": "Anne d'Harnocourt Drive (25th and Kelly Drive to the Spring Garden Bridge)"
+  },
+  "content": [
+    {
+      "description": "geometric steel plate"
+    }
+  ],
+  "landmark": {
+    "name": "Anne d'Harnoncourt Sculpture Garden",
+    "prefix": "On the street side of the",
+    "externallinks": [
+      {
+        "url": "https://www.theolinstudio.com/anne-dharnoncourt-sculpture-garden",
+        "label": "theolinstudio.com's Anne d'Harnoncourt Sculpture Garden page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://ellsworthkelly.org/work/curve-i/",
+      "label": "ellsworthkelly.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/curve1a.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/curve1a.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/curve1b.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/curve1b.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

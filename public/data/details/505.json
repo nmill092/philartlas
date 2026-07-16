@@ -1,0 +1,83 @@
+{
+  "id": "505",
+  "title": {
+    "display": "Alexander Milne Calder Plaque",
+    "list": "Alexander Milne Calder Plaque"
+  },
+  "years": [
+    {
+      "year": "2007"
+    }
+  ],
+  "location": {
+    "latitude": "39.953050",
+    "longitude": "-75.163500",
+    "description": "South side of JFK at Broad"
+  },
+  "inscription": "<br />Alexander Milne Calder  <br />Sculptor - 1846-1923  <br />  Alexander Milne Calder emigrated from Scotland in 1868 and  spent twenty years creating over 250 sculptures that adorn City  Hall.  His bronze <i>William Penn</i>, installed atop the tower in 1894,  is thought to be the largest sculpture on top of a building at 37 feet  tall and 27 tons.  Calder's son and grandson were also sculptors:  Alexander Stirling Calder's <i<Swann Memorial Fountain</i> is located in  Logan Circle and Alexander \"Sandy\" Calder's monumental <i>Ghost</i>  mobile hangs in the Grand Stair of the Philadelphia Museum of Art.  <br />  Below <i>William Penn</i> are eight colossal bronzes of Native  Americans, Swedish settlers and eagles.  Allegorical sculptures  on the building represent history, peoples of the world and nature,  and collectively symbolize the spirit upon which the United States  was founded.  <br />  Generations of Philadelphians have identified City Hall tower as  the symbol of their city.  The tower is visible for miles and remains  the physical and civic heart of Philadelphia.  <br />  Creation of this plaque was funded by the Pew Charitable Trusts.  ",
+  "architecture": {
+    "description": "On the wall."
+  },
+  "content": [
+    {
+      "description": "head and upper torso",
+      "separator": ","
+    },
+    {
+      "description": "hat"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "East side of the North entrance of",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "bas-relief bust of",
+  "people": [
+    {
+      "name": "Alexander Milne Calder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexander_Milne_Calder",
+          "label": "wikipedia.org's Alexander Milne Calder page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amcalder1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amcalder1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/amcalder2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/amcalder2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

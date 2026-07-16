@@ -1,0 +1,78 @@
+{
+  "id": "878",
+  "title": {
+    "display": "Zoo Sign",
+    "list": "Zoo Sign"
+  },
+  "artists": [
+    {
+      "name": "Gecko Group",
+      "externallinks": [
+        {
+          "url": "https://www.geckogroup.com/",
+          "label": "geckogroup.com"
+        },
+        {
+          "url": "https://www.geckogroup.com/portfolio/philadelphia-zoo-entrance-sign-and-garage-signage",
+          "label": "geckogroup.com's page for their work at the Zoo"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "location": {
+    "latitude": "39.974975",
+    "longitude": "-75.195250",
+    "description": "West side of 34th, South of Girard"
+  },
+  "content": [
+    {
+      "description": "sign",
+      "separator": ","
+    },
+    {
+      "description": "logo",
+      "separator": ","
+    },
+    {
+      "description": "cat"
+    }
+  ],
+  "landmark": {
+    "name": "Zoo",
+    "prefix": "Northeast corner of the",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiazoo.org/",
+        "label": "philadelphiazoo.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://signsofthetimes.com/l-h-signs-philadelphia-zoo-sign-gives-facility-wild-factor/",
+      "label": "signofthetimes.com article about the fabrication of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zoosign.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zoosign.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

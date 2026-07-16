@@ -1,0 +1,85 @@
+{
+  "id": "945",
+  "title": {
+    "display": "American Song",
+    "list": "American Song"
+  },
+  "artists": [
+    {
+      "name": "Eric Parks",
+      "externallinks": [
+        {
+          "url": "https://www.elvisnews.com/2006/31/elvis-presley-10ft-sculpture-sold-on-ebay",
+          "label": "elvisnews.com article about Eric Parks"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.954160",
+    "longitude": "-75.150810",
+    "description": "Parking lot, East side of 7th between Arch and Race"
+  },
+  "comments": "There are a couple of online references to this statue having been installed at the entrance of the Living History Center in 1976.  The Smithsonian only lists a 1988 copy at King's College in  Wilkes-Barre.  This seems more likely to be the 1976 copy, as it is in a parking lot behind WHYY, which is where the Living History Center used to be.",
+  "content": [
+    {
+      "description": "sitting person",
+      "separator": ","
+    },
+    {
+      "description": "flute"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flute1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flute1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flute2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flute2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flute3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flute3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/flute4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/flute4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

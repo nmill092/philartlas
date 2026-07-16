@@ -1,0 +1,179 @@
+{
+  "id": "366",
+  "title": {
+    "display": "Stephen Girard",
+    "list": "Stephen Girard (Rhind)"
+  },
+  "artists": [
+    {
+      "name": "John Massey Rhind",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/J._Massey_Rhind",
+          "label": "wikipedia.org's John Massey Rhind page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1897"
+    }
+  ],
+  "location": {
+    "latitude": "39.966350",
+    "longitude": "-75.182350",
+    "description": "Anne d'Harnocourt Drive (25th and Kelly Drive to the Spring Garden Bridge)"
+  },
+  "inscription": "<br />front:<br />1750-1831<br />Mariner and Merchant<br />back:<br />Philadelphia's greatest philanthropist<br />Erected by the alumni of Girard College and the people of this city and commonwealth, 1897",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "anchor",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "barrels",
+      "separator": ","
+    },
+    {
+      "description": "rope",
+      "separator": ","
+    },
+    {
+      "description": "parasol"
+    }
+  ],
+  "landmark": {
+    "name": "Art Museum",
+    "prefix": "Behind the",
+    "externallinks": [
+      {
+        "url": "https://www.philamuseum.org/",
+        "label": "philamuseum.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Stephen Girard",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Girard",
+          "label": "wikipedia.org's Stephen Girard page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42866742",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=6866",
+      "label": "phillyhistory.org 1912 picture of this piece outside City Hall"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/girard8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/girard8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/girard4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/girard4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/girard5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/girard5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/girard6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/girard6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/girard2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/girard2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/girard3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/girard3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/girard7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/girard7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

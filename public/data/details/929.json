@@ -1,0 +1,123 @@
+{
+  "id": "929",
+  "title": {
+    "display": "Land Buoy",
+    "list": "Land Buoy"
+  },
+  "artists": [
+    {
+      "name": "Jody Pinto",
+      "externallinks": [
+        {
+          "url": "https://www.jodypinto.com/",
+          "label": "jodypinto.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "location": {
+    "latitude": "39.932300",
+    "longitude": "-75.140400",
+    "description": "East of Columbus and Washington"
+  },
+  "content": [
+    {
+      "description": "pole",
+      "separator": ","
+    },
+    {
+      "description": "stairs"
+    }
+  ],
+  "landmark": {
+    "name": "Washington Avenue Pier",
+    "externallinks": [
+      {
+        "url": "https://www.visitphilly.com/things-to-do/attractions/washington-avenue-pier/",
+        "label": "visitphilly.com's Washington Avenue Pier page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/land-buoy/",
+      "label": "associationforpublicart.org's page for this piece"
+    },
+    {
+      "url": "https://www.jodypinto.com/land-buoy",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/landbuoy1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/landbuoy1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/landbuoy2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/landbuoy2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/landbuoy3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/landbuoy3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/landbuoy4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/landbuoy4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/landbuoy5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/landbuoy5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/landbuoy6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/landbuoy6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

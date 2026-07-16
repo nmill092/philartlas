@@ -1,0 +1,82 @@
+{
+  "id": "1037",
+  "title": {
+    "display": "Northminster Presbyterian Lions",
+    "list": "Northminster Presbyterian Lions"
+  },
+  "artists": [
+    {
+      "name": "Thomas Webb Richards (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/91861",
+          "label": "philadelphiabuildings.org's Thomas Webb Richards page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1875"
+    }
+  ],
+  "location": {
+    "latitude": "39.961075",
+    "longitude": "-75.192945",
+    "description": "Southwest corner, 35th and Baring"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "lion heads"
+    }
+  ],
+  "landmark": {
+    "name": "Metropolitan Baptist Church",
+    "externallinks": [
+      {
+        "url": "https://www.mbcphila.org/",
+        "label": "mbcphila.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/62279",
+      "label": "philadelphiabuildings.org page for the building"
+    },
+    {
+      "url": "http://old.poweltonvillage.org/interactivemap/files/3500baring.htm",
+      "label": "old.poweltonvillage.org's page for building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/metbaptist.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/metbaptist.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/metbaptist2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/metbaptist2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "624",
+  "title": {
+    "display": "Mary and Jesus",
+    "list": "Mary and Jesus (St. Mary's Episcopal Church)"
+  },
+  "years": [
+    {
+      "year": "1897"
+    }
+  ],
+  "yearmodifier": "date of building",
+  "location": {
+    "latitude": "39.943750",
+    "longitude": "-75.173075",
+    "description": "North side of Bainbridge, West of 18th"
+  },
+  "architecture": {
+    "description": "Up on the wall"
+  },
+  "content": [
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "one sitting",
+      "separator": ","
+    },
+    {
+      "description": "crown",
+      "separator": ","
+    },
+    {
+      "description": "scepter"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Mary's Episcopal Church"
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/maryjesus1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/maryjesus1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/maryjesus2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/maryjesus2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fitler Square"
+    }
+  ]
+}

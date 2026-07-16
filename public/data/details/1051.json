@@ -1,0 +1,79 @@
+{
+  "id": "1051",
+  "title": {
+    "display": "Ivy Day Stones",
+    "list": "Ivy Day Stones"
+  },
+  "years": [
+    {
+      "year": "1936"
+    },
+    {
+      "year": "1948"
+    }
+  ],
+  "location": {
+    "latitude": "39.950965",
+    "longitude": "-75.193260",
+    "description": "Northwest of 34th and Spruce"
+  },
+  "comments": "There are Ivy Day stones all over the Penn campus, but these are particularly sculptural.",
+  "architecture": {
+    "description": "West wall"
+  },
+  "content": [
+    {
+      "description": "ivy leaves",
+      "separator": ","
+    },
+    {
+      "description": "idea"
+    }
+  ],
+  "landmark": {
+    "name": "Irvine Auditorium",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Irvine_Auditorium",
+        "label": "wikipedia.org's Irvine Auditorium page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ivy_Day_(United_States)",
+      "label": "wikipedia.org's Ivy Day page"
+    },
+    {
+      "url": "https://osa.universitylife.upenn.edu/ivydaystonesbrochure/",
+      "label": "Ivy Day Stones brochure at upenn.edu"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ivy1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ivy1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ivy2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ivy2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

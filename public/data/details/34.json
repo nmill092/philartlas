@@ -1,0 +1,60 @@
+{
+  "id": "34",
+  "title": {
+    "display": "Benjamin Franklin Medallion",
+    "list": "Benjamin Franklin Medallion"
+  },
+  "artists": [
+    {
+      "name": "Sydney Jelinek (Architect)"
+    }
+  ],
+  "years": [
+    {
+      "year": "1959"
+    }
+  ],
+  "location": {
+    "latitude": "",
+    "longitude": ""
+  },
+  "comments": "Originally on the wall of the Franklin Motor Inn on the Northeast corner of 22nd and Pennsylvania/Hamilton. The medallion survived an eventual rename to Best Western, but not the demolition of the building in June, 2008.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "head"
+    }
+  ],
+  "peopleprefix": "Portrait of",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "  https://www.baldwinparkphilly.org/dalian-on-the-park",
+      "label": "baldwinparkphilly.org's history of what is now Dalian on the Park, including the Franklin Motor Inn, with a picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benf22pa.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benf22pa.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

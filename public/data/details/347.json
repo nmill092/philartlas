@@ -1,0 +1,89 @@
+{
+  "id": "347",
+  "title": {
+    "display": "Silas Weir Mitchell",
+    "list": "Silas Weir Mitchell"
+  },
+  "artists": [
+    {
+      "name": "Paul Philippe Cret (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_Philippe_Cret",
+          "label": "wikipedia.org's Paul Philippe Cret page"
+        }
+      ]
+    },
+    {
+      "name": "R. Tait McKenzie",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/R._Tait_McKenzie",
+          "label": "wikipedia.org's R. Tait McKenzie page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1929"
+    }
+  ],
+  "location": {
+    "latitude": "39.949650",
+    "longitude": "-75.167150",
+    "description": "South side of Walnut, East of 16th"
+  },
+  "inscription": "<br />  On this spot stood<br />  the house of<br />  S. Weir Mitchell<br />  Physician - Physiologist<br />  Poet - Man of Letters<br />  He taught us the use of rest for the nervous<br />  He created \"Hugh Wynne\"<br />  He pictured for us \"The Red City\" in which<br />  he lived and labored from 1829 until 1914<br />  Erected by the Franklin Inn of which he was the first president",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "head"
+    }
+  ],
+  "peopleprefix": "Bas-relief bust of",
+  "people": [
+    {
+      "name": "Silas Weir Mitchell",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silas_Weir_Mitchell_(physician)",
+          "label": "wwikipedia.org's Silas Weir Mitchell page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/19494",
+      "label": "philadelphiabuildings.org's page for the building"
+    },
+    {
+      "url": "https://www.skyscrapercenter.com/building/1528-walnut-street/12478",
+      "label": "skyscrapercenter.com's page for the building"
+    },
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/Detail.aspx?assetId=9358",
+      "label": "1927 picture of the location at phillyhistory.org presumably including the house in question"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mitchell.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mitchell.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

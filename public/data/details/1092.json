@@ -1,0 +1,97 @@
+{
+  "id": "1092",
+  "title": {
+    "display": "Mercury",
+    "list": "Mercury"
+  },
+  "artists": [
+    {
+      "name": "William Rush",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Rush_(sculptor)",
+          "label": "wikipedia.org's William Rush page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1828"
+    }
+  ],
+  "yearmodifier": "approximate, restored and installed 2018",
+  "location": {
+    "latitude": "39.966085",
+    "longitude": "-75.182900",
+    "description": "Anne d'Harnocourt Drive between the Spring Garden Bridge and the back steps of the Museum"
+  },
+  "comments": "Unfortunately there's no good way to see this piece from the front.",
+  "architecture": {
+    "description": "Pavilion roof"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "winged helmet"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Mercury",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mercury_(mythology)",
+          "label": "wikipedia.org's Mercury page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/wallyg/52668813318",
+      "label": "Wally Gobetz's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mercury1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mercury1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mercury2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mercury2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mercury3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mercury3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

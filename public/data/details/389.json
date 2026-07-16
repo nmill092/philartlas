@@ -1,0 +1,67 @@
+{
+  "id": "389",
+  "title": {
+    "display": "Three Way Piece Number 1: Points",
+    "list": "Three Way Piece Number 1: Points"
+  },
+  "artists": [
+    {
+      "name": "Henry Moore",
+      "externallinks": [
+        {
+          "url": "https://www.henry-moore.org/",
+          "label": "henry-moore.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1964"
+    }
+  ],
+  "location": {
+    "latitude": "39.955540",
+    "longitude": "-75.166850",
+    "description": "Parkway West of 16th"
+  },
+  "comments": "According to the APA page for this piece it was originally in LOVE Park from 1967 to November, 1990.",
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/three-way-piece-number-1-points/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/3points.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/3points.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/3points2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/3points2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "960",
+  "title": {
+    "display": "St. Matthew's Chapel Entrance",
+    "list": "St. Matthew's Chapel Entrance"
+  },
+  "artists": [
+    {
+      "name": "Isaac Pursell (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Isaac_Pursell",
+          "label": "wikipedia.org's Isaac Pursell page"
+        },
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/85792",
+          "label": "philadelphiabuildings.org's Isaac Pursell page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1889"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.964605",
+    "longitude": "-75.161525",
+    "description": "North side of Mt. Vernon, West of Broad."
+  },
+  "comments": "I cannot find a separate architectural listing for the chapel and it is not clear if the chapel was built at the same time as the rest of the church, but I am listing it as though it was.",
+  "architecture": {
+    "description": "Chapel entrance"
+  },
+  "content": [
+    {
+      "description": "flowers"
+    }
+  ],
+  "landmark": {
+    "name": "Old Zion Lutheran Church",
+    "externallinks": [
+      {
+        "url": "https://oldzionlutheran.org",
+        "label": "oldzionlutheran.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/463347",
+      "label": "philadelphia buildings.org entry for the church"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oldzion1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oldzion1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oldzion2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oldzion2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oldzion3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oldzion3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fairmount"
+    }
+  ]
+}

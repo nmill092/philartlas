@@ -1,0 +1,87 @@
+{
+  "id": "354",
+  "title": {
+    "display": "Spanning the Continent",
+    "list": "Spanning the Continent"
+  },
+  "artists": [
+    {
+      "name": "Robert Laurent",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Laurent",
+          "label": "wikipedia.org's Robert Laurent page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1937"
+    }
+  ],
+  "location": {
+    "latitude": "39.973275",
+    "longitude": "-75.190700",
+    "description": "Kelly Drive, past Boat House Row"
+  },
+  "content": [
+    {
+      "description": "two people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "farm implement",
+      "separator": ","
+    },
+    {
+      "description": "bonnet"
+    }
+  ],
+  "landmark": {
+    "name": "Ellen Phillips Samuel Memorial",
+    "prefix": "Central Terrace",
+    "externallinks": [
+      {
+        "url": "https://www.associationforpublicart.org/artwork/ellen-phillips-samuel-memorial/",
+        "label": "associationforpublicart.org's Ellen Phillips Samuel Memorial page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/spanning-the-continent/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spanning.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spanning.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spanning2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spanning2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

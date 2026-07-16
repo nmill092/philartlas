@@ -1,0 +1,59 @@
+{
+  "id": "851",
+  "title": {
+    "display": "Home of Isaiah and Julia Zagar",
+    "list": "Home of Isaiah and Julia Zagar"
+  },
+  "artists": [
+    {
+      "name": "Isaiah Zagar",
+      "externallinks": [
+        {
+          "url": "https://www.phillymagicgardens.org/",
+          "label": "phillymagicgardens.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1984"
+    }
+  ],
+  "location": {
+    "latitude": "39.942450",
+    "longitude": "-75.156401",
+    "description": "South side of South, East of 9th, at Darien"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract mosaic"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://imgur.com/N7SJjSj",
+      "label": "official picture of this piece at imgur.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/zagarhome.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/zagarhome.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lombard-South"
+    }
+  ]
+}

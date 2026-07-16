@@ -1,0 +1,68 @@
+{
+  "id": "111",
+  "title": {
+    "display": "Eagle",
+    "list": "Eagle (Le Grand)"
+  },
+  "artists": [
+    {
+      "name": "Claudius F. Le Grand and Sons"
+    }
+  ],
+  "years": [
+    {
+      "year": "1797"
+    }
+  ],
+  "location": {
+    "latitude": "39.948050",
+    "longitude": "-75.146250",
+    "description": "West side of 3rd between Chestnut and Walnut"
+  },
+  "architecture": {
+    "description": "Pediment"
+  },
+  "content": [
+    {
+      "description": "eagle",
+      "separator": ","
+    },
+    {
+      "description": "food",
+      "separator": ","
+    },
+    {
+      "description": "shield and arrows",
+      "separator": ","
+    },
+    {
+      "description": "olive branch"
+    }
+  ],
+  "landmark": {
+    "name": "First Bank of the United States",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=9594EFE4-5A4C-4CC7-8C73312E9A1B06FB",
+        "label": "philadelphiabuildings.org's First Bank of the United States page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eaglep.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eaglep.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Old City"
+    }
+  ]
+}

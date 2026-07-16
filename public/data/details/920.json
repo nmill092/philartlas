@@ -1,0 +1,126 @@
+{
+  "id": "920",
+  "title": {
+    "display": "St. Maron Church Cross and Mosaics",
+    "list": "St. Maron Church Cross and Mosaics"
+  },
+  "years": [
+    {
+      "year": "1907"
+    }
+  ],
+  "yearmodifier": "dedication of the church building",
+  "location": {
+    "latitude": "39.935750",
+    "longitude": "-75.160260",
+    "description": "Northwest corner, 10th and Ellsworth"
+  },
+  "comments": "The upper mosaic may say 1991 or 1997 at the bottom",
+  "architecture": {
+    "description": "Front wall and entrance"
+  },
+  "content": [
+    {
+      "description": "three bar cross",
+      "separator": ","
+    },
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "held child",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "clouds",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "candle"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Maron Maronite Catholic Church",
+    "externallinks": [
+      {
+        "url": "https://saintmaron.org/",
+        "label": "saintmaron.org"
+      }
+    ]
+  },
+  "peopleprefix": "symbol and mosaics of",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stmarons1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stmarons1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stmarons2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stmarons2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stmarons3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stmarons3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

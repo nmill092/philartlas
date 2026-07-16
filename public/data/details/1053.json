@@ -1,0 +1,97 @@
+{
+  "id": "1053",
+  "title": {
+    "display": "Sankofa Kore",
+    "list": "Sankofa Kore"
+  },
+  "artists": [
+    {
+      "name": "Christopher Smith",
+      "externallinks": [
+        {
+          "url": "https://smithsculptor.com/",
+          "label": "smithsculptor.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2011"
+    }
+  ],
+  "yearmodifier": "installed 2015",
+  "location": {
+    "latitude": "40.082965",
+    "longitude": "-75.219855",
+    "description": "Corner of Germantown Avenue and Bells Mill Road"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Woodmere Art Museum",
+    "prefix": "Grounds of",
+    "externallinks": [
+      {
+        "url": "https://woodmereartmuseum.org/",
+        "label": "woodmereartmuseum.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "  https://smithsculptor.com/work/in-the-round/sankofa-kore-1",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sankofa.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sankofa.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sankofa2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sankofa2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sankofa3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sankofa3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sankofa4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sankofa4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

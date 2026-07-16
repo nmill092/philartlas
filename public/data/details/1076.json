@@ -1,0 +1,107 @@
+{
+  "id": "1076",
+  "title": {
+    "display": "Fingerspan",
+    "list": "Fingerspan"
+  },
+  "artists": [
+    {
+      "name": "Jody Pinto",
+      "externallinks": [
+        {
+          "url": "https://www.jodypinto.com/",
+          "label": "jodypinto.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1987"
+    }
+  ],
+  "location": {
+    "latitude": "40.046500",
+    "longitude": "-75.211590",
+    "description": "Down the orange trail from the West end of the West Mount Airy section of Livezy Lane."
+  },
+  "architecture": {
+    "description": "Bridge"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "functional bridge"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/fingerspan/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fingerspan1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fingerspan1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fingerspan2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fingerspan2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fingerspan3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fingerspan3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fingerspan4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fingerspan4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fingerspan5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fingerspan5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fingerspan6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fingerspan6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

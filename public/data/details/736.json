@@ -1,0 +1,81 @@
+{
+  "id": "736",
+  "title": {
+    "display": "Apollo",
+    "list": "Apollo"
+  },
+  "years": [
+    {
+      "year": "1870"
+    }
+  ],
+  "yearmodifier": "approximate date of casting",
+  "location": {
+    "latitude": "39.944100",
+    "longitude": "-75.148300",
+    "description": "North side of Delancey, East of 4th"
+  },
+  "comments": "reportedly a bronze reproduction of a Pompeian sculpture on loan from the Penn Museum",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "plant"
+    }
+  ],
+  "landmark": {
+    "name": "Hill Physick Keith House",
+    "prefix": "Visible through the gate on the South side of the",
+    "externallinks": [
+      {
+        "url": "https://www.ushistory.org/tour/physick-house.htm",
+        "label": "ushistory.org entry for the Hill Physick Keith House"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Apollo",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Apollo",
+          "label": "wikipedia.org's Apollo page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/apollo.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/apollo.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/apollo2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/apollo2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

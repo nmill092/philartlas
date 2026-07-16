@@ -1,0 +1,61 @@
+{
+  "id": "223",
+  "title": {
+    "display": "Leviathan",
+    "list": "Leviathan"
+  },
+  "artists": [
+    {
+      "name": "Seymour Lipton",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Seymour_Lipton",
+          "label": "wikipedia.org's Seymour Lipton page"
+        },
+        {
+          "url": "https://publicartarchive.org/artist/Seymour%20Lipton",
+          "label": "publicartarchive.org's Seymour Lipton page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1963"
+    }
+  ],
+  "location": {
+    "latitude": "39.953225",
+    "longitude": "-75.166075",
+    "description": "East side of 16th, North of Market. "
+  },
+  "comments": "Disappeared some time before November 29, 2019.  Reappeared some time before June, 2021.",
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/leviathan/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/leviat.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/leviat.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

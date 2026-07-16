@@ -1,0 +1,56 @@
+{
+  "id": "1269",
+  "title": {
+    "display": "Mary",
+    "list": "Mary (Immaculate Heart)"
+  },
+  "location": {
+    "latitude": "39.947385",
+    "longitude": "-75.216000",
+    "description": "South side of Windsor, West of 47th"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "head covered"
+    }
+  ],
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://ihmimmaculata.org/",
+      "label": "ihmimmaculata.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ihmary.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ihmary.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Cedar Park, Clark Park, Portal"
+    }
+  ]
+}

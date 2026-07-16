@@ -1,0 +1,78 @@
+{
+  "id": "183",
+  "title": {
+    "display": "Holy Trinity Gargoyles",
+    "list": "Holy Trinity Gargoyles"
+  },
+  "artists": [
+    {
+      "name": "John Notman (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Notman",
+          "label": "wikipedia.org's John Notman page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1859"
+    }
+  ],
+  "location": {
+    "latitude": "39.950400",
+    "longitude": "-75.173325",
+    "description": "South side of Walnut between 19th and 20th"
+  },
+  "architecture": {
+    "description": "Side entrance"
+  },
+  "content": [
+    {
+      "description": "dogs"
+    }
+  ],
+  "landmark": {
+    "name": "Holy Trinity Episcopal Church",
+    "externallinks": [
+      {
+        "url": "https://htrit.org/",
+        "label": "htrit.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=4CA53F6A-EE13-4EA6-9BD03728F41A6E6D",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/holytri1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/holytri1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/holytri2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/holytri2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

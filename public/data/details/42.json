@@ -1,0 +1,80 @@
+{
+  "id": "42",
+  "title": {
+    "display": "Birds of Fairmount Park",
+    "list": "Birds of Fairmount Park"
+  },
+  "artists": [
+    {
+      "name": "Josey Stamm"
+    }
+  ],
+  "years": [
+    {
+      "year": "2001"
+    }
+  ],
+  "location": {
+    "latitude": "40.026135",
+    "longitude": "-75.225665",
+    "description": "South side of Main at Conarro"
+  },
+  "inscription": "Created by NetworkArts artist Josey Stamm and students from Gesu School who participated in NetworkArts' Saturday Environmental  Program 2001.  This mosaic contains 83 bird species found in Fairmount Park.  Made by the seventh and eighth grade students.  A second mosaic on the animals of Fairmount Park is on the rear facade of this building. Special thanks to Earl Stamm.  ",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "sun",
+      "separator": ","
+    },
+    {
+      "description": "water"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bofp1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bofp1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bofp2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bofp2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bofp3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bofp3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Manayunk"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "147",
+  "title": {
+    "display": "Franz Schubert",
+    "list": "Franz Schubert"
+  },
+  "artists": [
+    {
+      "name": "Henry Baerer",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Baerer",
+          "label": "wikipedia.org's Henry Baerer page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1891"
+    }
+  ],
+  "location": {
+    "latitude": "39.983550",
+    "longitude": "-75.209125",
+    "description": "Horticulture Drive, East of Belmont"
+  },
+  "inscription": "Grand Prize awarded to the German Singers of Philadelphia Newark, N.J. 4-8ten Juli 1891",
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "cherubs",
+      "separator": ","
+    },
+    {
+      "description": "musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "landmark": {
+    "name": "Horticulture Center",
+    "prefix": "In the middle of the East end loop of the",
+    "externallinks": [
+      {
+        "url": "https://myphillypark.org/explore/parks/fairmount-park-horticulture-center/",
+        "label": "myphillypark.org's Horticulture Center page"
+      }
+    ]
+  },
+  "peopleprefix": "Bust of",
+  "people": [
+    {
+      "name": "Franz Schubert",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Franz_Schubert",
+          "label": "wikipedia.org's Franz Schubert page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42867826",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/franz-schubert/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schuber2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schuber2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/schuber3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/schuber3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

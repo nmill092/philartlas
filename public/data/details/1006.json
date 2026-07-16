@@ -1,0 +1,237 @@
+{
+  "id": "1006",
+  "title": {
+    "display": "Chinatown Zodiac Medallions",
+    "list": "Chinatown Zodiac Medallions"
+  },
+  "artists": [
+    {
+      "name": "Andrews Lefevre Studios",
+      "externallinks": [
+        {
+          "url": "https://andrewslefevre.wordpress.com/",
+          "label": "andrewslefevre.wordpress.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2012"
+    }
+  ],
+  "location": {
+    "latitude": "39.957170",
+    "longitude": "-75.153823",
+    "description": "North side of Vine, East of 9th.  The small medallions are arranged along Vine between 9th and 10th and along 10th North and South of Vine"
+  },
+  "architecture": {
+    "description": "Sidewalks"
+  },
+  "content": [
+    {
+      "description": "symbols",
+      "separator": ","
+    },
+    {
+      "description": "rat",
+      "separator": ","
+    },
+    {
+      "description": "ox",
+      "separator": ","
+    },
+    {
+      "description": "tiger",
+      "separator": ","
+    },
+    {
+      "description": "rabbit",
+      "separator": ","
+    },
+    {
+      "description": "dragon",
+      "separator": ","
+    },
+    {
+      "description": "snake",
+      "separator": ","
+    },
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "sheep (ram)",
+      "separator": ","
+    },
+    {
+      "description": "monkey",
+      "separator": ","
+    },
+    {
+      "description": "rooster",
+      "separator": ","
+    },
+    {
+      "description": "dog",
+      "separator": ","
+    },
+    {
+      "description": "pig"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://andrewslefevre.wordpress.com/2012/06/07/philadelphia-chinatown-zodiac-medallions-installed/",
+      "label": "artist's article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmed1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmed1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmed2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmed2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmed3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmed3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmed4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmed4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmed5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmed5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmed6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmed6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmed7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmed7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmed8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmed8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmed9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmed9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmeda.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmeda.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmedb.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmedb.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmedc.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmedc.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmedd.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmedd.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chzodmede.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chzodmede.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

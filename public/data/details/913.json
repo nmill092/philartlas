@@ -1,0 +1,78 @@
+{
+  "id": "913",
+  "title": {
+    "display": "Elk Head",
+    "list": "Elk Head"
+  },
+  "artists": [
+    {
+      "name": "Francis G. Caldwell (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22856",
+          "label": "philadelphiabuildings.org's Francis G. Caldwell page"
+        }
+      ]
+    },
+    {
+      "name": "Edward Paul  Simon (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21527",
+          "label": "philadelphiabuildings.org's Edward Paul Simon page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1904"
+    }
+  ],
+  "location": {
+    "latitude": "39.954120",
+    "longitude": "-75.161625",
+    "description": "South side of Arch, between 13th and Juniper"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "elk head"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/468795",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/elk1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/elk1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/elk2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/elk2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

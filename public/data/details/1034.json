@@ -1,0 +1,92 @@
+{
+  "id": "1034",
+  "title": {
+    "display": "Chinese Cultural and Community Center Dragons",
+    "list": "Chinese Cultural and Community Center Dragons"
+  },
+  "artists": [
+    {
+      "name": "Yang Cho-cheng (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yang_Cho-cheng",
+          "label": "wikipedia.org's Yang Cho-cheng page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1971"
+    }
+  ],
+  "location": {
+    "latitude": "39.954235",
+    "longitude": "-75.156075",
+    "description": "East side of 10th, South of Cherry"
+  },
+  "comments": "philadelphiabuildings.org lists C.C. Yang as the supervising architect.  A preservationalliance.com document lists Yang Cho-cheng (also Yang Chou-cheng) as C.C. Yang. ",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "dragons",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "water"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/32336",
+      "label": "philadelphiabuildings.org entry for the building"
+    },
+    {
+      "url": "https://preservationalliance.com/wp-content/uploads/2023/01/Nomination_Chinatown.pdf",
+      "label": "preservationalliance.com document listing Yang Cho-cheng"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chtownymca1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chtownymca1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chtownymca2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chtownymca2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chtownymca3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chtownymca3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

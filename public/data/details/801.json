@@ -1,0 +1,95 @@
+{
+  "id": "801",
+  "title": {
+    "display": "Eve",
+    "list": "Eve"
+  },
+  "artists": [
+    {
+      "name": "Auguste Rodin",
+      "externallinks": [
+        {
+          "url": "https://www.bronze-gallery.com/sculptors/artist.cfm?sculptorID=47",
+          "label": "bronze-gallery.com's Auguste Rodin page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1881"
+    }
+  ],
+  "yearmodifier": "cast 1925",
+  "location": {
+    "latitude": "39.961775",
+    "longitude": "-75.173950",
+    "description": "North side of the Parkway between 21st and 22nd"
+  },
+  "architecture": {
+    "description": "East side of the front wall"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Rodin Museum",
+    "externallinks": [
+      {
+        "url": "https://rodinmuseum.org/",
+        "label": "rodinmuseum.org"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rodin_Museum",
+        "label": "wikipedia.org's Rodin Museum page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Eve",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eve",
+          "label": "wikipedia.org's Eve page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://rodinmuseum.org/collection/object/103359",
+      "label": "rodinmuseum.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eve.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eve.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eve2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eve2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

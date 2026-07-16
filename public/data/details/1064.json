@@ -1,0 +1,87 @@
+{
+  "id": "1064",
+  "title": {
+    "display": "Saint Vincent de Paul",
+    "list": "Saint Vincent de Paul (seminary)"
+  },
+  "years": [
+    {
+      "year": "1868"
+    }
+  ],
+  "yearmodifier": "approximate year of building",
+  "location": {
+    "latitude": "40.042675",
+    "longitude": "-75.167425",
+    "description": "Southeast side of E. Chelten, Southwest of Musgrave"
+  },
+  "architecture": {
+    "description": "Above the entrance"
+  },
+  "content": [
+    {
+      "description": "vertical"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "Christian symbolism"
+    }
+  ],
+  "landmark": {
+    "name": "St. Vincent's Seminary",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/St._Vincent%27s_Seminary_(Germantown)",
+        "label": "wikipedia.org's St. Vincent's Seminary page"
+      }
+    ]
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Jesus",
+      "comment": "on crucifix",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Vincent de Paul",
+      "comment": "holding and pointing at crucifix",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vincent_de_Paul_(saint)",
+          "label": "wikipedia.org's Saint Vincent de Paul page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stvincents1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stvincents1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stvincents2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stvincents2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

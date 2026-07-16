@@ -1,0 +1,79 @@
+{
+  "id": "557",
+  "title": {
+    "display": "The Seed",
+    "list": "Seed, The"
+  },
+  "artists": [
+    {
+      "name": "Christopher T. Ray",
+      "externallinks": [
+        {
+          "url": "http://www.chrisray.com",
+          "label": "chrisray.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.951175",
+    "longitude": "-75.147550",
+    "description": "East Side of 5th Street, North of Market, along the walkway between 4th and 5th."
+  },
+  "inscription": "<br />Source:  Deuteronomy 8:7-8:11  <br />\"...for the Lord thy God bringeth thee into a good land...\"  <br />The Seed symbolizes the generation of  creative life in America, the Good Land  which has made us welcome.  In its roots  exist the reminder of our origins and  traditions.  In the leaves are the elements of  continuing growth. From the pod and its  emerging flowr comes the promise  of the future.",
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "seed"
+    }
+  ],
+  "landmark": {
+    "name": "Mikveh Israel",
+    "externallinks": [
+      {
+        "url": "https://www.mikvehisrael.org/",
+        "label": "mikvehisrael.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "http://www.chrisray.com/commiss/page12.htm",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/seed2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/seed2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/seed1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/seed1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

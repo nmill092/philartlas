@@ -1,0 +1,145 @@
+{
+  "id": "1048",
+  "title": {
+    "display": "The Bond",
+    "list": "Bond, The"
+  },
+  "artists": [
+    {
+      "name": "Jim West",
+      "externallinks": [
+        {
+          "url": "https://jimwestsculptor.com/",
+          "label": "jimwestsculptor.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2017"
+    }
+  ],
+  "location": {
+    "latitude": "39.953510",
+    "longitude": "-75.163150",
+    "description": "Northeast corner, Broad and JFK"
+  },
+  "inscription": "<br />  Brother George Washington, Commander in Chief of the Continental Army,  first President of the United States, and member of Alexandria Lodge (Fairfax  County, Virginia) shows his Masonic Apron to Brother Benjamin Franklin,  diplomat who negotiated French involvement in our independence. Grand  Master of the Grand Lodge of Pennsylvania and Master of the Loge Les Neuf  Soeurs, in Paris.  It was a gift from Brother General Lafayette, member of the  Loge Contrat Social of Paris, who represented the French government and  their commitment to American Independence.",
+  "content": [
+    {
+      "description": "two people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "Masonic emblem"
+    }
+  ],
+  "landmark": {
+    "name": "Masonic Temple",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://pamasonictemple.org/",
+        "label": "pamasonictemple.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    },
+    {
+      "name": "George Washington",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Washington",
+          "label": "wikipedia.org's George Washington page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.jimwestsculptor.com/work/the-bond",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bond1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bond1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bond2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bond2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bond3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bond3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bond4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bond4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bond5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bond5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bond6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bond6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

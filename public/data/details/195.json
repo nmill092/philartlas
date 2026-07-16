@@ -1,0 +1,52 @@
+{
+  "id": "195",
+  "title": {
+    "display": "Japanese Lantern",
+    "list": "Japanese Lantern"
+  },
+  "years": [
+    {
+      "year": "1705"
+    }
+  ],
+  "location": {
+    "latitude": "",
+    "longitude": ""
+  },
+  "comments": "Formerly in the East courtyard of the Penn Museum, brought inside the museum in 2018 as part of a conservation review.   ",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "lantern"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Museum",
+    "externallinks": [
+      {
+        "url": "https://www.penn.museum/",
+        "label": "penn.museum"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.penn.museum/sites/expedition/the-tale-of-the-tokugawa-artifacts/",
+      "label": "Magazine article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/japlant.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/japlant.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

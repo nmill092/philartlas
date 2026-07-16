@@ -1,0 +1,78 @@
+{
+  "id": "499",
+  "title": {
+    "display": "Juvenile Protection",
+    "list": "Juvenile Protection"
+  },
+  "artists": [
+    {
+      "name": "Louis Milione",
+      "externallinks": [
+        {
+          "url": "https://digitalarchives.powerlibrary.org/papd/islandora/object/papd%3A60810",
+          "label": "powerlibrary.org page that includes biographical information for Louis Milione"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1940"
+    }
+  ],
+  "location": {
+    "latitude": "39.959150",
+    "longitude": "-75.169950",
+    "description": "North side of Vine East of 19th."
+  },
+  "architecture": {
+    "description": "West pediment"
+  },
+  "content": [
+    {
+      "description": "group of people",
+      "separator": ","
+    },
+    {
+      "description": "some standing",
+      "separator": ","
+    },
+    {
+      "description": "some sitting",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "symbols of justice, law and peace"
+    }
+  ],
+  "landmark": {
+    "name": "Family Court (old building)",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/66874",
+        "label": "philadelphiabuildings.org Municipal Courthouse entry"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/famcourt2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/famcourt2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

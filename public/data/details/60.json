@@ -1,0 +1,76 @@
+{
+  "id": "60",
+  "title": {
+    "display": "Charioteer of Delphi",
+    "list": "Charioteer of Delphi"
+  },
+  "artists": [
+    {
+      "name": "Nikos Kerlis"
+    },
+    {
+      "name": "Theodora Papayannis"
+    }
+  ],
+  "years": [
+    {
+      "year": "1977"
+    }
+  ],
+  "yearmodifier": "cast from the 5th Century BC original",
+  "location": {
+    "latitude": "39.965400",
+    "longitude": "-75.179275",
+    "description": "25th and the Parkway"
+  },
+  "comments": "original artist unknown",
+  "inscription": "<br />From the cradle of democracy in the ancient world to the cradle of democracy in the new world.  From the people of Greece to the people of America. ",
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Art Museum",
+    "prefix": "East side of the",
+    "externallinks": [
+      {
+        "url": "https://www.philamuseum.org/",
+        "label": "philamuseum.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/charioteer-of-delphi/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chariot.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chariot.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chariot2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chariot2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

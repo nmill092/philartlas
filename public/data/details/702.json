@@ -1,0 +1,82 @@
+{
+  "id": "702",
+  "title": {
+    "display": "Mary and Jesus",
+    "list": "Mary and Jesus (Our Mother of Sorrows Catholic Church)"
+  },
+  "location": {
+    "latitude": "39.971110",
+    "longitude": "-75.217450"
+  },
+  "comments": "Was in front of Our Mother of Sorrows on the West side of N. 48th, South of Lancaster.  The church closed in 2017.  The piece was removed some time between then and January 27, 2025 when it was checked on streetview.",
+  "content": [
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "reclining",
+      "separator": ","
+    },
+    {
+      "description": "headgear"
+    }
+  ],
+  "landmark": {
+    "name": "",
+    "prefix": "In front of"
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://catholicphilly.com/2017/09/news/local-news/west-philadelphia-church-set-to-close-on-october-9/",
+      "label": "catholicphilly.com article about the closing of the church"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sorrows.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sorrows.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sorrows2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sorrows2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

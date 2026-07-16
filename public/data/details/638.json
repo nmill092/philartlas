@@ -1,0 +1,107 @@
+{
+  "id": "638",
+  "title": {
+    "display": "Cats",
+    "list": "Cats"
+  },
+  "artists": [
+    {
+      "name": "Henry Mitchell",
+      "externallinks": [
+        {
+          "url": "https://www.cantonartcollection.com/artistbio.php?artist_id=476",
+          "label": "cantonartcollection.com's Henry Mitchell bio"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1974"
+    }
+  ],
+  "location": {
+    "latitude": "39.952300",
+    "longitude": "-75.144675",
+    "description": "North side of Arch East of 3rd"
+  },
+  "comments": "On what was probably once a fountain that is now mostly used for sitting and flowerpots and is almost always surrounded by people.",
+  "architecture": {
+    "description": "Courtyard"
+  },
+  "content": [
+    {
+      "description": "cats"
+    }
+  ],
+  "landmark": {
+    "name": "Betsy Ross House",
+    "externallinks": [
+      {
+        "url": "https://historicphiladelphia.org/betsy-ross-house/",
+        "label": "historicphiladelphia.org's Besty Ross House page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.facebook.com/photo.php?fbid=10157343311347302&id=124606187301&set=a.383895812301",
+      "label": "Betsy Ross House post about this piece at facebook.com"
+    },
+    {
+      "url": "https://www.flickr.com/photos/bel2000/10437562254",
+      "label": "Belinda Fewings' picture of this piece at flickr.com"
+    },
+    {
+      "url": "https://www.flickr.com/photos/lisamulvey/340782311/",
+      "label": "lisaamulvey's picture of this piece on flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cats1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cats1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cats2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cats2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cats3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cats3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cats4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cats4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Old City"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "474",
+  "title": {
+    "display": "National Shrine of Saint John Neumann Entrance Plaques",
+    "list": "National Shrine of Saint John Neumann Entrance Plaques"
+  },
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "yearmodifier": "best guess based on 1979 commemoration",
+  "location": {
+    "latitude": "39.97000",
+    "longitude": "-75.144850",
+    "description": "Southest corner 5th and Girard"
+  },
+  "inscription": "<br />left:  <br />St. John N. Neumann  <br />C. SS. R.  <br />Fourth Bishop of Philadelphia  <br />1852-1860  <br />right:  <br />Remembrance of  <br />the visit of  <br />Pope John Paul II  <br />to the National Shrine  <br />of St. John Neumann  <br />October 4, 1979    ",
+  "architecture": {
+    "description": "Either side of the entrance"
+  },
+  "content": [
+    {
+      "description": "heads"
+    }
+  ],
+  "landmark": {
+    "name": "National Shrine of Saint John Neumann",
+    "externallinks": [
+      {
+        "url": "https://www.stjohnneumann.org/",
+        "label": "stjohnneumann.org"
+      }
+    ]
+  },
+  "peopleprefix": "bas-relief busts of",
+  "people": [
+    {
+      "name": "Pope John Paul II",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
+          "label": "wikipedia.org's Pope John Paul II page"
+        }
+      ]
+    },
+    {
+      "name": "John Nepomucene Neumann",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Neumann",
+          "label": "wikipedia.org's John Nepomucene Neumann page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stjnep1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stjnep1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stjnep2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stjnep2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

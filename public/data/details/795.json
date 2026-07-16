@@ -1,0 +1,76 @@
+{
+  "id": "795",
+  "title": {
+    "display": "St. Anthony Club Cherubs",
+    "list": "St. Anthony Club Cherubs"
+  },
+  "artists": [
+    {
+      "name": "Wilson Eyre (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wilson_Eyre",
+          "label": "wikipedia.org's Wilson Eyre page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1888"
+    }
+  ],
+  "location": {
+    "latitude": "39.952900",
+    "longitude": "-75.177050",
+    "description": "West side of 22nd, North of Chestnut"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "partial",
+      "separator": ","
+    },
+    {
+      "description": "horizontal"
+    },
+    {
+      "description": "cherubs"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/49427",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stanthony1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stanthony1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stanthony2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stanthony2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

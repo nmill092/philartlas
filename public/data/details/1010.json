@@ -1,0 +1,78 @@
+{
+  "id": "1010",
+  "title": {
+    "display": "PTC Trolley No. 2733",
+    "list": "PTC Trolley No. 2733"
+  },
+  "artists": [
+    {
+      "name": "St. Louis Car Company",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/St._Louis_Car_Company",
+          "label": "wikipedia.org's St. Louis Car Company page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1947"
+    }
+  ],
+  "location": {
+    "latitude": "39.951850",
+    "longitude": "-75.160850",
+    "description": "South side of Market between 12th and 13th"
+  },
+  "comments": "Accessible from the concourse when the building is open, visible through the glass when it isn't.",
+  "architecture": {
+    "description": "Interior"
+  },
+  "content": [
+    {
+      "description": "actual trolley"
+    }
+  ],
+  "landmark": {
+    "name": "1234 Market",
+    "prefix": "Concourse level."
+  },
+  "externallinks": [
+    {
+      "url": "https://www.youtube.com/watch?v=c3iUAOv7sgA video",
+      "label": "youtube video walk around of this piece"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/PCC_streetcar",
+      "label": "wikipedia.org's PCC streatcar page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ptctrolley1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ptctrolley1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ptctrolley2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ptctrolley2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Convention Center"
+    }
+  ]
+}

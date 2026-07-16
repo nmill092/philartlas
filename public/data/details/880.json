@@ -1,0 +1,74 @@
+{
+  "id": "880",
+  "title": {
+    "display": "Bike Racks",
+    "list": "Bike Racks"
+  },
+  "artists": [
+    {
+      "name": "Dero Bike Racks",
+      "externallinks": [
+        {
+          "url": "https://www.dero.com/",
+          "label": "dero.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2013"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.970680",
+    "longitude": "-75.174175",
+    "description": "South side of Parrish between 22nd and 23rd"
+  },
+  "architecture": {
+    "description": "Bike racks"
+  },
+  "content": [
+    {
+      "description": "bicycles"
+    }
+  ],
+  "landmark": {
+    "name": "Bache-Martin",
+    "prefix": "North side of",
+    "externallinks": [
+      {
+        "url": "https://www.thepowerofbachemartin.com/",
+        "label": "thepowerofbachemartin.com"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bikeracks1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bikeracks1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bikeracks2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bikeracks2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fairmount"
+    }
+  ]
+}

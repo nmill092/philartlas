@@ -1,0 +1,72 @@
+{
+  "id": "694",
+  "title": {
+    "display": "The Final Farewell",
+    "list": "Final Farewell, The"
+  },
+  "artists": [
+    {
+      "name": "Lorann Jacobs",
+      "externallinks": [
+        {
+          "url": "http://www.lorannjacobs.com/",
+          "label": "lorannjacobs.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2007"
+    }
+  ],
+  "location": {
+    "latitude": "39.945040",
+    "longitude": "-75.143575",
+    "description": "East side of 38th Parallel Place between Dock and Spruce"
+  },
+  "content": [
+    {
+      "description": "person kneeling",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "helmet"
+    }
+  ],
+  "landmark": {
+    "name": "Foglietta Plaza",
+    "prefix": "West end of"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/farewell.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/farewell.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/farewell2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/farewell2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

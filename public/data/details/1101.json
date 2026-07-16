@@ -1,0 +1,90 @@
+{
+  "id": "1101",
+  "title": {
+    "display": "Brick House",
+    "list": "Brick House"
+  },
+  "artists": [
+    {
+      "name": "Simone Leigh",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Simone_Leigh",
+          "label": "wikipedia.org's Simone Leigh page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2019"
+    }
+  ],
+  "location": {
+    "latitude": "39.952500",
+    "longitude": "-75.192550",
+    "description": "Southwest corner, 34th and Walnut"
+  },
+  "content": [
+    {
+      "description": "head"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/brickhouse",
+      "label": "upenn.edu's page for this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/brick-house/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/brickhouse1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/brickhouse1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/brickhouse2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/brickhouse2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/brickhouse3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/brickhouse3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/brickhouse4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/brickhouse4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

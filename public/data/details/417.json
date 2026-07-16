@@ -1,0 +1,75 @@
+{
+  "id": "417",
+  "title": {
+    "display": "Voyage of Ulysses",
+    "list": "Voyage of Ulysses"
+  },
+  "artists": [
+    {
+      "name": "David von Schlegell",
+      "externallinks": [
+        {
+          "url": "https://www.nytimes.com/1992/10/06/arts/david-von-schlegell-abstract-artist-is-dead-at-72.html",
+          "label": "nytimes.com's David von Schlegell obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1977"
+    }
+  ],
+  "location": {
+    "latitude": "39.951875",
+    "longitude": "-75.150500",
+    "description": "West side of 6th between Market and Arch, between the James A. Byrne Federal Courthouse the the William J. Green, Jr. Federal Building."
+  },
+  "comments": "On April 24, 2013 the sculptural element was gone and the fountain was base torn up.  On March 8, 2014, the sculptural element was back and the fountain base had been replaced.",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "peopleprefix": "Recalling the voyage of",
+  "people": [
+    {
+      "name": "Ulysses",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Odysseus",
+          "label": "wikipedia.org's Odysseus/Ulysses page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/voyage-of-ulysses/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ulysses1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ulysses1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

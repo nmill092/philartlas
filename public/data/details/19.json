@@ -1,0 +1,75 @@
+{
+  "id": "19",
+  "title": {
+    "display": "Bench Form",
+    "list": "Bench Form"
+  },
+  "artists": [
+    {
+      "name": "Thomas Sternal",
+      "externallinks": [
+        {
+          "url": "https://www.austinandbarnesfuneralhome.com/obituary/Thomas-Sternal",
+          "label": "austinandbarnesfuneralhome.com's Thomas Sternal obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "39.958450",
+    "longitude": "-75.190400",
+    "description": "Southeast of 34th and Race."
+  },
+  "comments": "Originally in a park on the South side of Market just East of 32nd which has been replaced by a building. The first picture is from the original location. The current location was a small park underneath the Katherine Drexel mural (not visible in the second picture), but the building with the mural was torn down leaving the piece much more in the open.",
+  "content": [
+    {
+      "description": "bench",
+      "separator": ","
+    },
+    {
+      "description": "abstract background"
+    }
+  ],
+  "landmark": {
+    "name": "Drexel University",
+    "prefix": "On the campus of",
+    "externallinks": [
+      {
+        "url": "https://drexel.edu/",
+        "label": "drexel.edu"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bench.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bench.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bench2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bench2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

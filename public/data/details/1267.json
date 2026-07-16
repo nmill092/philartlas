@@ -1,0 +1,81 @@
+{
+  "id": "1267",
+  "title": {
+    "display": "Celestial Balldergarten",
+    "list": "Celestial Balldergarten"
+  },
+  "artists": [
+    {
+      "name": "George Rhoads",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Rhoads",
+          "label": "wikipedia.org's George Rhoads page"
+        },
+        {
+          "url": "https://georgerhoads.com/",
+          "label": "georgerhoads.com"
+        }
+      ]
+    },
+    {
+      "name": "Rock Stream Studios",
+      "externallinks": [
+        {
+          "url": "https://www.ithacajournal.com/story/news/local/2016/02/15/hes-musician-and-builder-but-dont-call-him-sculptor/80411806/",
+          "label": "ithicajournal.com article about Bob Potts of Rock Stream Studios"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1994"
+    }
+  ],
+  "location": {
+    "latitude": "39.877130",
+    "longitude": "-75.244010",
+    "description": "8500 Essington Ave."
+  },
+  "architecture": {
+    "description": "Interior"
+  },
+  "content": [
+    {
+      "description": "abstract",
+      "separator": ","
+    },
+    {
+      "description": "mostly functional machine"
+    }
+  ],
+  "landmark": {
+    "name": "Philadelphia International Airport (PHL)",
+    "prefix": "Terminal B Arrivals",
+    "externallinks": [
+      {
+        "url": "https://www.phl.org/",
+        "label": "phl.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.phl.org/at-phl/art-exhibitions/Celestial-Balldagarten",
+      "label": "phl.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ballgarten.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ballgarten.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

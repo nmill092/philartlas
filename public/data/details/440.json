@@ -1,0 +1,83 @@
+{
+  "id": "440",
+  "title": {
+    "display": "Wisdom and Commerce",
+    "list": "Wisdom and Commerce"
+  },
+  "artists": [
+    {
+      "name": "Alfred-Alphonse Bottiau",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alfred-Alphonse_Bottiau",
+          "label": "wikipedia.org's Alfred-Alphonse Bottiau page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1932"
+    }
+  ],
+  "location": {
+    "latitude": "39.950050",
+    "longitude": "-75.156650",
+    "description": "North side of Chestnut, East of 10th"
+  },
+  "architecture": {
+    "description": "Flanking the entrance"
+  },
+  "content": [
+    {
+      "description": "sitting people",
+      "separator": ","
+    },
+    {
+      "description": "chairs",
+      "separator": ","
+    },
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "tree",
+      "separator": ","
+    },
+    {
+      "description": "owl",
+      "separator": ","
+    },
+    {
+      "description": "ship mast and sails"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wisdom.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wisdom.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/commerc.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/commerc.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

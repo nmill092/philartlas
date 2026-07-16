@@ -1,0 +1,112 @@
+{
+  "id": "1025",
+  "title": {
+    "display": "Light Matrix",
+    "list": "Light Matrix"
+  },
+  "artists": [
+    {
+      "name": "Leo Villareal",
+      "externallinks": [
+        {
+          "url": "https://villareal.net/",
+          "label": "villareal.net"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2015"
+    }
+  ],
+  "location": {
+    "latitude": "39.956350",
+    "longitude": "-75.194700",
+    "description": "North side of Market, West of 36th"
+  },
+  "architecture": {
+    "description": "Awning"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "light display"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://dpd-art-is-essential-docs.s3.amazonaws.com/139.pdf",
+      "label": "Percent for Art's pdf picture of this piece at dpd-art-is-essential-docs.s3.amazonaws.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/3601mkt1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/3601mkt1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/3601mkt2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/3601mkt2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/3601mkt3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/3601mkt3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/3601mkt4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/3601mkt4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/3601mkt5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/3601mkt5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/3601mkt6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/3601mkt6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

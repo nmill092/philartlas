@@ -1,0 +1,65 @@
+{
+  "id": "1121",
+  "title": {
+    "display": "Mary",
+    "list": "Mary (St. Agatha - St. James Church)"
+  },
+  "years": [
+    {
+      "year": "2021"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.954850",
+    "longitude": "-75.197815",
+    "description": "South side of Chestnut, East of 38th"
+  },
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "St. Agatha - St. James Church",
+    "prefix": "East of",
+    "externallinks": [
+      {
+        "url": "https://www.saintsaj.org/",
+        "label": "saintsaj.org"
+      }
+    ]
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marystastj.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marystastj.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

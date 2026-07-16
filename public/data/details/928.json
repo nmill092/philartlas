@@ -1,0 +1,61 @@
+{
+  "id": "928",
+  "title": {
+    "display": "Along the Atlantic Flyway",
+    "list": "Along the Atlantic Flyway"
+  },
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "location": {
+    "latitude": "39.932325",
+    "longitude": "-75.140425",
+    "description": "East of Columbus and Washington"
+  },
+  "content": [
+    {
+      "description": "bird"
+    },
+    {
+      "description": "sign"
+    }
+  ],
+  "landmark": {
+    "name": "Washington Avenue Pier",
+    "externallinks": [
+      {
+        "url": "https://www.visitphilly.com/things-to-do/attractions/washington-avenue-pier/",
+        "label": "visitphilly.com's Washington Avenue Pier page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/atlfly.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/atlfly.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/atlfly2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/atlfly2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

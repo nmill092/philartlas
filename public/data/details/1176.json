@@ -1,0 +1,66 @@
+{
+  "id": "1176",
+  "title": {
+    "display": "CRADLE",
+    "list": "CRADLE"
+  },
+  "artists": [
+    {
+      "name": "Diogo Machado (ADD FUEL)",
+      "externallinks": [
+        {
+          "url": "https://www.addfuel.com/",
+          "label": "addfuel.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2023"
+    }
+  ],
+  "location": {
+    "latitude": "39.950600",
+    "longitude": "-75.159670",
+    "description": "North side of Chestnut, East of 12th"
+  },
+  "architecture": {
+    "description": "East side of the East wall"
+  },
+  "content": [
+    {
+      "description": "abstract quilt designs"
+    }
+  ],
+  "landmark": {
+    "name": "Jefferson Plaza"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cradle.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cradle.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cradle2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cradle2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

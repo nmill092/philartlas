@@ -1,0 +1,85 @@
+{
+  "id": "931",
+  "title": {
+    "display": "Buddha and Dragons",
+    "list": "Buddha and Dragons"
+  },
+  "years": [
+    {
+      "year": "2010"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.935210",
+    "longitude": "-75.150400"
+  },
+  "comments": "Was at the former Phat Quang Buddhist Temple on 4th, North of Washington.  The temple disappeared in 2019.",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "flask",
+      "separator": ","
+    },
+    {
+      "description": "small dragons"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Buddha",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+          "label": "wikipedia.org's Guatama Buddha page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://whyy.org/articles/buddhist-monks-cash-out-with-secret-sale-of-historic-south-philly-church/",
+      "label": "whyy.org article about the sale of the temple"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/phatquang1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/phatquang1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/phatquang2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/phatquang2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/phatquang3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/phatquang3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

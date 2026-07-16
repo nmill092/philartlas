@@ -1,0 +1,87 @@
+{
+  "id": "542",
+  "title": {
+    "display": "Video Arbor",
+    "list": "Video Arbor"
+  },
+  "artists": [
+    {
+      "name": "Nam June Paik",
+      "externallinks": [
+        {
+          "url": "https://www.paikstudios.com/",
+          "label": "paikstudios.com"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nam_June_Paik",
+          "label": "wikipedia.org's Nam June Paik page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "39.959925",
+    "longitude": "-75.167640",
+    "description": "East side of Franklin Town Blvd. between Wood and Callowhill (one block North of 17th and Vine)"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "real plants",
+      "separator": ","
+    },
+    {
+      "description": "abstract video and images"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/video-arbor/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/videoarbor1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/videoarbor1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/videoarbor2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/videoarbor2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/videoarbor3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/videoarbor3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Franklin Town"
+    }
+  ]
+}

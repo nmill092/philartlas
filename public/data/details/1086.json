@@ -1,0 +1,86 @@
+{
+  "id": "1086",
+  "title": {
+    "display": "For Philadelphia",
+    "list": "For Philadelphia"
+  },
+  "artists": [
+    {
+      "name": "Jenny Holzer",
+      "externallinks": [
+        {
+          "url": "https://projects.jennyholzer.com/",
+          "label": "jennyholzer.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2018"
+    }
+  ],
+  "location": {
+    "latitude": "39.954900",
+    "longitude": "-75.169775",
+    "description": "Southwest corner, 18th and Arch"
+  },
+  "comments": "Clearly visible from the sidewalk when the building is closed.",
+  "architecture": {
+    "description": "On the lobby ceiling"
+  },
+  "content": [
+    {
+      "description": "lighted"
+    },
+    {
+      "description": "scrolling words"
+    }
+  ],
+  "landmark": {
+    "name": "Comcast Technology Center",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Comcast_Technology_Center",
+        "label": "wikipedia.org's Comcast Technology Center page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://dandelion-burdock.com/projects/comcast-technology-center",
+      "label": "dandelion-burdock.com article about the technology used to make this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/for-philadelphia/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comcastt4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comcastt4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/comcastt5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/comcastt5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

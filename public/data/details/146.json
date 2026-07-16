@@ -1,0 +1,85 @@
+{
+  "id": "146",
+  "title": {
+    "display": "Frank Rizzo",
+    "list": "Frank Rizzo"
+  },
+  "artists": [
+    {
+      "name": "Zenos Frudakis",
+      "externallinks": [
+        {
+          "url": "https://www.zenosfrudakis.com/",
+          "label": "zenosfrudakis.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1998"
+    }
+  ],
+  "location": {
+    "latitude": "39.953725",
+    "longitude": "-75.164500"
+  },
+  "comments": "Was on the steps of the Municipal Services Building on the North side of JFK between Broad and 15th.  Permanently removed from that location by the City without ceremony or advance notice in the middle of the night, June 2, 2020.  ",
+  "inscription": "Mayor 1972 - 1980",
+  "architecture": {
+    "description": "Steps"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "steps"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Frank Rizzo",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Rizzo",
+          "label": "wikipedia.org's Frank Rizzo page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/89790033",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/frank-l-rizzo-monument/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rizzo.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rizzo.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rizzo2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rizzo2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

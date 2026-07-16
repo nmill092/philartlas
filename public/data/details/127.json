@@ -1,0 +1,73 @@
+{
+  "id": "127",
+  "title": {
+    "display": "Farm Journal Building Entrance",
+    "list": "Farm Journal Building Entrance"
+  },
+  "artists": [
+    {
+      "name": "Bunting and Shrigley (Architects)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22858",
+          "label": "philadelphiabuildings.org's Bunting and Shrigley page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1912"
+    }
+  ],
+  "location": {
+    "latitude": "39.946375",
+    "longitude": "-75.153550",
+    "description": "West side of 7th, South of Locust"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "cornucopia",
+      "separator": ","
+    },
+    {
+      "description": "food"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=PHC-11684",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/farmjou.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/farmjou.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/farmjou2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/farmjou2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

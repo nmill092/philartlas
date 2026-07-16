@@ -1,0 +1,96 @@
+{
+  "id": "200",
+  "title": {
+    "display": "John Christian Bullitt",
+    "list": "John Christian Bullitt"
+  },
+  "artists": [
+    {
+      "name": "John J. Boyle",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_J._Boyle_(sculptor)",
+          "label": "wikipedia.org's John J. Boyle page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1907"
+    }
+  ],
+  "location": {
+    "latitude": "39.953050",
+    "longitude": "-75.163915",
+    "description": "South side of JFK, West of Broad"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "North side of",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "John Christian Bullitt",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Christian_Bullitt",
+          "label": "wikipedia.org's John Christian Bullitt page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.phillyhistory.org/PhotoArchive/detail.aspx?ImageId=42615",
+      "label": "phillyhistory.org 1936 picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/john-christian-bullitt/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bullitt.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bullitt.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bullitt2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bullitt2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "891",
+  "title": {
+    "display": "St. Andrew's Episcopal Gargoyles",
+    "list": "St. Andrew's Episcopal Gargoyles"
+  },
+  "artists": [
+    {
+      "name": "Wilson Brothers and Company (Architects)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21576",
+          "label": "philadelphiabuildings.org's Wilson Brothers and Company page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1883"
+    }
+  ],
+  "location": {
+    "latitude": "39.960600",
+    "longitude": "-75.194050",
+    "description": "West side of 36th, South of Baring"
+  },
+  "architecture": {
+    "description": "South and East walls"
+  },
+  "content": [
+    {
+      "description": "dragons"
+    }
+  ],
+  "landmark": {
+    "name": "Church of St. Andrew and St. Monica",
+    "externallinks": [
+      {
+        "url": "https://www.ssandrewmonica.org/",
+        "label": "ssandrewmonica.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/47884",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/andmongar1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/andmongar1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/andmongar2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/andmongar2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/andmongar3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/andmongar3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Powelton"
+    }
+  ]
+}

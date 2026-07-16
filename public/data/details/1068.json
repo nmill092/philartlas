@@ -1,0 +1,168 @@
+{
+  "id": "1068",
+  "title": {
+    "display": "June 5th Memorial",
+    "list": "June 5th Memorial"
+  },
+  "artists": [
+    {
+      "name": "Scott Aker",
+      "externallinks": [
+        {
+          "url": "https://www.architecturalresearch.org/",
+          "label": "architecturalresearch.org"
+        }
+      ]
+    },
+    {
+      "name": "Barb Fox"
+    }
+  ],
+  "years": [
+    {
+      "year": "2018"
+    }
+  ],
+  "location": {
+    "latitude": "39.953675",
+    "longitude": "-75.176600",
+    "description": "Southeast corner, 22nd and Market"
+  },
+  "comments": "The black stone sculpture by Barb Fox is separately titled \"Witness\".",
+  "inscription": "<br />  For those we remember  <br />Unable are the loved to die  <br />for love is immortality  <br />nay, it is deity -  <br />unable they that love - to die  <br />for love reforms vitality  <br />into divinity  <br />-Emily Dickinson  <br />  On a beautiful late Spring morning in 2013 the reckless  demolition of a neighborhood building collapsed a wall onto  the Salvation Army store that stood on this site.  <br />  This memorial park is dedicated to the memory of the six people  who died here on June 5, 2013.  They were from all walks of life,  and each was uniquely precious to their family, friends and   community.  The memorial park also remembers those who were  injured, and honors the rescuers.  <br />  The June 5 Memorial Park is made possible by the generosity  of private citizens and the City of Philadelphia.  It challenges  the residents and leaders of Philadelphia to remember what  happened here and to always value human life above development.",
+  "content": [
+    {
+      "description": "ideas",
+      "separator": ","
+    },
+    {
+      "description": "architectural elements",
+      "separator": ","
+    },
+    {
+      "description": "steles",
+      "separator": ","
+    },
+    {
+      "description": "benches"
+    }
+  ],
+  "peopleprefix": "Memorial to the six victims with a quote:",
+  "people": [
+    {
+      "name": "Anne Bryan",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/philly/news/20140601_Bereaved_parents_fought_to_make_collapse_site_a_memorial.html",
+          "label": "inquirer.com's Anne Bryan article"
+        }
+      ]
+    },
+    {
+      "name": "Roseline Conteh",
+      "externallinks": [
+        {
+          "url": "https://www.cbsnews.com/philadelphia/news/family-in-mourning-after-death-of-52-year-old-collapse-victim-roseline-conteh/",
+          "label": "cbsnews.com's Roseline Conteh article"
+        }
+      ]
+    },
+    {
+      "name": "Borbor Davis",
+      "externallinks": [
+        {
+          "url": "https://www.cbsnews.com/philadelphia/news/pastor-pays-tribute-to-building-collapse-victim/",
+          "label": "cbsnews.com's Borbor Davis article"
+        }
+      ]
+    },
+    {
+      "name": "Emily Dickinson",
+      "comment": "quote",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+          "label": "wikipedia.org's Emily Dickinson page"
+        }
+      ]
+    },
+    {
+      "name": "Kimberly Finnegan"
+    },
+    {
+      "name": "Juanita Harmon",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/philly/news/local/20130614_Collapse_victim_fondly_recalled.html",
+          "label": "inquirer.com's Juniata Harmon article"
+        }
+      ]
+    },
+    {
+      "name": "Mary Simpson",
+      "externallinks": [
+        {
+          "url": "https://www.delcotimes.com/2013/09/03/family-of-haverford-high-grad-killed-in-philly-building-collapse-files-first-wrongful-death-lawsuit/",
+          "label": "delcotimes.com article about Mary Simpson and the lawsuit filed by her family"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.june5memorial.org/",
+      "label": "june5memorial.org"
+    },
+    {
+      "url": "https://www.design.upenn.edu/news/post/qa-barbara-fox-and-scott-aker-designers-june-5-memorial",
+      "label": "ww.design.upenn.edu interview with the artists"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/june5th1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/june5th1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/june5th2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/june5th2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/june5th3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/june5th3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/june5th4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/june5th4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

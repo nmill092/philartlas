@@ -1,0 +1,69 @@
+{
+  "id": "942",
+  "title": {
+    "display": "Birds",
+    "list": "Birds"
+  },
+  "artists": [
+    {
+      "name": "Kathleen Fruge-Brown",
+      "externallinks": [
+        {
+          "url": "https://www.kathleenfrugebrown.com/",
+          "label": "kathleenfrugebrown.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "location": {
+    "latitude": "39.953140",
+    "longitude": "-75.165500",
+    "description": "West side of 15th, North of Market"
+  },
+  "architecture": {
+    "description": "Bike racks"
+  },
+  "content": [
+    {
+      "description": "birds"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.kathleenfrugebrown.com/docs/bird_bike_racks.htm",
+      "label": "artist's picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/birdbike1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/birdbike1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/birdbike2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/birdbike2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "808",
+  "title": {
+    "display": "Recovering World",
+    "list": "Recovering World"
+  },
+  "artists": [
+    {
+      "name": "Lynn Denton",
+      "externallinks": [
+        {
+          "url": "https://www.lynnbdenton.com/",
+          "label": "lynnbdenton.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2001"
+    },
+    {
+      "year": "2002"
+    }
+  ],
+  "location": {
+    "latitude": "39.984550",
+    "longitude": "-75.166725",
+    "description": "Northwest corner, 20th and Norris"
+  },
+  "comments": "An ArtWell project designed and built with help from the recovering  addicts at New Jerusalem and local children.",
+  "architecture": {
+    "description": "Partially on the wall"
+  },
+  "content": [
+    {
+      "description": "furniture",
+      "separator": ","
+    },
+    {
+      "description": "seated people",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "people together",
+      "separator": ","
+    },
+    {
+      "description": "parts of people",
+      "separator": ","
+    },
+    {
+      "description": "sun and stars",
+      "separator": ","
+    },
+    {
+      "description": "globe",
+      "separator": ","
+    },
+    {
+      "description": "abstract shapes",
+      "separator": ","
+    },
+    {
+      "description": "musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "boat",
+      "separator": ","
+    },
+    {
+      "description": "water",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "symbols"
+    }
+  ],
+  "landmark": {
+    "name": "New Jerusalem Now",
+    "prefix": "East side of",
+    "externallinks": [
+      {
+        "url": "https://www.newjerusalemrecovery.com/",
+        "label": "newjerusalemrecovery.com"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.theartwell.org/",
+      "label": "theartwell.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/recovering1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/recovering1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/recovering2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/recovering2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/recovering3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/recovering3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/recovering4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/recovering4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Southwest"
+    }
+  ]
+}

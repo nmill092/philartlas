@@ -1,0 +1,56 @@
+{
+  "id": "558",
+  "title": {
+    "display": "Ritz Screen",
+    "list": "Ritz Screen"
+  },
+  "artists": [
+    {
+      "name": "William Daley",
+      "externallinks": [
+        {
+          "url": "https://www.williamdaley.net/",
+          "label": "williamdaley.net"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1978"
+    }
+  ],
+  "location": {
+    "latitude": "39.946550",
+    "longitude": "-75.145300",
+    "description": "West side of Dock, South of Walnut between 2nd and 3rd"
+  },
+  "architecture": {
+    "description": "East wall"
+  },
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "landmark": {
+    "name": "Ritz 5"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ritzscreen.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ritzscreen.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

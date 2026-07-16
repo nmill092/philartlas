@@ -1,0 +1,62 @@
+{
+  "id": "26",
+  "title": {
+    "display": "Antillean Couple",
+    "list": "Antillean Couple"
+  },
+  "artists": [
+    {
+      "name": "Agustin Cardenas",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Agustin_C%C3%A1rdenas",
+          "label": "wikipedia.org's Agustin Cardenas page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1957"
+    }
+  ],
+  "location": {
+    "latitude": "39.953850",
+    "longitude": "-75.194780",
+    "description": "Southwest corner 36th and Sansom"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/antillean-couple",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/36sans.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/36sans.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "292",
+  "title": {
+    "display": "Phoenix Rising in Flames",
+    "list": "Phoenix Rising in Flames"
+  },
+  "artists": [
+    {
+      "name": "Natalie Charkow Hollander",
+      "externallinks": [
+        {
+          "url": "https://www.gf.org/fellows/all-fellows/natalie-charkow-hollander/",
+          "label": "gf.org's Natalie Charkow Hollander page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.960560",
+    "longitude": "-75.143025",
+    "description": "South side of Spring Garden, East of 3rd"
+  },
+  "content": [
+    {
+      "description": "phoenix",
+      "separator": ","
+    },
+    {
+      "description": "flames"
+    }
+  ],
+  "landmark": {
+    "name": "Fire Administration Building",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://www.phila.gov/departments/philadelphia-fire-department/",
+        "label": "phila.gov's Fire Department page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/faphoen.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/faphoen.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

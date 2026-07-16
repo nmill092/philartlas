@@ -1,0 +1,43 @@
+{
+  "id": "679",
+  "title": {
+    "display": "Compass Rose",
+    "list": "Compass Rose"
+  },
+  "years": [
+    {
+      "year": "2000"
+    }
+  ],
+  "yearmodifier": "very approximate",
+  "location": {
+    "latitude": "39.952635",
+    "longitude": "-75.168700",
+    "description": "West side of 17th, South of Market"
+  },
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "unlabeled compass rose"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/17compass.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/17compass.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

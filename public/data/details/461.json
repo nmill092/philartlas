@@ -1,0 +1,106 @@
+{
+  "id": "461",
+  "title": {
+    "display": "Central Library Pediments",
+    "list": "Central Library Pediments"
+  },
+  "artists": [
+    {
+      "name": "John Donnelly Company"
+    }
+  ],
+  "years": [
+    {
+      "year": "1927"
+    }
+  ],
+  "location": {
+    "latitude": "39.959300",
+    "longitude": "-75.171100",
+    "description": "North side of Vine between 19th and 20th"
+  },
+  "architecture": {
+    "description": "Pediments"
+  },
+  "content": [
+    {
+      "description": "groups of people",
+      "separator": ","
+    },
+    {
+      "description": "some standing",
+      "separator": ","
+    },
+    {
+      "description": "some sitting",
+      "separator": ","
+    },
+    {
+      "description": "sphinx",
+      "separator": ","
+    },
+    {
+      "description": "pyramid",
+      "separator": ","
+    },
+    {
+      "description": "urn",
+      "separator": ","
+    },
+    {
+      "description": "plant",
+      "separator": ","
+    },
+    {
+      "description": "chair",
+      "separator": ","
+    },
+    {
+      "description": "globe",
+      "separator": ","
+    },
+    {
+      "description": "stylus, scroll, tablet and books",
+      "separator": ","
+    },
+    {
+      "description": "typewriter and printing press"
+    }
+  ],
+  "landmark": {
+    "name": "Central Library",
+    "externallinks": [
+      {
+        "url": "https://libwww.freelibrary.org/locations/parkway-central-library",
+        "label": "freelibrary.org's Central Library page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cenlib1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cenlib1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cenlib2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cenlib2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

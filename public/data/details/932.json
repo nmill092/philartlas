@@ -1,0 +1,137 @@
+{
+  "id": "932",
+  "title": {
+    "display": "Bonwit Teller Building",
+    "list": "Bonwit Teller Building"
+  },
+  "artists": [
+    {
+      "name": "Bella Abdallah"
+    }
+  ],
+  "years": [
+    {
+      "year": "1927"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.951430",
+    "longitude": "-75.169000",
+    "description": "Southwest corner, 17th and Chestnut"
+  },
+  "comments": "Artist attribution is from philadelphiabuildings.org",
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "urns",
+      "separator": ","
+    },
+    {
+      "description": "cats",
+      "separator": ","
+    },
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "seated"
+    },
+    {
+      "description": "cherubs",
+      "separator": ","
+    },
+    {
+      "description": "pens and books",
+      "separator": ","
+    },
+    {
+      "description": "mirrors",
+      "separator": ","
+    },
+    {
+      "description": "face",
+      "separator": ","
+    },
+    {
+      "description": "Egyptian headpiece",
+      "separator": ","
+    },
+    {
+      "description": "flame"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/66640",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bonwitt1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bonwitt1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bonwitt2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bonwitt2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bonwitt3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bonwitt3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bonwitt4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bonwitt4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bonwitt5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bonwitt5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

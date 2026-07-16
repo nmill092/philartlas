@@ -1,0 +1,88 @@
+{
+  "id": "888",
+  "title": {
+    "display": "Race Street Connector",
+    "list": "Race Street Connector"
+  },
+  "artists": [
+    {
+      "name": "Field Operations",
+      "externallinks": [
+        {
+          "url": "https://www.fieldoperations.net/",
+          "label": "fieldoperations.net"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2011"
+    }
+  ],
+  "location": {
+    "latitude": "39.953670",
+    "longitude": "-75.140950",
+    "description": "South side of Race, East of 2nd"
+  },
+  "comments": "\"CITY\" is on the East side, pointing West and \"RIVER\" is on the West  side, pointing East. ",
+  "inscription": "<br />  This dramatic light screen, made of expanded metal with bold  signage and color-shifting night lighting, unifies the corridor  underneath the expressways and draws people to the waterfront.  The smaller characters graphically register the historic flooding  events of the Delaware River by month, year and peak height as  recorded by the National Oceanic and Atmospheric Administration  at the Race Street Pier (Pier 11).  The resulting timeline visually  reinforces the dynamic conntection between the city and the river.",
+  "architecture": {
+    "description": "Under the 1-95 overpass"
+  },
+  "content": [
+    {
+      "description": "idea"
+    },
+    {
+      "description": "sign",
+      "separator": ","
+    },
+    {
+      "description": "measurements of water"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.delawareriverwaterfront.com/places/race-street-connector",
+      "label": "delawareriverwaterfront.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/raceconn1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/raceconn1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/raceconn2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/raceconn2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/raceconn3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/raceconn3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

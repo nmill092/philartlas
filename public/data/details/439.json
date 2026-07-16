@@ -1,0 +1,73 @@
+{
+  "id": "439",
+  "title": {
+    "display": "Winged Woman",
+    "list": "Winged Woman"
+  },
+  "artists": [
+    {
+      "name": "Arlene Love",
+      "externallinks": [
+        {
+          "url": "https://www.arleneloveartist.com/",
+          "label": "arleneloveartist.com"
+        },
+        {
+          "url": "https://www.amiepotsicartadvisory.com/art-history/arlene-love",
+          "label": "amiepotsicartadvisory.com's Arlene Love Art Histories page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1987"
+    }
+  ],
+  "location": {
+    "latitude": "39.949085",
+    "longitude": "-75.173225",
+    "description": "West side of 19th Street South of Locust"
+  },
+  "content": [
+    {
+      "description": "winged"
+    },
+    {
+      "description": "head and torso"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/8430189@N06/",
+      "label": "kerrins_giraffe's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wingwom.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wingwom.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wingwom2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wingwom2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

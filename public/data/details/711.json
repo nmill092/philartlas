@@ -1,0 +1,69 @@
+{
+  "id": "711",
+  "title": {
+    "display": "Steel Woman II",
+    "list": "Steel Woman II"
+  },
+  "artists": [
+    {
+      "name": "Thomas Schutte",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Schutte",
+          "label": "wikipedia.org's Thomas Schutte page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1999"
+    }
+  ],
+  "location": {
+    "latitude": "39.967150",
+    "longitude": "-75.181425"
+  },
+  "comments": "Was in the Anne d'Harnoncourt Sculpture Garden on Art Museum Drive.  Removed some time prior to July 7, 2022.",
+  "content": [
+    {
+      "description": "horizontal person",
+      "separator": ","
+    },
+    {
+      "description": "furniture"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/steelwoman1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/steelwoman1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/steelwoman2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/steelwoman2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/steelwoman3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/steelwoman3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

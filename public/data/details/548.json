@@ -1,0 +1,136 @@
+{
+  "id": "548",
+  "title": {
+    "display": "Paul J. Gutman Library Gargoyles",
+    "list": "Paul J. Gutman Library Gargoyles"
+  },
+  "artists": [
+    {
+      "name": "Syma",
+      "externallinks": [
+        {
+          "url": "https://www.symastudios.com/",
+          "label": "symastudios.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1992"
+    }
+  ],
+  "location": {
+    "latitude": "40.022375",
+    "longitude": "-75.191350",
+    "description": "North side of School House Lane, East of Henry Ave."
+  },
+  "architecture": {
+    "description": "Library walls"
+  },
+  "content": [
+    {
+      "description": "heads",
+      "separator": ","
+    },
+    {
+      "description": "buildings"
+    },
+    {
+      "description": "as hats"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://library.jefferson.edu/gutman.cfm",
+      "label": "jefferson.edu's page for the library"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gutmanlib1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gutmanlib1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gutmanlib2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gutmanlib2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gutmanlib3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gutmanlib3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gutmanlib4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gutmanlib4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gutmanlib5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gutmanlib5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gutmanlib6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gutmanlib6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gutmanlib7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gutmanlib7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gutmanlib8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gutmanlib8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson East Falls Campus"
+    }
+  ]
+}

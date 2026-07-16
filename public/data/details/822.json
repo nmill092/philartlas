@@ -1,0 +1,57 @@
+{
+  "id": "822",
+  "title": {
+    "display": "Spring Garden School Entrance",
+    "list": "Spring Garden School Entrance"
+  },
+  "artists": [
+    {
+      "name": "Irwin T. Catharine (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Irwin_T._Catharine",
+          "label": "wikipedia.org Irwin T. Catharine page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1931"
+    }
+  ],
+  "location": {
+    "latitude": "39.965100",
+    "longitude": "-75.155850",
+    "description": "South side of Melon between 11th and 12th"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "abstract art deco"
+    }
+  ],
+  "landmark": {
+    "name": "Spring Garden School",
+    "externallinks": [
+      {
+        "url": "https://springgarden.philasd.org/",
+        "label": "springgarden.philasd.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/springgardensch.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/springgardensch.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

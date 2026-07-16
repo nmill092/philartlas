@@ -1,0 +1,94 @@
+{
+  "id": "319",
+  "title": {
+    "display": "The Revolutionary Soldier",
+    "list": "Revolutionary Soldier, The"
+  },
+  "artists": [
+    {
+      "name": "Erwin Frey",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Erwin_Frey",
+          "label": "wikipedia.org's Erwin Frey page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1942"
+    }
+  ],
+  "location": {
+    "latitude": "39.972675",
+    "longitude": "-75.190450",
+    "description": "Kelly Drive, past Boat House Row"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "gun"
+    }
+  ],
+  "landmark": {
+    "name": "Ellen Phillips Samuel Memorial",
+    "prefix": "South Terrace",
+    "externallinks": [
+      {
+        "url": "https://www.associationforpublicart.org/artwork/ellen-phillips-samuel-memorial/",
+        "label": "associationforpublicart.org's Ellen Phillips Samuel Memorial page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/the-revolutionary-soldier/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/revsol2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/revsol2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/revsol3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/revsol3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/revsol.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/revsol.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

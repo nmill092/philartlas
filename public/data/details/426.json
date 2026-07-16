@@ -1,0 +1,66 @@
+{
+  "id": "426",
+  "title": {
+    "display": "The Wedges",
+    "list": "Wedges, The"
+  },
+  "artists": [
+    {
+      "name": "Robert Morris",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Morris_(artist)",
+          "label": "wikipedia.org's Robert Morris page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1970"
+    }
+  ],
+  "location": {
+    "latitude": "39.970075",
+    "longitude": "-75.184175",
+    "description": "Northeast from Kelly Drive and Sedgely Drive"
+  },
+  "content": [
+    {
+      "description": "geometric forms"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/the-wedges/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wedges1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wedges1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wedges2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wedges2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kelly Drive"
+    }
+  ]
+}

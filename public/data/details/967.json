@@ -1,0 +1,91 @@
+{
+  "id": "967",
+  "title": {
+    "display": "Wanamaker House",
+    "list": "Wanamaker House"
+  },
+  "artists": [
+    {
+      "name": "Joseph M. Huston (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/25237",
+          "label": "philadelphiabuildings.org's Joseph M. Huston page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1900"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.950550",
+    "longitude": "-75.173225",
+    "description": "North side of Walnut, East of 20th"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "lions",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "faces",
+      "separator": ","
+    },
+    {
+      "description": "shield"
+    }
+  ],
+  "landmark": {
+    "name": "United Lodge of Theosophists",
+    "externallinks": [
+      {
+        "url": "http://www.ultphiladelphia.org/",
+        "label": "ultphiladelphia.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/75574",
+      "label": "philadelphiabuildings.org page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wanhouse1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wanhouse1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wanhouse2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wanhouse2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

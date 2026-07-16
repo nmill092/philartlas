@@ -1,0 +1,56 @@
+{
+  "id": "1131",
+  "title": {
+    "display": "Major General John Fulton Reynolds Memorial",
+    "list": "Major General John Fulton Reynolds Memorial"
+  },
+  "location": {
+    "latitude": "39.922610",
+    "longitude": "-75.186710",
+    "description": "Northeast corner, 24th and Passyunk"
+  },
+  "comments": "The park was dedicated in 1923.  The flagpole was installed in 1929 with references to a war memorial to be installed later.  The park was upgraded by the city in 2021. There are pictures on line from 2019 that show the memorial closer to 24th Street.",
+  "inscription": "<br />Maj Gen John Fulton Reynolds  <br />Killed at Gettysburg July 1 1863  <br />Commanding the left wing of the  <br />Army of the Potomac",
+  "content": [
+    {
+      "description": "head"
+    }
+  ],
+  "landmark": {
+    "name": "Warriner Park"
+  },
+  "peopleprefix": "memorial to and relief bust of",
+  "people": [
+    {
+      "name": "John Fulton Reynolds",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_F._Reynolds",
+          "label": "wikipedia.org's John F. Reynolds page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/reynoldswp.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/reynoldswp.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/reynoldswp2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/reynoldswp2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

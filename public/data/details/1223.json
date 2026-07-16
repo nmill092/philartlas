@@ -1,0 +1,207 @@
+{
+  "id": "1223",
+  "title": {
+    "display": "Church of the Holy Child Entrance",
+    "list": "Church of the Holy Child Entrance"
+  },
+  "artists": [
+    {
+      "name": "George Ignatius Lovatt Sr. (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/26856",
+          "label": "philadelphiabuildings.org's George Ignatius Lovatt Sr. page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_I._Lovatt_Sr.",
+          "label": "wikipedia.org's George I. Lovatt Sr. page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1928"
+    }
+  ],
+  "location": {
+    "latitude": "40.032625",
+    "longitude": "-75.146375",
+    "description": "West side of Broad, North of Duncannon"
+  },
+  "comments": "The statues are unlabeled.  Mary and Jesus are obvious.  I'm guessing that the 4 statues to the left of the Holy Child over the entrance are based on the lineage in Matthew's Gospel and are David, Solomon, Joseph and Mary, and that the 4 to the right are Matthew, Mark, Luke and John.  I have no idea who the additional women around Mary and Jesus are at the top.  ",
+  "inscription": "\"Haecest - Domus - Dei - Et - Porta - Coel\"  <br />(This is the House of God and the Gate of Heaven)",
+  "architecture": {
+    "description": "Church entrance"
+  },
+  "content": [
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "Christian symbols and words",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "books and scrolls",
+      "separator": ","
+    },
+    {
+      "description": "staff"
+    }
+  ],
+  "landmark": {
+    "name": "Our Lady of Hope Catholic Parish",
+    "externallinks": [
+      {
+        "url": "https://www.olhcatholic.org/",
+        "label": "olhcatholic.org"
+      }
+    ]
+  },
+  "peopleprefix": "unlabeled (and therefore tenuously identified) statues of",
+  "people": [
+    {
+      "name": "David",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/David",
+          "label": "wikipedia.org's David page"
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Saint John",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_the_Evangelist",
+          "label": "wikipedia.org's John the Evangelist page"
+        }
+      ]
+    },
+    {
+      "name": "Joseph",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saint_Joseph",
+          "label": "wikipedia.org's Saint Joseph page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Luke",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Luke_the_Evangelist",
+          "label": "wikipedia.org's Luke the Evangelist page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Mark",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mark_the_Evangelist",
+          "label": "wikipedia.org's Mark the Evangelist page"
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Matthew",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Matthew_the_Apostle",
+          "label": "wikipedia.org's Matthew the Apostle page"
+        }
+      ]
+    },
+    {
+      "name": "Solomon",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon",
+          "label": "wikipedia.org's Solomon page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/25881",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oloh1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oloh1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oloh2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oloh2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oloh3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oloh3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/oloh4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/oloh4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Logan/Ogontz"
+    }
+  ]
+}

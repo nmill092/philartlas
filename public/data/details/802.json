@@ -1,0 +1,87 @@
+{
+  "id": "802",
+  "title": {
+    "display": "The Age of Bronze",
+    "list": "Age of Bronze, The"
+  },
+  "artists": [
+    {
+      "name": "Auguste Rodin",
+      "externallinks": [
+        {
+          "url": "https://www.bronze-gallery.com/sculptors/artist.cfm?sculptorID=47",
+          "label": "bronze-gallery.com's Auguste Rodin page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1877"
+    }
+  ],
+  "yearmodifier": "cast 1925",
+  "location": {
+    "latitude": "39.961875",
+    "longitude": "-75.174050",
+    "description": "North side of the Parkway between 21st and 22nd"
+  },
+  "architecture": {
+    "description": "West side of the front wall"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Rodin Museum",
+    "externallinks": [
+      {
+        "url": "https://rodinmuseum.org/",
+        "label": "rodinmuseum.org"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rodin_Museum",
+        "label": "wikipedia.org's Rodin Museum page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://rodinmuseum.org/collection/object/103358",
+      "label": "rodinmuseum.org's page for this piece"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Age_of_Bronze",
+      "label": "wikipedia.org's The Age of Bronze page"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ageofbronze.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ageofbronze.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ageofbronze2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ageofbronze2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

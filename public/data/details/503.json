@@ -1,0 +1,69 @@
+{
+  "id": "503",
+  "title": {
+    "display": "Bronze Sphere",
+    "list": "Bronze Sphere"
+  },
+  "artists": [
+    {
+      "name": "Klaus Ihlenfeld",
+      "externallinks": [
+        {
+          "url": " https://en.wikipedia.org/wiki/Klaus_Ihlenfeld",
+          "label": "wikipedia.org's Klaus Ihlenfeld page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1970"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.963100",
+    "longitude": "-75.149050",
+    "description": "East of 7th between Wallace and Fairmount"
+  },
+  "architecture": {
+    "description": "Grass plaza"
+  },
+  "content": [
+    {
+      "description": "sphere"
+    }
+  ],
+  "landmark": {
+    "name": "Fairmount Manor Apartments",
+    "prefix": "On the grounds of"
+  },
+  "externallinks": [
+    {
+      "url": "https://learninglab.si.edu/resources/view/902643",
+      "label": "learninglab.si.edu's resource page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bronzesphere.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bronzesphere.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bronzesphere2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bronzesphere2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

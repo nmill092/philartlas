@@ -1,0 +1,138 @@
+{
+  "id": "665",
+  "title": {
+    "display": "Engine 14 Gargoyles",
+    "list": "Engine 14 Gargoyles"
+  },
+  "artists": [
+    {
+      "name": "John Molitor (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/153501",
+          "label": "philadelphiabuildings.org's John Molitor page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1927"
+    }
+  ],
+  "location": {
+    "latitude": "40.017000",
+    "longitude": "-75.081340",
+    "description": "South corner, Foulkrod and Darrah"
+  },
+  "architecture": {
+    "description": "Front wall"
+  },
+  "content": [
+    {
+      "description": "heads"
+    }
+  ],
+  "landmark": {
+    "name": "Engine Company 14",
+    "externallinks": [
+      {
+        "url": "https://www.firemanshallmuseum.org/engine-14/",
+        "label": "firemanshallmuseum.org's Engine 14 page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/1185572",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fdgarg1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fdgarg1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fdgarg2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fdgarg2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fdgarg3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fdgarg3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fdgarg4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fdgarg4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fdgarg5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fdgarg5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fdgarg6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fdgarg6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fdgarg7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fdgarg7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fdgarg8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fdgarg8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

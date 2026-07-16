@@ -1,0 +1,43 @@
+{
+  "id": "767",
+  "title": {
+    "display": "On Lok House Gate",
+    "list": "On Lok House Gate"
+  },
+  "years": [
+    {
+      "year": "1984"
+    }
+  ],
+  "yearmodifier": "date of building",
+  "location": {
+    "latitude": "39.955925",
+    "longitude": "-75.155650",
+    "description": "Southeast corner, 10th and Spring"
+  },
+  "architecture": {
+    "description": "Gate"
+  },
+  "content": [
+    {
+      "description": "symbol"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/10springgate.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/10springgate.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chinatown"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "104",
+  "title": {
+    "display": "Double Figure Eight",
+    "list": "Double Figure Eight"
+  },
+  "artists": [
+    {
+      "name": "Paul Sisko",
+      "externallinks": [
+        {
+          "url": "https://www.paulsisko.com/",
+          "label": "paulsisko.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1993"
+    }
+  ],
+  "location": {
+    "latitude": "39.956250",
+    "longitude": "-75.189200",
+    "description": "East side of 33rd, North of Market"
+  },
+  "comments": "Originally in a park on the South side of Market just East of 32nd. Moved sometime between 2000 and 2004 when the park was replaced with a building.  The first picture is from the original location.",
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "landmark": {
+    "name": "Drexel University",
+    "prefix": "On the campus of",
+    "externallinks": [
+      {
+        "url": "https://drexel.edu/",
+        "label": "drexel.edu"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://prod.learninglab.si.edu/resources/view/263810",
+      "label": "learninglab.si.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexpab.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexpab.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexpab2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexpab2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

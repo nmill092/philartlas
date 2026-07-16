@@ -1,0 +1,87 @@
+{
+  "id": "36",
+  "title": {
+    "display": "Benjamin Franklin, Craftsman",
+    "list": "Benjamin Franklin, Craftsman"
+  },
+  "artists": [
+    {
+      "name": "Joe Brown",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Brown_%28sculptor%29",
+          "label": "wikipedia.org Joe Brown page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1981"
+    }
+  ],
+  "location": {
+    "latitude": "39.953700",
+    "longitude": "-75.163550",
+    "description": "Northwest corner, Broad and JFK"
+  },
+  "inscription": "<br />Presented to the  <br />City of Philadelphia  <br />by  <br />Pennsylvania Freemasons  <br />Dedicated June 27, 1981  <br />by  <br />The Grand Lodge Free and  <br />Accepted Masons of Pennsylvania",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "printing press"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/89837658",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/benjamin-franklin-craftsman-or-young-ben-franklin/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfcr.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfcr.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/benfcr2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/benfcr2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

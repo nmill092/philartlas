@@ -1,0 +1,59 @@
+{
+  "id": "903",
+  "title": {
+    "display": "German Society Gate",
+    "list": "German Society Gate"
+  },
+  "location": {
+    "latitude": "39.961600",
+    "longitude": "-75.149700",
+    "description": "Northeast corner, 7th and Spring Garden"
+  },
+  "comments": "I cannot find any other use of the word \"Prolesflorebit\"",
+  "inscription": "<br />The German Society of Pennsylvania  <br />Founded AD 1764  <br />Religione Industria et Fortitudine Germana Prolesflorebit",
+  "architecture": {
+    "description": "Gate"
+  },
+  "content": [
+    {
+      "description": "logo",
+      "separator": ","
+    },
+    {
+      "description": "eagle"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.germansociety.org/",
+      "label": "germansociety.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gsgate.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gsgate.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gsgate2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gsgate2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

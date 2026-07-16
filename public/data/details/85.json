@@ -1,0 +1,99 @@
+{
+  "id": "85",
+  "title": {
+    "display": "Consultation",
+    "list": "Consultation"
+  },
+  "artists": [
+    {
+      "name": "J. Seward Johnson, Jr.",
+      "externallinks": [
+        {
+          "url": "https://sewardjohnsonatelier.org/",
+          "label": "sewardjohnsonatelier.org"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "latitude": "39.958150",
+    "longitude": "-75.198750"
+  },
+  "comments": "Was East and North of 39th and Filbert.  Clearly visible in a Street View picture from 2019.  Not there when checked on December 9, 2023. ",
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing"
+    }
+  ],
+  "landmark": {
+    "name": "Penn Presbyterian Medical Center",
+    "prefix": "Campus of the",
+    "externallinks": [
+      {
+        "url": "https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/penn-presbyterian-medical-center",
+        "label": "pennmedicine.org's Penn Presbyterian Medical Center page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://sewardjohnsonatelier.org/sculpture/consultation-the/",
+      "label": "sewardjohnsonatelier.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/consult.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/consult.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/consult2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/consult2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/consult3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/consult3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/consult4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/consult4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/consult5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/consult5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

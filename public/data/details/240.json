@@ -1,0 +1,75 @@
+{
+  "id": "240",
+  "title": {
+    "display": "LOVE",
+    "list": "LOVE (Penn Campus)"
+  },
+  "artists": [
+    {
+      "name": "Robert Indiana",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Indiana",
+          "label": "wikipedia.org's Robert Indiana page"
+        },
+        {
+          "url": "https://www.aaa.si.edu/collections/interviews/oral-history-interview-robert-indiana-12936",
+          "label": "si.edu interview with Robert Indiana"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1966"
+    }
+  ],
+  "yearmodifier": "date is from the Penn website",
+  "location": {
+    "latitude": "39.951825",
+    "longitude": "-75.194875",
+    "description": "Locust Walk, just East of 36th"
+  },
+  "content": [
+    {
+      "description": "idea"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42869834",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://facilities.upenn.edu/maps/art/love",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pennlov1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pennlov1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pennlov3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pennlov3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "517",
+  "title": {
+    "display": "Together Family",
+    "list": "Together Family"
+  },
+  "artists": [
+    {
+      "name": "Ken Clark"
+    }
+  ],
+  "years": [
+    {
+      "year": "1977"
+    }
+  ],
+  "location": {
+    "latitude": "40.057460",
+    "longitude": "-75.188050",
+    "description": "Northeast of the Northeast corner, Germantown and Sedgwick"
+  },
+  "architecture": {
+    "description": "Hanging from the top of the wall"
+  },
+  "content": [
+    {
+      "description": "four people",
+      "separator": ","
+    },
+    {
+      "description": "three standing",
+      "separator": ","
+    },
+    {
+      "description": "one sitting"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/together.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/together.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

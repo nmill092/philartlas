@@ -1,0 +1,146 @@
+{
+  "id": "680",
+  "title": {
+    "display": "Chestnut Park Fountain",
+    "list": "Chestnut Park Fountain"
+  },
+  "artists": [
+    {
+      "name": "Christopher Collins",
+      "externallinks": [
+        {
+          "url": "https://collinsstudio.com/",
+          "label": "collinsstudio.com (Christopher and John R. Collins)"
+        }
+      ]
+    },
+    {
+      "name": "John F. Collins",
+      "externallinks": [
+        {
+          "url": "https://www.tclf.org/pioneer/john-francis-collins",
+          "label": "tclf.org's John Francis Collins page"
+        }
+      ]
+    },
+    {
+      "name": "John R. Collins"
+    },
+    {
+      "name": "Ted Knighton",
+      "externallinks": [
+        {
+          "url": "https://tedknighton.com/",
+          "label": "tedknighton.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "location": {
+    "latitude": "39.951900",
+    "longitude": "-75.169050",
+    "description": "Between Chestnut and Ranstead, West of 17th"
+  },
+  "content": [
+    {
+      "description": "fountain",
+      "separator": ","
+    },
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "turtle",
+      "separator": ","
+    },
+    {
+      "description": "wolf head",
+      "separator": ","
+    },
+    {
+      "description": "bird"
+    }
+  ],
+  "landmark": {
+    "name": "John F. Collins Park",
+    "prefix": "Inside",
+    "externallinks": [
+      {
+        "url": "https://centercityphila.org/parks/john-f-collins-park",
+        "label": "centercityphila.org's John F. Collins Park page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/josephreaddy/518183077/",
+      "label": "picture of the fountain on flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chparkft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chparkft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chparkft2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chparkft2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chparkft3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chparkft3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chparkft4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chparkft4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chparkft5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chparkft5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

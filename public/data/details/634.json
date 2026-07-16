@@ -1,0 +1,123 @@
+{
+  "id": "634",
+  "title": {
+    "display": "Insurance Company of North America Building",
+    "list": "Insurance Company of North America Building"
+  },
+  "artists": [
+    {
+      "name": "Stewardson and Page (Architects)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/25417",
+          "label": "philadelphiabuildings.org's Stewardson and Page page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1925"
+    }
+  ],
+  "location": {
+    "latitude": "39.954775",
+    "longitude": "-75.166585",
+    "description": "Southwest corner, 16th, Arch, and the Parkway"
+  },
+  "inscription": "<br />Insurance Company of North America  <br />Oldest American Fire and Marine Insurance Company  <br />Organized in Philadelphia on December X, MDCCXCII  <br />in the old state house and in the room in which  <br />was signed the Declaration of Independence",
+  "architecture": {
+    "description": "Part of the whole building's art"
+  },
+  "content": [
+    {
+      "description": "Eagles",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "one wearing a hat",
+      "separator": ","
+    },
+    {
+      "description": "furniture"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/84897",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ina1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ina1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ina2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ina2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ina3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ina3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ina4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ina4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ina5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ina5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

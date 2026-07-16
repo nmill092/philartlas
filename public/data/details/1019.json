@@ -1,0 +1,149 @@
+{
+  "id": "1019",
+  "title": {
+    "display": "Independence Building Reliefs",
+    "list": "Independence Building Reliefs"
+  },
+  "years": [
+    {
+      "year": "1925"
+    }
+  ],
+  "location": {
+    "latitude": "39.947415",
+    "longitude": "-75.149200",
+    "description": "South side of Walnut, East of 5th"
+  },
+  "comments": "Best viewed from the North side of Walnut",
+  "architecture": {
+    "description": "Entrance, North and West walls"
+  },
+  "content": [
+    {
+      "description": "sitting, kneeling",
+      "separator": ","
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "angel",
+      "separator": ","
+    },
+    {
+      "description": "helmets",
+      "separator": ","
+    },
+    {
+      "description": "Independence Hall tower",
+      "separator": ","
+    },
+    {
+      "description": "machines and tools",
+      "separator": ","
+    },
+    {
+      "description": "papers, scrolls, and books",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "cornucopias",
+      "separator": ","
+    },
+    {
+      "description": "symbols and allegories"
+    }
+  ],
+  "peopleprefix": "Relief medallions of",
+  "people": [
+    {
+      "name": "Athena",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Athena",
+          "label": "wikipedia.org's Athena page"
+        }
+      ]
+    },
+    {
+      "name": "Hermes",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hermes",
+          "label": "wikipedia.org's Hermes page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/75309",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/independence1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/independence1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/independence2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/independence2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/independence3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/independence3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/independence4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/independence4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/independence5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/independence5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

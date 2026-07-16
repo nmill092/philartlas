@@ -1,0 +1,202 @@
+{
+  "id": "530",
+  "title": {
+    "display": "Civil War Soldiers and Sailors Monument",
+    "list": "Civil War Soldiers and Sailors Monument (Germantown)"
+  },
+  "artists": [
+    {
+      "name": "John Massey Rhind",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/J._Massey_Rhind",
+          "label": "wikipedia.org's John Massey Rhind page"
+        }
+      ]
+    },
+    {
+      "name": "James H. Windrim (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21564",
+          "label": "philadelphiabuildings.org's James H. Windrim page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1883"
+    }
+  ],
+  "location": {
+    "latitude": "40.034325",
+    "longitude": "-75.172300",
+    "description": "Germantown between Shoolhouse and Church"
+  },
+  "comments": "The eagles and plaques are by John Massey Rhind. The soldier is variously attributed to John Lachmier or Lachmer.  The quote on the Pennsylvania plaque, though not attributed, is from is from William Penn's Frame of Government",
+  "inscription": "<br />They never fail who die in a great cause.  <br />-Byron  <br />1861 Germantown's tribute to her heroic dead 1883  <br />  <br />United States of America  <br />Liberty and Union  <br />now and forever, one   and inseparable  <br />-Webster  <br />  <br />Pennsylvania  <br />The Keystone State  <br />liberty without obedience is confusion and obedience without liberty is slavery.  <br />  <br />Philadelphia  <br />The City of Brotherly Love  <br />On Earth peace  <br />Good will toward men  <br />-Luke",
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "wearing a hat",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "eagles",
+      "separator": ","
+    },
+    {
+      "description": "horses",
+      "separator": ","
+    },
+    {
+      "description": "olive branches",
+      "separator": ","
+    },
+    {
+      "description": "United States, Pennsylvania and Philadelphia seals"
+    }
+  ],
+  "landmark": {
+    "name": "Market Square",
+    "externallinks": [
+      {
+        "url": "https://www.ushistory.org/germantown/lower/market.htm",
+        "label": "ushistory.org's Market Square page"
+      }
+    ]
+  },
+  "peopleprefix": "brief quotes from",
+  "people": [
+    {
+      "name": "Lord Byron",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lord_Byron",
+          "label": "wikipedia.org's Lord Byron page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Luke",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Luke_the_Evangelist",
+          "label": "wikipedia.org's Luke the Evangelist page"
+        }
+      ]
+    },
+    {
+      "name": "William Penn",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Penn",
+          "label": "wikipedia.org's William Penn page"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Webster",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Daniel_Webster",
+          "label": "wikipedia.org's Daniel Webster page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gcw1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gcw1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gcw2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gcw2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gcw3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gcw3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gcw4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gcw4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gcw5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gcw5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gcw6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gcw6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gcw7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gcw7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gcw8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gcw8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

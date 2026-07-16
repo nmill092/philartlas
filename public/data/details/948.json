@@ -1,0 +1,57 @@
+{
+  "id": "948",
+  "title": {
+    "display": "Eagle",
+    "list": "Eagle (12th and Chestnut)"
+  },
+  "years": [
+    {
+      "year": "1880"
+    }
+  ],
+  "yearmodifier": "date of building",
+  "location": {
+    "latitude": "39.950430",
+    "longitude": "-75.161040",
+    "description": "South side of Chestnut, West of 12th"
+  },
+  "architecture": {
+    "description": "Roof"
+  },
+  "content": [
+    {
+      "description": "eagle",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/12cheagle1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/12cheagle1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/12cheagle2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/12cheagle2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Gayborhood"
+    }
+  ]
+}

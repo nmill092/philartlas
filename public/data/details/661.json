@@ -1,0 +1,47 @@
+{
+  "id": "661",
+  "title": {
+    "display": "Orball",
+    "list": "Orball"
+  },
+  "artists": [
+    {
+      "name": "Ken Clark"
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "40.018850",
+    "longitude": "-75.049050",
+    "description": "Southeast side of Keystone St., just Northeast of Levick St., near the top of the slight hill with the tennis courts"
+  },
+  "content": [
+    {
+      "description": "abstract ball"
+    }
+  ],
+  "landmark": {
+    "name": "Disston Park"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/orball.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/orball.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

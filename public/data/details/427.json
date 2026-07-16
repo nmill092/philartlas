@@ -1,0 +1,75 @@
+{
+  "id": "427",
+  "title": {
+    "display": "Welcome",
+    "list": "Welcome"
+  },
+  "artists": [
+    {
+      "name": "EvAngelos W. Frudakis",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/obituaries/evangelos-frudakis-sculptor-fishing-bear-the-signer-pafa-teacher-mentor-20190221.html",
+          "label": "inquirer.com obituary for EvAngelos Frudakis"
+        },
+        {
+          "url": "https://sculptorewfrudakis.com/",
+          "label": "sculptorewfrudakis.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1988"
+    }
+  ],
+  "location": {
+    "latitude": "39.949750",
+    "longitude": "-75.173100",
+    "description": "West side of 19th, South of Walnut"
+  },
+  "content": [
+    {
+      "description": "striding person"
+    },
+    {
+      "description": "with a flower in her left hand",
+      "separator": ","
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Rittenhouse Hotel",
+    "prefix": "In the driveway of the"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rwelcom.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rwelcom.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rwelcom2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rwelcom2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

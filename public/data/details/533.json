@@ -1,0 +1,61 @@
+{
+  "id": "533",
+  "title": {
+    "display": "Buckley Park Vietnam Memorial",
+    "list": "Buckley Park Vietnam Memorial"
+  },
+  "years": [
+    {
+      "year": "1973"
+    }
+  ],
+  "location": {
+    "latitude": "40.073400",
+    "longitude": "-75.202650",
+    "description": "Northeast corner, Germantown and Hartwell"
+  },
+  "inscription": "<br />In Memory of   <br />PFC Charles J. Buckley USMC  <br />1949-1968  <br />And of other Americans  <br />who gave their lives in  <br />the Republic of Vietnam",
+  "content": [
+    {
+      "description": "rock"
+    }
+  ],
+  "landmark": {
+    "name": "Buckley Park"
+  },
+  "peopleprefix": "Memorial to",
+  "people": [
+    {
+      "name": "Charles J. Buckley",
+      "externallinks": [
+        {
+          "url": "https://www.pvvm.org/our-heroes/buckley-charles-j",
+          "label": "pvvm.org's Charles J. Buckley page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.chestnuthilllocal.com/stories/buckley-park-one-of-the-first-memorials-to-honor-vietnam-vets,7652",
+      "label": "chestnuthilllocal.com article about Buckley Park"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/buckleypark.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/buckleypark.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

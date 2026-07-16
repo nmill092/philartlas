@@ -1,0 +1,61 @@
+{
+  "id": "837",
+  "title": {
+    "display": "Saint Francis of Assisi",
+    "list": "Saint Francis of Assisi (St. Clement's)"
+  },
+  "location": {
+    "latitude": "39.956250",
+    "longitude": "-75.173125",
+    "description": "North side of Apple Tree, West of 20th"
+  },
+  "comments": "visible through the fence",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "birds"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Clement's Church",
+    "prefix": "South side of",
+    "externallinks": [
+      {
+        "url": "https://www.s-clements.org/",
+        "label": "s-clements.org"
+      }
+    ]
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Saint Francis of Assisi",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
+          "label": "wikipedia.org's Francis of Assisi page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stfrancisat.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stfrancisat.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

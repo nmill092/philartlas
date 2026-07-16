@@ -1,0 +1,133 @@
+{
+  "id": "512",
+  "title": {
+    "display": "Column Court",
+    "list": "Column Court"
+  },
+  "artists": [
+    {
+      "name": "Lawrence D. McEwen, Architects",
+      "externallinks": [
+        {
+          "url": " https://mcewenarch.com/",
+          "label": "mcewenarch.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1997"
+    }
+  ],
+  "location": {
+    "latitude": "40.074650",
+    "longitude": "-75.203700",
+    "description": "Northeast side of Germantown, Northwest of Southampton"
+  },
+  "content": [
+    {
+      "description": "hands",
+      "separator": ","
+    },
+    {
+      "description": "world map",
+      "separator": ","
+    },
+    {
+      "description": "peace sign, hearts",
+      "separator": ","
+    },
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "music and musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "food",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "landmark": {
+    "name": "Children's Park in Chestnut Hill",
+    "externallinks": [
+      {
+        "url": "https://www.jenksplayground.org/",
+        "label": "jenksplayground.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cpich1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cpich1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cpich2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cpich2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cpich3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cpich3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cpich4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cpich4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cpich5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cpich5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cpich6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cpich6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

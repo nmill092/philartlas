@@ -1,0 +1,45 @@
+{
+  "id": "191",
+  "title": {
+    "display": "In the Beginning, God...",
+    "list": "In the Beginning, God..."
+  },
+  "location": {
+    "latitude": "",
+    "longitude": ""
+  },
+  "comments": "Was over the Newman Center door on the Northwest corner of 33rd and Market until approximately 2010 when the building was converted into a multiculture center which has since been torn down and replaced with a hotel.",
+  "content": [
+    {
+      "description": "cross",
+      "separator": ","
+    },
+    {
+      "description": "picture of the earth from the moon"
+    }
+  ],
+  "peopleprefix": "Symbol of",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/inbegin.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/inbegin.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "541",
+  "title": {
+    "display": "Medallions",
+    "list": "Medallions"
+  },
+  "artists": [
+    {
+      "name": "Victoria Davila",
+      "externallinks": [
+        {
+          "url": "https://victoriadavila.com/",
+          "label": "victoriadavila.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1986"
+    }
+  ],
+  "location": {
+    "latitude": "39.959450",
+    "longitude": "-75.166750",
+    "description": "North side of Wood, East of 17th (just North of Vine)"
+  },
+  "comments": "Described as \"oak leaves\" and \"acanthus leaf\" on the artist's Natural Forms page.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "plant forms"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://victoriadavila.com/naturalforms.html",
+      "label": "artist's Natural Forms page with entries for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/medallions1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/medallions1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/medallions2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/medallions2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Franklin Town"
+    }
+  ]
+}

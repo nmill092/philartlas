@@ -1,0 +1,87 @@
+{
+  "id": "178",
+  "title": {
+    "display": "Guardians of Fire",
+    "list": "Guardians of Fire"
+  },
+  "artists": [
+    {
+      "name": "Gerd Utescher",
+      "externallinks": [
+        {
+          "url": "https://www.askart.com/artist/Gerd_Utescher/117726/Gerd_Utescher.aspx",
+          "label": "askart.com's Gerd Utescher page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1964"
+    }
+  ],
+  "location": {
+    "latitude": "39.942290",
+    "longitude": "-75.165525",
+    "description": "East side of Broad, South of Bainbridge"
+  },
+  "content": [
+    {
+      "description": "group of people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "fire"
+    }
+  ],
+  "landmark": {
+    "name": "Engine Company 1",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://www.firemanshallmuseum.org/engine-1/",
+        "label": "firemanshallmuseum.org Engine 1 page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/guarfir1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/guarfir1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/guarfir3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/guarfir3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/guarfir2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/guarfir2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

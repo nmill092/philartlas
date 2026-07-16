@@ -1,0 +1,57 @@
+{
+  "id": "188",
+  "title": {
+    "display": "Hurry",
+    "list": "Hurry"
+  },
+  "artists": [
+    {
+      "name": "William King",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_King_(artist)",
+          "label": "wikipedia.org's William King page"
+        },
+        {
+          "url": "https://publicartarchive.org/search/artist/William%20King",
+          "label": "publicartarchive.org's William King page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1980"
+    }
+  ],
+  "location": {
+    "latitude": "39.981500",
+    "longitude": "-75.154200",
+    "description": "North side of Polett Walk between 12th and 13th"
+  },
+  "content": [
+    {
+      "description": "two people"
+    },
+    {
+      "description": "standing"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hurry.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hurry.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Campus"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "197",
+  "title": {
+    "display": "Jesus, The Bread of Life",
+    "list": "Jesus, The Bread of Life"
+  },
+  "artists": [
+    {
+      "name": "Walter Erlebacher",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Walter_Erlebacher",
+          "label": "wikipedia.org's Walter Erlebacher page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "yearmodifier": "installed 1978",
+  "location": {
+    "latitude": "39.957110",
+    "longitude": "-75.168575",
+    "description": "North side of Race West of 18th"
+  },
+  "comments": "Also listed as \"Jesus Breaking Bread\". Originally installed nearer the corner on the large patch of grass. Moved some time between October 2016 and June 2017.  The last picture is from the original location.",
+  "inscription": "4th International Eucharistic Congress",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "food"
+    }
+  ],
+  "landmark": {
+    "name": "Cathedral of Saints Peter and Paul",
+    "prefix": "Against the West wall of the house on the South side of the",
+    "externallinks": [
+      {
+        "url": "https://cathedralphila.org/",
+        "label": "cathedralphila.org"
+      },
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=A773511E-B8BE-4E24-B3F654F640BDE8E6",
+        "label": "philadelphiabuildings.org's page for the building"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/jesus-breaking-bread/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jesusbr2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jesusbr2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jesusbr3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jesusbr3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jesusbr4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jesusbr4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jesusbr5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jesusbr5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/jesusbr.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/jesusbr.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

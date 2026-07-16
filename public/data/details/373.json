@@ -1,0 +1,76 @@
+{
+  "id": "373",
+  "title": {
+    "display": "Subject/Object Memory",
+    "list": "Subject/Object Memory"
+  },
+  "artists": [
+    {
+      "name": "Lauren Ewing",
+      "externallinks": [
+        {
+          "url": "https://laurenewingart.com/",
+          "label": "laurenewingart.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "39.899475",
+    "longitude": "-75.239700",
+    "description": "West side of Island, South of Lindbergh"
+  },
+  "comments": "Checked July 2013.  Chairs are missing. Able to transcribe most of the historical inscription.",
+  "inscription": "<br />  Prehistory-1638  <br />  This was a land of natural beauty and bounty.  Oak, Maple, Hawthorne, Cherry, Sweetgum, Crabapple and Ash  sheltered deer, fox, rabbit and racoon.  The lower land was cut through by hundreds of creeks,  and streams rich in muskrat, beaver, fish and waterfowl.  This was the home of the Lenni Lenape and Minquas  who lived in harmony with the land.   (see natural habitat at Tinecum Envm. Cntr.)  <br />1638-1750  <br />In 1638 Swedish settlers founded the colony of New Sweden.  The colony prospered and grew because of the fur trade.  The settlers built log homes, dams and mills and cleared the land for farms.  The wilderness was transformed.  When William Penn sailed up the Delaware  decades later, he saw a peaceful colony with schools, snug houses, churches  and law courts with jury trials.  <br />1750-1780  <br />In 1762 Swedish worshippers built St. James Kingsessing  (68th and Wdlnd).  The first recorded burial was Jacob Lincoln, 1725-1769.  During the Revolutionary War the British attacked Washington's men at  the Blue Bell Tavern. Every 20 minutes 1,000 cannon balls were fired  at Ft. Mifflin. One passed through the Adam Guyer house while the family  dined. (see Cannon Ball House near Ft. Mifflin)    <br />1780-1810  <br />The Penrose Ferry Hotel and Blue Bell Tavern (built 1776)  were popular meeting places for local residents and travelers.  Legends flourished about marsh creatures and unsavory local characters  such as One-armed Tom Robinson. In 1802 Tom framed a man for  a grisly murder he committed.  After the innocent man hanged,  Tom gleefully admitted his misdeeds.  <br />1810-1840  <br />[not legible]  <br />1840-1870  <br />June 9, 1859 the ladies of St. James Church hosted a strawberry  festival at Bartram Gardens (residence of Andrew M. Eastwick) to  fund a new schoolhouse.   From 1880-92, the present Penrose Plaza  site was Suffolk Park Racetrack.  July 9, 1866 Bud Doble drove \"Dexter\"  to a record win in 2 min. 23 1/2 sec. Wm. T. Eastwick and Emma Thomas  married on June 2, 1870 at st. James Church.  <br />1870-1900  <br />A map dated 1872 shows large farm estates in this area.  Local  family names were Johnson, Young, Mitchell, Holstein and Serrill.  The P.B.& W Railroad stopped at Bell Road Sta. and a steam car ran  on Darby St. (Woodland). It cost 5c and took only 15 min. to reach  Broad and Market Sts. By '86 lots were selling in the area. New streets  opened and a hotel was built.  <br />1900-1930  <br />The 20th C. brought industry and population growth to Eastwick.  Fels-Naptha Soap and Brill trolley cars were made here.  Land was drained for Wilson Field (now Phila. Intn. Airport).  In 1927 Lindbergh landed here. During W.W.I Hog Island   Naval Yard employed local workers whose sandwiches became known as \"Hoagies\".  Everyday, 1905-16, Anthony Rubillo lit and put out the local street lamps.  <br />1930-1960  <br />The Meadows, as residents called it, was a multi-racial  community with churches of all denominations. Neighborhood  kids starred on American Bandstand. In 1950 it was declared  an Urban Renewal Area.  In 1958 the Redevelopment Authority  condemned 2,535 homes and 37 churches to make way fora \"city within a  city.\" Residents strongly resisted displacement and the imposed change.  <br />1960-1972  <br />[not legible]",
+  "content": [
+    {
+      "description": "words",
+      "separator": ","
+    },
+    {
+      "description": "chairs"
+    }
+  ],
+  "landmark": {
+    "name": "Penrose Plaza",
+    "prefix": "In the parking lot of",
+    "externallinks": [
+      {
+        "url": "https://www.mallsinamerica.com/pennsylvania/penrose-plaza-shopping-center",
+        "label": "mallsinamerica.com's Penrose Plaza page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/subobjm1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/subobjm1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/subobjm2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/subobjm2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

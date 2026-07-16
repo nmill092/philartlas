@@ -1,0 +1,97 @@
+{
+  "id": "323",
+  "title": {
+    "display": "Riverwalk",
+    "list": "Riverwalk"
+  },
+  "artists": [
+    {
+      "name": "Andrew Leicester",
+      "externallinks": [
+        {
+          "url": "https://andrewleicester.com/",
+          "label": "andrewleicester.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "39.950125",
+    "longitude": "-75.140500"
+  },
+  "comments": "Originally installed next to and along the sidewalk in front of Pier 3, on the East side of Columbus, North of Market. Between 1990 and 2022 it gradually disappeared.  For several years the part in the first picture with the small human heads was all that remained.  As of April 30, 2022, even that was gone.",
+  "content": [
+    {
+      "description": "heads",
+      "separator": ","
+    },
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "horses",
+      "separator": ","
+    },
+    {
+      "description": "fish",
+      "separator": ","
+    },
+    {
+      "description": "mermaids"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://andrewleicester.com/project/riverwalk-at-piers-3-5-penns-landing-philadelphia-pa/",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/riverw4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/riverw4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/riverw.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/riverw.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/riverw2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/riverw2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/riverw3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/riverw3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

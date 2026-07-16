@@ -1,0 +1,98 @@
+{
+  "id": "791",
+  "title": {
+    "display": "Rodin Museum Fountain",
+    "list": "Rodin Museum Fountain"
+  },
+  "artists": [
+    {
+      "name": "Paul Philippe Cret (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_Philippe_Cret",
+          "label": "wikipedia.org's Paul Philippe Cret page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1929"
+    }
+  ],
+  "location": {
+    "latitude": "39.961750",
+    "longitude": "-75.174150",
+    "description": "North side of the Parkway between 21st and 22nd"
+  },
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Rodin Museum",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://rodinmuseum.org/",
+        "label": "rodinmuseum.org"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rodin_Museum",
+        "label": "wikipedia.org's Rodin Museum page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.flickr.com/photos/dlberek/27604181043",
+      "label": "Daniel Berek's picture of this piece at flickr.com"
+    },
+    {
+      "url": "https://www.flickr.com/photos/strayolive/9141478046/",
+      "label": "strayolive's picture of this piece at flickr.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rodinfountain.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rodinfountain.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rodinfountain2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rodinfountain2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rodinfountain3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rodinfountain3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

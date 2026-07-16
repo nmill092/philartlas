@@ -1,0 +1,99 @@
+{
+  "id": "799",
+  "title": {
+    "display": "Barnes Totem",
+    "list": "Barnes Totem"
+  },
+  "artists": [
+    {
+      "name": "Ellsworth Kelly",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ellsworth_Kelly",
+          "label": "wikipedia.org's Ellsworth Kelly page"
+        },
+        {
+          "url": "https://ellsworthkelly.org/",
+          "label": "ellsworthkelly.org"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2012"
+    }
+  ],
+  "location": {
+    "latitude": "39.960400",
+    "longitude": "-75.172050",
+    "description": "North of the Parkway, West of 20th"
+  },
+  "comments": "accessible when the museum is open, otherwise barely visible through the fence",
+  "content": [
+    {
+      "description": "abstract shape",
+      "separator": ","
+    },
+    {
+      "description": "reflecting pool"
+    }
+  ],
+  "landmark": {
+    "name": "Barnes Foundation",
+    "prefix": "Northeast corner of the",
+    "externallinks": [
+      {
+        "url": "https://www.barnesfoundation.org/",
+        "label": "barnesfoundation.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.barnesfoundation.org/press/press-releases/sculpture-by-american-master-ellsworth-kelly-commissioned-for-the-grounds-of-the-barnes-foundations-new-building-in-philadelphia",
+      "label": "barnesfoundation.org press release about this piece"
+    },
+    {
+      "url": "https://ellsworthkelly.org/work/barnes-totem/",
+      "label": "ellsworthkelly.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barnestotem1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barnestotem1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barnestotem2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barnestotem2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/barnestotem3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/barnestotem3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

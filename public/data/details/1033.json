@@ -1,0 +1,321 @@
+{
+  "id": "1033",
+  "title": {
+    "display": "Scottish Memorial",
+    "list": "Scottish Memorial"
+  },
+  "artists": [
+    {
+      "name": "Terry Jones",
+      "externallinks": [
+        {
+          "url": "https://www.terryjonessculpture.com/",
+          "label": "terryjonessculpture.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2011"
+    }
+  ],
+  "location": {
+    "latitude": "39.944475",
+    "longitude": "-75.143550",
+    "description": "North side of Spruce at Front"
+  },
+  "comments": "This piece is listed under many different names.  The name used here is shortened from the one listed on standrewsociety.org on 11/4/2025.  Was on the East side of Front, South of Chestnut.  Moved late 2023 through early 2024.  Pictures are from the original location.",
+  "inscription": "(excerpt)<br />This monument to Scottish Immigrants seeks to provide a broad perspective on the rise and movement of the Scots  over many continents and centuries.  On either side of this Monument you will find Standing Stones which will  assist you in understanding this ancient and ongoing process. The Standing Stones are part of the landscape and history of all the Celtic lands.  Many remain in Scotland today.  While the original purpose of these  stones is not known, it is believed they served a spiritual purpose, and may have had scientific astronomic  significance as well.  We have adopted them in the monument as symbolic of Scotland's ancient past.",
+  "content": [
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "dog",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "staff",
+      "separator": ","
+    },
+    {
+      "description": "sitting people",
+      "separator": ","
+    },
+    {
+      "description": "furniture",
+      "separator": ","
+    },
+    {
+      "description": "books, scrolls and quills",
+      "separator": ","
+    },
+    {
+      "description": "buildings",
+      "separator": ","
+    },
+    {
+      "description": "horses",
+      "separator": ","
+    },
+    {
+      "description": "carts",
+      "separator": ","
+    },
+    {
+      "description": "trunks",
+      "separator": ","
+    },
+    {
+      "description": "clouds",
+      "separator": ","
+    },
+    {
+      "description": "ships",
+      "separator": ","
+    },
+    {
+      "description": "symbols, logos, and insignia",
+      "separator": ","
+    },
+    {
+      "description": "parts of people",
+      "separator": ","
+    },
+    {
+      "description": "lion",
+      "separator": ","
+    },
+    {
+      "description": "birds"
+    }
+  ],
+  "landmark": {
+    "name": "Foglietta Plaza",
+    "prefix": "Southwest corner of"
+  },
+  "peopleprefix": "relief (in foreground) of signers",
+  "people": [
+    {
+      "name": "Philip  Livingston",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Philip_Livingston",
+          "label": "wikipedia.org's Philip Livingston page"
+        }
+      ]
+    },
+    {
+      "name": "Thomas McKean",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_McKean",
+          "label": "wikipedia.org's Thomas McKean page"
+        }
+      ]
+    },
+    {
+      "name": "George Ross",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Ross_(American_politician)",
+          "label": "wikipedia.org's George Ross page"
+        }
+      ]
+    },
+    {
+      "name": "James Wilson",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Wilson_(Founding_Father)",
+          "label": "wikipedia.org's James Wilson page"
+        }
+      ]
+    },
+    {
+      "name": "John Witherspoon",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Witherspoon",
+          "label": "wikipedia.org's John Witherspoon page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://standrewsociety.org/",
+      "label": "standrewsociety.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmem1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmem1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmem2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmem2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmem3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmem3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmem4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmem4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmem5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmem5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmem6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmem6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmem7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmem7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmem8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmem8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmem9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmem9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmema.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmema.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmemb.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmemb.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmemc.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmemc.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmemd.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmemd.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmemf.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmemf.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scotsmemg.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scotsmemg.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "155",
+  "title": {
+    "display": "General Anthony Wayne",
+    "list": "General Anthony Wayne"
+  },
+  "artists": [
+    {
+      "name": "John Gregory",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Gregory_(sculptor)",
+          "label": "wikipedia.org's John Gregory page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1937"
+    }
+  ],
+  "location": {
+    "latitude": "39.964750",
+    "longitude": "-75.180950",
+    "description": "25th and the Parkway"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "sword",
+      "separator": ","
+    },
+    {
+      "description": "hat"
+    }
+  ],
+  "landmark": {
+    "name": "Art Museum",
+    "prefix": "In front of the",
+    "externallinks": [
+      {
+        "url": "https://www.philamuseum.org/",
+        "label": "philamuseum.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Anthony Wayne",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anthony_Wayne",
+          "label": "wikipedia.org's Anthony Wayne page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42866745",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/general-anthony-wayne/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wayne.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wayne.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wayne2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wayne2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

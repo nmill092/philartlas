@@ -1,0 +1,64 @@
+{
+  "id": "706",
+  "title": {
+    "display": "Flower (Iris)",
+    "list": "Flower (Iris)"
+  },
+  "artists": [
+    {
+      "name": "Rebecca Rose",
+      "externallinks": [
+        {
+          "url": "https://rebecca-rose.wixsite.com/rosebridge",
+          "label": "rebecca-rose.wixsite.com/rosebridge"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "location": {
+    "latitude": "39.965235",
+    "longitude": "-75.225910",
+    "description": "53rd and Haverford"
+  },
+  "content": [
+    {
+      "description": "concrete flower"
+    }
+  ],
+  "landmark": {
+    "name": "Haddington Community Park"
+  },
+  "externallinks": [
+    {
+      "url": "https://prod.learninglab.si.edu/resources/view/321887",
+      "label": "learninglab.si.edu's resource page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/iris.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/iris.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/iris2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/iris2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

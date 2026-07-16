@@ -1,0 +1,98 @@
+{
+  "id": "14",
+  "title": {
+    "display": "Bath",
+    "list": "Bath"
+  },
+  "years": [
+    {
+      "year": "1500"
+    },
+    {
+      "year": "1600"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.968950",
+    "longitude": "-75.184300",
+    "description": "Kelly Drive, West of 26th"
+  },
+  "content": [
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "musical instruments",
+      "separator": ","
+    },
+    {
+      "description": "goblet"
+    }
+  ],
+  "landmark": {
+    "name": "Azalea Garden",
+    "prefix": "West end of the",
+    "externallinks": [
+      {
+        "url": "https://tclf.org/landscapes/azalea-garden",
+        "label": "tclf.org's Azalea Garden page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/azabath.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/azabath.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/azabath2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/azabath2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/azabath3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/azabath3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/azabath4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/azabath4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

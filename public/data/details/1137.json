@@ -1,0 +1,107 @@
+{
+  "id": "1137",
+  "title": {
+    "display": "Concrete Tree",
+    "list": "Concrete Tree"
+  },
+  "artists": [
+    {
+      "name": "Paul Santoleri",
+      "externallinks": [
+        {
+          "url": "http://www.paulsantoleri.com/",
+          "label": "paulsantoleri.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2016"
+    }
+  ],
+  "location": {
+    "latitude": "40.032225",
+    "longitude": "-75.234565",
+    "description": "Schuylkill Trail, Northwest of Fountain between Umbria and Flat Rock"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "bird"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "http://www.paulsantoleri.com/?p=2311",
+      "label": "page for this piece at paulsantoleri.com"
+    },
+    {
+      "url": "https://muralarts.org/artworks/concrete-tree/",
+      "label": "muralarts.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/concretetree1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/concretetree1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/concretetree2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/concretetree2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/concretetree3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/concretetree3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/concretetree4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/concretetree4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/concretetree5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/concretetree5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Manayunk"
+    }
+  ]
+}

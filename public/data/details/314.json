@@ -1,0 +1,88 @@
+{
+  "id": "314",
+  "title": {
+    "display": "Raven",
+    "list": "Raven"
+  },
+  "artists": [
+    {
+      "name": "David Caccia",
+      "externallinks": [
+        {
+          "url": "https://www.marinellafuneralhome.com/obituaries/david-caccia",
+          "label": "marinellafuneralhome.com's David Caccia obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "location": {
+    "latitude": "39.961975",
+    "longitude": "-75.149900",
+    "description": "Northwest corner, 7th and Spring Garden"
+  },
+  "comments": "The sculpture is behind a fence.  You'll get a closer look when the site is open, but it is clearly visible from the sidewalk.",
+  "content": [
+    {
+      "description": "raven"
+    }
+  ],
+  "landmark": {
+    "name": "Edgar Allan Poe House",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_National_Historic_Site",
+        "label": "wikipedia.org's Edgar Allan Poe National Historic Site page"
+      }
+    ]
+  },
+  "peopleprefix": "From a work by",
+  "people": [
+    {
+      "name": "Edgar Allan Poe",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+          "label": "wikipedia.org's Edgar Allan Poe page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.nps.gov/thingstodo/poe-raven.htm",
+      "label": "nps.gov's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/raven.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/raven.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/raven2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/raven2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Northern Liberties"
+    }
+  ]
+}

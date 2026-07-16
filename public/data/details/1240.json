@@ -1,0 +1,65 @@
+{
+  "id": "1240",
+  "title": {
+    "display": "Chestnut Street Bus Shelter Panel (Broad)",
+    "list": "Chestnut Street Bus Shelter Panel (Broad)"
+  },
+  "artists": [
+    {
+      "name": "Pablo Tauler",
+      "externallinks": [
+        {
+          "url": "https://pablotaulerpublicartwork.blogspot.com//",
+          "label": "pablotaulerpublicartwork.blogspot.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2019"
+    }
+  ],
+  "yearmodifier": "announced",
+  "location": {
+    "latitude": "39.950860",
+    "longitude": "-75.164330",
+    "description": "Southwest corner, Broad and Chestnut"
+  },
+  "comments": "moved from the East side of the shelter to the South side. The second picture is from the original configuration.",
+  "architecture": {
+    "description": "Bus shelter"
+  },
+  "content": [
+    {
+      "description": "abstract design"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chtransbbr.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chtransbbr.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chtransbroad.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chtransbroad.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

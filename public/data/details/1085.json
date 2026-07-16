@@ -1,0 +1,151 @@
+{
+  "id": "1085",
+  "title": {
+    "display": "Horwitz-Wasserman Holocaust Memorial Plaza",
+    "list": "Horwitz-Wasserman Holocaust Memorial Plaza"
+  },
+  "artists": [
+    {
+      "name": "WRT",
+      "externallinks": [
+        {
+          "url": "https://www.wrtdesign.com/",
+          "label": "wrtdesign.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2018"
+    }
+  ],
+  "location": {
+    "latitude": "39.954925",
+    "longitude": "-75.167200",
+    "description": "Between the Parkway and Arch, West of 16th"
+  },
+  "comments": "A video eternal flame and text comparing the ideals of the United States and Nazi Germany.",
+  "inscription": "(partial):  <br />\"It is now no more that toleration is spoken of as if it were the  indulgence of one class of people that another enjoyed the  exercise of their inherent natural rights, for, happily,  the Government of the United States, which gives to bigorty  no sanction, to persecution no assistance, requires only  that they who live under its protection should demean  themselves as good citizens in giving it on all  occasions their effectual support.\"  <br />-George Washington Letter of New Port Hebrew Congregation  <br />August 18, 1790",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "ideas",
+      "separator": ","
+    },
+    {
+      "description": "video flame"
+    }
+  ],
+  "peopleprefix": "Quote from",
+  "people": [
+    {
+      "name": "George Washington",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Washington",
+          "label": "wikipedia.org's George Washington page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Horwitz-Wasserman_Holocaust_Memorial_Plaza",
+      "label": "wwikipedia.org's page for the plaza"
+    },
+    {
+      "url": "https://www.wrtdesign.com/work/horwitz-wasserman-holocaust-memorial-plaza",
+      "label": "wrtdesign.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hmp1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hmp1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hmp2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hmp2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hmp3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hmp3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hmp4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hmp4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hmp5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hmp5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hmp6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hmp6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hmp7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hmp7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/hmp8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/hmp8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

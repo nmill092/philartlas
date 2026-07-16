@@ -1,0 +1,78 @@
+{
+  "id": "707",
+  "title": {
+    "display": "Dancing Children",
+    "list": "Dancing Children"
+  },
+  "artists": [
+    {
+      "name": "Henry Mitchell",
+      "externallinks": [
+        {
+          "url": "https://www.cantonartcollection.com/artistbio.php?artist_id=476",
+          "label": "cantonartcollection.com's Henry Mitchell bio"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1968"
+    }
+  ],
+  "location": {
+    "latitude": "39.957965",
+    "longitude": "-75.248125",
+    "description": "West side of 63rd at Locust"
+  },
+  "architecture": {
+    "description": "Above the entrance"
+  },
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "dancing",
+      "separator": ","
+    },
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "bench",
+      "separator": ","
+    },
+    {
+      "description": "baby carriage",
+      "separator": ","
+    },
+    {
+      "description": "knitting needles",
+      "separator": ","
+    },
+    {
+      "description": "dog"
+    }
+  ],
+  "landmark": {
+    "name": "Cobbs Creek Recreation Center"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/dancing.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/dancing.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

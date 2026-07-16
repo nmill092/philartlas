@@ -1,0 +1,65 @@
+{
+  "id": "897",
+  "title": {
+    "display": "October 4, 1922 Fire Memorial Plaque",
+    "list": "October 4, 1922 Fire Memorial Plaque"
+  },
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "yearmodifier": "approximate",
+  "location": {
+    "latitude": "39.952420",
+    "longitude": "-75.146375",
+    "description": "North side of Arch, East of 4th."
+  },
+  "inscription": "<br />Ladderman Thomas Gilloway Truck 2  <br />Ladderman Edward Paxson Truck 2  <br />Hoseman Patrick A. Murray Engine 21  <br />Hoseman Albert Fischer Engine 21  <br />Who died in the line of duty  while serving the citizens of  Philadelphia on October 4, 1922  <br />Dedicated by their family and friends",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "Philadelphia Fire Department insignia"
+    }
+  ],
+  "peopleprefix": "Memorial to",
+  "people": [
+    {
+      "name": "Albert Fischer"
+    },
+    {
+      "name": "Thomas Gilloway"
+    },
+    {
+      "name": "Patrick A. Murray"
+    },
+    {
+      "name": "Edward Paxson"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.newspapers.com/clip/19993807/patrick-a-murray-jr-killed-fighting/",
+      "label": "newspapers.com clip about the fire and the firefighters"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/4archfiremem.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/4archfiremem.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Old City"
+    }
+  ]
+}

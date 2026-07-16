@@ -1,0 +1,108 @@
+{
+  "id": "114",
+  "title": {
+    "display": "Earth, Air, Fire, Water",
+    "list": "Earth, Air, Fire, Water"
+  },
+  "artists": [
+    {
+      "name": "Christopher T. Ray",
+      "externallinks": [
+        {
+          "url": "http://www.chrisray.com",
+          "label": "chrisray.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1972"
+    },
+    {
+      "year": "1990"
+    }
+  ],
+  "location": {
+    "latitude": "39.944400",
+    "longitude": "-75.144850",
+    "description": "Southeast corner, 2nd and Spruce"
+  },
+  "architecture": {
+    "description": "5 metal sculptured gates"
+  },
+  "content": [
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "bird",
+      "separator": ","
+    },
+    {
+      "description": "sun"
+    }
+  ],
+  "landmark": {
+    "name": "Penn's Landing Square",
+    "prefix": "Along the Spruce and Delancey sides of"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eafw1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eafw1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eafw2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eafw2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eafw3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eafw3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eafw4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eafw4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/eafw5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/eafw5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

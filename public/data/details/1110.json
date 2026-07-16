@@ -1,0 +1,133 @@
+{
+  "id": "1110",
+  "title": {
+    "display": "Berg Laboratories Explosion Memorial",
+    "list": "Berg Laboratories Explosion Memorial"
+  },
+  "years": [
+    {
+      "year": "2008"
+    }
+  ],
+  "location": {
+    "latitude": "39.952930",
+    "longitude": "-75.162720",
+    "description": "Southwest corner, Juniper and JFK"
+  },
+  "inscription": "(combined from 11 individual plaques)<br/>  In memory of<br/>  Deputy Chief Thomas Kline, October 28, 1954<br/>  Battalion Chief John Magrann, October 28, 1954<br/>  Batallion Chief John News, October 28, 1954<br/>  Lieutenant Charles Holtzman, October 29, 1954<br/>  Fireman Joseph Bandos, October 28, 1954<br/>  Fireman James Doyle, October 29, 1954<br/>  Fireman Bernard Junod, November 3, 1954<br/>  Fireman Walter E. Lyszkowski, August 8, 1958<br/>  Fireman James F. Tygh, October 28, 1954<br/>  Fireman Joseph Vivian, October 29, 1954<br/>  Fireman Thomas Wilson, October 29, 1954<br/>  Died in the line of duty protecting the citizens of Philadelphia",
+  "architecture": {
+    "description": "Sidewalk"
+  },
+  "content": [
+    {
+      "description": "Philadelphia Fire Department insignia"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "Northeast corner",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "Memorial to",
+  "people": [
+    {
+      "name": "Joseph Bandos",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/92706796/joseph-john-bandos",
+          "label": "findagrave.com's Joseph John Bandos page"
+        }
+      ]
+    },
+    {
+      "name": "James Doyle",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/92706969/james-e.-doyle",
+          "label": "findagrave.com's James E. Doyle page"
+        }
+      ]
+    },
+    {
+      "name": "Charles Holtzman"
+    },
+    {
+      "name": "Bernard Junod"
+    },
+    {
+      "name": "Thomas Kline"
+    },
+    {
+      "name": "Walter E. Lyszkowski"
+    },
+    {
+      "name": "John Magrann",
+      "externallinks": [
+        {
+          "url": "https://bcjohnmagrannfiremuseum.com/",
+          "label": "bcjohnmagrannfiremuseum.com"
+        },
+        {
+          "url": "https://www.findagrave.com/memorial/92706698/john-w.-magrann",
+          "label": "findagrave.com's John W. Magrann page"
+        }
+      ]
+    },
+    {
+      "name": "John News"
+    },
+    {
+      "name": "James F. Tygh",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/92706827/james-f-tygh",
+          "label": "findagrave.com's James F. Tygh page"
+        }
+      ]
+    },
+    {
+      "name": "Joseph Vivian",
+      "externallinks": [
+        {
+          "url": "https://www.findagrave.com/memorial/92706919/joseph_john-vivian",
+          "label": "findagrave.com's Joseph John Vivian page"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Wilson"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://firstin.wordpress.com/2008/10/15/remembering-the-berg/",
+      "label": "firstin.wordpress.com post about the explosion and the dedication of this memorial"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/berglabs.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/berglabs.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

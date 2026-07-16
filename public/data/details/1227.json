@@ -1,0 +1,99 @@
+{
+  "id": "1227",
+  "title": {
+    "display": "Henry S. Frank Memorial Synagogue Entrance",
+    "list": "Henry S. Frank Memorial Synagogue Entrance"
+  },
+  "artists": [
+    {
+      "name": "Arnold W. Brunner (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arnold_W._Brunner",
+          "label": "wikipedia.org's Arnold W. Brunner page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1901"
+    }
+  ],
+  "location": {
+    "latitude": "40.037050",
+    "longitude": "-75.143800",
+    "description": "Old York Road between Somerville and Tabor, just East of Broad"
+  },
+  "inscription": "Restored in honor of Eleanor and Julius Klein by their children.",
+  "architecture": {
+    "description": "Synagogue entrance"
+  },
+  "content": [
+    {
+      "description": "menorah",
+      "separator": ","
+    },
+    {
+      "description": "flower and wreaths"
+    }
+  ],
+  "landmark": {
+    "name": "Jefferson Einstein Philadelphia Hospital",
+    "prefix": "In front of",
+    "externallinks": [
+      {
+        "url": "https://www.jeffersonhealth.org/locations/jefferson-einstein-hospital",
+        "label": "jeffersonhealth.org's Jefferson Einstein Hospital page"
+      }
+    ]
+  },
+  "peopleprefix": "Named in honor of, restored in honor of:",
+  "people": [
+    {
+      "name": "Henry S. Frank"
+    },
+    {
+      "name": "Elanor and Julius Klein",
+      "externallinks": [
+        {
+          "url": "https://mrri.org/spotlight-on-the-legacy-and-contributions-of-the-klein-family/",
+          "label": "mrri.org article about the Klein family"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_S._Frank_Memorial_Synagogue",
+      "label": "wikipedia.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/henrysfrank1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/henrysfrank1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/henrysfrank2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/henrysfrank2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Logan/Ogontz"
+    }
+  ]
+}

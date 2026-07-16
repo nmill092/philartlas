@@ -1,0 +1,59 @@
+{
+  "id": "1072",
+  "title": {
+    "display": "Lightning Bolts",
+    "list": "Lightning Bolts"
+  },
+  "artists": [
+    {
+      "name": "Harold Kimmelman",
+      "externallinks": [
+        {
+          "url": "http://www.hksculpt.com/",
+          "label": "hksculpt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1973"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "40.040100",
+    "longitude": "-75.173035",
+    "description": "Northeast side of Baynton, Southeast of Rittenhouse"
+  },
+  "architecture": {
+    "description": "Courtyard"
+  },
+  "content": [
+    {
+      "description": "lightning bolts"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lightning1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lightning1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/lightning2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/lightning2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

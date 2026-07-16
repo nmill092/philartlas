@@ -1,0 +1,68 @@
+{
+  "id": "1245",
+  "title": {
+    "display": "Center City Map",
+    "list": "Center City Map"
+  },
+  "artists": [
+    {
+      "name": "SMP Architects",
+      "externallinks": [
+        {
+          "url": "https://smparchitects.com/",
+          "label": "smparchitects.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2021"
+    }
+  ],
+  "location": {
+    "latitude": "39.953960",
+    "longitude": "-75.166075",
+    "description": "North side of JFK, East of 16th"
+  },
+  "architecture": {
+    "description": "North wall"
+  },
+  "content": [
+    {
+      "description": "map"
+    }
+  ],
+  "landmark": {
+    "name": "Love Park Visitor Center",
+    "externallinks": [
+      {
+        "url": "https://www.phlvisitorcenter.com/lovepark",
+        "label": "phlvisitorcenter.com/lovepark"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.phlvisitorcenter.com/sites/default/files/2021-05/love_park_visitor_center_opens.pdf ",
+      "label": "press release about the opening at phlvisitorcenteer.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/centercitymap.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/centercitymap.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

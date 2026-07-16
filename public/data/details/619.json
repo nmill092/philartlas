@@ -1,0 +1,62 @@
+{
+  "id": "619",
+  "title": {
+    "display": "The Wall As a Window",
+    "list": "Wall As a Window, The"
+  },
+  "artists": [
+    {
+      "name": "Richard Camitta"
+    },
+    {
+      "name": "Ken Clark"
+    },
+    {
+      "name": "Woody Stange (Architect)"
+    }
+  ],
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "location": {
+    "latitude": "39.955550",
+    "longitude": "-75.140425",
+    "description": "Front and Vine"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "sun"
+    }
+  ],
+  "landmark": {
+    "name": "Rivers Edge Park",
+    "externallinks": [
+      {
+        "url": "https://www.waymarking.com/waymarks/WM4W3M_Rivers_Edge_Park_Philadelphia_PA_USA",
+        "label": "waymarking.com's entry for Rivers Edge Park"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wallwindow.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wallwindow.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "521",
+  "title": {
+    "display": "Susan Ann Detscher Pizzano Fountain Plaza",
+    "list": "Susan Ann Detscher Pizzano Fountain Plaza"
+  },
+  "artists": [
+    {
+      "name": "Jonathan Alderson",
+      "externallinks": [
+        {
+          "url": "https://www.jonathanalderson.com/",
+          "label": "jonathanalderson.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2002"
+    }
+  ],
+  "location": {
+    "latitude": "40.077500",
+    "longitude": "-75.209000",
+    "description": "North corner, Germantown and Rex"
+  },
+  "comments": "Originally titled \"Top of the Hill Fountain Plaza\".  Rededicated in 2012.",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "rocks",
+      "separator": ","
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "peopleprefix": "Renamed for",
+  "people": [
+    {
+      "name": "Susan Ann Detscher Pizzano"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.chestnuthilllocal.com/stories/plaza-dedicated-to-memory-of-late-civic-leader-remains-an-attractive-neighborhood-gateway,14905",
+      "label": "chestnuthilllocal.com article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/topofhill1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/topofhill1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/topofhill2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/topofhill2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/topofhill3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/topofhill3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "568",
+  "title": {
+    "display": "Triton Fountain",
+    "list": "Triton Fountain"
+  },
+  "artists": [
+    {
+      "name": "Donald De Lue",
+      "externallinks": [
+        {
+          "url": "https://www.sculptor.org/Sculptors/ByName/DonaldDeLue.htm",
+          "label": "sculptor.org's Donald De Lue page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_De_Lue",
+          "label": "wikipedia.org's Donald De Lue page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1941"
+    }
+  ],
+  "location": {
+    "latitude": "39.950365",
+    "longitude": "-75.156190",
+    "description": "North side of Chestnut, East of 10th, behind a fence"
+  },
+  "comments": "Not (as listed elsewhere) on North 6th",
+  "architecture": {
+    "description": "Courtyard"
+  },
+  "content": [
+    {
+      "description": "fish",
+      "separator": ","
+    },
+    {
+      "description": "kneeling person",
+      "separator": ","
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Triton",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Triton_%28mythology%29",
+          "label": "wikipedia.org's Triton page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tritonft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tritonft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

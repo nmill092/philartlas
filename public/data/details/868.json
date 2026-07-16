@@ -1,0 +1,61 @@
+{
+  "id": "868",
+  "title": {
+    "display": "Hill Pavilion Fountain",
+    "list": "Hill Pavilion Fountain"
+  },
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "location": {
+    "latitude": "39.950200",
+    "longitude": "-75.199900",
+    "description": "West side of 38th at Woodland Walk, between Baltimore and Spruce"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Veterinary Hospital",
+    "externallinks": [
+      {
+        "url": "https://www.vet.upenn.edu/veterinary-hospitals/ryan-veterinary-hospital/",
+        "label": "upenn.edu's Ryan Veterinary Hospital page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pennvetft1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pennvetft1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pennvetft2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pennvetft2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "University City South Medical Complex"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "403",
+  "title": {
+    "display": "Two Open Triangles Leaning Gyratory",
+    "list": "Two Open Triangles Leaning Gyratory"
+  },
+  "artists": [
+    {
+      "name": "George Rickey",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Rickey",
+          "label": "wikipedia.org's George Rickey page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1982"
+    }
+  ],
+  "location": {
+    "latitude": "39.955450",
+    "longitude": "-75.189725",
+    "description": "Southwest corner, 33rd and Market"
+  },
+  "comments": "Moves in the wind.  Also listed as \"Two Triangles Leaning\"",
+  "architecture": {
+    "description": "On the Library roof"
+  },
+  "content": [
+    {
+      "description": "triangles"
+    }
+  ],
+  "landmark": {
+    "name": "Drexel University",
+    "externallinks": [
+      {
+        "url": "https://drexel.edu/",
+        "label": "drexel.edu"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2triang1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2triang1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/2triang2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/2triang2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

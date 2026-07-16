@@ -1,0 +1,75 @@
+{
+  "id": "1002",
+  "title": {
+    "display": "St. Mary's School Sign",
+    "list": "St. Mary's School Sign"
+  },
+  "years": [
+    {
+      "year": "1970"
+    }
+  ],
+  "yearmodifier": "year of the building",
+  "location": {
+    "latitude": "39.945960",
+    "longitude": "-75.149725",
+    "description": "East side of 5th, South of Locust"
+  },
+  "comments": "In the school logo the book under the heart is more pronounced",
+  "architecture": {
+    "description": "West wall"
+  },
+  "content": [
+    {
+      "description": "sign",
+      "separator": ","
+    },
+    {
+      "description": "school logo, symbolic heart",
+      "separator": ","
+    },
+    {
+      "description": "rose",
+      "separator": ","
+    },
+    {
+      "description": "book"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Mary Interparochial School",
+    "externallinks": [
+      {
+        "url": "https://www.saintmarys.us/",
+        "label": "saintmarys.us"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stmarysign.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stmarysign.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stmarysign2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stmarysign2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

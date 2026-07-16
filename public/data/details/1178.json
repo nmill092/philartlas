@@ -1,0 +1,104 @@
+{
+  "id": "1178",
+  "title": {
+    "display": "Tools of the Trade",
+    "list": "Tools of the Trade"
+  },
+  "artists": [
+    {
+      "name": "Virginia Maksymowicz",
+      "externallinks": [
+        {
+          "url": "https://www.maks-arts.com/",
+          "label": "maks-arts.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2022"
+    }
+  ],
+  "yearmodifier": "installed",
+  "location": {
+    "latitude": "39.956030",
+    "longitude": "-75.181675",
+    "description": "Northeast corner, 30th and Market"
+  },
+  "inscription": "<br />Tools of the trade is meant to make visible the often invisible role that  railroad workers play in building and maintaining Amtrak's infrastructure.  <br />Artist Virginia Maksymowicz commuted on the Amktrak Keystone Service  for over 25 years, between her home in Philadelphia and Lancaster,  Pennsylvania, where she taught as a professor of sculpture at Franklin and  Marshall College.  Maksymowicz credits her time on the train for  producing some of her best thinking, including designing, researching,  and planning many of her artworks.  <br />At the time Tools of the Trade was created, the artist was working  on a series of sculptures involving plaster casts of tools and bones,  matephorically relating them to various structures. It occurred to her that  Amtrak's national route system is another kind of structure, one that   connects north and south, east and west, much like a bodily skeleton  connects heat to toe and hand to hand.  <br />Maksymowicz wanted to represent this structure through casts of the  type of tools that Amtrak workers might use on the job.  She collected  vintage tools, railroad spikes and clips; she made silicon molds from  them and cast them into lightweight plastic. Casts  of spikes and bolts suggest mountains, and  S-curved wrenches, calipers and railroad clips  signify water.",
+  "architecture": {
+    "description": "North Waiting Room"
+  },
+  "content": [
+    {
+      "description": "tools",
+      "separator": ","
+    },
+    {
+      "description": "map"
+    }
+  ],
+  "landmark": {
+    "name": "30th Street Station",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/30th_Street_Station",
+        "label": "wikipedia.org's 30th Street Station page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://whyy.org/articles/first-new-sculpture-in-70-years-for-phillys-30th-street-station/",
+      "label": "whyy.org article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tools1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tools1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tools2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tools2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tools3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tools3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tools4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tools4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of Technology"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "622",
+  "title": {
+    "display": "Scottish Rite Emblems",
+    "list": "Scottish Rite Emblems"
+  },
+  "years": [
+    {
+      "year": "1927"
+    }
+  ],
+  "yearmodifier": "date of building.  Metal emblem may be later",
+  "location": {
+    "latitude": "39.942050",
+    "longitude": "-75.168410",
+    "description": "South side of Fitzwater West of 15th"
+  },
+  "inscription": "<br />emblems:  <br />Deus Meumque Jus  <br />plaque:  <br />Supreme Council  <br />AASR Nor Jur.  <br />Prince Hall Affiliation",
+  "architecture": {
+    "description": "Front wall"
+  },
+  "content": [
+    {
+      "description": "Scottish Rite emblems",
+      "separator": ","
+    },
+    {
+      "description": "double-headed eagles",
+      "separator": ","
+    },
+    {
+      "description": "crowns"
+    }
+  ],
+  "landmark": {
+    "name": "Scottish Rite Cathedral",
+    "externallinks": [
+      {
+        "url": "https://www.uscnjpha.org//",
+        "label": "uscnjpha.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scottish1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scottish1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/scottish2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/scottish2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fitler Square"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "874",
+  "title": {
+    "display": "Transportation",
+    "list": "Transportation"
+  },
+  "artists": [
+    {
+      "name": "Charles Parks",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Parks_(sculptor)",
+          "label": " wikipedia.org's Charles Parks page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1969"
+    }
+  ],
+  "location": {
+    "latitude": "39.915675",
+    "longitude": "-75.223425",
+    "description": "West side of the traffic circle at the end of Norwitch Drive, North of 67th"
+  },
+  "comments": "The whole area is fenced in, and the two separate columns are barely visible  through the fence behind a sign and parked cars.",
+  "content": [
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "dolphin",
+      "separator": ","
+    },
+    {
+      "description": "bird",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "water",
+      "separator": ","
+    },
+    {
+      "description": "airplane"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://dpd-art-is-essential-docs.s3.amazonaws.com/246.pdf",
+      "label": "Percent for Art's pdf picture of this piece at dpd-art-is-essential-docs.s3.amazonaws.com"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/transport1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/transport1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/transport2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/transport2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/transport3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/transport3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/transport4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/transport4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

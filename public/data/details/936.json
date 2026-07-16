@@ -1,0 +1,79 @@
+{
+  "id": "936",
+  "title": {
+    "display": "Aldine Hotel Entrance",
+    "list": "Aldine Hotel Entrance"
+  },
+  "artists": [
+    {
+      "name": "Addison Hutton (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/25239",
+          "label": "philadelphiabuildings.org's Addison Hutton page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1895"
+    }
+  ],
+  "location": {
+    "latitude": "39.951890",
+    "longitude": "-75.172820",
+    "description": "1920 Chestnut (South side of Chestnut, East of 20th)"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "luggage",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "building"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/81322",
+      "label": "philadelphiabuildings.org's page for the building"
+    },
+    {
+      "url": "https://philaphilia.blogspot.com/2011/11/lost-building-of-week-november-2nd.html",
+      "label": "philaphilia.blogspot.com post about the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/aldine.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/aldine.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

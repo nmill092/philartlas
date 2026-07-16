@@ -1,0 +1,74 @@
+{
+  "id": "695",
+  "title": {
+    "display": "Five Water Spouts and Lintel",
+    "list": "Five Water Spouts and Lintel"
+  },
+  "years": [
+    {
+      "year": "1100"
+    },
+    {
+      "year": "1300"
+    }
+  ],
+  "yearmodifier": "installed 1979",
+  "location": {
+    "latitude": "39.944250",
+    "longitude": "-75.141550",
+    "description": "Columbus at Dock Street"
+  },
+  "comments": "This piece is all that's left of the International Sculpture Garden. The fountain no longer works.",
+  "content": [
+    {
+      "description": "elephant",
+      "separator": ","
+    },
+    {
+      "description": "unidentified creatures"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/five-water-spouts-and-lintel/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/isg.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/isg.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/isg2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/isg2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/isg3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/isg3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}

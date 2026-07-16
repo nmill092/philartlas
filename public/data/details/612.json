@@ -1,0 +1,69 @@
+{
+  "id": "612",
+  "title": {
+    "display": "Saint James",
+    "list": "Saint James"
+  },
+  "years": [
+    {
+      "year": "1887"
+    }
+  ],
+  "yearmodifier": "year of building",
+  "location": {
+    "latitude": "39.955000",
+    "longitude": "-75.198250",
+    "description": "Southeast corner, 38th and Chestnut"
+  },
+  "comments": "Carved for the building in Italy.  Behind mesh that isn't visible from the street but partially obscures the picture.",
+  "architecture": {
+    "description": "Niche above the entrance arch"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "staff"
+    }
+  ],
+  "landmark": {
+    "name": "St. Agatha - St. James Church",
+    "externallinks": [
+      {
+        "url": "https://www.saintsaj.org/",
+        "label": "saintsaj.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Saint James",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_the_Great",
+          "label": "wikipedia.org's James the Great page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stjames.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stjames.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Chestnut 29th to 40th"
+    }
+  ]
+}

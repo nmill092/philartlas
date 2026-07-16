@@ -1,0 +1,73 @@
+{
+  "id": "597",
+  "title": {
+    "display": "Tuning Fork",
+    "list": "Tuning Fork"
+  },
+  "artists": [
+    {
+      "name": "Raymond Granville Barger",
+      "externallinks": [
+        {
+          "url": "https://bucksco.michenerartmuseum.org/artists/raymond-granville-barger/",
+          "label": "michenerartmuseum.org's Raymond Granville Barger page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1984"
+    }
+  ],
+  "location": {
+    "latitude": "39.982775",
+    "longitude": "-75.222750",
+    "description": "Avenue of the Republic near 52nd and Parkside"
+  },
+  "inscription": "<br />In fond remembrence of   <br />LAWRENCE KATZ   <br />from his friends of   <br />MANN MUSIC CENTER   <br />1984 ",
+  "content": [
+    {
+      "description": "tuning fork"
+    }
+  ],
+  "landmark": {
+    "name": "Mann Center",
+    "prefix": "Visible through the South gate of the",
+    "externallinks": [
+      {
+        "url": "https://manncenter.org/",
+        "label": "manncenter.org"
+      }
+    ]
+  },
+  "peopleprefix": "In memory of",
+  "people": [
+    {
+      "name": "Lawrence Katz"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/101043124",
+      "label": "Max Buten's picture of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tuningfork.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tuningfork.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

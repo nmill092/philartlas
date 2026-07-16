@@ -1,0 +1,74 @@
+{
+  "id": "40",
+  "title": {
+    "display": "Billy",
+    "list": "Billy"
+  },
+  "artists": [
+    {
+      "name": "Albert Laessle",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Albert_Laessle",
+          "label": "wikipedia.org's Albert Laessle page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1914"
+    }
+  ],
+  "location": {
+    "latitude": "39.949200",
+    "longitude": "-75.172400",
+    "description": "19th street side near Locust"
+  },
+  "content": [
+    {
+      "description": "goat"
+    }
+  ],
+  "landmark": {
+    "name": "Rittenhouse Square",
+    "prefix": "Southwest corner of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rittenhouse_Square",
+        "label": "wikipedia.org's Rittenhouse Square page"
+      },
+      {
+        "url": "https://www.friendsofrittenhouse.org/",
+        "label": "friendsofrittenhouse.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/42866758",
+      "label": "Max Buten's picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/billy/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/billy.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/billy.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

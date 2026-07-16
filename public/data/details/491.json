@@ -1,0 +1,49 @@
+{
+  "id": "491",
+  "title": {
+    "display": "Water Works Fountain",
+    "list": "Water Works Fountain"
+  },
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "yearmodifier": "repurposed 2018",
+  "location": {
+    "latitude": "39.965415",
+    "longitude": "-75.183220",
+    "description": "Schuylkill Banks near the Spring Garden Bridge"
+  },
+  "content": [
+    {
+      "description": "fountain",
+      "separator": ","
+    },
+    {
+      "description": "rocks"
+    }
+  ],
+  "landmark": {
+    "name": "Water Works",
+    "prefix": "In the garden of the",
+    "externallinks": [
+      {
+        "url": "https://fairmountwaterworks.org/",
+        "label": "fairmountwaterworks.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wwft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wwft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

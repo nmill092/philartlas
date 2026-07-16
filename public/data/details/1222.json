@@ -1,0 +1,102 @@
+{
+  "id": "1222",
+  "title": {
+    "display": "James Bartram Nicholson",
+    "list": "James Bartram Nicholson"
+  },
+  "artists": [
+    {
+      "name": "J. Otto Schweizer",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/J._Otto_Schweizer",
+          "label": "wikipedia.org's J. Otto Schweizer page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1913"
+    }
+  ],
+  "location": {
+    "latitude": "39.997690",
+    "longitude": "-75.181760",
+    "description": "North side of Lehigh at 31st"
+  },
+  "comments": "visible through the fence",
+  "inscription": "<br />front (partial):  <br />Erected and Dedicated May 10, 1913   <br />by the Independent Order Of Odd Fellows of Pennsylvania  <br />In memory of James Bartram Nicholson  <br />In recognition of his valuable services in behalf of the order  <br />back:  <br />Born in St. Louis Missouri 1820  <br />Initiated into Chosen Friends Lodge No. 100 April 8, 1845  <br />Received the Patriarchal Decrees in Mount Olive Encampment 1848  <br />Admitted into Grand Lodge 1848  <br />Admitted into Grand Encampment 1849  <br />Grand Warden of Grand Lodge of Pennsylvania May 1851  <br />Deputy Grand Master of the Grand Lodge 1852  <br />Grand Master of the Grand Lodge 1853  <br />Grand Represntative to the Sovereign Grand Lodge 1859  <br />Grand Sire of the Sovereign Grand Lodge of the United States 1862  <br />Grand Secretary of the Grand Lodge of Pennsylvania January 1869  <br />Grand Scribe of the Grand Encampment of  <br />Pennsylvania January 1869  <br />Died in Philadelphia March 4 1901",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "pedestal"
+    }
+  ],
+  "landmark": {
+    "name": "Mount Peace Cemetery",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mount_Peace_Cemetery",
+        "label": "wikipedia.org's Mount Peace Cemetery page"
+      }
+    ]
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "James Bartram Nicholson",
+      "externallinks": [
+        {
+          "url": "https://www.josephsmithpapers.org/person/james-bartram-nicholson",
+          "label": "josephsmithpapers.org's James Bartram Nicholson page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.findagrave.com/memorial/125994685/james-bartram-nicholson",
+      "label": "findagrave.com's entry for this piece"
+    },
+    {
+      "url": "https://gravelyspeaking.com/2015/02/09/on-a-pedestal-3/",
+      "label": "gravelyspeaking.com blog entry about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nicholson1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nicholson1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nicholson2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nicholson2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/nicholson3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/nicholson3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

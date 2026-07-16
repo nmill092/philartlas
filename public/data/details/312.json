@@ -1,0 +1,94 @@
+{
+  "id": "312",
+  "title": {
+    "display": "Quaker City National Bank Entrance",
+    "list": "Quaker City National Bank Entrance"
+  },
+  "artists": [
+    {
+      "name": "Willis Gaylord Hale (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/24990",
+          "label": "philadelphiabuildings.org's Willis Gaylord Hale page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1888"
+    }
+  ],
+  "location": {
+    "latitude": "39.949570",
+    "longitude": "-75.153120",
+    "description": "North side of Chestnut between 7th and 8th"
+  },
+  "comments": "This is the Western third of the original building.",
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "heads",
+      "separator": ","
+    },
+    {
+      "description": "headgear"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=9BA62BAA-CE66-4AC4-939534448EEF592E",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/qcb1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/qcb1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/qcb2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/qcb2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/qcb3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/qcb3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/qcb4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/qcb4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

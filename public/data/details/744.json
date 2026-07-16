@@ -1,0 +1,105 @@
+{
+  "id": "744",
+  "title": {
+    "display": "Integrity Trust Company Classical Scene",
+    "list": "Integrity Trust Company Classical Scene"
+  },
+  "artists": [
+    {
+      "name": "Paul Philippe Cret (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_Philippe_Cret",
+          "label": "wikipedia.org's Paul Philippe Cret page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1924"
+    }
+  ],
+  "location": {
+    "latitude": "39.949550",
+    "longitude": "-75.153000",
+    "description": "North side of Chestnut between 7th and 8th"
+  },
+  "comments": "This is from the redesigned middle third of the original building.",
+  "inscription": "<br />MDCCCLXXXVII  <br />MDCCCCX .II.",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting",
+      "separator": ","
+    },
+    {
+      "description": "winged helmet",
+      "separator": ","
+    },
+    {
+      "description": "kerykeion",
+      "separator": ","
+    },
+    {
+      "description": "tablet",
+      "separator": ","
+    },
+    {
+      "description": "furniture"
+    }
+  ],
+  "peopleprefix": "Relief with",
+  "people": [
+    {
+      "name": "Athena",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Athena",
+          "label": "wikipedia.org's Athena page"
+        }
+      ]
+    },
+    {
+      "name": "Hermes",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hermes",
+          "label": "wikipedia.org's Hermes page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=9BA62BAA-CE66-4AC4-939534448EEF592E",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/athenahermes.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/athenahermes.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

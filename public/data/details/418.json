@@ -1,0 +1,78 @@
+{
+  "id": "418",
+  "title": {
+    "display": "Wall Reliefs",
+    "list": "Wall Reliefs (Frye)"
+  },
+  "artists": [
+    {
+      "name": "G. Frye"
+    }
+  ],
+  "years": [
+    {
+      "year": "1982"
+    }
+  ],
+  "location": {
+    "latitude": "39.956300",
+    "longitude": "-75.176300",
+    "description": "West side of 22nd and East side of Croskey, North of Arch"
+  },
+  "comments": "One relief is signed G. Frye '82, but I can't find a listing for a G. Frye or this piece.",
+  "architecture": {
+    "description": "Walls"
+  },
+  "content": [
+    {
+      "description": "abstract reliefs"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gfrye1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gfrye1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gfrye2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gfrye2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gfrye3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gfrye3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gfrye4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gfrye4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "JFK North"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "137",
+  "title": {
+    "display": "First Presbyterian",
+    "list": "First Presbyterian"
+  },
+  "artists": [
+    {
+      "name": "Henry Augustus Sims (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Augustus_Sims",
+          "label": "wikipedia.org's Henry Augustus Sims page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1869"
+    },
+    {
+      "year": "1872"
+    }
+  ],
+  "location": {
+    "latitude": "39.950650",
+    "longitude": "-75.175550",
+    "description": "Southeast corner, 21st and Walnut"
+  },
+  "architecture": {
+    "description": "Whole building"
+  },
+  "content": [
+    {
+      "description": "Presbyterian symbols",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "fruit",
+      "separator": ","
+    },
+    {
+      "description": "bird",
+      "separator": ","
+    },
+    {
+      "description": "lizard",
+      "separator": ","
+    },
+    {
+      "description": "dragons",
+      "separator": ","
+    },
+    {
+      "description": "squirrel"
+    }
+  ],
+  "landmark": {
+    "name": "First Presbyterian Church",
+    "externallinks": [
+      {
+        "url": "https://www.fpcphila.org/",
+        "label": "fpcphila.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?ShortId=13618",
+      "label": "philadelphiabuildings.org's page for the building"
+    },
+    {
+      "url": "https://www.oocities.org/gargoyleppa/fpcop.html",
+      "label": "Gargoyle Hunter's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1stpres.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1stpres.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1stpres3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1stpres3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1stpres4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1stpres4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1stpres5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1stpres5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1stpres6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1stpres6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/1stpres2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/1stpres2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

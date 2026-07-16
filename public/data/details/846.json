@@ -1,0 +1,70 @@
+{
+  "id": "846",
+  "title": {
+    "display": "Paper in Motion",
+    "list": "Paper in Motion"
+  },
+  "artists": [
+    {
+      "name": "Tony Trezza",
+      "externallinks": [
+        {
+          "url": "https://www.legacy.com/us/obituaries/name/anthony-trezza-obituary?id=28549002",
+          "label": "legacy.com's Tony Trezza obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1983"
+    }
+  ],
+  "location": {
+    "latitude": "39.902225",
+    "longitude": "-75.232950",
+    "description": "Northwest side of Brewster at 76th"
+  },
+  "content": [
+    {
+      "description": "paper"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/paperinmotion1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/paperinmotion1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/paperinmotion2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/paperinmotion2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/paperinmotion3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/paperinmotion3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

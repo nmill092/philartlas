@@ -1,0 +1,121 @@
+{
+  "id": "335",
+  "title": {
+    "display": "St. George and the Dragon",
+    "list": "St. George and the Dragon"
+  },
+  "artists": [
+    {
+      "name": "Elkington and Company",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Elkington_%26_Co.",
+          "label": "wikipedia.org's Elkington & Company page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1877"
+    }
+  ],
+  "yearmodifier": "sometimes listed 1876",
+  "location": {
+    "latitude": "39.983050",
+    "longitude": "-75.205900",
+    "description": "Martin Luther King Drive just North of  Black Road"
+  },
+  "comments": "according to multiple sources this piece was previously at two different locations on Arch at 13th and 19th",
+  "inscription": "<br />Designed and cast   <br />1877   <br />Elkington & Company    <br />Birmingham England  <br />for  <br />The Society of the Sons of St. George  <br />of Philadelphia  <br />Founded 1772  <br />St. George's Day, 23 April, 1978",
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "helmet",
+      "separator": ","
+    },
+    {
+      "description": "spear",
+      "separator": ","
+    },
+    {
+      "description": "dragon"
+    }
+  ],
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Saint George",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saint_George",
+          "label": "wikipedia.org's Saint George page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://stgeorgephiladelphia.org/",
+      "label": "Society of St. George"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/st-george-and-the-dragon/",
+      "label": "associationforpublicart.org page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stgeorg.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stgeorg.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stgeorge2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stgeorge2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stgeorge3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stgeorge3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stgeorge4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stgeorge4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

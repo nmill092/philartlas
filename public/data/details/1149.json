@@ -1,0 +1,51 @@
+{
+  "id": "1149",
+  "title": {
+    "display": "stikman (20th and Parkway)",
+    "list": "stikman (20th and Parkway)"
+  },
+  "artists": [
+    {
+      "name": "stikman",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stikman",
+          "label": "wikipedia.org's stikman page"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "latitude": "39.958715",
+    "longitude": "-75.172123",
+    "description": "South side of 20th and the Parkway"
+  },
+  "architecture": {
+    "description": "Crosswalk"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "standing person"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stikman20bfp.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stikman20bfp.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

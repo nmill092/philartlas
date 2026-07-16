@@ -1,0 +1,56 @@
+{
+  "id": "609",
+  "title": {
+    "display": "Pyramid Lights",
+    "list": "Pyramid Lights"
+  },
+  "years": [
+    {
+      "year": "2008"
+    }
+  ],
+  "location": {
+    "latitude": "39.955000",
+    "longitude": "-75.187100"
+  },
+  "comments": "Was on the 32nd Street Walkway between Market and Chestnut. Missing since late April, 2013.  Was programmable and changed colors at night",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "lights"
+    }
+  ],
+  "landmark": {
+    "name": "Drexel University",
+    "externallinks": [
+      {
+        "url": "https://drexel.edu/",
+        "label": "drexel.edu"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexlights1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexlights1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/drexlights2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/drexlights2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

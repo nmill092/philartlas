@@ -1,0 +1,136 @@
+{
+  "id": "793",
+  "title": {
+    "display": "The Burghers of Calais",
+    "list": "Burghers of Calais, The"
+  },
+  "artists": [
+    {
+      "name": "Auguste Rodin",
+      "externallinks": [
+        {
+          "url": "https://www.bronze-gallery.com/sculptors/artist.cfm?sculptorID=47",
+          "label": "bronze-gallery.com's Auguste Rodin page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1884"
+    },
+    {
+      "year": "1895"
+    }
+  ],
+  "yearmodifier": "cast 1925",
+  "location": {
+    "latitude": "39.961800",
+    "longitude": "-75.173750",
+    "description": "North side of the Parkway between 21st and 22nd"
+  },
+  "comments": "moved outside 2011",
+  "content": [
+    {
+      "description": "group of people"
+    },
+    {
+      "description": "standing"
+    }
+  ],
+  "landmark": {
+    "name": "Rodin Museum",
+    "prefix": "East side of the",
+    "externallinks": [
+      {
+        "url": "https://rodinmuseum.org/",
+        "label": "rodinmuseum.org"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rodin_Museum",
+        "label": "wikipedia.org's Rodin Museum page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Burghers_of_Calais",
+      "label": "wikipedia.org's The Burghers of Calais page"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:The_Burghers_of_Calais_-_www.joyofmuseums.com_-_Rodin_Museum,_Philadelphia_3.jpg",
+      "label": "a picture of this piece at commons.wikimedia.org"
+    },
+    {
+      "url": "https://rodinmuseum.org/collection/object/103361",
+      "label": "rodinmuseum.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/burghers.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/burghers.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/burghers2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/burghers2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/burghers3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/burghers3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/burghers4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/burghers4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/burghers5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/burghers5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/burghers6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/burghers6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

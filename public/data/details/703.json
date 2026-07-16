@@ -1,0 +1,108 @@
+{
+  "id": "703",
+  "title": {
+    "display": "St. Martin's College for Indigent Boys Medallion",
+    "list": "St. Martin's College for Indigent Boys Medallion"
+  },
+  "artists": [
+    {
+      "name": "Louis Carter Baker, Jr. (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/22304",
+          "label": "philadelphiabuildings.org's Louis Carter Baker, Jr. page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1906"
+    }
+  ],
+  "location": {
+    "latitude": "39.939090",
+    "longitude": "-75.155225",
+    "description": "North side of Catherine between 7th and 8th"
+  },
+  "architecture": {
+    "description": "Over the college entrance"
+  },
+  "content": [
+    {
+      "description": "people"
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "partial people",
+      "separator": ","
+    },
+    {
+      "description": "winged cherubs",
+      "separator": ","
+    },
+    {
+      "description": "headgear",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "landmark": {
+    "name": "Fleisher Art Memorial",
+    "externallinks": [
+      {
+        "url": "https://fleisher.org/",
+        "label": "fleisher.org"
+      }
+    ]
+  },
+  "peopleprefix": "Representation of",
+  "people": [
+    {
+      "name": "Jesus",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jesus",
+          "label": "wikipedia.org's Jesus page"
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "label": "wikipedia.org's Mary, mother of Jesus page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "http://fleisher.org/wp-content/uploads/2017/01/PA-Historical-and-Museum-Commission-historic-Resource-Nomination.pdf",
+      "label": "Historic Resource Nomination pdf at fleischer.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fleishermed.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fleishermed.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "74",
+  "title": {
+    "display": "Clef Club",
+    "list": "Clef Club"
+  },
+  "artists": [
+    {
+      "name": "Les Rosenwinkel (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.inquirer.com/obituaries/lester-rosenwinkel-walter-livingston-architecture-philadelphia-edison-high-clef-club-20210322.html",
+          "label": "inquirer.com's Lester Rosenwinkel obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1995"
+    }
+  ],
+  "location": {
+    "latitude": "39.941925",
+    "longitude": "-75.166300",
+    "description": "North side of Fitzwater, West of Broad"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "idea"
+    }
+  ],
+  "landmark": {
+    "name": "Clef Club",
+    "externallinks": [
+      {
+        "url": "https://clefclubofjazz.org/",
+        "label": "/clefclubofjazz.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/clef.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/clef.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/clef2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/clef2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

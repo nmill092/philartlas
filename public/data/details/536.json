@@ -1,0 +1,59 @@
+{
+  "id": "536",
+  "title": {
+    "display": "Bird",
+    "list": "Bird (Greenberg)"
+  },
+  "artists": [
+    {
+      "name": "Joseph J. Greenberg, Jr.",
+      "externallinks": [
+        {
+          "url": "https://www.nytimes.com/1991/04/12/obituaries/joseph-j-greenberg-sculptor-75.html",
+          "label": "nytimes.com Joseph J. Greenberg obituary"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1980"
+    }
+  ],
+  "yearmodifier": "date of building",
+  "location": {
+    "latitude": "39.957700",
+    "longitude": "-75.166900"
+  },
+  "comments": "Was between 16th and 17th, Race and Vine on the North side of the hotel which was the Wyndham Franklin Plaza and then the Sheraton Center City.  Disappeared some time around 2017 when the Franklin Plaza complex was reconfigured.",
+  "architecture": {
+    "description": "Was in the driveway entrance"
+  },
+  "content": [
+    {
+      "description": "bird"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frplbird.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frplbird.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/frplbird2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/frplbird2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1115",
+  "title": {
+    "display": "Bear",
+    "list": "Bear (unidentified)"
+  },
+  "years": [
+    {
+      "year": "2008"
+    }
+  ],
+  "location": {
+    "latitude": "40.074535",
+    "longitude": "-75.202960",
+    "description": "Parking lot entrance, Southeast side of Southampton, Northeast of Germantown"
+  },
+  "content": [
+    {
+      "description": "painted bear"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chbear1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chbear1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chbear2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chbear2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

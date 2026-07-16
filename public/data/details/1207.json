@@ -1,0 +1,73 @@
+{
+  "id": "1207",
+  "title": {
+    "display": "Love Awaits You ",
+    "list": "Love Awaits You "
+  },
+  "artists": [
+    {
+      "name": "Terrance Woolford",
+      "externallinks": [
+        {
+          "url": "https://www.instagram.com/the.eazy.way/",
+          "label": "instagram.com/the.eazy.way"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2023"
+    }
+  ],
+  "location": {
+    "latitude": "39.877060",
+    "longitude": "-75.244150",
+    "description": "8500 Essington Ave."
+  },
+  "inscription": "(excerpt)<br />  Many of the objects in this installation were found rummaging through discarded items from the airport's workspaces that include Building Maintenance, Electrical, Welding, and Sign shops.  <br />  Woolford created <i>Love Awaits You</i> to \"enchant travelers landing at the airport and for loved ones Who wait for their arrival.\"  He said, \"the plane flying towards the big HRT encompasses that  total experience.\"",
+  "architecture": {
+    "description": "Interior"
+  },
+  "content": [
+    {
+      "description": "heart symbol, words",
+      "separator": ","
+    },
+    {
+      "description": "airplane",
+      "separator": ","
+    },
+    {
+      "description": "buildings"
+    }
+  ],
+  "landmark": {
+    "name": "Philadelphia International Airport (PHL)",
+    "prefix": "Terminal B Arrivals",
+    "externallinks": [
+      {
+        "url": "https://www.phl.org/",
+        "label": "phl.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.phl.org/at-phl/art-exhibitions/node/2098",
+      "label": "phl.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/loveawaitsyou.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/loveawaitsyou.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

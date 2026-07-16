@@ -1,0 +1,103 @@
+{
+  "id": "591",
+  "title": {
+    "display": "Fence",
+    "list": "Fence (Cohocksink Recreation Center)"
+  },
+  "artists": [
+    {
+      "name": "Greg Leavitt",
+      "externallinks": [
+        {
+          "url": "https://www.gregleavitt.com/",
+          "label": "gregleavitt.com"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "latitude": "39.984300",
+    "longitude": "-75.112775",
+    "description": "Southeast side of Cedar St. at East Cambria"
+  },
+  "architecture": {
+    "description": "Fence"
+  },
+  "content": [
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "sitting person",
+      "separator": ","
+    },
+    {
+      "description": "partial person",
+      "separator": ","
+    },
+    {
+      "description": "sports and playground equipment",
+      "separator": ","
+    },
+    {
+      "description": "water"
+    }
+  ],
+  "landmark": {
+    "name": "Cohocksink Recreation Center"
+  },
+  "externallinks": [
+    {
+      "url": "https://prod.learninglab.si.edu/resources/view/21390",
+      "label": "learninglab.si.edu's resource page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cohocksink1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cohocksink1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cohocksink2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cohocksink2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cohocksink3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cohocksink3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cohocksink4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cohocksink4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Kensington"
+    }
+  ]
+}

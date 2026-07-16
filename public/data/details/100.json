@@ -1,0 +1,94 @@
+{
+  "id": "100",
+  "title": {
+    "display": "Diego de Gardoqui",
+    "list": "Diego de Gardoqui"
+  },
+  "artists": [
+    {
+      "name": "Luis Sanguino",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Luis_Sanguino",
+          "label": "wikipedia.org's Luis Sanguino page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1977"
+    }
+  ],
+  "location": {
+    "latitude": "39.958185",
+    "longitude": "-75.169225",
+    "description": "West side of 18th, South of Vine"
+  },
+  "comments": "A number of different artists' names are listed in various places, but this one seems most likely. In 2012 this piece was moved inside Sister Cities Park, and the Children's Garden was built around it  ",
+  "inscription": "<br />1735-1798<br />Envoy of the King of Spain",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "piece of paper"
+    }
+  ],
+  "landmark": {
+    "name": "Logan Square",
+    "prefix": "Children's Garden, Sister Cities Park, East side of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Logan_Circle_(Philadelphia)",
+        "label": "wikipedia.org's Logan Circle page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Diego de Gardoqui",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Diego_de_Gardoqui",
+          "label": "wikipedia.org's Diego de Gardoqui page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/don-diego-de-gardoqui/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spanamb.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spanamb.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spanamb2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spanamb2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

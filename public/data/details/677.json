@@ -1,0 +1,107 @@
+{
+  "id": "677",
+  "title": {
+    "display": "Black Bottom Memorial Wall",
+    "list": "Black Bottom Memorial Wall"
+  },
+  "artists": [
+    {
+      "name": "Andrea Zemel",
+      "externallinks": [
+        {
+          "url": "https://iliad.nyc/contemporary-art/andrea-zemel/",
+          "label": "iliad.nyc's Andrea Zemel page"
+        },
+        {
+          "url": "https://collaborativehistory.gse.upenn.edu/stories/past-recaptured-honoring-memory-black-bottom",
+          "label": "upenn.edu article The Past Recaptured: Honoring the Memory of the Black Bottom begins with Andrea Zemel's pieces"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1999"
+    }
+  ],
+  "location": {
+    "latitude": "39.957425",
+    "longitude": "-75.194200"
+  },
+  "comments": "a collaborative project with Penn and University City High School students, it was located on the West side of 36th, North of Filbert, on the Southeast corner of the High School, which was torn down in 2015",
+  "inscription": "<br />The Black Bottom was a predominately African American community that  once existed between 32nd Street and 40th Street and between  Walnut Street and Lancaster Avenue. Within these boundaries was a  community based on loyalty, trust, and respect. It was born of economic adversity  but based on love.  Their love was for their community and its members and they  cared for each other as family.  Everyone was helpful to one another.  The children were raised together. With pride in their hearts and pride   for their community prejudice was a stranger to the people of the Black   Bottom.  The walls of the community were torn down to make way for \"Urban  Renewal.\"  However the sense of community was planted in the hearts  of the members proving that a community can thrive even in a field of barren  ground.  Resistance did not prevent their neighborhood from being physically  destroyed but resistance preserved it in their memories even today.  The community still meets every year on the last Sunday in August for the  Black Bottom Reunion at Fairmount Park. It is the largest neighborhood  gathering in the history of Philadelphia.    <br />We were like a big family, close together until the bulldozers of urban renewal  came around.  They tore down our neighborhood - but not our spirits! The Black  Bottom still is home in our hearts.  <br />We fought to protect our neighborhood and our country.",
+  "architecture": {
+    "description": "Wall art"
+  },
+  "content": [
+    {
+      "description": "map",
+      "separator": ","
+    },
+    {
+      "description": "heart and hands"
+    },
+    {
+      "description": "symbol",
+      "separator": ","
+    },
+    {
+      "description": "standing"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "sitting person",
+      "separator": ","
+    },
+    {
+      "description": "bulldozer",
+      "separator": ","
+    },
+    {
+      "description": "houses",
+      "separator": ","
+    },
+    {
+      "description": "weapons",
+      "separator": ","
+    },
+    {
+      "description": "flag"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bbmw.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bbmw.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bbmw2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bbmw2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bbmw3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bbmw3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

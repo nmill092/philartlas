@@ -1,0 +1,123 @@
+{
+  "id": "691",
+  "title": {
+    "display": "Welsh Society Plaque",
+    "list": "Welsh Society Plaque"
+  },
+  "years": [
+    {
+      "year": "1968"
+    }
+  ],
+  "location": {
+    "latitude": "39.952250",
+    "longitude": "-75.162750",
+    "description": "Market at Juniper"
+  },
+  "inscription": "<br />The Welsh Society  <br />Philadelphia  <br />Organized March 1, 1729  <br />Gogoniant i Dduw  <br />Glory to God  <br />Commemorating the Welsh contributions  to the founding of the City of Philadelphia  the Commonwealth of Pennsylvania  and the United States of America  <br />William Penn, 1644-1718, proclaimer of freedom of religion  and planner of New Wales, later named Pennsylvania  <br />Robert Morris, 1734-1806, foremost financier of the  American Revolution and signer of the Declaration of Independence  <br />Thomas Jefferson, 1743-1826, third President of the   United States and author of the Declaration of Independence  <br />Gouverneur Morris, 1752-1816, author of the final draft  of the Constitution of the United States  <br />John Marshall, 1755-1835, Chief Justice of the  United States and Father of American Constitutional Law  <br />Erected on St. David's Day, March 1, 1968",
+  "architecture": {
+    "description": "East wall"
+  },
+  "content": [
+    {
+      "description": "dragon"
+    },
+    {
+      "description": "logo"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "peopleprefix": "One line biographies of",
+  "people": [
+    {
+      "name": "Thomas Jefferson",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+          "label": "wikipedia.org's Thomas Jefferson page"
+        }
+      ]
+    },
+    {
+      "name": "John Marshall",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Marshall",
+          "label": "wikipedia.org's John Marshall page"
+        }
+      ]
+    },
+    {
+      "name": "Gouverneur Morris",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gouverneur_Morris",
+          "label": "wikipedia.org's Gouverneur Morris page"
+        }
+      ]
+    },
+    {
+      "name": "Robert Morris",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Morris_(financier)",
+          "label": "wikipedia.org's Robert Morris page"
+        }
+      ]
+    },
+    {
+      "name": "William Penn",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Penn",
+          "label": "wikipedia.org's William Penn page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiawelsh.org/",
+      "label": "philadelphiawelsh.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/welsh.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/welsh.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/welsh2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/welsh2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

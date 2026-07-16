@@ -1,0 +1,90 @@
+{
+  "id": "180",
+  "title": {
+    "display": "Guglielmo Marconi",
+    "list": "Guglielmo Marconi"
+  },
+  "artists": [
+    {
+      "name": "Giancarlo Saleppichi"
+    }
+  ],
+  "years": [
+    {
+      "year": "1975"
+    }
+  ],
+  "location": {
+    "latitude": "39.915440",
+    "longitude": "-75.171125",
+    "description": "East side of Broad, South of Oregon"
+  },
+  "inscription": "<br />Inventor Wireless Telegraphy<br />The Father of Modern Communication<br />April 25 1874<br>July 20 1937",
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "paper"
+    }
+  ],
+  "landmark": {
+    "name": "Marconi Plaza",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marconi_Plaza,_Philadelphia",
+        "label": "wikipedia.org's Marconi Plaza page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Guglielmo Marconi",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+          "label": "wikipedia.org's Guglielmo Marconi page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marconi3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marconi3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marconi2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marconi2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marconi.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marconi.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Broad"
+    }
+  ]
+}

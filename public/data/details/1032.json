@@ -1,0 +1,92 @@
+{
+  "id": "1032",
+  "title": {
+    "display": "City Hall Gates",
+    "list": "City Hall Gates"
+  },
+  "artists": [
+    {
+      "name": "John McArthur, Jr.",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_McArthur%2C_Jr.",
+          "label": "wikipedia.org's John McArthur, Jr. page"
+        }
+      ]
+    },
+    {
+      "name": "Vitetta",
+      "externallinks": [
+        {
+          "url": "https://vitetta.com/",
+          "label": "vitetta.com"
+        },
+        {
+          "url": "https://mooreandsnear.com/tribute/details/757/Francis-G-Vitetta/obituary.html",
+          "label": "obituary of Francis G. Vitetta at mooreandsnear.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2015"
+    }
+  ],
+  "yearmodifier": "originally designed around 1871",
+  "location": {
+    "latitude": "39.952485",
+    "longitude": "-75.164420",
+    "description": "East side of 15th at Market"
+  },
+  "comments": "Pictures are of the South gates. Location is for the West gates.",
+  "architecture": {
+    "description": "Gates"
+  },
+  "content": [
+    {
+      "description": "abstract ironwork"
+    }
+  ],
+  "landmark": {
+    "name": "City Hall",
+    "prefix": "All four pavilions.",
+    "externallinks": [
+      {
+        "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm?RecordId=911AA16B-2513-454F-BBB56232DCC31B08",
+        "label": "philadelphiabuildings.org's City Hall page"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+        "label": "wikipedia.org's City Hall page"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chgates1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chgates1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/chgates2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/chgates2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

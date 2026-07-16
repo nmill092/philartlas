@@ -1,0 +1,60 @@
+{
+  "id": "1215",
+  "title": {
+    "display": "Mummers Museum Spire",
+    "list": "Mummers Museum Spire"
+  },
+  "artists": [
+    {
+      "name": "Ueland and Junker (Architects)"
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "39.933584",
+    "longitude": "-75.147465",
+    "description": "Southwest corner, 2nd and Washington"
+  },
+  "architecture": {
+    "description": "Above the entrance"
+  },
+  "content": [
+    {
+      "description": "colorful geometric design evoking mummery",
+      "separator": ","
+    },
+    {
+      "description": "spire"
+    }
+  ],
+  "landmark": {
+    "name": "Mummers Museum",
+    "externallinks": [
+      {
+        "url": "https://www.mummersmuseum.org/",
+        "label": "mummersmuseum.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/mummerspire.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/mummerspire.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

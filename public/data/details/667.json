@@ -1,0 +1,77 @@
+{
+  "id": "667",
+  "title": {
+    "display": "Fish Cutouts",
+    "list": "Fish Cutouts"
+  },
+  "artists": [
+    {
+      "name": "William Burke",
+      "externallinks": [
+        {
+          "url": "https://whyy.org/articles/how-powerful-commission-quietly-stewards-philadelphias-visual-legacy/",
+          "label": "whyy.org article about William Burke and the Art Commission"
+        }
+      ]
+    },
+    {
+      "name": "Steve Sears of Sears IronWorks (Fabricator)"
+    },
+    {
+      "name": "Keith Shively and Tom Williams",
+      "externallinks": [
+        {
+          "url": "https://www.legacy.com/us/obituaries/inquirer/name/keith-shively-obituary?id=56200443",
+          "label": "legacy.com obituary for Keith Shively"
+        },
+        {
+          "url": "https://www.legacy.com/us/obituaries/inquirer/name/a-thomas-williams-obituary?id=32177638",
+          "label": "legacy.com obituary for Tom Williams"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1998"
+    }
+  ],
+  "location": {
+    "latitude": "40.007235",
+    "longitude": "-75.192525",
+    "description": "Kelly Drive at Ferry Road"
+  },
+  "content": [
+    {
+      "description": "fish"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.eastfallshistoricalsociety.org/now-2022/",
+      "label": "eastfallshistoricalsociety.org article that includes a paragraph about the history of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fishcutouts1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fishcutouts1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/fishcutouts2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/fishcutouts2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

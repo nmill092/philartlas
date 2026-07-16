@@ -1,0 +1,87 @@
+{
+  "id": "446",
+  "title": {
+    "display": "Women Washing",
+    "list": "Women Washing"
+  },
+  "artists": [
+    {
+      "name": "Dexter Jones",
+      "externallinks": [
+        {
+          "url": "https://woodmereartmuseum.org/explore-online/collection/artist/jones-dexter",
+          "label": "woodmereartmuseum.org's Dexter Jones page"
+        },
+        {
+          "url": "https://nationalsculpture.org/programs-awards/dexter-jones/",
+          "label": "nationalsculpture.org's Dexter Jones Award"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1968"
+    }
+  ],
+  "location": {
+    "latitude": "39.928310",
+    "longitude": "-75.218950",
+    "description": "Lindbergh, Northeast of 58th"
+  },
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "three people",
+      "separator": ","
+    },
+    {
+      "description": "one standing",
+      "separator": ","
+    },
+    {
+      "description": "two kneeling",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "basket",
+      "separator": ","
+    },
+    {
+      "description": "water"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/womwash.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/womwash.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/womwash2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/womwash2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Southwest Philly"
+    }
+  ]
+}

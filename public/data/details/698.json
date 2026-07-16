@@ -1,0 +1,127 @@
+{
+  "id": "698",
+  "title": {
+    "display": "St. Augustine and St. Patrick",
+    "list": "St. Augustine and St. Patrick"
+  },
+  "artists": [
+    {
+      "name": "George Ignatius Lovatt Sr. (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/26856",
+          "label": "philadelphiabuildings.org's George Ignatius Lovatt Sr. page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_I._Lovatt_Sr.",
+          "label": "wikipedia.org's George I. Lovatt Sr. page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1907"
+    }
+  ],
+  "location": {
+    "latitude": "39.936300",
+    "longitude": "-75.167350",
+    "description": "West side of Broad, South of Ellsworth"
+  },
+  "architecture": {
+    "description": "Front wall"
+  },
+  "content": [
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "hats",
+      "separator": ","
+    },
+    {
+      "description": "staffs",
+      "separator": ","
+    },
+    {
+      "description": "religious symbols"
+    }
+  ],
+  "landmark": {
+    "name": "National Shrine of St. Rita of Cascia",
+    "externallinks": [
+      {
+        "url": "https://www.saintritashrine.org/",
+        "label": "saintritashrine.org"
+      },
+      {
+        "url": "https://digital.librarycompany.org/islandora/object/Islandora%3A63029?solr_nav%5Bid%5D=81f5c368e963473f1009&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0",
+        "label": "1923 picture of the building at librarycompany.org"
+      }
+    ]
+  },
+  "peopleprefix": "Statues of",
+  "people": [
+    {
+      "name": "Saint Augustine",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+          "label": "wikipedia.org's Augustine of Hippo page"
+        }
+      ]
+    },
+    {
+      "name": "Saint Patrick",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saint_Patrick",
+          "label": "wikipedia.org's Saint Patrick page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://shrinetower.com/wp-content/uploads/2014/05/augustine-out-front.jpg",
+      "label": "picture of St. Augustine from this piece at shrinetower.com"
+    },
+    {
+      "url": "https://shrinetower.com/wp-content/uploads/2014/05/st-patrick.jpg",
+      "label": "picture of St. Patrick from this piece at shrinetower.com"
+    },
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/80156",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stritaap2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stritaap2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/stritaap1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/stritaap1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

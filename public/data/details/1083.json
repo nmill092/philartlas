@@ -1,0 +1,71 @@
+{
+  "id": "1083",
+  "title": {
+    "display": "Untitled",
+    "list": "Untitled (Maitin, 2017)"
+  },
+  "artists": [
+    {
+      "name": "Sam Maitin",
+      "externallinks": [
+        {
+          "url": "https://woodmereartmuseum.org/explore-online/collection/artist/samuel-maitin",
+          "label": "woodmereartmuseum.org's Samuel Maitin page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2017"
+    }
+  ],
+  "yearmodifier": "fabricated",
+  "location": {
+    "latitude": "40.083050",
+    "longitude": "-75.220600",
+    "description": "Corner of Germantown Avenue and Bells Mill Road"
+  },
+  "comments": "Displayed at the time the picture was taken with two earlier pieces by the same artist that are not listed in the catalog.",
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "bird"
+    }
+  ],
+  "landmark": {
+    "name": "Woodmere Art Museum",
+    "prefix": "Grounds of",
+    "externallinks": [
+      {
+        "url": "https://woodmereartmuseum.org/",
+        "label": "woodmereartmuseum.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://woodmereartmuseum.org/explore-online/collection/maitin-untitled",
+      "label": "entry for this piece at woodmereartmuseum.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/maitin1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/maitin1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}

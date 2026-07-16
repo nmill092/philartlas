@@ -1,0 +1,46 @@
+{
+  "id": "652",
+  "title": {
+    "display": "Earth and Moon",
+    "list": "Earth and Moon"
+  },
+  "artists": [
+    {
+      "name": "Ken Clark"
+    }
+  ],
+  "years": [
+    {
+      "year": "1976"
+    }
+  ],
+  "location": {
+    "latitude": "40.091810",
+    "longitude": "-75.020700",
+    "description": "South side of President St., East of Conwell (North of Conwell and Roosevelt Blvd.)"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "Earth and Moon",
+      "separator": ","
+    }
+  ],
+  "landmark": {
+    "name": "Conwell Park"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/earthmoon.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/earthmoon.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

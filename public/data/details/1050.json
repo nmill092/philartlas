@@ -1,0 +1,64 @@
+{
+  "id": "1050",
+  "title": {
+    "display": "Handshake",
+    "list": "Handshake"
+  },
+  "artists": [
+    {
+      "name": "Magaziner & Eberhard (Architects)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/26674",
+          "label": "philadelphiabuildings.org's  Magaziner & Eberhard page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1934"
+    }
+  ],
+  "location": {
+    "latitude": "39.945250",
+    "longitude": "-75.177775",
+    "description": "North side of South, East of 22nd"
+  },
+  "comments": "Former headquarters of the Amalgamated Clothing Workers of America",
+  "architecture": {
+    "description": "Over the entrance"
+  },
+  "content": [
+    {
+      "description": "hands"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://library.temple.edu/scrc/amalgamated-clothing-workers",
+      "label": " Reference to the building from library.temple.edu"
+    },
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/14109",
+      "label": "philadelphiabuildings.org's page for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/handshake.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/handshake.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fitler Square"
+    }
+  ]
+}

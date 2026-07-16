@@ -1,0 +1,137 @@
+{
+  "id": "816",
+  "title": {
+    "display": "Duckrey School Mosaics",
+    "list": "Duckrey School Mosaics"
+  },
+  "artists": [
+    {
+      "name": "Barbara Gesshel",
+      "externallinks": [
+        {
+          "url": "https://publicartarchive.org/artist/Barbara%20Gesshel",
+          "label": "publicartarchive.org's Barbara Gesshel page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2005"
+    }
+  ],
+  "yearmodifier": "restored",
+  "location": {
+    "latitude": "39.985250",
+    "longitude": "-75.159200",
+    "description": "North side of Diamond, East of 16th"
+  },
+  "inscription": "<br />First: \"Once upon a time\"  <br />Second: \"...love and brotherhood are the strongest forces on Earth\" -Dr. Tanner G. Duckrey",
+  "architecture": {
+    "description": "South Entrances"
+  },
+  "content": [
+    {
+      "description": "partial",
+      "separator": ","
+    },
+    {
+      "description": "standing",
+      "separator": ","
+    },
+    {
+      "description": "sitting"
+    },
+    {
+      "description": "people",
+      "separator": ","
+    },
+    {
+      "description": "boats",
+      "separator": ","
+    },
+    {
+      "description": "cow",
+      "separator": ","
+    },
+    {
+      "description": "birds",
+      "separator": ","
+    },
+    {
+      "description": "snakes",
+      "separator": ","
+    },
+    {
+      "description": "lizards",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "fish",
+      "separator": ","
+    },
+    {
+      "description": "butterfly",
+      "separator": ","
+    },
+    {
+      "description": "sun",
+      "separator": ","
+    },
+    {
+      "description": "building"
+    }
+  ],
+  "landmark": {
+    "name": "Tanner Duckrey School",
+    "externallinks": [
+      {
+        "url": "https://duckrey.philasd.org/",
+        "label": "duckrey.philasd.org"
+      }
+    ]
+  },
+  "peopleprefix": "School named for, and quote from",
+  "people": [
+    {
+      "name": "Dr. Tanner G. Duckrey",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tanner_Duckery",
+          "label": "wikipedia.org's Tanner Duckrey page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/duckrey1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/duckrey1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/duckrey2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/duckrey2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Temple Southwest"
+    }
+  ]
+}

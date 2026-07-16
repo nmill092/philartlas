@@ -1,0 +1,72 @@
+{
+  "id": "922",
+  "title": {
+    "display": "Sun Arc",
+    "list": "Sun Arc"
+  },
+  "artists": [
+    {
+      "name": "Gary Weisman"
+    }
+  ],
+  "years": [
+    {
+      "year": "1991"
+    }
+  ],
+  "location": {
+    "latitude": "39.926175",
+    "longitude": "-75.163700",
+    "description": "Northeast corner, 11th and Mifflin"
+  },
+  "comments": "visible through the fence",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "abstract figures",
+      "separator": ","
+    },
+    {
+      "description": "list of months"
+    }
+  ],
+  "landmark": {
+    "name": "East Passyunk Community Center",
+    "prefix": "South side of",
+    "externallinks": [
+      {
+        "url": "https://www.eastpassyunkcommunitycenter.org/",
+        "label": "eastpassyunkcommunitycenter.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sunarc1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sunarc1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sunarc2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sunarc2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "142",
+  "title": {
+    "display": "Floating World",
+    "list": "Floating World"
+  },
+  "artists": [
+    {
+      "name": "Ava Blitz",
+      "externallinks": [
+        {
+          "url": "https://www.avablitz.com/",
+          "label": "avablitz.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1997"
+    }
+  ],
+  "location": {
+    "latitude": "39.956400",
+    "longitude": "-75.194850"
+  },
+  "comments": "Was on the North side of Market, West of 36th. Removed before 2/21/2016.  The building has since been demolished and replaced.",
+  "architecture": {
+    "description": "wall-mounted"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "creatures"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://serendipstudio.org/exhibitions/ava/",
+      "label": "serendipstudio.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/evolve.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/evolve.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/evolve2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/evolve2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/evolve3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/evolve3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

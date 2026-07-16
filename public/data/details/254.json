@@ -1,0 +1,92 @@
+{
+  "id": "254",
+  "title": {
+    "display": "Milkweed Pod",
+    "list": "Milkweed Pod"
+  },
+  "artists": [
+    {
+      "name": "Clark B. Fitz-Gerald",
+      "externallinks": [
+        {
+          "url": "https://www.sfitzgeraldfineart.com/gallery/gallery-detail.asp?gallery=clark-fitz-gerald",
+          "label": "Clark Fitz-Gerald gallery from sfitzgeraldfineart.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1965"
+    }
+  ],
+  "location": {
+    "latitude": "39.950300",
+    "longitude": "-75.151400",
+    "description": "Behind the Rohm and Haas building, West side of 6th street between Chestnut and Market (go up the steps and through the underpass)"
+  },
+  "architecture": {
+    "description": "Courtyard"
+  },
+  "content": [
+    {
+      "description": "plant"
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/artwork/milkweed-pod/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/milkpod.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/milkpod.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/milkpod2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/milkpod2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/milkpod3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/milkpod3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/milkpod4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/milkpod4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

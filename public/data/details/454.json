@@ -1,0 +1,68 @@
+{
+  "id": "454",
+  "title": {
+    "display": "Ernesta Drinker Ballard Memorial",
+    "list": "Ernesta Drinker Ballard Memorial"
+  },
+  "years": [
+    {
+      "year": "2006"
+    }
+  ],
+  "location": {
+    "latitude": "39.965740",
+    "longitude": "-75.183035",
+    "description": "Schuylkill Banks near the Spring Garden Bridge."
+  },
+  "inscription": "<br />  In honor of<br />   Ernesta Drinker Ballard<br />  1920-2005<br />  Ernesta was the moving force behind the restoration of the  Fairmount Water Works and these gardens.  Fairmount Park Commissioner from 1981 to 2002 and a founding  member of the Fairmount Park Conservancy, she was a civic leader,  a feminist, a beloved friend.  <br />  <i>\"The world is a better place if everyone is included\"</i> - EDB 2001<br />  Erected September 10, 2006",
+  "content": [
+    {
+      "description": "urn/planter"
+    }
+  ],
+  "landmark": {
+    "name": "Water Works",
+    "prefix": "In the gardens of the",
+    "externallinks": [
+      {
+        "url": "https://fairmountwaterworks.org/",
+        "label": "fairmountwaterworks.org"
+      }
+    ]
+  },
+  "peopleprefix": "In honor of",
+  "people": [
+    {
+      "name": "Ernesta Drinker Ballard",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ernesta_Drinker_Ballard",
+          "label": "wikipedia.org's Ernesta Drinker Ballard page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.hmdb.org/m.asp?m=223986",
+      "label": "hmdb.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ballard.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ballard.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Art Museum Grounds"
+    }
+  ]
+}

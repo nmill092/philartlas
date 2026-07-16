@@ -1,0 +1,70 @@
+{
+  "id": "623",
+  "title": {
+    "display": "Gate",
+    "list": "Gate (Marian Anderson Recreation Center)"
+  },
+  "artists": [
+    {
+      "name": "Greg Leavitt",
+      "externallinks": [
+        {
+          "url": "https://www.gregleavitt.com/",
+          "label": "gregleavitt.com"
+        }
+      ]
+    },
+    {
+      "name": "Lydia Leavitt"
+    }
+  ],
+  "years": [
+    {
+      "year": "1982"
+    }
+  ],
+  "location": {
+    "latitude": "39.941825",
+    "longitude": "-75.171050",
+    "description": "West side of 17th, South of Fitzwater"
+  },
+  "comments": "This is listed elsewhere simply as \"Gate,\" though it doesn't appear to currently function as one.",
+  "architecture": {
+    "description": "Either side of the entrance"
+  },
+  "content": [
+    {
+      "description": "plant forms"
+    }
+  ],
+  "landmark": {
+    "name": "Marian Anderson Recreation Center"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marc1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marc1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/marc2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/marc2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fitler Square"
+    }
+  ]
+}

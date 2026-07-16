@@ -1,0 +1,89 @@
+{
+  "id": "604",
+  "title": {
+    "display": "George and Meta Conor-Wood Memorial",
+    "list": "George and Meta Conor-Wood Memorial"
+  },
+  "artists": [
+    {
+      "name": "Ahron Ben-Shmuel",
+      "externallinks": [
+        {
+          "url": "https://bucksco.michenerartmuseum.org/bucksartists/artist/25/",
+          "label": "michenermuseum.org's Ahron Ben-Shmuel page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1942"
+    }
+  ],
+  "location": {
+    "latitude": "39.981375",
+    "longitude": "-75.205825",
+    "description": "Martin Luther King Drive below Black Road, opposite side, sunken"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "deer"
+    }
+  ],
+  "peopleprefix": "Memorial to",
+  "people": [
+    {
+      "name": "George Conor-Wood"
+    },
+    {
+      "name": "Meta Conor-Wood"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://learninglab.si.edu/resources/view/313222",
+      "label": "learninglab.si.edu's resource page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/conorwood1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/conorwood1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/conorwood2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/conorwood2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/conorwood3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/conorwood3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "West Park"
+    }
+  ]
+}

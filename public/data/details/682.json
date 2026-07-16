@@ -1,0 +1,62 @@
+{
+  "id": "682",
+  "title": {
+    "display": "Athena and Cherubs",
+    "list": "Athena and Cherubs"
+  },
+  "years": [
+    {
+      "year": "1927"
+    }
+  ],
+  "location": {
+    "latitude": "39.948200",
+    "longitude": "-75.166160",
+    "description": "East side of 15th, South of Locust"
+  },
+  "architecture": {
+    "description": "Way over the entrance"
+  },
+  "content": [
+    {
+      "description": "cherubs",
+      "separator": ","
+    },
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "helmet"
+    }
+  ],
+  "peopleprefix": "relief bust of",
+  "people": [
+    {
+      "name": "Athena",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Athena",
+          "label": "wikipedia.org's Athena page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/235s15th.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/235s15th.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

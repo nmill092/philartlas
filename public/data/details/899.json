@@ -1,0 +1,77 @@
+{
+  "id": "899",
+  "title": {
+    "display": "Suzanne Roberts Theatre Sign",
+    "list": "Suzanne Roberts Theatre Sign"
+  },
+  "artists": [
+    {
+      "name": "Zahner",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zahner",
+          "label": "wikipedia.org's Zahner page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2007"
+    }
+  ],
+  "location": {
+    "latitude": "39.944850",
+    "longitude": "-75.165450",
+    "description": "Northwest Corner, Broad and Lombard"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "logo"
+    },
+    {
+      "description": "sign"
+    }
+  ],
+  "landmark": {
+    "name": "Suzanne Roberts Theatre",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Suzanne_Roberts_Theatre",
+        "label": "wikipedia.org's Suzanne Roberts Theatre page"
+      }
+    ]
+  },
+  "peopleprefix": "Named for",
+  "people": [
+    {
+      "name": "Suzanne Roberts",
+      "externallinks": [
+        {
+          "url": "https://whyy.org/articles/philadelphia-icon-suzanne-roberts-dies-at-98/",
+          "label": "whyy.org Suzanne Roberts obituary"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/srtsign.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/srtsign.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Avenue of the Arts"
+    }
+  ]
+}

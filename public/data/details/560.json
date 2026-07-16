@@ -1,0 +1,59 @@
+{
+  "id": "560",
+  "title": {
+    "display": "Butterfly",
+    "list": "Butterfly"
+  },
+  "artists": [
+    {
+      "name": "Harold Kimmelman",
+      "externallinks": [
+        {
+          "url": "http://www.hksculpt.com/",
+          "label": "hksculpt.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1970"
+    }
+  ],
+  "location": {
+    "latitude": "39.943625",
+    "longitude": "-75.145700",
+    "description": "South side of Delancey West of 2nd"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "butterfly"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "http://www.hksculpt.com/addedbackpages/newBackpages/Butterfly.htm",
+      "label": "artist's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/butterfly.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/butterfly.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Society Hill"
+    }
+  ]
+}

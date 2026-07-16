@@ -1,0 +1,69 @@
+{
+  "id": "753",
+  "title": {
+    "display": "Untitled Gates",
+    "list": "Untitled Gates (Berg)"
+  },
+  "artists": [
+    {
+      "name": "Eric Berg",
+      "externallinks": [
+        {
+          "url": "https://www.bergbronze.com/",
+          "label": "bergbronze.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1979"
+    }
+  ],
+  "location": {
+    "latitude": "39.945975",
+    "longitude": "-75.156450",
+    "description": "North side of Spruce, just West of 9th"
+  },
+  "architecture": {
+    "description": "Gates"
+  },
+  "content": [
+    {
+      "description": "abstract lines"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.bergbronze.com/gallery/untitled-gates",
+      "label": "bergbronze.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/9spruce1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/9spruce1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/9spruce2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/9spruce2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

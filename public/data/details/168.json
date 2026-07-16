@@ -1,0 +1,95 @@
+{
+  "id": "168",
+  "title": {
+    "display": "Gift of the Winds",
+    "list": "Gift of the Winds"
+  },
+  "artists": [
+    {
+      "name": "Joseph C. Bailey",
+      "externallinks": [
+        {
+          "url": "https://www.askart.com/artist/Joseph_C_Bailey/10002159/Joseph_C_Bailey.aspx",
+          "label": "askart.com's Joseph C. Bailey page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1978"
+    }
+  ],
+  "location": {
+    "latitude": "39.950925",
+    "longitude": "-75.147400",
+    "description": "West of 4th, South of the walkway that runs between 4th and 5th North of Market"
+  },
+  "comments": "Was on the Northeast corner of 5th and Market.  Moved between November 2020 and July 2021. The first picture was taken while the area around the original location was being rebuilt.  The rest of the pictures are from the new location.",
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.pbase.com/mistermax/image/98562993",
+      "label": "Max Buten's first picture of this piece"
+    },
+    {
+      "url": "https://www.pbase.com/mistermax/image/99106223",
+      "label": "Max Buten's second picture of this piece"
+    },
+    {
+      "url": "https://www.associationforpublicart.org/artwork/gift-of-the-winds/",
+      "label": "associationforpublicart.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/giftwin.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/giftwin.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/giftwin2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/giftwin2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/giftwin3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/giftwin3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/giftwin4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/giftwin4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Independence Mall"
+    }
+  ]
+}

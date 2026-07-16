@@ -1,0 +1,94 @@
+{
+  "id": "69",
+  "title": {
+    "display": "City Seal",
+    "list": "City Seal (Municipal Services Building)"
+  },
+  "artists": [
+    {
+      "name": "Dexter Jones",
+      "externallinks": [
+        {
+          "url": "https://woodmereartmuseum.org/explore-online/collection/artist/jones-dexter",
+          "label": "woodmereartmuseum.org's Dexter Jones page"
+        },
+        {
+          "url": "https://nationalsculpture.org/programs-awards/dexter-jones/",
+          "label": "nationalsculpture.org's Dexter Jones Award"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1966"
+    }
+  ],
+  "location": {
+    "latitude": "39.953900",
+    "longitude": "-75.164420",
+    "description": "North side of JFK between Broad and 15th"
+  },
+  "architecture": {
+    "description": "Entrance"
+  },
+  "content": [
+    {
+      "description": "seal of the city",
+      "separator": ","
+    },
+    {
+      "description": "standing people",
+      "separator": ","
+    },
+    {
+      "description": "arm and hand",
+      "separator": ","
+    },
+    {
+      "description": "scales, plow",
+      "separator": ","
+    },
+    {
+      "description": "ship",
+      "separator": ","
+    },
+    {
+      "description": "scroll",
+      "separator": ","
+    },
+    {
+      "description": "food"
+    }
+  ],
+  "landmark": {
+    "name": "Municipal Services Building"
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/msbseal.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/msbseal.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/msbseal2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/msbseal2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "City Hall"
+    }
+  ]
+}

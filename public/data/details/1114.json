@@ -1,0 +1,76 @@
+{
+  "id": "1114",
+  "title": {
+    "display": "PSFS Franklin Logo",
+    "list": "PSFS Franklin Logo"
+  },
+  "artists": [
+    {
+      "name": "George Howe (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Howe_(architect)",
+          "label": "wikipedia.org's George Howe page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1924"
+    }
+  ],
+  "location": {
+    "latitude": "39.925460",
+    "longitude": "-75.169250",
+    "description": "Southeast corner, Broad, McKean, and Passyunk"
+  },
+  "inscription": "<br />PHILADELPHIA SAVINGS FUND SOCIETY  <br />CRESCIT EUNDO  <br />1706-1790",
+  "architecture": {
+    "description": "Wall"
+  },
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "PSFS logo"
+    }
+  ],
+  "peopleprefix": "relief bust of",
+  "people": [
+    {
+      "name": "Benjamin Franklin",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "label": "wikipedia.org's Benjamin Franklin page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display_alldates.cfm/50050",
+      "label": "philadelphiabuilding.org's entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/psfsfranklin.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/psfsfranklin.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "South Philly"
+    }
+  ]
+}

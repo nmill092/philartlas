@@ -1,0 +1,77 @@
+{
+  "id": "401",
+  "title": {
+    "display": "21st Ward War Memorial",
+    "list": "21st Ward War Memorial"
+  },
+  "artists": [
+    {
+      "name": "Herman Miller (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/27059",
+          "label": "philadelphiabuildings.org's Herman Miller page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1918"
+    }
+  ],
+  "yearmodifier": "originally designed",
+  "location": {
+    "latitude": "40.036750",
+    "longitude": "-75.221000",
+    "description": "Ridge and Gates"
+  },
+  "inscription": "<br />To the memory of the boys from the 21st Ward who lost their lives in the World War 1914-1918<br />  Korean * World War II * Vietnam<br />  Greater love hath no man than this: that a man lay down his life for his friends.<br />  How sleep the brave who sink to rest by all their country's wishes blest.  By fairy hands their knell is rung by unseen forms their dirge is sung. <br />  All time will be the millennium of their glory.",
+  "content": [
+    {
+      "description": "closed arch",
+      "separator": ","
+    },
+    {
+      "description": "eagle"
+    }
+  ],
+  "landmark": {
+    "name": "Gorgas Park",
+    "prefix": "Along the Northwest edge of",
+    "externallinks": [
+      {
+        "url": "https://roxboroughmanayunkconservancy.org/gorgas-park",
+        "label": "/roxboroughmanayunkconservancy.org's Gorgas Park page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/co_display_images.cfm/483501?IMAGE_GALLERY_SORTBY=StartYear&IMAGE_GALLERY_PAGE=6",
+      "label": "philadelphiabuildings.org page with the architect's drawings of this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/21st1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/21st1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/21st2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/21st2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

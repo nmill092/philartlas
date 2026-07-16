@@ -1,0 +1,60 @@
+{
+  "id": "242",
+  "title": {
+    "display": "Major",
+    "list": "Major"
+  },
+  "artists": [
+    {
+      "name": "Charles Fahlen",
+      "externallinks": [
+        {
+          "url": "https://charlesfahlen.com/",
+          "label": "charlesfahlen.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1982"
+    }
+  ],
+  "location": {
+    "latitude": "39.947075",
+    "longitude": "-75.154575",
+    "description": "Northwest corner, 8th and Locust"
+  },
+  "content": [
+    {
+      "description": "stacked abstract forms"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/major.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/major.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/major2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/major2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Washington Square"
+    }
+  ]
+}

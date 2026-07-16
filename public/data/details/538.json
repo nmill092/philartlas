@@ -1,0 +1,78 @@
+{
+  "id": "538",
+  "title": {
+    "display": "Stephen Girard",
+    "list": "Stephen Girard (Seebode)"
+  },
+  "artists": [
+    {
+      "name": "Alfred Seebode"
+    }
+  ],
+  "years": [
+    {
+      "year": "1990"
+    }
+  ],
+  "yearmodifier": "dedicated 1992",
+  "location": {
+    "latitude": "39.920540",
+    "longitude": "-75.18315",
+    "description": "21st and Shunk"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    }
+  ],
+  "landmark": {
+    "name": "Stephen Girard Park",
+    "prefix": "Center of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stephen_Girard_Park",
+        "label": "wikipedia.org's Stephen Girard Park page"
+      }
+    ]
+  },
+  "peopleprefix": "Statue of",
+  "people": [
+    {
+      "name": "Stephen Girard",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Girard",
+          "label": "wikipedia.org's Stephen Girard page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Statue_of_Stephen_Girard_Stephen_Girard_Park_2101_Shunk_St_Philadelphia_PA_%28DSC_2859%29.jpg",
+      "label": "picture of this piece at commons.wikimedia.org"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gpsg1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gpsg1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/gpsg2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/gpsg2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

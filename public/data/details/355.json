@@ -1,0 +1,44 @@
+{
+  "id": "355",
+  "title": {
+    "display": "Spheres",
+    "list": "Spheres"
+  },
+  "years": [
+    {
+      "year": "300"
+    },
+    {
+      "year": "1525"
+    }
+  ],
+  "yearmodifier": "approximate range of possible dates",
+  "location": {
+    "latitude": "",
+    "longitude": ""
+  },
+  "comments": "In storage. Was at Penn's Landing at Dock Street. There were originally two spheres at opposite ends of the 1976 International Sculpture Garden. One was removed when the hotel was built (approximately 2001), and the second was removed between then and 2010.",
+  "content": [
+    {
+      "description": "sphere"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.associationforpublicart.org/the-international-sculpture-garden/",
+      "label": "associationforpublicart.org's International Sculpture Garden page, which includes this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/sphere.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/sphere.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ]
+}

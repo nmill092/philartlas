@@ -1,0 +1,101 @@
+{
+  "id": "385",
+  "title": {
+    "display": "Thomas Sovereign Gates",
+    "list": "Thomas Sovereign Gates"
+  },
+  "artists": [
+    {
+      "name": "Evelyn Beatrice Longman Batchelder",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Evelyn_Beatrice_Longman",
+          "label": "wikipedia.org's Evelyn Beatrice Longman page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1941"
+    }
+  ],
+  "location": {
+    "latitude": "39.950500",
+    "longitude": "-75.194350",
+    "description": "South side of Spruce, West of 34th."
+  },
+  "inscription": "<br />1873-1948  <br />University of Pennsylvania  <br />Alumnus Class of 1893  <br />Trustee 1921-1948  <br />President 1930-1944  <br />Chairman 1944-1948  <br />Hospital of the University of Pennsylvania  <br />President 1914-1918",
+  "architecture": {
+    "description": "Niche in the wall"
+  },
+  "content": [
+    {
+      "description": "head"
+    }
+  ],
+  "landmark": {
+    "name": "Hospital of the University of Pennsylvania",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hospital_of_the_University_of_Pennsylvania",
+        "label": "wikipedia.org's Hospital of the University of Pennsylvania page"
+      }
+    ]
+  },
+  "peopleprefix": "Bust of",
+  "people": [
+    {
+      "name": "Thomas Sovereign Gates",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Sovereign_Gates",
+          "label": "wikipedia.org's Thomas Sovereign Gates page"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://facilities.upenn.edu/maps/art/thomas-sovereign-gates",
+      "label": "upenn.edu's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tsgates.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tsgates.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tsgates2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tsgates2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/tsgates3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/tsgates3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

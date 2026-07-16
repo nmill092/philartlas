@@ -1,0 +1,53 @@
+{
+  "id": "742",
+  "title": {
+    "display": "Pony Express Rider",
+    "list": "Pony Express Rider (9th and Chestnut)"
+  },
+  "location": {
+    "latitude": "39.949975",
+    "longitude": "-75.156110",
+    "description": "North side of Chestnut,West of 9th"
+  },
+  "architecture": {
+    "description": "Over the door"
+  },
+  "content": [
+    {
+      "description": "seated person",
+      "separator": ","
+    },
+    {
+      "description": "hat",
+      "separator": ","
+    },
+    {
+      "description": "horse",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "mesas"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/9chestnutpx.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/9chestnutpx.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Jefferson Center City Campus"
+    }
+  ]
+}

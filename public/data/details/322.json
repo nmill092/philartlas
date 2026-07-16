@@ -1,0 +1,124 @@
+{
+  "id": "322",
+  "title": {
+    "display": "Rittenhouse Square Fountain",
+    "list": "Rittenhouse Square Fountain"
+  },
+  "artists": [
+    {
+      "name": "Paul Philippe Cret (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_Philippe_Cret",
+          "label": "wikipedia.org's Paul Philippe Cret page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1913"
+    }
+  ],
+  "location": {
+    "latitude": "39.949290",
+    "longitude": "-75.171740",
+    "description": "Southwest from 18th and Walnut"
+  },
+  "content": [
+    {
+      "description": "head",
+      "separator": ","
+    },
+    {
+      "description": "turtles",
+      "separator": ","
+    },
+    {
+      "description": "insects",
+      "separator": ","
+    },
+    {
+      "description": "snail",
+      "separator": ","
+    },
+    {
+      "description": "otter?",
+      "separator": ","
+    },
+    {
+      "description": "fountain"
+    }
+  ],
+  "landmark": {
+    "name": "Rittenhouse Square",
+    "prefix": "Center of",
+    "externallinks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rittenhouse_Square",
+        "label": "wikipedia.org's Rittenhouse Square page"
+      },
+      {
+        "url": "https://www.friendsofrittenhouse.org/",
+        "label": "friendsofrittenhouse.org"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ritsqft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ritsqft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ritsqft2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ritsqft2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ritsqft3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ritsqft3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ritsqft4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ritsqft4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ritsqft5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ritsqft5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Rittenhouse Square"
+    }
+  ]
+}

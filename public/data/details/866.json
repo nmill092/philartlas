@@ -1,0 +1,47 @@
+{
+  "id": "866",
+  "title": {
+    "display": "Catharine Thorn Fountain ",
+    "list": "Catharine Thorn Fountain "
+  },
+  "years": [
+    {
+      "year": "1890"
+    }
+  ],
+  "yearmodifier": "late 1800s",
+  "location": {
+    "latitude": "39.945280",
+    "longitude": "-75.179620",
+    "description": "Southeast corner, 23rd and South"
+  },
+  "inscription": "Erected with the legacy of Catharine Thorn by The WPSPCA",
+  "content": [
+    {
+      "description": "fountain"
+    }
+  ],
+  "peopleprefix": "In memory of",
+  "people": [
+    {
+      "name": "Catharine Thorn"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cthornft.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cthornft.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fitler Square"
+    }
+  ]
+}

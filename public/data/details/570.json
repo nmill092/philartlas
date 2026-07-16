@@ -1,0 +1,63 @@
+{
+  "id": "570",
+  "title": {
+    "display": "Outstretched Cherub",
+    "list": "Outstretched Cherub"
+  },
+  "artists": [
+    {
+      "name": "Frank Miles Day (Architect)",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Miles_Day",
+          "label": "wikipedia.org's Frank Miles Day page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1892"
+    }
+  ],
+  "location": {
+    "latitude": "39.947850",
+    "longitude": "-75.161275",
+    "description": "North side of Locust, West of 12th"
+  },
+  "architecture": {
+    "description": "Above the entrance"
+  },
+  "content": [
+    {
+      "description": "standing person",
+      "separator": ","
+    },
+    {
+      "description": "plants"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/67967",
+      "label": "philadelphiabuildings.org entry for the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/outstretched.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/outstretched.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Gayborhood"
+    }
+  ]
+}

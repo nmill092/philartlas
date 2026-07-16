@@ -1,0 +1,60 @@
+{
+  "id": "939",
+  "title": {
+    "display": "Spiral",
+    "list": "Spiral"
+  },
+  "artists": [
+    {
+      "name": "Collin Robinson"
+    }
+  ],
+  "years": [
+    {
+      "year": "2014"
+    }
+  ],
+  "location": {
+    "latitude": "39.967625",
+    "longitude": "-75.179675",
+    "description": "Northeast side of Pennsylvania, Southeast of 26th"
+  },
+  "architecture": {
+    "description": "Bike rack"
+  },
+  "content": [
+    {
+      "description": "abstract"
+    },
+    {
+      "description": "snail"
+    }
+  ],
+  "landmark": {
+    "name": "Perelman Building",
+    "prefix": "Southwest side of the"
+  },
+  "externallinks": [
+    {
+      "url": "https://whyy.org/articles/artsy-bike-racks-coming-to-center-city-in-summer/ ",
+      "label": "whyy.org article with design drawing for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/spiral.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/spiral.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Parkway and Pennsylvania"
+    }
+  ]
+}

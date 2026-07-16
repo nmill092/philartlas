@@ -1,0 +1,75 @@
+{
+  "id": "1265",
+  "title": {
+    "display": "CCP Logo",
+    "list": "CCP Logo"
+  },
+  "artists": [
+    {
+      "name": "Yes&",
+      "externallinks": [
+        {
+          "url": "https://yesandagency.com/",
+          "label": "yesandagency.com"
+        }
+      ]
+    },
+    {
+      "name": "YourType",
+      "externallinks": [
+        {
+          "url": "https://www.your-type.com/",
+          "label": "your-type.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2024"
+    }
+  ],
+  "location": {
+    "latitude": "39.962310",
+    "longitude": "-75.166540",
+    "description": "West side of 17th, South of Spring Garden"
+  },
+  "comments": "The College does not classify this as art. ",
+  "content": [
+    {
+      "description": "logo"
+    }
+  ],
+  "landmark": {
+    "name": "Community College",
+    "externallinks": [
+      {
+        "url": "https://ccp.edu/",
+        "label": "ccp.edu"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://myccp.online/strategic-communications/our-logo-overview",
+      "label": "myccp.online's overview of the logo"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/ccplogo.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/ccplogo.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Franklin Town"
+    }
+  ]
+}

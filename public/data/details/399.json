@@ -1,0 +1,81 @@
+{
+  "id": "399",
+  "title": {
+    "display": "Family of Turtles",
+    "list": "Family of Turtles"
+  },
+  "artists": [
+    {
+      "name": "Eric Berg",
+      "externallinks": [
+        {
+          "url": "https://www.bergbronze.com/",
+          "label": "bergbronze.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1989"
+    }
+  ],
+  "location": {
+    "latitude": "39.947550",
+    "longitude": "-75.180050",
+    "description": "23rd and Pine"
+  },
+  "comments": "Per bergbronze.com these are tortoises, not turtles, despite the title.",
+  "content": [
+    {
+      "description": "tortoises"
+    }
+  ],
+  "landmark": {
+    "name": "Fitler Square",
+    "prefix": "West end of",
+    "externallinks": [
+      {
+        "url": "https://www.fitlersquare.org/",
+        "label": "fitlersquare.org"
+      },
+      {
+        "url": "https://www.tclf.org/landscapes/fitler-square",
+        "label": "tclf.org's Fitler Square page"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://www.bergbronze.com/gallery/family-of-tortoises",
+      "label": "bergbronze.com's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/turtles.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/turtles.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/turtles2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/turtles2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Fitler Square"
+    }
+  ]
+}

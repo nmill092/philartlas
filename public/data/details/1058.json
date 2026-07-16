@@ -1,0 +1,76 @@
+{
+  "id": "1058",
+  "title": {
+    "display": "Pillar",
+    "list": "Pillar (Woodmere)"
+  },
+  "artists": [
+    {
+      "name": "Leon Sitarchuk",
+      "externallinks": [
+        {
+          "url": "https://woodmereartmuseum.org/explore-online/collection/artist/leon-sitarchuk",
+          "label": "woodmereartmuseum.org's Leon Sitarchuk page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1978"
+    }
+  ],
+  "location": {
+    "latitude": "40.082990",
+    "longitude": "-75.219805",
+    "description": "Corner of Germantown Avenue and Bells Mill Road"
+  },
+  "content": [
+    {
+      "description": "abstract form"
+    }
+  ],
+  "landmark": {
+    "name": "Woodmere Art Museum",
+    "prefix": "Grounds of",
+    "externallinks": [
+      {
+        "url": "https://woodmereartmuseum.org/",
+        "label": "woodmereartmuseum.org"
+      }
+    ]
+  },
+  "externallinks": [
+    {
+      "url": "https://woodmereartmuseum.org/explore-online/collection/pillar",
+      "label": "woodmereartmuseum.org's page for this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pillarw1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pillarw1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/pillarw2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/pillarw2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Germantown Avenue"
+    }
+  ]
+}
