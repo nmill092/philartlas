@@ -1,0 +1,96 @@
+{
+  "id": "1275",
+  "title": {
+    "display": "Saint Cecilia",
+    "list": "Saint Cecilia"
+  },
+  "artists": [
+    {
+      "name": "Thomas J. Mangan (Architect)",
+      "externallinks": [
+        {
+          "url": "https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/39126",
+          "label": "philadelphiabuildings.org's Thomas J. Mangan page"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "1954"
+    }
+  ],
+  "yearmodifier": "possibly 1955",
+  "location": {
+    "latitude": "40.076035",
+    "longitude": "-75.080660",
+    "description": "North side of Rhawn at Ridgeway"
+  },
+  "architecture": {
+    "description": "Over the entrance"
+  },
+  "content": [
+    {
+      "description": "standing person"
+    },
+    {
+      "description": "wearing a cap",
+      "separator": ","
+    },
+    {
+      "description": "branch",
+      "separator": ","
+    },
+    {
+      "description": "musical instrument (possibly a portative organ or xylophone)"
+    }
+  ],
+  "landmark": {
+    "name": "Saint Cecilia Church",
+    "externallinks": [
+      {
+        "url": "https://stceciliafc.org/",
+        "label": "stceciliafc.org"
+      }
+    ]
+  },
+  "peopleprefix": "statue of",
+  "people": [
+    {
+      "name": "Cecilia of Rome",
+      "externallinks": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cecilia_of_Rome",
+          "label": "wikipedia.org's Cecilia of Rome page"
+        }
+      ]
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cecilia.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cecilia.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/cecilia2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/cecilia2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

@@ -6842,6 +6842,29 @@
     },
     {
       "type": "Feature",
+      "id": "1275",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.08066,
+          40.076035
+        ]
+      },
+      "properties": {
+        "id": "1275",
+        "name": "Saint Cecilia",
+        "artists": "Thomas J. Mangan (Architect)",
+        "years": [
+          {
+            "year": "1954"
+          }
+        ],
+        "locationDescription": "North side of Rhawn at Ridgeway",
+        "neighborhood": "Fox Chase"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "128",
       "geometry": {
         "type": "Point",
