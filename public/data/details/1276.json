@@ -1,0 +1,81 @@
+{
+  "id": "1276",
+  "title": {
+    "display": "West Philadelphia Title and Trust Company Building",
+    "list": "West Philadelphia Title and Trust Company Building"
+  },
+  "artists": [
+    {
+      "name": "Joseph Bass (Mason)"
+    },
+    {
+      "name": "Davis, Dunlap, and Barley (Architects)"
+    }
+  ],
+  "years": [
+    {
+      "year": "1926"
+    }
+  ],
+  "location": {
+    "latitude": "39.953270",
+    "longitude": "-75.194670",
+    "description": "Northeast corner, 36th and Walnut"
+  },
+  "comments": "There is also a reference in the Hidden City article to Paul Phillipe Cret adding bronze details to the 36th Street facade in 1928.  The medallions look original to me.  The front entrance on Walnut has similar artistic features.",
+  "architecture": {
+    "description": "West wall"
+  },
+  "content": [
+    {
+      "description": "lion heads",
+      "separator": ","
+    },
+    {
+      "description": "winged person",
+      "separator": ","
+    },
+    {
+      "description": "owl",
+      "separator": ","
+    },
+    {
+      "description": "griffin",
+      "separator": ","
+    },
+    {
+      "description": "plants",
+      "separator": ","
+    },
+    {
+      "description": "curved vertical lines"
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/87537",
+      "label": "philadelphiabuildings.org's page for the building"
+    },
+    {
+      "url": "https://hiddencityphila.org/2014/11/art-deco-and-academic-reuse-in-university-city/",
+      "label": "hiddencityphila.org article about the building"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/wptatc.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/wptatc.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn Campus"
+    }
+  ]
+}

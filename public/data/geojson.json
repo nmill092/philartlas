@@ -6865,6 +6865,29 @@
     },
     {
       "type": "Feature",
+      "id": "1276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19467,
+          39.95327
+        ]
+      },
+      "properties": {
+        "id": "1276",
+        "name": "West Philadelphia Title and Trust Company Building",
+        "artists": "Joseph Bass (Mason), Davis, Dunlap, and Barley (Architects)",
+        "years": [
+          {
+            "year": "1926"
+          }
+        ],
+        "locationDescription": "Northeast corner, 36th and Walnut",
+        "neighborhood": "University City"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "128",
       "geometry": {
         "type": "Point",
