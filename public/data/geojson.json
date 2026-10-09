@@ -6888,6 +6888,29 @@
     },
     {
       "type": "Feature",
+      "id": "1277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1355,
+          39.9598
+        ]
+      },
+      "properties": {
+        "id": "1277",
+        "name": "River Soundings",
+        "artists": "Thomas Drugan, Laura Haddad",
+        "years": [
+          {
+            "year": "2025"
+          }
+        ],
+        "locationDescription": "Delaware River at Spring Garden, East of Columbus",
+        "neighborhood": "Northern Liberties"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "128",
       "geometry": {
         "type": "Point",

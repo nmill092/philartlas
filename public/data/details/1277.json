@@ -1,0 +1,236 @@
+{
+  "id": "1277",
+  "title": {
+    "display": "River Soundings",
+    "list": "River Soundings"
+  },
+  "artists": [
+    {
+      "name": "Thomas Drugan",
+      "externallinks": [
+        {
+          "url": "http://haddad-drugan.com/",
+          "label": "haddad-drugan.com"
+        }
+      ]
+    },
+    {
+      "name": "Laura Haddad",
+      "externallinks": [
+        {
+          "url": "http://haddad-drugan.com/",
+          "label": "haddad-drugan.com"
+        }
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": "2025"
+    }
+  ],
+  "location": {
+    "latitude": "39.959800",
+    "longitude": "-75.135500",
+    "description": "Delaware River at Spring Garden, East of Columbus"
+  },
+  "comments": "Lights up at night.  The artists' page for this piece includes a picture of it lit.",
+  "inscription": "<br /><i>River Soundings</i> rises as a beacon, plumbing the depths of the Delaware River.  This public art commission, shaped by history and phenomena of the river,  conjures an aesthetic resonance of place.  <br />The art is inspired by what is considered one of the world's oldest   navigational instruments:  a device called a lead line, used to measure  the depth of waterways.  A lead line is a rope marked in 6-foot increments,  or fathoms.  A tapered and faceted bar of lead, called a sounding weight,  is attached to its end.  The lead line is cast and lowered into the water until  the sounding weight reaches the riverbed.  The length of the immersed portion  of rope indicates the depth.  As boats move upriver, this procedure is repeated  to ensure safe passage, in a method called \"marking the river.\"  <br />Vertical elements in the sculpture evoke boat masts and rigging.  Each cable  symbolizes an individual lead line. Reflective \"sounding weights\" demarcate the depth  of the riverbed, as measured from the top of the sculpture, while the blue discs above  them express water.  Together, the cables represent the actual depth of the Delaware River  adjacent to the site.  The cables are arranged in a spiral pattern found in pinecones,  honoring the lumber industry that once thrived along this part of the river.  <br />Surrounding the sculpture are smaller pipes alluding to the wooden structural piles  found at maritime piers.  These \"pile pipes are etched with imagery also related to  river navigation.  On the three tallest pipes are representations of a traditional lead line  as well as lunar and tidal cycles affecting the river's changing depth.  The tops of the  six shorter pipes illustrate: a map approximating high-tide depths of the Delaware River  referenced in the sculpture cables; a lens found in the Harbor Refuge Lighthouse at the  mouth of the river; a compass pointing to magnetic north; a ship's clock; a steering wheel  of the USS Cruiser Olympia; and a star knot with a visual motif of interlocking hands that  embodies maritime fiber and Philadelphia's civic notion of Brotherly Love.  <br /><i>River Soundings</i> began as a public art project between the site developers and artists.  Along the way, we lost a brother, Michael Edward Haddad, and a son, Matthew Charles Houder.  The gift of their lives gave the art ne meaning and instilled deeper team bonds. <i>River Soundings</i>  is dedicated to the memory of Michael and Matthew and the inspiration they provided for the creation  of this work.",
+  "architecture": {
+    "description": "Plaza"
+  },
+  "content": [
+    {
+      "description": "tower",
+      "separator": ","
+    },
+    {
+      "description": "ideas and symbols",
+      "separator": ","
+    },
+    {
+      "description": "maritime tools",
+      "separator": ","
+    },
+    {
+      "description": "boat parts",
+      "separator": ","
+    },
+    {
+      "description": "compass",
+      "separator": ","
+    },
+    {
+      "description": "map",
+      "separator": ","
+    },
+    {
+      "description": "rope",
+      "separator": ","
+    },
+    {
+      "description": "light sources"
+    }
+  ],
+  "landmark": {
+    "name": "Rivermark Northern Liberties",
+    "externallinks": [
+      {
+        "url": "https://rivermarknorthernliberties.com/",
+        "label": "rivermarknorthernliberties.com"
+      }
+    ]
+  },
+  "peopleprefix": "Dedicated to the memory of",
+  "people": [
+    {
+      "name": "Michael Edward Haddad",
+      "externallinks": [
+        {
+          "url": "https://www.courierpostonline.com/obituaries/ccp104599",
+          "label": "courierpostonline.com obituary for Michael Edward Haddad"
+        }
+      ]
+    },
+    {
+      "name": "Matthew Charles Houder",
+      "externallinks": [
+        {
+          "url": "https://mattschopfund.com/",
+          "label": "mattschopfund.com"
+        },
+        {
+          "url": "https://www.legacy.com/us/obituaries/legacyremembers/matthew-houder-obituary?pid=197930994",
+          "label": "legacy.com obituary for Matthew Charles Houder"
+        }
+      ]
+    }
+  ],
+  "externallinks": [
+    {
+      "url": "http://haddad-drugan.com/#/river-soundings/",
+      "label": "artists' page for this piece"
+    },
+    {
+      "url": "https://www.phillyvoice.com/northern-liberties-sculpture-spring-garden-delaware-river/",
+      "label": "phillyvoice.com article about this piece"
+    }
+  ],
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rivers1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rivers1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rivers2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rivers2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rivers3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rivers3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rivers4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rivers4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rivers5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rivers5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rivers6.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rivers6.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rivers7.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rivers7.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rivers8.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rivers8.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/rivers9.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/rivers9.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/riversa.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/riversa.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/riversb.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/riversb.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Penn's Landing"
+    }
+  ]
+}
