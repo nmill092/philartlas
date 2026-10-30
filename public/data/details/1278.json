@@ -1,0 +1,89 @@
+{
+  "id": "1278",
+  "title": {
+    "display": "Bethany Baptist Church",
+    "list": "Bethany Baptist Church"
+  },
+  "years": [
+    {
+      "year": "1967"
+    }
+  ],
+  "location": {
+    "latitude": "40.076345",
+    "longitude": "-75.082275",
+    "description": "Southeast corner, Rockwell and Rhawn"
+  },
+  "architecture": {
+    "description": "Northwest wall"
+  },
+  "content": [
+    {
+      "description": "cross",
+      "separator": ","
+    },
+    {
+      "description": "burning bush",
+      "separator": ","
+    },
+    {
+      "description": "sheaf of wheat, grapes"
+    }
+  ],
+  "landmark": {
+    "name": "Bethel International Missions Center",
+    "externallinks": [
+      {
+        "url": "https://bethelimc.com/",
+        "label": "bethelimc.com"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bethel1.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bethel1.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bethel2.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bethel2.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bethel3.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bethel3.jpg",
+        "mimetype": "image/jpeg"
+      }
+    },
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bethel4.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bethel4.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}

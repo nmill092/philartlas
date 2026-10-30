@@ -6911,6 +6911,50 @@
     },
     {
       "type": "Feature",
+      "id": "1278",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.082275,
+          40.076345
+        ]
+      },
+      "properties": {
+        "id": "1278",
+        "name": "Bethany Baptist Church",
+        "years": [
+          {
+            "year": "1967"
+          }
+        ],
+        "locationDescription": "Southeast corner, Rockwell and Rhawn",
+        "neighborhood": "Fox Chase"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1279",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.082335,
+          40.076325
+        ]
+      },
+      "properties": {
+        "id": "1279",
+        "name": "Bethel Dove",
+        "years": [
+          {
+            "year": "2019"
+          }
+        ],
+        "locationDescription": "Southeast corner, Rockwell and Rhawn",
+        "neighborhood": "Fox Chase"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "128",
       "geometry": {
         "type": "Point",

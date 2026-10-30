@@ -1,0 +1,51 @@
+{
+  "id": "1279",
+  "title": {
+    "display": "Bethel Dove",
+    "list": "Bethel Dove"
+  },
+  "years": [
+    {
+      "year": "2019"
+    }
+  ],
+  "location": {
+    "latitude": "40.076325",
+    "longitude": "-75.082335",
+    "description": "Southeast corner, Rockwell and Rhawn"
+  },
+  "architecture": {
+    "description": "Over the Northwest entrance"
+  },
+  "content": [
+    {
+      "description": "dove"
+    }
+  ],
+  "landmark": {
+    "name": "Bethel International Missions Center",
+    "externallinks": [
+      {
+        "url": "https://bethelimc.com/",
+        "label": "bethelimc.com"
+      }
+    ]
+  },
+  "pictures": [
+    {
+      "small": {
+        "url": "https://www.philart.net/images/small/bethel5.gif",
+        "mimetype": "image/gif"
+      },
+      "large": {
+        "url": "https://www.philart.net/images/large/bethel5.jpg",
+        "mimetype": "image/jpeg"
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": "Lower Northeast"
+    }
+  ]
+}
